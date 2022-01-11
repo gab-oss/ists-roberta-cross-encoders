@@ -21,10 +21,10 @@ with open(tsv_file, 'rt', encoding='utf8') as fIn, open(gs_path, 'a+', encoding=
         score = row['score']
         chunk1 = row['chunk1']
         chunk2 = row['chunk2']
-        pred_types = row['pred_types']
-        pred_scores = row['pred_scores']
-        pred_cont_scores = row['pred_cont_scores']
-        pred_cont_scores = row['pred_cont_scores']
+        pred_type = row['pred_types']
+        pred_score = row['pred_scores']
+        pred_cont_score = row['pred_cont_scores']
+        pred_cont_int_score = row['pred_cont_int_scores']
 
         print(sentence_id)
         print(prev_sentence_id)
@@ -34,7 +34,7 @@ with open(tsv_file, 'rt', encoding='utf8') as fIn, open(gs_path, 'a+', encoding=
                 gs.write('</sentence>\n')
             gs.write('<sentence id="{}" status="">\n'.format(sentence_id))
             gs.write('<alignment>\n')
-        gs.write('{} // {} // {} // {} <==> {}\n'.format(chunks_ids, type, score, chunk1, chunk2))
+        gs.write('{} // {} // {} // {} <==> {}\n'.format(chunks_ids, pred_type, pred_cont_score, chunk1, chunk2))
         prev_sentence_id = sentence_id
 
     gs.write('</alignment>\n')

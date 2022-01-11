@@ -62,7 +62,7 @@ test_file = 'type_epochs_0.tsv'
 
 data_name = 'headlines'
 
-model_save_path = 'model_score_epoch_2'
+model_save_path = 'model_score_epoch_8'
 
 num_epochs = model_save_path.split('_')[-1]
 
