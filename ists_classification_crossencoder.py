@@ -53,15 +53,15 @@ logger = logging.getLogger(__name__)
 # num_epochs = args['num_epochs']
 
 
-train_path = 'data/train/tsv/'
-train_file = 'train_headlines.tsv'
+train_path = 'data/train/'
+train_file = 'tsv/train_headlines.tsv'
 
-test_path = 'data/test/tsv/'
-test_file = 'test_headlines.tsv'
+test_path = 'data/test/'
+test_file = 'tsv/test_headlines.tsv'
 
 data_name = 'headlines'
 
-num_epochs = 2
+num_epochs = 24
 
 
 label2int = {"EQUI": 0, "REL": 1, "SIMI": 2, "SPE1": 3, "SPE2": 4, "OPPO": 5, "ALIC": 6, "NOALI": 7}
@@ -90,8 +90,8 @@ with open(os.path.join(test_path, test_file), 'r', encoding='utf8') as fIn:
 #Configuration
 train_batch_size = 16
 
-output = 'output/'
-model_save_path = train_path + 'output/training_classification-'+datetime.now().strftime("%Y-%m-%d_%H-%M-%S")+'_epochs_'+str(num_epochs)
+output = 'models/' + data_name + '/type/'
+model_save_path = train_path + '_' + output
 
 #We use distilroberta-base with a single label, i.e., it will output a value between 0 and 1 indicating the similarity of the two questions
 model = CrossEncoder('roberta-base', num_labels=8)
@@ -109,8 +109,9 @@ warmup_steps = math.ceil(len(train_dataloader) * num_epochs * 0.1) #10% of train
 logger.info("Warmup-steps: {}".format(warmup_steps))
 
 def callback_save(score, epoch, steps):
-    model.save(model_save_path + '_current_' + str(epoch))
-    print("Saved model to {}".format(model_save_path + '_current_' + str(epoch)))
+    if epoch % 2 == 0:
+        model.save('model_type_epoch_' + str(epoch))
+        print("Saved model to {}".format('model_type_epoch_' + str(epoch)))
 
 # Train the model
 model.fit(train_dataloader=train_dataloader,
@@ -121,35 +122,35 @@ model.fit(train_dataloader=train_dataloader,
           output_path=model_save_path,
           callback=callback_save)
 
-predictions = model.predict(test_samples)
-print(predictions)
+# predictions = model.predict(test_samples)
+# print(predictions)
 
-pred_types = []
-for p in predictions:
-    print(p)
-    pred_type = np.argmax(p)
-    print(pred_type)
-    print(list(label2int.keys())[list(label2int.values()).index(pred_type)])
-    pred_types.append(list(label2int.keys())[list(label2int.values()).index(pred_type)])
+# pred_types = []
+# for p in predictions:
+#     print(p)
+#     pred_type = np.argmax(p)
+#     print(pred_type)
+#     print(list(label2int.keys())[list(label2int.values()).index(pred_type)])
+#     pred_types.append(list(label2int.keys())[list(label2int.values()).index(pred_type)])
     
 
-result = 'results/' + data_name + '_epochs_' + str(num_epochs)
-if os.path.exists(os.path.join(test_path, result)):
-  os.remove(os.path.join(test_path, result))
+# result = 'results/' + data_name + '_epochs_' + str(num_epochs)
+# if os.path.exists(os.path.join(test_path, result)):
+#   os.remove(os.path.join(test_path, result))
 
-with open(os.path.join(test_path, test_file), 'r', encoding='utf8') as fIn, open(os.path.join(test_path, result), 'a+', encoding='utf8') as result:
-    lines_count = 0
-    for line in fIn.readlines():
-        if (lines_count == 0):
-            res_line = line[:-1] + '\t' + 'pred_types\n'
-            lines_count += 1
-            print(res_line)
-            result.write(res_line)
-        else:
-            res_line = line[:-1] + '\t' + str(pred_types[lines_count - 1]) + '\n'
-            lines_count += 1
-            print(res_line)
-            result.write(res_line)
+# with open(os.path.join(test_path, test_file), 'r', encoding='utf8') as fIn, open(os.path.join(test_path, result), 'a+', encoding='utf8') as result:
+#     lines_count = 0
+#     for line in fIn.readlines():
+#         if (lines_count == 0):
+#             res_line = line[:-1] + '\t' + 'pred_types\n'
+#             lines_count += 1
+#             print(res_line)
+#             result.write(res_line)
+#         else:
+#             res_line = line[:-1] + '\t' + str(pred_types[lines_count - 1]) + '\n'
+#             lines_count += 1
+#             print(res_line)
+#             result.write(res_line)
 
 
 

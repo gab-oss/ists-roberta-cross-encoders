@@ -2,4 +2,6 @@ output/
 Pipfile
 Pipfile.lock
 data/train/tsv/output/
-
+model*
+data/train/models/
+data/train/tsv/_models

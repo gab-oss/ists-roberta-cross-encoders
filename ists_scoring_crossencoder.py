@@ -57,17 +57,15 @@ logger = logging.getLogger(__name__)
 train_path = 'data/train/tsv/'
 train_file = 'train_headlines.tsv'
 
-test_path = 'data/test/tsv/'
-test_file = 'test_headlines.tsv'
+# test_path = 'data/test/tsv/'
+# test_file = 'test_headlines.tsv'
 
 data_name = 'headlines'
 
-num_epochs = 1
+num_epochs = 24
 
-
-#Define our Cross-Encoder
-num_epochs = 1
-model_save_path = 'output/training_stsbenchmark-'+datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+output = 'models/' + data_name + '/score/'
+model_save_path = train_path + '_' + output
 
 #We use distilroberta-base as base model and set num_labels=1, which predicts a continous score between 0 and 1
 model = CrossEncoder('roberta-base', num_labels=1)
@@ -93,13 +91,13 @@ split = 0.8
 train_samples = samples[:floor(len(samples) * split)]
 dev_samples = samples[floor(len(samples) * split):]
 
-logger.info("Read test dataset")
-test_samples = []
-with open(os.path.join(test_path, test_file), 'r', encoding='utf8') as fIn:
-    reader = csv.DictReader(fIn, delimiter='\t', quoting=csv.QUOTE_NONE)
-    for row in reader:
-        #test_samples.append(InputExample(texts=[row['chunk1'], row['chunk2']], label=label2int[row['score']]))
-        test_samples.append([row['chunk1'], row['chunk2']])
+# logger.info("Read test dataset")
+# test_samples = []
+# with open(os.path.join(test_path, test_file), 'r', encoding='utf8') as fIn:
+#     reader = csv.DictReader(fIn, delimiter='\t', quoting=csv.QUOTE_NONE)
+#     for row in reader:
+#         #test_samples.append(InputExample(texts=[row['chunk1'], row['chunk2']], label=label2int[row['score']]))
+#         test_samples.append([row['chunk1'], row['chunk2']])
 
 #Configuration
 train_batch_size = 16
@@ -116,52 +114,56 @@ evaluator = CECorrelationEvaluator.from_input_examples(dev_samples, name='Scorin
 warmup_steps = math.ceil(len(train_dataloader) * num_epochs * 0.1) #10% of train data for warm-up
 logger.info("Warmup-steps: {}".format(warmup_steps))
 
-
+def callback_save(score, epoch, steps):
+    if epoch % 2 == 0:
+        model.save('model_score_epoch_' + str(epoch))
+        print("Saved model to {}".format('model_score_epoch_' + str(epoch)))
 
 # Train the model
 model.fit(train_dataloader=train_dataloader,
           evaluator=evaluator,
           epochs=num_epochs,
           warmup_steps=warmup_steps,
-          output_path=model_save_path)
+          output_path=model_save_path,
+          callback=callback_save)
 
 
-##### Load model and eval on test set
-model = CrossEncoder(model_save_path)
+# ##### Load model and eval on test set
+# model = CrossEncoder(model_save_path)
 
-# evaluator = CECorrelationEvaluator.from_input_examples(test_samples, name='sts-test')
-# evaluator(model)
+# # evaluator = CECorrelationEvaluator.from_input_examples(test_samples, name='sts-test')
+# # evaluator(model)
 
-similarity_scores = model.predict(test_samples)
-print(similarity_scores)
+# similarity_scores = model.predict(test_samples)
+# print(similarity_scores)
 
-predictions = model.predict(test_samples)
-print(predictions)
+# predictions = model.predict(test_samples)
+# print(predictions)
 
-pred_scores = []
-pred_cont_scores = []
-pred_cont_int_scores = []
-for p in predictions:
-    print(p)
-    pred_scores.append(p)
-    pred_cont_scores.append(p * 5)
-    pred_cont_int_scores.append(round(p * 5))
+# pred_scores = []
+# pred_cont_scores = []
+# pred_cont_int_scores = []
+# for p in predictions:
+#     print(p)
+#     pred_scores.append(p)
+#     pred_cont_scores.append(p * 5)
+#     pred_cont_int_scores.append(round(p * 5))
     
 
-result = 'results/' + data_name + '_epochs_' + str(num_epochs) + '_scoring.tsv'
-if os.path.exists(os.path.join(test_path, result)):
-  os.remove(os.path.join(test_path, result))
+# result = 'results/' + data_name + '_epochs_' + str(num_epochs) + '_scoring.tsv'
+# if os.path.exists(os.path.join(test_path, result)):
+#   os.remove(os.path.join(test_path, result))
 
-with open(os.path.join(test_path, test_file), 'r', encoding='utf8') as fIn, open(os.path.join(test_path, result), 'a+', encoding='utf8') as result:
-    lines_count = 0
-    for line in fIn.readlines():
-        if (lines_count == 0):
-            res_line = line[:-1] + '\t' + 'pred_scores\t' + 'pred_cont_scores\t' + 'pred_cont_scores\n'
-            lines_count += 1
-            print(res_line)
-            result.write(res_line)
-        else:
-            res_line = line[:-1] + '\t' + str(pred_scores[lines_count - 1]) + '\t' + str(pred_cont_scores[lines_count - 1]) + '\t' + str(pred_cont_int_scores[lines_count - 1]) + '\n'
-            lines_count += 1
-            print(res_line)
-            result.write(res_line)
+# with open(os.path.join(test_path, test_file), 'r', encoding='utf8') as fIn, open(os.path.join(test_path, result), 'a+', encoding='utf8') as result:
+#     lines_count = 0
+#     for line in fIn.readlines():
+#         if (lines_count == 0):
+#             res_line = line[:-1] + '\t' + 'pred_scores\t' + 'pred_cont_scores\t' + 'pred_cont_scores\n'
+#             lines_count += 1
+#             print(res_line)
+#             result.write(res_line)
+#         else:
+#             res_line = line[:-1] + '\t' + str(pred_scores[lines_count - 1]) + '\t' + str(pred_cont_scores[lines_count - 1]) + '\t' + str(pred_cont_int_scores[lines_count - 1]) + '\n'
+#             lines_count += 1
+#             print(res_line)
+#             result.write(res_line)
