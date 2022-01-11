@@ -100,7 +100,7 @@ for p in predictions:
     pred_cont_int_scores.append(round(p * 5))
     
 
-result = 'results/headlines/score/' + 'score_epochs_' + str(num_epochs) + '_scoring.tsv'
+result = 'results/headlines/score/' + 'score_epochs_' + str(num_epochs) + '.tsv'
 if os.path.exists(os.path.join(test_path, result)):
   os.remove(os.path.join(test_path, result))
 
