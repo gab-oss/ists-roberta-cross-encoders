@@ -1,0 +1,5 @@
+./output/*
+./Pipfile
+./Pipfile.lock
+./data/train/tsv/output/*
+

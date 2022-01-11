@@ -1,0 +1,2043 @@
+sentence_id	chunks_ids	type	score	chunk1	chunk2
+1	0 <==> 2	NOALI_FACT	NIL	-not aligned-	says 
+1	0 <==> 1	NOALI	NIL	-not aligned-	Official 
+1	3 <==> 5	EQUI	5	caused	caused 
+1	4 5 <==> 6 7	EQUI	5	mall collapse	mall collapse 
+1	1 2 <==> 3 4	EQUI	5	Kenyan forces	Kenyan forces 
+2	4 5 <==> 5 6	EQUI	5	death toll	death toll 
+2	7 <==> 8 9	SIMI	4	500	to 580 
+2	1 2 3 <==> 1 2 3	EQUI	5	Bangladesh building disaster	Bangladesh building collapse 
+2	0 <==> 4	NOALI	NIL	-not aligned-	: 
+2	6 <==> 7	SPE2	4	passes	climbs 
+3	6 7 <==> 6 7	EQUI	5	to hospital	in hospital 
+3	0 <==> 3	NOALI	NIL	-not aligned-	: 
+3	1 2 <==> 1 2	EQUI	5	South Africa	South Africa 
+3	5 <==> 5	REL	3	taken	remains 
+3	3 4 <==> 4	EQUI	5	's Mandela	Mandela 
+4	3 <==> 3	EQUI	5	drag	drag 
+4	1 2 <==> 1 2	EQUI	5	Weak earnings	Weak earnings 
+4	0 <==> 6 7 8	NOALI	NIL	-not aligned-	on Wall Street 
+4	4 <==> 4	EQUI	5	stocks	stocks 
+4	5 <==> 5	EQUI	5	lower	lower 
+5	1 2 3 <==> 1 2 3	EQUI	5	Liquid ammonia leak	Liquid ammonia leak 
+5	5 <==> 5 6 7	SPE1	4	15	at least 15 
+5	4 <==> 4	EQUI	5	kills	kills 
+5	6 7 <==> 8 9	EQUI	5	in Shanghai	in Shanghai 
+6	0 <==> 2 3	NOALI	NIL	-not aligned-	shrugs off 
+6	3 4 5 <==> 0	NOALI	NIL	in NYC mayor	-not aligned- 
+6	8 9 10 11 <==> 4 5 6 7	SPE2	4	amid new sexting scandal	latest online sex scandal 
+6	6 7 <==> 0	NOALI	NIL	's race	-not aligned- 
+6	1 <==> 1	EQUI	5	Weiner	Weiner 
+6	2 <==> 0	NOALI	NIL	stays	-not aligned- 
+7	6 7 <==> 6 7	SIMI	2	to opposition	to rebels 
+7	1 2 3 4 <==> 1 2 3 4	EQUI	5	Syria military police chief	Syria military police chief 
+7	5 <==> 5	EQUI	5	defects	defects 
+8	3 4 5 6 <==> 5 6 7 8	EQUI	5	in Belgian coach crash	in Belgian bus crash 
+8	1 <==> 0	ALIC	NIL	Five	-not aligned- 
+8	0 <==> 1	NOALI	NIL	-not aligned-	Teenagers 
+8	2 <==> 2 3 4	EQUI	5	killed	among 5 dead 
+9	3 <==> 0	NOALI	NIL	`	-not aligned- 
+9	1 2 <==> 1 2	EQUI	5	Swiss tourist	Swiss tourist 
+9	0 <==> 9	NOALI	NIL	-not aligned-	police 
+9	5 <==> 0	NOALI	NIL	'	-not aligned- 
+9	0 <==> 8	NOALI_FACT	NIL	-not aligned-	say 
+9	6 7 <==> 5 6	EQUI	5	in India	in India 
+9	4 <==> 3 4	EQUI	5	gang-raped	gang raped 
+9	0 <==> 7	NOALI	NIL	-not aligned-	, 
+10	0 <==> 1	ALIC	NIL	-not aligned-	Israel 
+10	4 5 <==> 4 5	EQUI	5	inside Syria	into Syria 
+10	0 <==> 3	ALIC	NIL	-not aligned-	airstrike 
+10	1 2 <==> 0	ALIC	NIL	Israel planes	-not aligned- 
+10	3 <==> 2	EQUI	5	strike	launches 
+11	7 8 <==> 7 8 9 10	EQUI	5	at BoE	at Bank of England 
+11	3 4 <==> 3 4	EQUI	5	high bar	high bar 
+11	5 6 <==> 5 6	EQUI	5	to change	to changes 
+11	1 <==> 1	EQUI	5	Carney	Carney 
+11	2 <==> 2	EQUI	5	sets	sets 
+12	2 <==> 2	EQUI	5	kill	kill 
+12	6 7 8 <==> 6 7	SPE1	4	in northern Pakistan	in Pakistan 
+12	1 <==> 1	EQUI	5	Gunmen	Gunmen 
+12	3 4 5 <==> 3 4 5	SPE2	4	10 foreign tourists	11 foreign climbers 
+13	1 2 <==> 1 2	EQUI	5	Matt Smith	Matt Smith 
+13	3 4 <==> 3	EQUI	5	to leave	quits 
+13	5 6 <==> 5 6 7	EQUI	5	Doctor Who	's Doctor Who 
+13	0 <==> 4	NOALI	NIL	-not aligned-	BBC 
+13	7 8 9 <==> 0	NOALI	NIL	after 4 years	-not aligned- 
+14	8 <==> 8	SIMI	3	Monday	Thursday 
+14	6 7 <==> 6 7	EQUI	5	against USD	against USD 
+14	1 2 <==> 1 2	EQUI	5	China Yuan	China yuan 
+14	3 <==> 3	EQUI	5	Strengthens	strengthens 
+14	4 5 <==> 4 5	SIMI	4	to 6.168	to 6.1696 
+15	1 2 3 4 <==> 1 2 3 4 5	EQUI	5	Ex-first lady Barbara Bush	Former first lady Barbara Bush 
+15	5 <==> 6	EQUI	5	leaves	leaves 
+15	6 7 <==> 7	SPE1	4	Texas hospital	hospital 
+16	2 <==> 2	EQUI	5	killed	killed 
+16	1 <==> 1	EQUI	5	11	Eleven 
+16	3 4 5 6 7 <==> 3 4 5 6 7	EQUI	5	in Chinese police station attack	in China police station attack 
+17	0 <==> 9	NOALI	NIL	-not aligned-	, 
+17	4 5 <==> 4 5 6	SPE2	3	in Russia	in Russian city 
+17	8 <==> 11	EQUI	5	killed	killed 
+17	1 2 <==> 1 2	EQUI	5	Boeing airliner	Boeing airliner 
+17	7 <==> 10	EQUI	5	50	50 
+17	0 <==> 7 8	ALIC	NIL	-not aligned-	of Kazan 
+17	3 <==> 3	EQUI	5	crashes	crashes 
+17	6 <==> 0	NOALI	NIL	,	-not aligned- 
+18	9 <==> 0	NOALI	NIL	,	-not aligned- 
+18	10 <==> 11	EQUI	5	succeeding	succeeding 
+18	5 6 7 8 <==> 6 7 8 9	EQUI	5	as New York mayor	as New York mayor 
+18	3 4 <==> 4 5	EQUI	5	sworn in	sworn in 
+18	0 <==> 10	NOALI	NIL	-not aligned-	, 
+18	11 <==> 12 13	EQUI	5	Bloomberg	Michael Bloomberg 
+18	1 2 <==> 1 2 3	EQUI	5	De Blasio	Bill De Blasio 
+19	8 9 <==> 0	NOALI	NIL	in Russia	-not aligned- 
+19	5 <==> 6	EQUI	5	released	freed 
+19	6 7 <==> 7 8	EQUI	5	from jail	from jail 
+19	1 2 3 4 <==> 1 2 3 4 5	EQUI	5	Pussy Riot member Alyokhina	Pussy Riot member Maria Alyokhina 
+20	5 6 7 8 <==> 4 5 6 7	EQUI	5	at San Francisco airport	at San Francisco airport 
+20	1 2 <==> 1	SPE1	4	Asiana jet	Plane 
+20	3 4 <==> 2 3	EQUI	5	crash lands	crash lands 
+21	8 9 <==> 7 8	EQUI	5	as firefighters	fire crews 
+21	0 <==> 3	NOALI	NIL	-not aligned-	grows 
+21	10 <==> 9 10	SIMI	4	labor	making progress 
+21	5 6 7 <==> 0	NOALI	NIL	on the lines	-not aligned- 
+21	14 15 16 17 <==> 0	NOALI	NIL	-LRB- + video -RRB-	-not aligned- 
+21	0 <==> 5	NOALI	NIL	-not aligned-	officials 
+21	4 <==> 0	NOALI	NIL	1,900	-not aligned- 
+21	11 12 13 <==> 0	NOALI	NIL	to limit damage	-not aligned- 
+21	1 2 <==> 1 2	EQUI	5	California wildfire	California wildfire 
+21	3 <==> 0	NOALI	NIL	:	-not aligned- 
+21	0 <==> 6	NOALI_FACT	NIL	-not aligned-	say 
+21	0 <==> 4	NOALI	NIL	-not aligned-	but 
+22	5 6 <==> 0	NOALI	NIL	to treatment	-not aligned- 
+22	0 <==> 5	NOALI	NIL	-not aligned-	stops 
+22	0 <==> 3 4	NOALI	NIL	-not aligned-	after he 
+22	2 <==> 2	EQUI	5	hospitalized	hospitalised 
+22	0 <==> 6	NOALI	NIL	-not aligned-	talking 
+22	4 <==> 0	NOALI	NIL	responding	-not aligned- 
+22	3 <==> 0	NOALI	NIL	,	-not aligned- 
+22	1 <==> 1	EQUI	5	Mandela	Mandela 
+23	3 4 <==> 3	EQUI	5	break into	storm 
+23	1 2 <==> 1 2	EQUI	5	Thai protesters	Thai protesters 
+23	5 6 <==> 4 5	EQUI	5	army headquarters	army headquarters 
+24	6 <==> 0	ALIC	NIL	president	-not aligned- 
+24	7 8 <==> 5 6 7 8	SPE2	4	's call	to Morsi dialogue call 
+24	5 <==> 3	SPE1	3	rejects	mulls 
+24	1 <==> 0	ALIC	NIL	Egypt	-not aligned- 
+24	0 <==> 4	ALIC	NIL	-not aligned-	response 
+24	9 10 <==> 0	ALIC	NIL	for dialogue	-not aligned- 
+24	2 3 4 <==> 1 2	SPE1	4	's main opposition	Egypt opposition 
+25	4 5 <==> 5 6	EQUI	5	6.8 %	6.8 % 
+25	2 3 <==> 3 4	EQUI	5	starts up	Starts Up 
+25	6 7 <==> 0	ALIC	NIL	in May	-not aligned- 
+25	1 <==> 1 2	EQUI	5	Housing	May Housing 
+26	1 <==> 0	NOALI_FACT	NIL	-RRB-	-not aligned- 
+26	2 <==> 1	EQUI	5	Cuba	Cuba 
+26	6 7 <==> 7 8	EQUI	5	CELAC presidency	CELAC Presidency 
+26	5 <==> 4 5 6	EQUI	5	assumes	to Take Over 
+26	3 4 <==> 2 3	EQUI	5	's Castro	's Castro 
+27	3 <==> 7	EQUI	5	trapped	trapped 
+27	0 <==> 6	NOALI	NIL	-not aligned-	still 
+27	0 <==> 3 4	NOALI	NIL	-not aligned-	to find 
+27	4 5 6 7 <==> 8 9 10 11	EQUI	5	in India building collapse	in India building collapse 
+27	0 <==> 2	NOALI	NIL	-not aligned-	race 
+27	2 <==> 0	NOALI	NIL	feared	-not aligned- 
+27	0 <==> 1	NOALI	NIL	-not aligned-	Rescuers 
+27	1 <==> 5	SPE2	3	Dozens	20 
+28	0 <==> 7	ALIC	NIL	-not aligned-	pope 
+28	2 <==> 2	EQUI	5	enter	enter 
+28	1 <==> 1	EQUI	5	Cardinals	Cardinals 
+28	4 5 6 <==> 5 6	SPE1	4	for historic vote	to elect 
+28	3 <==> 3 4	SPE2	4	Vatican	Sistine Chapel 
+29	2 <==> 2 3	EQUI	5	stopped	pulled over 
+29	7 <==> 0	NOALI	NIL	,	-not aligned- 
+29	9 10 <==> 10	EQUI	5	with warning	warning 
+29	3 4 <==> 6 7	EQUI	5	for speeding	for speeding 
+29	8 <==> 0	NOALI	NIL	released	-not aligned- 
+29	5 6 <==> 4 5	EQUI	5	in Texas	in Texas 
+29	1 <==> 1	EQUI	5	Zimmerman	Zimmerman 
+29	0 <==> 9	ALIC	NIL	-not aligned-	given 
+29	0 <==> 8	NOALI	NIL	-not aligned-	, 
+30	2 <==> 2	EQUI	5	unveils	unveils 
+30	3 4 5 6 7 <==> 3 4 5 6	EQUI	5	$ 30 billion oil link	$ 25bn oil link 
+30	1 <==> 1	EQUI	5	Russia	Russia 
+30	8 9 <==> 7 8	EQUI	5	to Pacific	to Pacific 
+31	5 <==> 0	NOALI	NIL	:	-not aligned- 
+31	6 <==> 0	NOALI_FACT	NIL	CENC	-not aligned- 
+31	1 2 <==> 1 2	SIMI	4	7.2-magnitude quake	7.7-magnitude earthquake 
+31	3 <==> 3	EQUI	5	hits	hits 
+31	4 <==> 4 5	SPE2	4	Pakistan	SW Pakistan 
+32	0 <==> 4 5	ALIC	NIL	-not aligned-	in fly-by 
+32	1 <==> 1	EQUI	5	Asteroid	Asteroid 
+32	3 4 5 6 <==> 3	SPE1	3	between Earth and satellites	Earth 
+32	2 <==> 2	SIMI	4	zips	passes 
+33	0 <==> 2	NOALI	NIL	-not aligned-	: 
+33	2 <==> 4	EQUI	5	declared	declared 
+33	0 <==> 1	NOALI	NIL	-not aligned-	Zimbabwe 
+33	1 <==> 3	EQUI	5	Mugabe	Mugabe 
+33	4 5 6 <==> 6 7 8	EQUI	5	of disputed elections	in disputed vote 
+33	3 <==> 5	EQUI	5	winner	winner 
+34	3 <==> 3	EQUI	5	bans	bans 
+34	1 2 <==> 1 2	EQUI	5	Egyptian court	Egypt court 
+34	4 5 <==> 4 5 6 7 8	SPE2	4	Muslim Brotherhood	Muslim Brotherhood ` activities ' 
+35	16 17 <==> 19 20	EQUI	5	in Iraq	in Iraq 
+35	2 3 4 <==> 2 3 4	EQUI	5	by the Spokesperson	by the spokesperson 
+35	0 <==> 13	NOALI	NIL	-not aligned-	, 
+35	5 6 7 8 9 <==> 5 6 7 8 9 10 11 12	SPE2	4	of High Representative Catherine Ashton	of the EU High Representative , Catherine Ashton 
+35	10 11 12 13 <==> 14 15 16	SIMI	4	on the latest spate	on the resumption 
+35	1 <==> 1	EQUI	5	Statement	Statement 
+35	14 15 <==> 17 18	SPE2	4	of attacks	of executions 
+36	5 6 7 <==> 5 6	SPE1	4	agains NSA leaker	against Snowden 
+36	1 <==> 1	EQUI	5	U.S.	US 
+36	2 <==> 2	EQUI	5	files	files 
+36	3 4 <==> 3 4	EQUI	5	espionage charges	espionage charges 
+36	0 <==> 7 8	ALIC	NIL	-not aligned-	over leaks 
+37	1 2 <==> 1 2	EQUI	5	Chinese general	Chinese general 
+37	0 <==> 8 9	ALIC	NIL	-not aligned-	' jail 
+37	6 7 8 <==> 6 7	EQUI	5	10 years jail	10 years 
+37	5 <==> 5	EQUI	5	gets	gets 
+37	9 10 <==> 10 11	SPE2	4	for rape	for gang-rape 
+37	3 4 <==> 3 4	EQUI	5	's son	's son 
+38	1 2 <==> 1 2	EQUI	5	Moderate earthquake	Moderate earthquake 
+38	3 <==> 3	EQUI	5	jolts	hits 
+38	4 5 <==> 4 5	SIMI	3	NW Pakistan	southern Pakistan 
+39	3 4 <==> 3 4	EQUI	5	Egypt Crackdown	Egypt crackdown 
+39	2 <==> 2	EQUI	5	Backs	backs 
+39	1 <==> 1	EQUI	5	Iraq	Iraq 
+39	5 6 7 <==> 5 6 7 8	EQUI	5	on Morsi Supporters	on Mohamed Morsi supporters 
+40	7 <==> 0	ALIC	NIL	ways	-not aligned- 
+40	6 <==> 5 6	EQUI	5	part	to divorce 
+40	1 2 3 4 5 <==> 1 2 3 4	EQUI	5	Hrithik Roshan , wife Sussanne	Hrithik Roshan , Sussanne 
+41	1 2 <==> 1 2	EQUI	5	Death toll	Death toll 
+41	4 5 6 7 <==> 6 7 8 9	SIMI	1	in Russia plane crash	in Italy coach crash 
+41	0 <==> 4 5	NOALI	NIL	-not aligned-	to 39 
+41	3 <==> 3	EQUI	5	rises	rises 
+42	5 6 <==> 4 5	SIMI	2	in Iraq	in Syria 
+42	4 <==> 0	NOALI	NIL	funeral	-not aligned- 
+42	3 <==> 3	SIMI	4	hits	strikes 
+42	1 2 <==> 1 2	EQUI	5	Suicide bomber	Suicide bomber 
+43	0 <==> 2	NOALI	NIL	-not aligned-	Wins 
+43	2 <==> 0	NOALI	NIL	Vote	-not aligned- 
+43	3 4 5 <==> 3 4 5	SPE2	3	in Presidential Election	Mali Presidential Election 
+43	1 <==> 0	NOALI	NIL	Iranians	-not aligned- 
+43	0 <==> 1	NOALI	NIL	-not aligned-	Keita 
+44	6 7 <==> 7 8 9	SPE2	4	in Pak	in NW Pakistan 
+44	0 <==> 2	NOALI	NIL	-not aligned-	killed 
+44	8 <==> 0	NOALI	NIL	postponed	-not aligned- 
+44	1 <==> 0	NOALI	NIL	Protest	-not aligned- 
+44	2 3 4 5 <==> 3 4 5 6	EQUI	5	against US drone strikes	in U.S. drone strike 
+44	0 <==> 1	NOALI	NIL	-not aligned-	6 
+45	1 2 <==> 1 2	SIMI	4	Suicide bomber	Suicide bombers 
+45	4 <==> 0	ALIC	NIL	3	-not aligned- 
+45	5 6 7 <==> 4 5	EQUI	5	at US base	US base 
+45	8 9 <==> 6 7	EQUI	5	in Afghanistan	in Afghanistan 
+45	3 <==> 3	SPE1	4	kills	attack 
+46	7 <==> 0	NOALI	NIL	disappoints	-not aligned- 
+46	3 <==> 0	NOALI	NIL	misses	-not aligned- 
+46	0 <==> 7	NOALI	NIL	-not aligned-	, 
+46	6 <==> 9 10 11	SPE2	2	iPhone	iPhone 4 imports 
+46	0 <==> 8	NOALI	NIL	-not aligned-	bans 
+46	1 2 <==> 5 6	REL	3	Apple revenue	for Samsung 
+46	4 <==> 0	NOALI	NIL	again	-not aligned- 
+46	5 <==> 0	NOALI	NIL	,	-not aligned- 
+46	0 <==> 1 2 3 4	NOALI	NIL	-not aligned-	U.S. trade agency rules 
+47	2 <==> 2	EQUI	5	killed	killed 
+47	1 <==> 1	SIMI	3	23	10 
+47	3 4 5 6 <==> 3 4 5 6	SPE1	4	in Iraq car bombings	in Iraq bomb attack 
+48	3 <==> 5	EQUI	5	survives	survives 
+48	0 <==> 8	NOALI	NIL	-not aligned-	' 
+48	4 5 <==> 6 7	EQUI	5	assassination attempt	assassination attempt 
+48	0 <==> 4	NOALI	NIL	-not aligned-	` 
+48	1 2 <==> 1 2 3	SIMI	2	Egypt minister	Syrian prime minister 
+49	1 2 <==> 0	NOALI	NIL	2 dead	-not aligned- 
+49	6 7 8 <==> 1 2 3	SIMI	3	over Jamaat leader	Bangladesh Islamist leader 
+49	9 10 <==> 4	EQUI	5	's execution	executed 
+49	3 4 5 <==> 0	ALIC	NIL	in Bangladesh clashes	-not aligned- 
+50	7 <==> 7	SIMI	3	540	1,000 
+50	9 <==> 0	NOALI	NIL	army	-not aligned- 
+50	1 2 3 4 5 <==> 1 2 3 4 5	EQUI	5	Bangladesh building collapse death toll	Bangladesh building collapse death toll 
+50	8 <==> 0	NOALI	NIL	:	-not aligned- 
+50	6 <==> 6	SPE1	4	hits	passes 
+51	1 <==> 1 2 3	SPE2	3	China	China and Taiwan 
+51	2 3 <==> 4	SPE1	3	to resume	hold 
+51	4 5 6 <==> 5 6	SPE1	2	US investment talks	historic talks 
+52	5 <==> 5	SPE1	1	soldiers	16 
+52	1 2 3 <==> 1 2 3	SIMI	2	Yemen suicide bombing	Female suicide bomber 
+52	0 <==> 6 7 8	NOALI	NIL	-not aligned-	at Russian station 
+52	4 <==> 4	EQUI	5	kills	kills 
+53	3 4 <==> 3 4	EQUI	5	tear gas	tear gas 
+53	8 9 <==> 7 8	SIMI	2	in Tunis	in Cairo 
+53	1 <==> 1	EQUI	5	Police	Police 
+53	5 6 <==> 0	NOALI	NIL	to disperse	-not aligned- 
+53	7 <==> 5 6	EQUI	5	protesters	at protesters 
+53	2 <==> 2	EQUI	5	fire	fire 
+54	0 <==> 1	NOALI	NIL	-not aligned-	Wrestling 
+54	0 <==> 2 3	NOALI	NIL	-not aligned-	to feature 
+54	2 3 <==> 0	NOALI	NIL	to host	-not aligned- 
+54	4 5 6 <==> 4 5 6 7	EQUI	5	2020 Olympic Games	in 2020 Tokyo Olympics 
+54	1 <==> 0	ALIC	NIL	Tokyo	-not aligned- 
+55	3 <==> 3	OPPO	4	taken	released 
+55	4 5 <==> 4 5	OPPO	4	to hospital	from hospital 
+55	1 2 <==> 1 2	EQUI	5	Nelson Mandela	Nelson Mandela 
+56	1 <==> 1	EQUI	5	Britain	Britain 
+56	3 4 <==> 4 5	EQUI	5	to deport	to deport 
+56	0 <==> 3	NOALI	NIL	-not aligned-	bid 
+56	5 6 7 <==> 6 7 8 9	SPE2	4	of Abu Qatada	radical cleric Abu Qatada 
+56	0 <==> 2	NOALI	NIL	-not aligned-	loses 
+56	2 <==> 0	NOALI	NIL	set	-not aligned- 
+57	7 <==> 0	NOALI	NIL	Continue	-not aligned- 
+57	8 <==> 5 6 7	SPE2	3	Protest	Thai protest day 
+57	0 <==> 4	NOALI	NIL	-not aligned-	rock 
+57	9 10 <==> 0	NOALI	NIL	in Bangkok	-not aligned- 
+57	4 <==> 0	NOALI	NIL	Heard	-not aligned- 
+57	0 <==> 8	NOALI	NIL	-not aligned-	ahead 
+57	1 2 3 <==> 1 2 3	SPE2	4	Shots , Explosions	Gunshots , explosions 
+57	5 6 <==> 0	ALIC	NIL	as Thais	-not aligned- 
+57	0 <==> 9 10	NOALI	NIL	-not aligned-	of polls 
+58	0 <==> 6 7	NOALI	NIL	-not aligned-	nuclear facilities 
+58	4 5 <==> 0	NOALI	NIL	Kaesong access	-not aligned- 
+58	0 <==> 3	NOALI	NIL	-not aligned-	vows 
+58	3 <==> 0	NOALI	NIL	blocks	-not aligned- 
+58	0 <==> 4 5	NOALI	NIL	-not aligned-	to restart 
+58	1 2 <==> 1 2	EQUI	5	North Korea	North Korea 
+59	0 <==> 4	NOALI	NIL	-not aligned-	, 
+59	1 <==> 1	EQUI	5	Today	Today 
+59	5 6 <==> 5 6	SIMI	3	April 23	Jan. 21 
+59	4 <==> 0	NOALI	NIL	,	-not aligned- 
+59	2 3 <==> 2 3	EQUI	5	in History	in History 
+60	0 <==> 4	NOALI	NIL	-not aligned-	Concerned 
+60	4 <==> 0	NOALI	NIL	warns	-not aligned- 
+60	5 6 <==> 5 6 7	REL	2	of Talibanisation	About Israeli Airstrikes 
+60	1 <==> 1 2 3	SPE2	2	Iran	Russia , China 
+60	7 8 <==> 8 9	EQUI	5	in Syria	in Syria 
+60	2 3 <==> 0	NOALI	NIL	's Rouhani	-not aligned- 
+61	2 <==> 5	SPE1	3	kill	standoff 
+61	1 <==> 3 4	EQUI	5	Police	after police 
+61	3 <==> 6 7	EQUI	5	gunman	with gunman 
+61	4 <==> 0	NOALI	NIL	,	-not aligned- 
+61	6 7 8 <==> 1 2	SPE2	3	3 more dead	4 dead 
+61	5 <==> 0	NOALI	NIL	find	-not aligned- 
+61	9 10 11 <==> 9 10 11	SPE1	4	in Colo. home	in US home 
+61	0 <==> 8	NOALI	NIL	-not aligned-	barricaded 
+62	0 <==> 1	NOALI	NIL	-not aligned-	EU 
+62	1 <==> 6 7	EQUI	5	Fight	to fight 
+62	2 3 4 <==> 4 5	REL	3	for Mali Town	Mali army 
+62	0 <==> 2 3	NOALI	NIL	-not aligned-	to train 
+62	5 <==> 0	NOALI	NIL	Reflects	-not aligned- 
+62	6 7 <==> 8 9 10	REL	3	Islamist Tactics	northern Islamist militants 
+63	0 <==> 2	NOALI	NIL	-not aligned-	Loads 
+63	1 <==> 0	NOALI	NIL	Ships	-not aligned- 
+63	0 <==> 1	ALIC	NIL	-not aligned-	Syria 
+63	0 <==> 5 6	NOALI	NIL	-not aligned-	into Bombs 
+63	3 4 5 6 7 <==> 3 4	REL	3	for Syrian Chemical Weapons Transport	Chemical Weapons 
+63	0 <==> 7	NOALI	NIL	-not aligned-	, 
+63	0 <==> 8	NOALI	NIL	-not aligned-	Awaiting 
+63	2 <==> 0	NOALI	NIL	Train	-not aligned- 
+63	0 <==> 9 10	NOALI	NIL	-not aligned-	Assad Order 
+64	5 <==> 5	EQUI	5	wounded	wounded 
+64	2 <==> 2	EQUI	5	killed	killed 
+64	6 7 <==> 6 7 8	SPE2	4	in attacks	in fresh attacks 
+64	8 9 <==> 9 10	EQUI	5	in Iraq	in Iraq 
+64	3 <==> 0	NOALI	NIL	,	-not aligned- 
+64	1 <==> 1	SIMI	3	2	15 
+64	0 <==> 3	NOALI	NIL	-not aligned-	, 
+64	4 <==> 4	SIMI	2	11	90 
+65	1 2 <==> 0	NOALI	NIL	Bangladesh court	-not aligned- 
+65	8 9 10 <==> 6 7 8	EQUI	5	for war crimes	on war crimes 
+65	0 <==> 4 5	NOALI	NIL	-not aligned-	Sri Lanka 
+65	6 7 <==> 0	NOALI	NIL	to death	-not aligned- 
+65	0 <==> 3	NOALI	NIL	-not aligned-	pushes 
+65	3 <==> 0	NOALI	NIL	sentences	-not aligned- 
+65	4 5 <==> 1 2	SIMI	1	first lawmaker	British PM 
+66	1 <==> 1	REL	2	Police	Politicians 
+66	3 4 5 6 <==> 2 3 4 5	SPE1	2	in Belfast flag protests	in flag violence talks 
+66	2 <==> 0	NOALI	NIL	attacked	-not aligned- 
+67	0 <==> 6 7	NOALI	NIL	-not aligned-	with US 
+67	3 <==> 3	EQUI	5	proposes	proposes 
+67	4 5 6 7 8 9 <==> 4 5	SPE1	2	` final ' N. Korea talks	high-level talks 
+67	1 2 <==> 1 2	OPPO	4	S. Korea	North Korea 
+67	10 11 <==> 0	NOALI	NIL	over Kaesong	-not aligned- 
+68	8 <==> 6 7	REL	3	Pakistani	in Pakistan 
+68	3 4 5 <==> 3 4 5	SIMI	4	9 foreign tourists	11 Foreign Tourists 
+68	7 <==> 0	NOALI	NIL	1	-not aligned- 
+68	2 <==> 2	EQUI	5	kill	Kill 
+68	1 <==> 1	EQUI	5	Gunmen	Gunmen 
+68	6 <==> 0	NOALI	NIL	,	-not aligned- 
+69	1 <==> 1	EQUI	5	Palestinians	Palestinians 
+69	2 <==> 0	NOALI	NIL	build	-not aligned- 
+69	0 <==> 8 9	NOALI	NIL	-not aligned-	yet historic 
+69	3 4 5 6 7 <==> 0	NOALI	NIL	another West Bank tent protest	-not aligned- 
+69	0 <==> 2 3 4 5 6 7	NOALI	NIL	-not aligned-	' first ever UN vote symbolic 
+70	2 <==> 2	EQUI	5	die	Killed 
+70	1 <==> 1	SIMI	2	32	1 
+70	3 4 5 <==> 3 4 5	EQUI	5	in Bangladesh protest	in Bangladesh Protest 
+71	0 <==> 6 7	NOALI	NIL	-not aligned-	to hardline 
+71	0 <==> 5	NOALI	NIL	-not aligned-	return 
+71	1 2 3 <==> 0	NOALI	NIL	Ukrainian Prime Minister	-not aligned- 
+71	0 <==> 1 2 3 4	NOALI	NIL	-not aligned-	Turkish Prime Minister signals 
+71	5 6 <==> 8 9	EQUI	5	amid protests	on protesters 
+71	4 <==> 0	NOALI	2	resigns	-not aligned- 
+72	0 <==> 5 6 7	NOALI	NIL	-not aligned-	international tax game 
+72	0 <==> 3 4	NOALI	NIL	-not aligned-	are playing 
+72	2 <==> 0	NOALI	NIL	launches	-not aligned- 
+72	1 <==> 1	EQUI	5	Google	Google 
+72	3 4 <==> 0	NOALI	NIL	internet-beaming balloons	-not aligned- 
+72	0 <==> 8	NOALI	NIL	-not aligned-	' 
+72	0 <==> 2	NOALI	NIL	-not aligned-	` 
+73	3 <==> 0	NOALI	NIL	progress	-not aligned- 
+73	4 5 6 <==> 3 4	SPE2	4	on gay rights	gay marriage 
+73	7 8 9 <==> 0	NOALI	NIL	in inaugural address	-not aligned- 
+73	0 <==> 2	NOALI	NIL	-not aligned-	protest 
+73	0 <==> 1	NOALI	NIL	-not aligned-	Thousands 
+73	2 <==> 0	NOALI	NIL	lauds	-not aligned- 
+73	1 <==> 0	NOALI	NIL	Obama	-not aligned- 
+73	0 <==> 5 6	NOALI	NIL	-not aligned-	in France 
+74	0 <==> 3	NOALI	NIL	-not aligned-	wound 
+74	2 <==> 1 2	SPE2	4	strikes	Air strikes 
+74	6 <==> 0	NOALI	NIL	rise	-not aligned- 
+74	0 <==> 7 8	NOALI	NIL	-not aligned-	's Deraa 
+74	1 <==> 0	NOALI	NIL	Israel	-not aligned- 
+74	3 <==> 5 6	EQUI	5	Syria	in Syria 
+74	0 <==> 4	NOALI	NIL	-not aligned-	civilians 
+74	4 5 <==> 0	NOALI	NIL	as tensions	-not aligned- 
+74	7 8 <==> 0	NOALI	NIL	on weapons	-not aligned- 
+75	0 <==> 1 2	NOALI	NIL	-not aligned-	Two dead 
+75	1 2 3 4 5 <==> 6 7 8 9 10	EQUI	5	The San Francisco plane crash	in San Francisco air crash 
+75	6 7 8 <==> 0	NOALI	NIL	at a glance	-not aligned- 
+75	0 <==> 3	NOALI	NIL	-not aligned-	, 
+75	0 <==> 4 5	NOALI	NIL	-not aligned-	181 hurt 
+76	5 6 <==> 0	NOALI	NIL	by Norovirus	-not aligned- 
+76	1 2 3 <==> 1 2 3	SIMI	2	X'mas cruise passengers	Missing cruise passenger 
+76	0 <==> 5 6 7	NOALI	NIL	-not aligned-	a NSW ambo 
+76	0 <==> 4	NOALI	NIL	-not aligned-	is 
+76	4 <==> 0	NOALI	NIL	hit	-not aligned- 
+77	3 <==> 3	EQUI	5	close	close 
+77	1 2 <==> 1 2	EQUI	5	Chinese shares	Chinese shares 
+77	5 <==> 5	SIMI	3	Wednesday	Friday 
+77	4 <==> 4	OPPO	4	lower	higher 
+78	1 2 <==> 1 2	EQUI	5	Calif man	Calif. man 
+78	3 <==> 3	EQUI	5	pleads	pleads 
+78	6 7 8 9 <==> 6 7 8	SIMI	2	in girl kidnap case	in terrorism case 
+78	4 5 <==> 4 5	EQUI	5	not guilty	not guilty 
+79	5 <==> 5	EQUI	5	close	close 
+79	0 <==> 7	NOALI	NIL	-not aligned-	-- 
+79	8 9 <==> 8 9	SIMI	2	Dec. 4	Jan. 24 
+79	1 2 3 4 <==> 1 2 3 4	EQUI	5	China stock index futures	China stock index futures 
+79	7 <==> 0	NOALI	NIL	--	-not aligned- 
+79	6 <==> 6	OPPO	4	higher	lower 
+80	5 6 7 <==> 4 5 6 7 8	SPE2	3	by Israeli fire	in an Israeli Air Strike 
+80	1 <==> 1 2	SPE2	4	Palestinians	Two Palestinians 
+80	4 <==> 0	NOALI	NIL	'	-not aligned- 
+80	8 9 <==> 9 10	EQUI	5	in Gaza	on Gaza 
+80	2 <==> 0	NOALI	NIL	`	-not aligned- 
+80	3 <==> 3	SPE2	3	hit	Killed 
+81	2 <==> 2	EQUI	5	killed	killed 
+81	0 <==> 3	NOALI	NIL	-not aligned-	, 
+81	4 <==> 4	SIMI	2	3	44 
+81	3 <==> 0	NOALI	NIL	,	-not aligned- 
+81	6 7 8 9 10 <==> 6 7 8 9	SIMI	2	in south China road accident	in Philippine road accident 
+81	1 <==> 1	SIMI	2	7	20 
+81	5 <==> 5	EQUI	5	injured	injured 
+82	4 <==> 0	NOALI	NIL	Kids	-not aligned- 
+82	0 <==> 5 6 7	NOALI	NIL	-not aligned-	at finish line 
+82	1 <==> 1	SIMI	1	Books	Report 
+82	2 3 <==> 0	NOALI	NIL	To Help	-not aligned- 
+82	6 7 8 9 <==> 8 9 10	SPE1	4	About Boston Marathon News	of Boston Marathon 
+82	5 <==> 0	NOALI	NIL	Talk	-not aligned- 
+82	0 <==> 2 3 4	NOALI	NIL	-not aligned-	of two explosions 
+83	6 <==> 0	ALIC	NIL	collapses	-not aligned- 
+83	1 <==> 1	SIMI	2	Motorists	Cars 
+83	0 <==> 6 7	ALIC	NIL	-not aligned-	outside Tokyo 
+83	2 <==> 2	REL	3	killed	trapped 
+83	3 4 5 <==> 3 4 5	SPE2	4	after Japanese tunnel	in tunnel collapse 
+84	5 6 <==> 0	NOALI	NIL	on Wednesday	-not aligned- 
+84	0 <==> 4 5	NOALI	NIL	-not aligned-	in France 
+84	1 2 <==> 0	NOALI	NIL	Chinese shares	-not aligned- 
+84	0 <==> 3	NOALI	NIL	-not aligned-	attacked 
+84	4 <==> 0	NOALI	NIL	lower	-not aligned- 
+84	0 <==> 1 2	NOALI	NIL	-not aligned-	Chinese students 
+84	3 <==> 0	NOALI	NIL	close	-not aligned- 
+85	2 <==> 1 2	REL	3	Friends	Syria talks 
+85	8 <==> 0	ALIC	NIL	talks	-not aligned- 
+85	0 <==> 3	NOALI	NIL	-not aligned-	agree 
+85	6 7 <==> 0	NOALI	NIL	in Doha	-not aligned- 
+85	1 <==> 0	NOALI	NIL	`	-not aligned- 
+85	3 4 <==> 0	ALIC	NIL	of Syria	-not aligned- 
+85	11 <==> 6 7	EQUI	5	rebels	to rebels 
+85	9 10 <==> 4 5	SIMI	3	on arming	military aid 
+85	5 <==> 0	NOALI	NIL	'	-not aligned- 
+86	9 <==> 0	NOALI	NIL	,	-not aligned- 
+86	5 <==> 4	EQUI	5	police	police 
+86	0 <==> 11	NOALI	NIL	-not aligned-	detained 
+86	0 <==> 9 10	NOALI	NIL	-not aligned-	5 people 
+86	6 7 8 <==> 5 6 7	EQUI	5	at Jantar Mantar	at Jantar Mantar 
+86	0 <==> 8	NOALI	NIL	-not aligned-	, 
+86	1 2 <==> 1	SPE1	4	ABVP protesters	Protesters 
+86	11 <==> 0	NOALI	NIL	stones	-not aligned- 
+86	10 <==> 0	NOALI	NIL	throw	-not aligned- 
+86	3 4 <==> 2 3	EQUI	5	clash with	clash with 
+87	3 <==> 3	EQUI	5	charged	charged 
+87	4 5 6 <==> 4 5	SPE1	4	with terrorism offences	with terrorism 
+87	1 2 <==> 1 2	SPE2	2	Two men	Saudi-born Nigerian 
+87	0 <==> 6 7 8	NOALI	NIL	-not aligned-	in New York 
+88	8 <==> 2 3	EQUI	5	killed	among dead 
+88	5 6 <==> 0	ALIC	NIL	mostly foreigners	-not aligned- 
+88	7 <==> 0	NOALI	NIL	,	-not aligned- 
+88	1 2 3 <==> 1	SPE2	1	Up to 21	Briton 
+88	4 <==> 0	NOALI	NIL	,	-not aligned- 
+88	9 10 11 12 <==> 4 5 6 7	EQUI	5	in Kabul suicide attack	in Kabul suicide attack 
+89	4 5 <==> 4 5	SIMI	2	0.88 pc	0.44 pct 
+89	6 <==> 6	EQUI	5	lower	lower 
+89	3 <==> 3	EQUI	5	close	close 
+89	1 2 <==> 1 2	SIMI	2	Tokyo shares	Singapore stocks 
+90	1 2 3 <==> 1 2 3	SIMI	3	4.1 magnitude quake	7.2 magnitude earthquake 
+90	4 <==> 4	EQUI	5	strikes	strikes 
+90	5 6 <==> 5	SIMI	2	U. S	Philippines 
+91	1 2 <==> 1 2	SIMI	3	35 militants	12 militants 
+91	7 <==> 0	NOALI	NIL	:	-not aligned- 
+91	8 <==> 8	REL	3	official	ministry 
+91	3 <==> 3	EQUI	5	killed	killed 
+91	4 5 6 <==> 4 5 6	EQUI	5	in Afghan raids	in Afghan raids 
+91	0 <==> 7	NOALI	NIL	-not aligned-	: 
+92	1 <==> 4 5	REL	2	Venezuela	Venezuelan officials 
+92	6 7 <==> 0	NOALI	NIL	of cancer	-not aligned- 
+92	0 <==> 6 7	NOALI	NIL	-not aligned-	for unity 
+92	2 3 4 <==> 1 2	EQUI	5	's Hugo Chavez	Hugo Chavez 
+92	5 <==> 0	NOALI	NIL	dies	-not aligned- 
+92	0 <==> 3	NOALI	NIL	-not aligned-	: 
+93	8 9 10 11 <==> 8 9 10 11	SIMI	3	November 25 , 2013	October 8 , 2013 
+93	5 6 <==> 5 6	SIMI	4	for Monday	for Tuesday 
+93	7 <==> 0	NOALI	NIL	,	-not aligned- 
+93	1 2 <==> 1 2	EQUI	5	The Note	The Note 
+93	3 4 <==> 3 4	EQUI	5	's Must-Reads	's Must-Reads 
+93	0 <==> 7	NOALI	NIL	-not aligned-	, 
+94	0 <==> 5 6	NOALI	NIL	-not aligned-	can overcome 
+94	0 <==> 4	NOALI	NIL	-not aligned-	confident 
+94	6 7 8 <==> 7 8	SIMI	4	at political impasse	political crisis 
+94	1 2 <==> 0	NOALI	NIL	Lebanon businesses	-not aligned- 
+94	4 5 <==> 0	NOALI	NIL	in protest	-not aligned- 
+94	3 <==> 0	NOALI	NIL	strike	-not aligned- 
+94	0 <==> 3	NOALI	NIL	-not aligned-	says 
+94	0 <==> 1 2	NOALI	NIL	-not aligned-	Tunisia president 
+95	4 <==> 1 2	EQUI	5	North	North Korea 
+95	6 <==> 4 5	SPE2	4	Missiles	short-range missiles 
+95	3 <==> 0	NOALI_FACT	NIL	Says	-not aligned- 
+95	1 2 <==> 0	NOALI	NIL	South Korea	-not aligned- 
+95	5 <==> 3	EQUI	5	Fired	launches 
+96	4 <==> 2	SPE1	3	killed	attacks 
+96	5 6 <==> 5 6	EQUI	5	in Afghanistan	in Afghanistan 
+96	1 2 3 <==> 1	SPE1	3	38 Taliban militants	Taliban 
+96	0 <==> 3 4	NOALI	NIL	-not aligned-	US base 
+97	3 4 <==> 0	NOALI	NIL	to avoid	-not aligned- 
+97	0 <==> 4 5	NOALI	NIL	-not aligned-	to fostering 
+97	0 <==> 2	NOALI	NIL	-not aligned-	is 
+97	0 <==> 1	NOALI	NIL	-not aligned-	Insurance 
+97	2 <==> 0	NOALI	NIL	strives	-not aligned- 
+97	0 <==> 3	NOALI	NIL	-not aligned-	key 
+97	1 <==> 0	NOALI	NIL	China	-not aligned- 
+97	5 6 <==> 6 7	REL	2	economic traps	economic growth 
+98	3 <==> 3	EQUI	5	kills	dies 
+98	1 2 <==> 1 2	REL	3	Nato airstrike	Nato solider 
+98	4 5 6 <==> 4 5	REL	2	two Afghan kids	in Afghanistan 
+99	2 <==> 3	SIMI	3	pledges	support 
+99	3 4 <==> 4 5	SIMI	3	military aid	military operation 
+99	1 <==> 1 2	SIMI	4	France	Most French 
+99	5 6 <==> 6 7	EQUI	5	in Mali	in Mali 
+100	6 <==> 0	NOALI	NIL	'	-not aligned- 
+100	7 8 9 10 <==> 5 6 7 8 9	SPE2	3	in debt ceiling talks	to US debt ceiling deal 
+100	2 <==> 0	NOALI	NIL	cites	-not aligned- 
+100	3 <==> 0	NOALI	NIL	`	-not aligned- 
+100	0 <==> 3	NOALI	NIL	-not aligned-	appear 
+100	1 <==> 1 2	SPE1	3	Reid	Senate leaders 
+100	4 5 <==> 0	NOALI	NIL	tremendous progress	-not aligned- 
+100	0 <==> 4	NOALI	NIL	-not aligned-	close 
+101	5 <==> 4 5	SIMI	2	Sarangani	SW China 
+101	1 2 3 <==> 1 2	SIMI	3	6.2 magnitude quake	4.3-magnitude earthquake 
+101	4 <==> 3	EQUI	5	jolts	jolts 
+102	0 <==> 4 5 6	NOALI	NIL	-not aligned-	to quickly handle 
+102	3 <==> 0	NOALI	NIL	offer	-not aligned- 
+102	0 <==> 1	NOALI	NIL	-not aligned-	Japan 
+102	2 <==> 0	NOALI	NIL	renews	-not aligned- 
+102	4 5 <==> 0	NOALI	NIL	to cut	-not aligned- 
+102	9 10 11 12 <==> 0	NOALI	NIL	in big budget deal	-not aligned- 
+102	6 7 8 <==> 0	NOALI	NIL	social safety net	-not aligned- 
+102	0 <==> 2	NOALI	NIL	-not aligned-	urges 
+102	14 <==> 0	NOALI	NIL	aide	-not aligned- 
+102	1 <==> 3	REL	3	Obama	U.S. 
+102	0 <==> 7 8	NOALI	NIL	-not aligned-	budget deadlock 
+102	13 <==> 0	NOALI	NIL	:	-not aligned- 
+103	1 <==> 1	EQUI	5	US	US 
+103	5 6 7 <==> 2	EQUI	5	has been captured	captures 
+103	0 <==> 7 8 9	NOALI	NIL	-not aligned-	in Somalia attack 
+103	3 4 <==> 3 4	EQUI	5	al-Qaeda leader	al-Qaeda leader 
+103	0 <==> 6	NOALI	NIL	-not aligned-	fails 
+103	2 <==> 0	NOALI	NIL	confirms	-not aligned- 
+103	0 <==> 5	NOALI	NIL	-not aligned-	but 
+104	0 <==> 8	NOALI	NIL	-not aligned-	continue 
+104	0 <==> 3	NOALI	NIL	-not aligned-	barred 
+104	0 <==> 4 5	NOALI	NIL	-not aligned-	from Canada 
+104	8 <==> 0	NOALI	NIL	resign	-not aligned- 
+104	0 <==> 6 7	NOALI	NIL	-not aligned-	as protests 
+104	1 2 3 4 5 6 7 <==> 1 2	SPE1	3	Ukrainian Prime Minister Azarov and entire government	Ukrainian officials 
+105	6 7 8 9 <==> 9 10 11 12	EQUI	5	of Trayvon Martin murder	of Trayvon Martin murder 
+105	0 <==> 4 5	NOALI	NIL	-not aligned-	for calm 
+105	1 2 <==> 6 7	EQUI	5	George Zimmerman	after Zimmerman 
+105	3 <==> 0	ALIC	NIL	found	-not aligned- 
+105	4 5 <==> 8	EQUI	5	not guilty	acquitted 
+105	0 <==> 1 2 3	NOALI	NIL	-not aligned-	Protests and appeals 
+106	0 <==> 5 6 7	NOALI	NIL	-not aligned-	as Venezuela Election 
+106	0 <==> 3 4	NOALI	NIL	-not aligned-	on Capriles 
+106	3 4 5 <==> 0	NOALI	NIL	2012 Election Secrets	-not aligned- 
+106	2 <==> 0	NOALI	NIL	Reveal	-not aligned- 
+106	0 <==> 8	NOALI	NIL	-not aligned-	Set 
+106	0 <==> 1 2	NOALI	NIL	-not aligned-	All Eyes 
+106	1 <==> 0	NOALI	NIL	Insiders	-not aligned- 
+107	0 <==> 5 6	NOALI	NIL	-not aligned-	to ease 
+107	7 8 <==> 7	EQUI	5	of shutdown	shutdown 
+107	3 <==> 0	NOALI	NIL	`	-not aligned- 
+107	1 2 <==> 1	REL	4	US government	Obama 
+107	0 <==> 2	NOALI	NIL	-not aligned-	rejects 
+107	0 <==> 3 4	NOALI	NIL	-not aligned-	GOP offer 
+107	4 5 6 <==> 0	NOALI	NIL	on the edge	-not aligned- 
+107	9 <==> 0	NOALI	NIL	'	-not aligned- 
+108	0 <==> 2	NOALI	NIL	-not aligned-	arrests 
+108	5 6 <==> 0	NOALI	NIL	at airport	-not aligned- 
+108	1 2 3 <==> 0	NOALI	NIL	Taiwan gang leader	-not aligned- 
+108	4 <==> 0	NOALI	NIL	nabbed	-not aligned- 
+108	0 <==> 1	NOALI	NIL	-not aligned-	Zambia 
+108	7 8 9 <==> 0	NOALI	NIL	after 17 years	-not aligned- 
+108	0 <==> 3 4	NOALI	NIL	-not aligned-	ex-leader Banda 
+108	0 <==> 5 6 7	NOALI	NIL	-not aligned-	over oil deal 
+109	0 <==> 2	NOALI	NIL	-not aligned-	encourages 
+109	0 <==> 7	NOALI	NIL	-not aligned-	ban 
+109	0 <==> 8 9	NOALI	NIL	-not aligned-	on gays 
+109	4 <==> 0	NOALI	NIL	buffeted	-not aligned- 
+109	0 <==> 3 4	NOALI	NIL	-not aligned-	Boy Scouts 
+109	1 2 3 <==> 1	REL	3	Obama economic tour	Obama 
+109	0 <==> 5 6	NOALI	NIL	-not aligned-	to end 
+109	5 6 7 <==> 0	NOALI	NIL	by low expectations	-not aligned- 
+110	2 <==> 3	EQUI	5	Welcomes	welcomes 
+110	5 6 <==> 6 7	EQUI	5	on Syria	on Syria 
+110	1 <==> 1 2	SIMI	1	France	Arab League 
+110	3 4 <==> 4 5	EQUI	5	US-Russia Deal	US-Russian deal 
+111	7 8 <==> 3 4	EQUI	5	Syria strike	Syria strike 
+111	1 2 3 <==> 0	NOALI	NIL	In shock move	-not aligned- 
+111	9 10 <==> 5 6	EQUI	5	on hold	on hold 
+111	4 <==> 0	NOALI	NIL	,	-not aligned- 
+111	6 <==> 2	EQUI	5	puts	puts 
+111	5 <==> 1	EQUI	5	Obama	Obama 
+112	3 4 <==> 0	NOALI	NIL	to cause	-not aligned- 
+112	9 10 <==> 5 6	EQUI	5	Australian Open	Australian Open 
+112	7 8 <==> 3 4	EQUI	5	to miss	to miss 
+112	5 6 <==> 1 2	SPE1	4	ailing Nadal	Rafa Nadal 
+112	1 2 <==> 0	NOALI	NIL	Stomach bug	-not aligned- 
+113	3 <==> 3	SPE2	3	considers	orders 
+113	4 <==> 5 6	EQUI	5	Mubarak	of Mubarak 
+113	5 6 <==> 4	EQUI	5	's release	release 
+113	1 2 <==> 1 2	EQUI	5	Egyptian court	Egypt court 
+114	0 <==> 5	ALIC_FACT	NIL	-not aligned-	Plans 
+114	4 5 <==> 6 7 8	EQUI	5	to Marry	To Get Married 
+114	1 2 3 <==> 1 2 3 4	EQUI	5	Van der Sloot	Joran Van Der Sloots 
+114	6 7 <==> 9 10 11	SPE2	4	in Prison	In Peru Prison 
+115	9 10 <==> 9 10	EQUI	5	to fraud	to Fraud 
+115	8 <==> 8	EQUI	5	guilty	Guilty 
+115	6 7 <==> 6 7	EQUI	5	to plead	to Plead 
+115	1 2 3 4 5 <==> 1 2 3 4 5	EQUI	5	Jesse Jackson Jr. and wife	Jesse Jackson Jr. , Wife 
+116	1 2 3 <==> 1 2	SPE1	4	BBC veteran Hall	Stuart Hall 
+116	5 6 7 <==> 4 5	EQUI	5	child sex abuse	Sex Assaults 
+116	0 <==> 6 7	ALIC	NIL	-not aligned-	On Children 
+116	4 <==> 3	EQUI	5	admits	Admits 
+117	6 7 <==> 6 7	SIMI	3	on Monday	on Thursday 
+117	1 <==> 1	EQUI	5	Stocks	Stocks 
+117	4 5 <==> 4 5	EQUI	5	at close	at close 
+117	2 3 <==> 2 3	EQUI	5	to watch	to watch 
+118	3 4 5 <==> 3 4 5	EQUI	5	of The Netherlands	of the Netherlands 
+118	6 7 <==> 6	EQUI	5	to abdicate	abdicates 
+118	8 9 <==> 7 8 9 10	EQUI	5	for son	in favor of son 
+118	1 2 <==> 1 2	EQUI	5	Queen Beatrix	Queen Beatrix 
+119	0 <==> 5	NOALI	NIL	-not aligned-	reports 
+119	4 <==> 0	NOALI	NIL	,	-not aligned- 
+119	5 6 <==> 6 7	SPE1	4	8-10 people	of people 
+119	0 <==> 4	NOALI	NIL	-not aligned-	; 
+119	3 <==> 3	EQUI	5	collapses	collapses 
+119	1 2 <==> 1 2	EQUI	5	Philadelphia building	Philadelphia building 
+119	7 8 9 <==> 8	SIMI_FACT	4	may be trapped	trapped 
+120	1 2 <==> 1 2	EQUI	5	U.S. Senate	U.S. Senate 
+120	5 6 7 <==> 6 7 8 9	REL	3	gun control debate	on gun control bill 
+120	0 <==> 4 5	NOALI	NIL	-not aligned-	to vote 
+120	3 4 <==> 3	EQUI	5	sets off	set 
+121	1 2 3 4 <==> 1 2 3 4	EQUI	5	Red grapes and blueberries	Red grapes , blueberries 
+121	5 <==> 5	EQUI	5	boost	boost 
+121	10 <==> 0	NOALI_FACT	NIL	say	-not aligned- 
+121	9 <==> 0	NOALI	NIL	scientists	-not aligned- 
+121	8 <==> 0	NOALI	NIL	,	-not aligned- 
+121	6 7 <==> 6 7	EQUI	5	immune system	human immunity 
+122	2 3 <==> 1	SPE1	4	's McAfee	McAfee 
+122	11 12 13 <==> 6 7 8 9	EQUI	5	For $ 389M	for $ 389 million 
+122	4 <==> 2 3	EQUI	5	Buys	to acquire 
+122	14 15 <==> 0	NOALI	NIL	In Cash	-not aligned- 
+122	1 <==> 0	ALIC	NIL	Intel	-not aligned- 
+122	5 6 7 8 9 10 <==> 4 5	SPE1	3	Cloud-Based , Networked Firewall Specialist Stonesoft	firewall Stonesoft 
+123	4 <==> 4	EQUI	5	died	died 
+123	5 6 <==> 5 6	EQUI	5	from shot	from gunshot 
+123	1 2 3 <==> 1 2 3	EQUI_FACT	5	Alleged cop killer	Alleged cop killer 
+123	7 8 <==> 0	NOALI	NIL	to head	-not aligned- 
+124	2 <==> 2	EQUI	5	arrested	arrested 
+124	1 <==> 1	EQUI	5	Musharraf	Musharraf 
+124	3 4 5 6 <==> 3 4	REL	2	in Lal Masjid case	in Pakistan 
+125	1 2 <==> 1 2	EQUI	5	North Korea	North Korea 
+125	4 <==> 3	SPE1	4	test-fires	launches 
+125	3 <==> 0	NOALI_FACT	NIL	reportedly	-not aligned- 
+125	5 6 <==> 4 5	EQUI	5	short-range missiles	short-range missiles 
+126	1 2 <==> 1 2	EQUI	5	Indian stocks	Indian stocks 
+126	4 <==> 4	SIMI	3	flat	lower 
+126	3 <==> 3	EQUI	5	open	open 
+127	6 7 <==> 0	NOALI	NIL	in US	-not aligned- 
+127	1 2 3 <==> 1 2 3	EQUI	5	Israelis , Palestinians	Israelis , Palestinians 
+127	4 <==> 4	SPE1	4	resume	begin 
+127	5 <==> 5	EQUI	5	talks	talks 
+128	9 10 11 <==> 7 8 9	EQUI	5	in UK crash	in British crash 
+128	1 2 3 4 5 6 7 <==> 1 2 3 4 5	SPE1	4	Four U.S. Air Force helicopter crew members	US Air Force helicopter crew 
+128	8 <==> 6	EQUI	5	killed	killed 
+129	2 <==> 2	EQUI	5	detains	detains 
+129	1 <==> 1	EQUI	5	Malaysia	Malaysia 
+129	5 6 <==> 5 6	EQUI	5	at airport	at airport 
+129	3 4 <==> 3 4	SIMI	4	Australian senator	Australian lawmaker 
+130	2 3 <==> 0	NOALI	NIL	shuts down	-not aligned- 
+130	9 <==> 0	NOALI	NIL	reaches	-not aligned- 
+130	4 <==> 0	NOALI	NIL	plants	-not aligned- 
+130	0 <==> 1 2	NOALI	NIL	-not aligned-	EU ministers 
+130	0 <==> 5	NOALI	NIL	-not aligned-	' 
+130	0 <==> 3	NOALI	NIL	-not aligned-	` 
+130	1 <==> 0	NOALI	NIL	Britain	-not aligned- 
+130	5 6 7 8 <==> 8 9	EQUI	5	as horse meat scandal	horsemeat scandal 
+130	0 <==> 4	NOALI	NIL	-not aligned-	determined 
+130	10 <==> 0	NOALI	NIL	France	-not aligned- 
+130	0 <==> 6 7	NOALI	NIL	-not aligned-	to resolve 
+131	4 5 6 7 <==> 5 6	SPE1	4	at Great Barrier Reef	near Australia 
+131	2 <==> 3	EQUI	5	dumps	jettisons 
+131	1 <==> 1 2	SPE2	4	U.S.	U.S. military 
+131	3 <==> 4	EQUI	5	bombs	bombs 
+131	0 <==> 7 8 9 10	ALIC	NIL	-not aligned-	's Great Barrier Reef 
+132	2 <==> 2	EQUI	5	invests	invests 
+132	6 7 8 9 <==> 6 7 8 9 10	SIMI	4	in Texas wind farm	in Texas wind farm project 
+132	3 4 5 <==> 3 4 5	EQUI	5	$ 200 million	200 million USD 
+132	1 <==> 1	EQUI	5	Google	Google 
+133	7 <==> 6	EQUI	5	dies	dies 
+133	8 9 <==> 7 8	EQUI	5	at 91	at 91 
+133	1 2 3 4 5 6 <==> 1 2 3 4 5	EQUI	5	Preston and England legend Tom Finney	Former England great Tom Finney 
+134	4 <==> 4 5	SPE2	3	5	3 policemen 
+134	5 6 <==> 6 7	EQUI	5	in Afghanistan	in Afghanistan 
+134	3 <==> 3	EQUI	5	kill	kills 
+134	1 2 <==> 1 2	SIMI	4	Roadside bombs	Roadside bomb 
+135	1 <==> 1	EQUI	5	Gunmen	Gunmen 
+135	2 <==> 2	EQUI	5	Kill	kill 
+135	3 4 5 <==> 3 4 5	SPE2	4	11 Foreign Tourists	11 foreign climbers 
+135	6 7 <==> 6 7	EQUI	5	in Pakistan	in Pakistan 
+136	1 2 <==> 1 2	EQUI	5	Demolition work	Demolition work 
+136	3 <==> 3 4	EQUI	5	begins	to begin 
+136	4 5 6 7 <==> 5 6	SPE1	4	on Don Valley Stadium	at stadium 
+137	2 3 <==> 2 3 4 5 6	SPE2	4	of easyJet	of British no-frills airline easyJet 
+137	4 5 6 <==> 7 8 9	EQUI	5	to step down	to step down 
+137	1 <==> 1	EQUI	5	Chairman	Chairman 
+138	1 2 <==> 1 2	SPE1	3	US Troops	NATO troops 
+138	3 <==> 3	EQUI	5	Killed	killed 
+138	4 5 6 7 <==> 4 5 6 7 8 9	EQUI	5	in Afghan Insider Attack	in Afghan ` insider attack ' 
+139	7 8 9 <==> 8 9 10	SPE2	4	in Barcelona win	in comeback win 
+139	3 4 5 6 <==> 5 6 7	SPE1	4	300th , 301st goals	300th Barcelona goal 
+139	2 <==> 4	SIMI	4	nets	hits 
+139	1 <==> 3	EQUI	5	Messi	Messi 
+139	0 <==> 2	NOALI	NIL	-not aligned-	: 
+139	0 <==> 1	NOALI	NIL	-not aligned-	Football 
+140	0 <==> 6	NOALI	NIL	-not aligned-	protests 
+140	5 <==> 0	ALIC	NIL	dead	-not aligned- 
+140	4 <==> 4	EQUI	5	shot	slain 
+140	0 <==> 7	NOALI	NIL	-not aligned-	erupt 
+140	0 <==> 5	NOALI	NIL	-not aligned-	; 
+140	1 2 3 <==> 1 2 3	SPE2	4	Tunisian opposition politician	Tunisia opposition leader 
+141	1 2 3 <==> 1 2 3 4	EQUI	5	Whistleblower Edward Snowden	NSA whistleblower Edward Snowden 
+141	0 <==> 6 7	NOALI	NIL	-not aligned-	Hong Kong 
+141	5 6 <==> 10 11	EQUI	5	to Moscow	to Moscow 
+141	0 <==> 5	NOALI	NIL	-not aligned-	leaves 
+141	4 <==> 8 9	EQUI	5	flies	on flight 
+142	5 6 <==> 4 5 6	REL	4	in Afghanistan	in Afghan attack 
+142	4 <==> 3	EQUI	5	killed	killed 
+142	1 2 3 <==> 1 2	SIMI	4	Two NATO soldiers	NATO soldier 
+143	3 <==> 3	SIMI	4	Bets	Pays 
+143	7 8 <==> 0	NOALI	NIL	on Reviving	-not aligned- 
+143	9 10 <==> 7 8 9 10	EQUI	5	Washington Post	For The Washington Post 
+143	1 2 <==> 1 2	EQUI	5	Jeff Bezos	Jeff Bezos 
+143	4 5 6 <==> 4 5 6	EQUI	5	$ 250 Million	$ 250 Million 
+144	3 4 <==> 6 7	EQUI	5	chilling message	chilling message 
+144	8 9 <==> 11 12	EQUI	5	's elite	's elite 
+144	0 <==> 2 3 4	ALIC	NIL	-not aligned-	of Kim uncle 
+144	5 6 7 <==> 8 9 10	EQUI	5	to North Korea	to North Korea 
+144	1 <==> 1	SPE2	4	Purge	Purge 
+144	2 <==> 5	EQUI	5	sends	sends 
+145	1 2 <==> 1 2	SIMI	4	Heavy rain	Fresh rain 
+145	4 <==> 0	ALIC	NIL	threat	-not aligned- 
+145	5 6 7 8 <==> 4 5	SPE1	3	of Christmas Day flooding	more flooding 
+145	3 <==> 3	SPE2	3	raises	brings 
+146	4 <==> 4	EQUI	5	begin	start 
+146	7 8 <==> 0	NOALI	NIL	of progress	-not aligned- 
+146	0 <==> 5 6	NOALI	NIL	-not aligned-	in Geneva 
+146	5 6 <==> 0	NOALI	NIL	amid hopes	-not aligned- 
+146	1 2 3 <==> 1 2 3	EQUI	5	Iran nuke talks	Iran nuclear talks 
+147	2 3 <==> 2 3	EQUI	5	's Bezos	's Bezos 
+147	6 7 8 <==> 5 6	EQUI	5	the Washington Post	Washington Post 
+147	1 <==> 1	EQUI	5	Amazon	Amazon 
+147	9 10 11 12 <==> 7 8 9	EQUI	5	for $ 250 million	for $ 250-M 
+147	4 5 <==> 4	EQUI	5	to buy	buys 
+148	7 8 <==> 0	NOALI	NIL	of season	-not aligned- 
+148	0 <==> 4 5	NOALI	NIL	-not aligned-	From Football 
+148	5 6 <==> 0	NOALI	NIL	at end	-not aligned- 
+148	1 2 <==> 1 2	EQUI	5	David Beckham	David Beckham 
+148	3 4 <==> 3	EQUI	5	to retire	Retires 
+149	0 <==> 8 9	NOALI	NIL	-not aligned-	in south 
+149	0 <==> 4	NOALI	NIL	-not aligned-	, 
+149	1 <==> 1	EQUI	5	Libya	Libya 
+149	2 <==> 0	ALIC	NIL	abruptly	-not aligned- 
+149	3 <==> 2	SPE1	4	closes	closes 
+149	4 5 <==> 3	EQUI	5	its borders	borders 
+149	6 7 8 <==> 0	NOALI	NIL	with four countries	-not aligned- 
+149	0 <==> 5	NOALI	NIL	-not aligned-	declares 
+149	0 <==> 6 7	NOALI	NIL	-not aligned-	martial law 
+150	3 4 <==> 3 4	EQUI	5	central Russia	central Russia 
+150	10 <==> 7	EQUI	5	hurt	hurt 
+150	2 <==> 2	EQUI	5	hits	hits 
+150	5 <==> 0	NOALI	NIL	,	-not aligned- 
+150	6 7 8 9 <==> 6	SPE2	3	more than 500 people	400 
+150	0 <==> 5	NOALI	NIL	-not aligned-	, 
+150	1 <==> 1	EQUI	5	Meteorite	Meteorite 
+151	1 <==> 1	SPE1	3	123	Many 
+151	2 <==> 2	EQUI	5	killed	killed 
+151	3 4 <==> 3 4 5 6	SPE2	3	in fighting	in Syrian air strike 
+151	5 6 7 <==> 0	ALIC	NIL	in northern Syria	-not aligned- 
+152	3 <==> 2	EQUI	5	freezes	freezes 
+152	1 <==> 1	EQUI	5	Egypt	Egypt 
+152	2 <==> 0	NOALI	NIL	`	-not aligned- 
+152	4 5 6 <==> 3 4 5	SIMI	4	Muslim Brotherhood assets	Muslim Brotherhood funds 
+152	7 <==> 0	NOALI	NIL	'	-not aligned- 
+153	5 6 7 8 <==> 5 6 7	SPE1	4	as new Australian PM	As Australia PM 
+153	1 2 <==> 1 2	EQUI	5	Tony Abbott	Tony Abbott 
+153	3 4 <==> 3 4	EQUI	5	sworn in	Sworn In 
+154	4 5 6 7 <==> 3 4 5	SPE1	4	amid Chavez health crisis	amid Chavez crisis 
+154	3 <==> 2	EQUI	5	meets	meets 
+154	1 2 <==> 1	SPE1	4	Venezuela assembly	Assembly 
+155	4 5 <==> 4 5 6 7 8 9	REL	3	in Egypt	in face of Egypt govt threat 
+155	3 <==> 3	SIMI	3	protest	defiant 
+155	1 2 <==> 1 2	EQUI	5	Morsi supporters	Morsi backers 
+156	1 2 <==> 1 2	EQUI	5	Eurozone jobless	EU jobless 
+156	4 5 6 <==> 4 5	SPE1	4	fresh record high	fresh record 
+156	3 <==> 3	EQUI	5	hits	hits 
+157	10 <==> 0	NOALI	NIL	Out	-not aligned- 
+157	6 7 8 <==> 4	REL	3	Try to Get	run 
+157	5 <==> 0	ALIC	NIL	Cypriots	-not aligned- 
+157	1 <==> 0	NOALI	NIL	Facing	-not aligned- 
+157	11 12 <==> 5 6 7	EQUI	5	of Banks	on Cyprus banks 
+157	4 <==> 0	NOALI	NIL	,	-not aligned- 
+157	9 <==> 0	ALIC	NIL	Cash	-not aligned- 
+157	2 3 <==> 1 2	SPE1	3	Bailout Tax	Bailout terms 
+157	0 <==> 3	NOALI	NIL	-not aligned-	prompt 
+158	3 <==> 6	EQUI	5	deserves	deserves 
+158	0 <==> 3	NOALI	NIL	-not aligned-	: 
+158	6 7 <==> 1 2	EQUI	5	David Cameron	David Cameron 
+158	8 <==> 0	ALIC	NIL	says	-not aligned- 
+158	1 2 <==> 4 5	EQUI	5	Andy Murray	Andy Murray 
+158	4 <==> 7 8	EQUI	5	knighthood	a knighthood 
+158	5 <==> 0	NOALI	NIL	,	-not aligned- 
+159	3 <==> 3	EQUI	5	killed	dead 
+159	0 <==> 10 11 12	NOALI	NIL	-not aligned-	in east Afghanistan 
+159	4 5 6 <==> 4 5 6	SPE1	3	in suicide attack	in new blast 
+159	1 2 <==> 1 2	EQUI	5	Three Afghans	Three Afghans 
+159	0 <==> 7 8 9	NOALI	NIL	-not aligned-	at US base 
+160	0 <==> 1 2	NOALI	NIL	-not aligned-	South Africa 
+160	1 2 <==> 4	EQUI	5	Nelson Mandela	Mandela 
+160	3 4 <==> 5 6	EQUI	5	in Hospital	in hospital 
+160	5 6 <==> 7 8	EQUI	5	for Tests	for tests 
+160	0 <==> 3	NOALI	NIL	-not aligned-	: 
+161	0 <==> 5	ALIC	NIL	-not aligned-	has 
+161	1 2 <==> 1 2	EQUI	5	Vinnie Jones	Vinnie Jones 
+161	0 <==> 4	ALIC	NIL	-not aligned-	he 
+161	4 5 6 <==> 6 7	SPE2	4	cancer battle new	skin cancer 
+161	3 <==> 3	EQUI	5	reveals	reveals 
+162	0 <==> 2	NOALI	NIL	-not aligned-	: 
+162	3 4 <==> 3 4 5	SPE2	4	US drones	US drone strikes 
+162	7 8 <==> 8 9	EQUI	5	's sovereignty	's sovereignty 
+162	2 <==> 0	ALIC	NIL	says	-not aligned- 
+162	6 <==> 7	EQUI	5	Pakistan	Pakistan 
+162	1 <==> 1	EQUI	5	UN	UN 
+162	5 <==> 6	EQUI	5	violate	violate 
+163	1 2 <==> 0	NOALI	NIL	The e-mails	-not aligned- 
+163	8 9 <==> 6 7	EQUI	5	about meeting	about meeting 
+163	3 <==> 0	NOALI	NIL	-	-not aligned- 
+163	7 <==> 4 5	SPE2	4	trader	rogue trader 
+163	4 5 <==> 1 2	EQUI	5	Oil firm	Oil firm 
+163	6 <==> 3	EQUI	5	asked	asked 
+163	10 11 <==> 8 9	EQUI	5	with minister	with minister 
+164	3 <==> 3	EQUI	5	Admits	admits 
+164	1 2 <==> 1 2	EQUI	5	South Africa	South Africa 
+164	4 <==> 4 5 6 7	SIMI_FACT	4	Mistake	possible ` mistake ' 
+164	5 6 7 8 9 10 <==> 8 9 10	SIMI	3	Over ` Schizophrenic ' Mandela Signer	over deaf signer 
+164	0 <==> 11 12 13	ALIC	NIL	-not aligned-	at Mandela memorial 
+165	3 <==> 2	EQUI	5	tumble	fall 
+165	7 8 <==> 6 7 8	SPE2	4	of shutdown	of government shutdown 
+165	1 2 <==> 1	SPE1	4	US stocks	Stocks 
+165	4 5 6 <==> 3 4 5	EQUI	5	on third day	on third day 
+166	1 <==> 0	ALIC	NIL	NATO	-not aligned- 
+166	3 4 <==> 1 2	SPE1	4	3 troops	NATO troops 
+166	6 7 8 <==> 4 5 6 7 8 9	SPE2	4	in Afghanistan attack	in Afghan ` insider attack ' 
+166	5 <==> 3	EQUI	5	killed	killed 
+166	2 <==> 0	NOALI	NIL	:	-not aligned- 
+167	6 7 <==> 11 12	EQUI	5	Peace Conference	peace conference 
+167	3 <==> 4	SPE2	4	Agrees	agree 
+167	0 <==> 5 6 7 8	ALIC	NIL	-not aligned-	` in principle ' 
+167	1 2 <==> 1 2 3	SPE2_POL	3	Syria Regime	Syria , opposition 
+167	4 5 <==> 9 10	EQUI	5	to Attend	to attend 
+168	3 4 5 6 7 <==> 1 2 3 4 5	SPE2	4	as Boeing 777 jet crash	Asiana Air Boeing 777 crash 
+168	1 <==> 0	NOALI	NIL	Dozens	-not aligned- 
+168	2 <==> 0	NOALI	NIL	injured	-not aligned- 
+168	8 <==> 6	EQUI	5	lands	lands 
+168	9 10 11 12 <==> 7 8 9 10	EQUI	5	at San Francisco airport	at San Francisco airport 
+169	1 2 3 4 <==> 1 2 3 4	EQUI	5	Delhi gang rape victim	Delhi gang rape victim 
+169	5 <==> 5	REL	2	dies	flown 
+169	6 7 8 <==> 6 7 8	EQUI	5	in Singapore hospital	to Singapore hospital 
+170	3 4 <==> 2 3	EQUI	5	to Review	to review 
+170	5 6 7 8 <==> 4 5 6 7	EQUI	5	Syria Chemical Arms Accord	Syria chemical arms accord 
+170	1 2 <==> 1	EQUI	5	Ban Ki-moon	Ban 
+171	4 5 6 <==> 5 6 7	REL	3	Syria chemical arms	Syria chemical mission 
+171	0 <==> 3 4	NOALI	NIL	-not aligned-	to help 
+171	3 <==> 0	NOALI	NIL	orders	-not aligned- 
+171	1 2 <==> 1	REL	2	UN resolution	Germany 
+171	0 <==> 2	NOALI	NIL	-not aligned-	ready 
+171	7 <==> 0	NOALI	NIL	destroyed	-not aligned- 
+172	5 6 <==> 0	NOALI	NIL	into sea	-not aligned- 
+172	0 <==> 4 5	NOALI	NIL	-not aligned-	to Nepal 
+172	2 3 <==> 0	NOALI	NIL	after man	-not aligned- 
+172	0 <==> 3	NOALI	NIL	-not aligned-	visit 
+172	0 <==> 1	NOALI	NIL	-not aligned-	Lara 
+172	0 <==> 2	NOALI	NIL	-not aligned-	plans 
+172	1 <==> 0	NOALI	NIL	Search	-not aligned- 
+172	4 <==> 0	NOALI	NIL	swept	-not aligned- 
+173	3 <==> 3	OPPO	4	acquitted	convicted 
+173	1 2 <==> 1 2	EQUI	5	NATO protesters	NATO protesters 
+173	4 5 6 <==> 4 5 6	SIMI	3	of terrorism charges	on non-terrorism charges 
+174	1 <==> 0	NOALI	NIL	Taliban	-not aligned- 
+174	6 7 <==> 9	EQUI	5	in Pakistan	Pakistan 
+174	0 <==> 8	NOALI	NIL	-not aligned-	hits 
+174	0 <==> 1 2 3 4	NOALI	NIL	-not aligned-	At least 33 dead 
+174	0 <==> 5 6 7	NOALI	NIL	-not aligned-	as big quake 
+174	2 3 <==> 0	NOALI	NIL	on agenda	-not aligned- 
+174	4 5 <==> 0	NOALI	NIL	for US	-not aligned- 
+175	4 5 6 <==> 5 6 7 8	SPE2	4	over Syria action	on Syria military action 
+175	2 <==> 0	NOALI	NIL	holds	-not aligned- 
+175	1 <==> 1	SIMI	2	Obama	Cameron 
+175	3 <==> 0	NOALI	NIL	talks	-not aligned- 
+175	0 <==> 3 4	NOALI	NIL	-not aligned-	parliamentary vote 
+175	0 <==> 2	NOALI	NIL	-not aligned-	loses 
+176	6 <==> 4 5	EQUI	5	talks	to talks 
+176	1 2 <==> 1 2	EQUI	5	Syria opposition	Syria opposition 
+176	4 5 <==> 0	NOALI	NIL	to quit	-not aligned- 
+176	3 <==> 0	NOALI	NIL	threatens	-not aligned- 
+176	0 <==> 3	NOALI	NIL	-not aligned-	agrees 
+177	3 <==> 3	SIMI	3	storm	topple 
+177	6 7 <==> 0	ALIC	NIL	of Kyiv	-not aligned- 
+177	1 2 <==> 1 2	SIMI	4	Anti-government protesters	Ukraine protesters 
+177	4 5 <==> 4 5	REL	3	the streets	Lenin statue 
+178	6 7 8 <==> 6 7 8	SPE2	4	in northwest Pakistan	in North Waziristan 
+178	5 <==> 5	SIMI	2	three	seven 
+178	4 <==> 4	EQUI	5	kills	kills 
+178	1 2 3 <==> 1 2 3	EQUI	5	US drone strike	US drone strike 
+179	2 <==> 2	REL	4	Sentenced	jailed 
+179	6 7 <==> 0	NOALI	NIL	for Leaking	-not aligned- 
+179	3 4 5 <==> 3 4 5	SIMI	2	to 35 Years	for 10 years 
+179	0 <==> 8 9 10	NOALI	NIL	-not aligned-	fake bomb detectors 
+179	1 <==> 0	NOALI	NIL	Manning	-not aligned- 
+179	0 <==> 6 7	NOALI	NIL	-not aligned-	for selling 
+179	0 <==> 1	NOALI	NIL	-not aligned-	Briton 
+179	8 9 <==> 0	NOALI	NIL	Government Secrets	-not aligned- 
+180	7 8 <==> 7 8	SPE2	4	's south	's Volgograd 
+180	3 <==> 3	EQUI	5	kills	kills 
+180	4 <==> 4	SIMI	4	13	16 
+180	1 2 <==> 1 2	EQUI	5	Suicide bomber	Suicide bomber 
+180	5 6 <==> 5 6	EQUI	5	in Russia	in Russia 
+181	1 2 3 4 5 <==> 1 2 3	EQUI	5	Bangladesh building collapse death toll	Bangladesh building-collapse toll 
+181	7 <==> 5	SIMI	3	540	600 
+181	8 <==> 0	NOALI	NIL	:	-not aligned- 
+181	6 <==> 4	SIMI	4	hits	tops 
+181	9 <==> 0	NOALI	NIL	army	-not aligned- 
+182	10 <==> 0	NOALI	NIL	but	-not aligned- 
+182	1 2 <==> 1 2	EQUI	5	Nelson Mandela	Nelson Mandela 
+182	0 <==> 6	NOALI	NIL	-not aligned-	unstable 
+182	11 <==> 0	NOALI	NIL	Nehru	-not aligned- 
+182	6 7 <==> 0	NOALI	NIL	was not	-not aligned- 
+182	3 4 5 <==> 0	NOALI	NIL	's real hero	-not aligned- 
+182	9 <==> 0	NOALI	NIL	,	-not aligned- 
+182	8 <==> 0	NOALI	NIL	Gandhi	-not aligned- 
+182	0 <==> 3 4	NOALI	NIL	-not aligned-	's health 
+182	0 <==> 7	NOALI	NIL	-not aligned-	' 
+182	0 <==> 5	NOALI	NIL	-not aligned-	` 
+183	1 2 3 <==> 1 2 3	EQUI	5	Hushen 300 Index	Hushen 300 Index 
+183	7 8 <==> 7 8	SIMI	2	Oct. 14	March 12 
+183	5 <==> 5	OPPO	5	higher	lower 
+183	6 <==> 0	NOALI	NIL	--	-not aligned- 
+183	4 <==> 4	EQUI	5	closes	closes 
+183	0 <==> 6	NOALI	NIL	-not aligned-	-- 
+184	5 6 7 <==> 6 7 8	EQUI	5	for first time	for first time 
+184	1 <==> 0	NOALI	NIL	Soccer-France	-not aligned- 
+184	0 <==> 1 2	NOALI	NIL	-not aligned-	NRA official 
+184	0 <==> 9 10 11	NOALI	NIL	-not aligned-	since controversial remarks 
+184	2 3 <==> 0	NOALI	NIL	to host	-not aligned- 
+184	0 <==> 3 4	NOALI	NIL	-not aligned-	to face 
+184	4 <==> 0	NOALI	NIL	Australia	-not aligned- 
+184	8 9 <==> 0	NOALI	NIL	in October	-not aligned- 
+184	0 <==> 5	NOALI	NIL	-not aligned-	questions 
+185	0 <==> 3 4	NOALI	NIL	-not aligned-	Moderate candidate 
+185	0 <==> 2	NOALI	NIL	-not aligned-	: 
+185	3 4 5 6 <==> 0	NOALI	NIL	in the Central Mediterranean	-not aligned- 
+185	0 <==> 5	NOALI	NIL	-not aligned-	wins 
+185	1 2 <==> 0	NOALI	NIL	Moderate tremor	-not aligned- 
+185	0 <==> 6 7	NOALI	NIL	-not aligned-	presidential vote 
+185	0 <==> 1	NOALI	NIL	-not aligned-	Iran 
+186	1 <==> 1	EQUI	5	Malaysia	Malaysia 
+186	5 6 <==> 5	SIMI	4	hangs on	wins 
+186	7 8 <==> 6	REL	4	to power	majority 
+186	2 3 4 <==> 2 3 4	SPE1	4	's long-ruling coalition	's ruling coalition 
+187	1 2 <==> 3 4	EQUI	5	19 hurt	19 hurt 
+187	3 4 5 6 <==> 8 9 10	SPE2	4	in New Orleans shooting	's Day shooting 
+187	0 <==> 1	NOALI_FACT	NIL	-not aligned-	Police 
+187	0 <==> 2	NOALI	NIL	-not aligned-	: 
+187	0 <==> 5 6 7	ALIC	NIL	-not aligned-	in NOLA Mother 
+188	5 6 <==> 3	SPE1	4	as date	date 
+188	3 4 <==> 0	ALIC	NIL	May 5	-not aligned- 
+188	1 <==> 1	EQUI	5	Malaysia	Malaysia 
+188	2 <==> 2	EQUI	5	sets	sets 
+188	7 8 9 10 <==> 4 5 6	SIMI	3	for closely contested election	for landmark elections 
+189	2 <==> 0	NOALI	NIL	kill	-not aligned- 
+189	4 <==> 0	NOALI	NIL	,	-not aligned- 
+189	3 <==> 0	NOALI	NIL	two	-not aligned- 
+189	7 8 9 <==> 4 5 6	SPE1	4	from Calgary homes	From Canada Homes 
+189	1 <==> 1	EQUI	5	Floods	Flooding 
+189	6 <==> 3	EQUI	5	75,000	75,000 
+189	5 <==> 2	EQUI	5	forces	Forces 
+190	7 8 <==> 7 8	EQUI	5	Moscow vote	Moscow vote 
+190	0 <==> 12	NOALI	NIL	-not aligned-	foul 
+190	0 <==> 9	NOALI	NIL	-not aligned-	, 
+190	4 5 <==> 4 5	EQUI	5	Putin ally	Putin ally 
+190	0 <==> 11	NOALI	NIL	-not aligned-	cries 
+190	6 <==> 6	EQUI	5	wins	wins 
+190	0 <==> 10	NOALI	NIL	-not aligned-	Navalny 
+190	3 <==> 3	SIMI	4	suggest	shows 
+190	1 2 <==> 1 2	EQUI	5	Exit polls	Exit polls 
+191	7 8 9 <==> 8 9 10	EQUI	5	over South Africa	over South Africa 
+191	2 <==> 3 4	SIMI	4	smashes	sets up 
+191	1 <==> 1 2	SPE2	4	Dhawan	Dhawan ton 
+191	4 5 6 <==> 0	ALIC	NIL	to big win	-not aligned- 
+191	3 <==> 5 6 7	EQUI	5	India	India Trophy win 
+192	5 6 <==> 4 5	SIMI	4	3 militants	4 militants 
+192	4 <==> 3	EQUI	5	kills	kills 
+192	7 8 <==> 6 7	EQUI	5	in Pakistan	in Pakistan 
+192	1 2 3 <==> 1 2	SPE1_FACT	4	Suspected US drone	U.S. drone 
+193	4 5 <==> 7 8	EQUI	5	with prayer	for Prayers 
+193	3 <==> 5 6	REL	4	papacy	of Vatican 
+193	2 <==> 0	NOALI	NIL	begins	-not aligned- 
+193	1 <==> 1 2	SPE2	4	Francis	Pope Francis 
+193	0 <==> 3 4	NOALI	NIL	-not aligned-	Slips Out 
+194	7 8 <==> 8 9	EQUI	5	's Sinai	's Sinai 
+194	10 <==> 0	NOALI_FACT	NIL	sources	-not aligned- 
+194	9 <==> 0	NOALI	NIL	-	-not aligned- 
+194	2 <==> 2	EQUI	5	released	release 
+194	1 <==> 3 4	SPE2	4	Britons	two Britons 
+194	5 6 <==> 6 7	EQUI	5	in Egypt	in Egypt 
+194	3 4 <==> 5	SIMI	4	after kidnapping	seized 
+194	0 <==> 1	NOALI	NIL	-not aligned-	Bedouin 
+195	3 4 <==> 9 10 11	SIMI	4	European backlash	by European countries 
+195	1 <==> 1	EQUI	5	Israel	Israel 
+195	2 <==> 2	SIMI	4	faces	called 
+195	0 <==> 3 4	ALIC	NIL	-not aligned-	to account 
+195	5 6 7 <==> 5 6 7 8	SPE2	4	over settlement plan	over latest settlement plans 
+196	5 6 7 <==> 6 7 8	EQUI	5	's abuse claims	's abuse claims 
+196	1 <==> 1	EQUI	5	Allen	Allen 
+196	0 <==> 3	NOALI	NIL	-not aligned-	self 
+196	8 9 <==> 0	NOALI	NIL	in letter	-not aligned- 
+196	2 <==> 2	SIMI	3	responds	defends 
+196	3 4 <==> 4 5	EQUI	5	to Farrow	against Farrow 
+197	4 <==> 0	NOALI	NIL	arrives	-not aligned- 
+197	2 3 <==> 3 4	EQUI	5	's father	's father 
+197	5 6 <==> 5 6	EQUI	5	in Moscow	in Moscow 
+197	1 <==> 1 2	EQUI	5	Snowden	Edward Snowden 
+198	0 <==> 4 5 6	NOALI	NIL	-not aligned-	as user base 
+198	6 7 8 <==> 0	NOALI	NIL	as mobile ads	-not aligned- 
+198	3 <==> 3	EQUI	5	jump	jump 
+198	1 2 <==> 1 2	EQUI	5	Facebook earnings	Facebook profits 
+198	4 5 <==> 0	NOALI	NIL	63 %	-not aligned- 
+198	9 <==> 7	SIMI	2	accelerate	expands 
+199	1 2 3 <==> 1 2 3	EQUI	5	Rogers , Videotron	Rogers , Videotron 
+199	5 <==> 4	EQUI	5	reach	reach 
+199	4 <==> 0	NOALI	NIL	extend	-not aligned- 
+199	6 7 8 <==> 5 6 7 8	SPE2	4	with network-sharing deal	network-sharing , spectrum deal 
+200	1 2 3 <==> 0	ALIC	NIL	Bangladesh Islamist execution	-not aligned- 
+200	4 <==> 2	EQUI	5	upheld	executes 
+200	0 <==> 3 4	ALIC	NIL	-not aligned-	opposition leader 
+200	0 <==> 1	ALIC	NIL	-not aligned-	Bangladesh 
+201	0 <==> 1	ALIC	NIL	-not aligned-	Italy 
+201	0 <==> 2 3 4	NOALI	NIL	-not aligned-	to swear in 
+201	3 4 5 6 <==> 5 6 7	SPE2	4	on new Italian government	new coalition government 
+201	1 <==> 0	NOALI	NIL	Deal	-not aligned- 
+201	2 <==> 0	NOALI	NIL	reached	-not aligned- 
+202	5 <==> 5	EQUI	5	declared	Named 
+202	6 7 <==> 6 7 8	EQUI	5	tallest building	Tallest US Building 
+202	8 9 <==> 0	ALIC	NIL	in U.S.	-not aligned- 
+202	1 2 3 4 <==> 1 2 3 4	SPE1	4	New World Trade Center	One World Trade Center 
+203	0 <==> 6 7 8	NOALI	NIL	-not aligned-	in Hacking Case 
+203	1 2 <==> 1 2	EQUI	5	Piers Morgan	Piers Morgan 
+203	4 5 <==> 4 5	EQUI	5	by police	by Police 
+203	3 <==> 3	EQUI	5	questioned	Interviewed 
+204	0 <==> 1	NOALI	NIL	-not aligned-	Egypt 
+204	0 <==> 2	NOALI	NIL	-not aligned-	: 
+204	1 2 <==> 3 4	EQUI	5	Egypt Crackdown	Egypt crackdown 
+204	4 <==> 6 7	SPE2	3	Condemnation	global outrage 
+204	3 <==> 5	EQUI	5	Draws	sparks 
+205	4 5 6 <==> 4 5 6 7 8	SPE2	4	reach wealth-sharing deal	reach ` wealth deal ' 
+205	1 2 3 <==> 1 2 3	EQUI	5	Philippines , rebels	Philippines and rebels 
+206	4 5 6 7 <==> 6 7 8 9	EQUI	5	from four NA seats	from four NA seats 
+206	0 <==> 5	NOALI	NIL	-not aligned-	elections 
+206	2 3 <==> 3 4	EQUI	5	to contest	to contest 
+206	1 <==> 1 2	SPE2	4	Imran	Imran Khan 
+207	1 2 3 <==> 1 2	SPE1	4	Pro-Pak Taliban warlord	Taliban commander 
+207	5 6 7 8 <==> 4 5 6 7	EQUI	5	in US drone strike	in US drone strike 
+207	4 <==> 3	EQUI	5	killed	killed 
+208	1 2 <==> 1 2	EQUI	5	Car bomb	Car bomb 
+208	5 6 7 <==> 3 4 5	SPE1	4	in northwest Syria	in northern Syria 
+208	3 <==> 6	EQUI	5	kills	kills 
+208	4 <==> 7	EQUI	5	20	20 
+209	1 2 <==> 4 5	SPE2	3	Five foreigners	amid 5 
+209	6 7 8 <==> 8 9 10	EQUI	5	for drug smuggling	for drug smuggling 
+209	9 10 <==> 1	EQUI	5	in Egypt	Egypt 
+209	0 <==> 3	ALIC	NIL	-not aligned-	Pakistani 
+209	3 <==> 2	EQUI	5	sentenced	sentences 
+209	4 5 <==> 6 7	EQUI	5	to death	to death 
+210	2 <==> 2	EQUI	5	votes	vote 
+210	1 <==> 1	EQUI	5	Egypt	Egyptians 
+210	3 4 5 <==> 3 4 5	SPE2	4	on new constitution	on divisive constitution 
+211	2 3 <==> 4 5	EQUI	5	who battled	who battled 
+211	1 <==> 1 2 3	SPE2	3	Man	Former plant chief 
+211	6 <==> 8	EQUI	5	dies	dies 
+211	4 5 <==> 6 7	EQUI	5	Fukushima disaster	Fukushima disaster 
+211	7 8 <==> 9 10	EQUI	5	of cancer	of cancer 
+212	1 2 <==> 1 2	SIMI	4	Nigeria lawmaker	Nigerian MP 
+212	4 5 6 <==> 6 7 8	SPE2	3	over alleged bribery	$ 3m bribe 
+212	3 <==> 3	EQUI	5	charged	charged 
+212	0 <==> 4 5	ALIC	NIL	-not aligned-	with accepting 
+213	0 <==> 4	ALIC	NIL	-not aligned-	statement 
+213	3 4 <==> 2 3	EQUI	5	to speak	to deliver 
+213	5 6 <==> 5 6	EQUI	5	on Syria	on Syria 
+213	2 <==> 0	NOALI	NIL	set	-not aligned- 
+213	7 8 9 <==> 7 8 9	EQUI	5	from White House	at White House 
+213	10 11 12 13 <==> 10 11 12	SPE1	4	at 1:15 p.m. EDT	at 1:15 PM 
+213	1 <==> 1	EQUI	5	Obama	Obama 
+214	1 2 3 4 <==> 1 2 3 4	SPE1	4	New World Trade Centre	One World Trade Center 
+214	7 8 <==> 0	ALIC	NIL	in US	-not aligned- 
+214	0 <==> 5	NOALI	NIL	-not aligned-	Named 
+214	5 6 <==> 6 7 8	EQUI	5	tallest building	Tallest US Building 
+215	5 6 7 <==> 5 6 7	EQUI	5	shattered Pak region	shattered Pakistan region 
+215	1 2 3 <==> 1 2 3	EQUI	5	Strong new quake	Powerful new earthquake 
+215	4 <==> 4	EQUI	5	hits	hits 
+216	1 2 3 4 <==> 1 2 3 4 5	EQUI	5	Fashion designer Lilly Pulitzer	Designer , Socialite Lilly Pulitzer 
+216	5 <==> 6	EQUI	5	dies	Dies 
+216	0 <==> 7 8	NOALI	NIL	-not aligned-	at 81 
+217	0 <==> 7 8 9	ALIC	NIL	-not aligned-	with fuel truck 
+217	3 4 5 6 <==> 6	SPE2	4	in Indonesia train accident	collides 
+217	0 <==> 3 4 5	ALIC	NIL	-not aligned-	as Indonesia train 
+217	1 2 <==> 1 2	SIMI	4	Four dead	Five dead 
+218	1 2 3 <==> 1 2 3	EQUI	5	Miss New York	Miss New York 
+218	5 6 7 <==> 6 7	EQUI	5	Miss America crown	Miss America 
+218	4 <==> 4 5	EQUI	5	wins	is crowned 
+219	1 <==> 1 2	SPE2	4	Austrian	Austrian man 
+219	2 <==> 3	SPE2	2	found	charged 
+219	7 8 9 <==> 10 11 12	SPE1	4	in home museum	at his home 
+219	3 <==> 8 9	REL	3	hoarding	are found 
+219	4 5 6 <==> 4 5 6 7	EQUI	5	56 stolen skulls	after 56 human skulls 
+220	1 <==> 1	EQUI	5	Thousands	Thousands 
+220	3 4 <==> 3 4	EQUI	5	gay marriage	gay marriage 
+220	2 <==> 2	EQUI	5	protest	protest 
+220	0 <==> 5 6	NOALI	NIL	-not aligned-	in France 
+221	0 <==> 6	ALIC	NIL	-not aligned-	operation 
+221	8 <==> 5	EQUI	5	Opens	begins 
+221	2 3 4 5 6 7 <==> 1 2 3 4	SPE1	4	's 1st Pilot Free Trade Zone	Shanghai Free Trade Zone 
+221	1 <==> 0	ALIC	NIL	China	-not aligned- 
+222	8 <==> 5	SPE1	4	kills	Hits 
+222	9 <==> 0	NOALI	NIL	17	-not aligned- 
+222	1 2 3 <==> 1 2 3 4	EQUI	5	Gas cylinder blast	Deadly Gas Cylinder Blast 
+222	4 5 6 7 <==> 6 7 8	EQUI	5	on Pakistan school bus	Pakistan School Bus 
+223	1 <==> 1	EQUI	5	Protests	Protests 
+223	4 5 <==> 5 6	SIMI	4	despite concession	despite concessions 
+223	3 <==> 3 4	EQUI	5	Brazil	across Brazil 
+223	2 <==> 2	REL	2	sweep	planned 
+224	4 <==> 4	SIMI	4	Start	set 
+224	6 7 8 <==> 7 8 9	EQUI	5	Joint Factory Zone	joint factory zone 
+224	5 <==> 5 6	EQUI	5	Leaving	to leave 
+224	1 2 3 <==> 1 2 3	EQUI	5	South Korean Workers	South Korean workers 
+225	1 <==> 2 3	EQUI	5	Guatemala	in Guatemala 
+225	3 4 5 6 <==> 5 6 7	EQUI	5	software guru John McAfee	software guru McAfee 
+225	0 <==> 9	NOALI	NIL	-not aligned-	deportation 
+225	2 <==> 1	EQUI	5	arrests	Held 
+225	0 <==> 8	NOALI	NIL	-not aligned-	fights 
+225	0 <==> 4	NOALI	NIL	-not aligned-	, 
+226	1 <==> 1	EQUI	5	Obama	Obama 
+226	2 <==> 2	EQUI	5	travels	visits 
+226	3 4 5 <==> 3 4 5	EQUI	5	to tornado-ravaged Oklahoma	tornado hit Oklahoma 
+227	0 <==> 7 8	ALIC	NIL	-not aligned-	after clashes 
+227	3 4 5 6 7 <==> 3 4 5 6	EQUI	5	in Central African Republic fighting	in Central African Republic 
+227	1 2 <==> 1 2	SPE2	3	Dozens dead	98 dead 
+228	4 <==> 1 2	SIMI	4	Fitch	Moody 's 
+228	6 7 8 <==> 4 5 6	EQUI	5	Greek credit rating	Greek credit rating 
+228	2 <==> 0	NOALI	NIL	Ticker	-not aligned- 
+228	1 <==> 0	NOALI	NIL	-LRB-	-not aligned- 
+228	3 <==> 0	NOALI	NIL	-RRB-	-not aligned- 
+228	5 <==> 3	EQUI	5	upgrades	upgrades 
+229	0 <==> 3	NOALI	NIL	-not aligned-	Nishikori 
+229	3 4 5 6 <==> 6 7 8 9	EQUI	5	into Australian Open quarter-finals	to Australian Open quarterfinals 
+229	1 <==> 1	EQUI	5	Ferrer	Ferrer 
+229	0 <==> 2	NOALI	NIL	-not aligned-	beats 
+229	2 <==> 4 5	SIMI	4	cruises	to advance 
+230	4 5 <==> 4 5	EQUI	5	sworn in	sworn in 
+230	1 2 3 <==> 1 2 3	EQUI	5	Top judge Mansour	Justice Adly Mansour 
+230	6 7 8 9 <==> 6 7 8 9	EQUI	5	as Egypt interim president	as Egypt interim president 
+231	0 <==> 1	ALIC	NIL	-not aligned-	Kenya 
+231	0 <==> 2	NOALI	NIL	-not aligned-	: 
+231	4 5 6 7 8 <==> 3	SPE1	1	key Al-Shabaab recruiter , financier	Pair 
+231	3 <==> 4	EQUI	5	arrest	Arrested 
+231	1 2 <==> 5 6 7	SPE2	4	Kenyan police	By Anti-Terror Police 
+232	8 9 <==> 8	EQUI	5	two people	2 
+232	3 4 5 6 <==> 3 4 5 6	SPE2	4	at Greek shopping mall	at Athens shopping mall 
+232	10 <==> 9	EQUI	5	injured	wounded 
+232	1 <==> 1	EQUI	5	Bomb	Bomb 
+232	7 <==> 0	NOALI	NIL	,	-not aligned- 
+232	0 <==> 7	NOALI	NIL	-not aligned-	, 
+232	2 <==> 2	EQUI	5	explodes	explodes 
+233	1 2 <==> 1 2	EQUI	5	Three dead	3 dead 
+233	3 <==> 0	NOALI	NIL	,	-not aligned- 
+233	7 8 9 10 <==> 3 4 5 6	EQUI	5	in Maryland mall shooting	in Maryland mall shooting 
+233	5 <==> 0	NOALI	NIL	gunman	-not aligned- 
+233	4 <==> 0	NOALI	NIL	including	-not aligned- 
+233	6 <==> 0	NOALI	NIL	,	-not aligned- 
+234	2 <==> 2	EQUI	5	killed	killed 
+234	0 <==> 5	NOALI	NIL	-not aligned-	â 
+234	1 <==> 1	SIMI	4	7	6 
+234	0 <==> 3 4	NOALI	NIL	-not aligned-	in Mexico 
+234	3 4 5 6 <==> 0	NOALI	NIL	in monster truck crash	-not aligned- 
+235	2 <==> 2	REL	3	Vies	Wins 
+235	3 4 <==> 0	NOALI	NIL	3rd Term	-not aligned- 
+235	0 <==> 3	NOALI	NIL	-not aligned-	Big 
+235	7 8 9 <==> 4 5 6	EQUI	5	in Germany Elections	in Germany Election 
+235	1 <==> 1	EQUI	5	Merkel	Merkel 
+235	5 6 <==> 0	NOALI	NIL	in Office	-not aligned- 
+236	9 10 11 <==> 7 8 9	EQUI	5	for banned substance	for banned substance 
+236	1 2 3 4 5 6 <==> 1 2 3 4	SIMI	3	Sprinters Tyson Gay and Asafa Powell	US sprinter Tyson Gay 
+236	7 <==> 5	EQUI	5	test	tests 
+236	8 <==> 6	EQUI	5	positive	positive 
+237	1 2 <==> 1 2	EQUI	5	Egypt court	Egypt court 
+237	4 <==> 5	EQUI	5	release	freed 
+237	5 6 <==> 4	EQUI	5	of Mubarak	Mubarak 
+237	3 <==> 3	EQUI	5	orders	orders 
+238	4 5 6 7 <==> 5 6 7	EQUI	5	higher car insurance premiums	insurance premium rise 
+238	1 <==> 1 2	EQUI	5	Women	Women drivers 
+238	2 3 <==> 3 4	EQUI	5	to face	to face 
+239	8 9 10 <==> 9 10 11	EQUI	5	since Rowhani election	since Rohani election 
+239	1 2 3 4 <==> 1 2 3	EQUI	5	Iran , atomic agency	IAEA , Iran 
+239	0 <==> 4 5	NOALI	NIL	-not aligned-	to hold 
+239	5 6 7 <==> 6 7 8	SPE2	4	in first talks	first nuclear talks 
+240	4 <==> 4 5	EQUI	5	Hit	shot at 
+240	1 2 3 <==> 1 2 3	EQUI	5	US Military Aircraft	US military aircraft 
+240	8 <==> 0	NOALI	NIL	,	-not aligned- 
+240	0 <==> 6 7 8	NOALI	NIL	-not aligned-	during evacuation mission 
+240	10 <==> 0	NOALI	NIL	Wounded	-not aligned- 
+240	5 6 7 <==> 9 10 11	EQUI	5	in S. Sudan	in South Sudan 
+240	9 <==> 0	NOALI	NIL	4	-not aligned- 
+241	9 10 <==> 11 12 13	SPE2	4	for rape	for gang rape 
+241	3 4 <==> 1	EQUI	5	's son	Son 
+241	1 2 <==> 2 3 4 5	REL	2	Chinese general	of Chinese army singers 
+241	5 <==> 6	EQUI	5	gets	gets 
+241	0 <==> 9 10	ALIC	NIL	-not aligned-	' jail 
+241	6 7 8 <==> 7 8	EQUI	5	10 years jail	10 years 
+242	1 2 <==> 0	ALIC	NIL	In Pakistan	-not aligned- 
+242	8 9 10 <==> 6 7 8	EQUI	5	the other Taliban	the other Taleban 
+242	4 <==> 1 2	EQUI	5	army	Pak army 
+242	6 7 <==> 4 5	EQUI	5	on fighting	on fighting 
+242	3 <==> 0	NOALI	NIL	,	-not aligned- 
+242	5 <==> 3	EQUI	5	adamant	adamant 
+243	3 <==> 3	EQUI	5	Slams	slams 
+243	1 2 <==> 1 2	EQUI	5	Israeli Minister	Israeli minister 
+243	5 6 7 <==> 5 6 7	EQUI	5	's Boycott Warning	's boycott warning 
+243	4 <==> 4	EQUI	5	Kerry	Kerry 
+244	1 <==> 0	ALIC	NIL	Myanmar	-not aligned- 
+244	6 7 <==> 4 5	EQUI	5	party unity	party unity 
+244	2 3 4 <==> 1 2	SPE1	4	's Suu Kyi	Suu Kyi 
+244	5 <==> 3	EQUI	5	urges	urges 
+244	8 9 <==> 6 7	EQUI	5	amid squabbles	amid squabbles 
+245	0 <==> 3	NOALI	NIL	-not aligned-	, 
+245	4 5 <==> 4 5	EQUI	5	defense contractors	defense firms 
+245	7 <==> 0	ALIC	NIL	harm	-not aligned- 
+245	1 2 <==> 1 2	EQUI	5	White House	White House 
+245	8 9 10 11 <==> 7 8 9	SPE1	4	of automatic spending cuts	automatic spending cuts 
+245	6 <==> 6	EQUI	5	discuss	discuss 
+245	3 <==> 0	NOALI	NIL	,	-not aligned- 
+246	1 2 3 <==> 2 3 4 5	SPE2	4	Former Zambian president	's ex-President Rupiah Banda 
+246	0 <==> 1	ALIC	NIL	-not aligned-	Zambia 
+246	4 <==> 6	EQUI	5	arrested	arrested 
+247	4 5 <==> 0	NOALI	NIL	after string	-not aligned- 
+247	3 <==> 3	SIMI	4	rally	up 
+247	6 7 8 <==> 4 5 6 7 8	SPE2	3	of upbeat data	on Strong US Jobs Data 
+247	1 2 <==> 1 2	EQUI	5	Asian shares	Asian Markets 
+248	1 <==> 0	ALIC	NIL	Faction	-not aligned- 
+248	2 <==> 3	REL	3	Names	becomes 
+248	5 6 7 <==> 4 5 6	EQUI	5	APGA National Leader	APGA national leader 
+248	3 4 <==> 1 2	EQUI	5	Bianca Ojukwu	Bianca Ojukwu 
+249	6 <==> 6	EQUI	5	kills	kills 
+249	7 8 <==> 7 8 9	SPE1	3	47 people	at least 75 
+249	1 2 <==> 1 2	EQUI	5	Strong earthquake	Strong earthquake 
+249	3 4 5 <==> 3 4 5	EQUI	5	in western China	in western China 
+250	2 <==> 2	EQUI	5	thanks	thanks 
+250	1 <==> 1	EQUI	5	Snowden	Snowden 
+250	3 <==> 3	EQUI	5	Russia	Russia 
+250	4 5 <==> 4 5	EQUI	5	for asylum	for granting 
+250	0 <==> 6	ALIC	NIL	-not aligned-	asylum 
+251	3 <==> 3	EQUI	5	take	seize 
+251	1 2 <==> 1 2	EQUI	5	French forces	French forces 
+251	4 5 6 <==> 4 5	SPE1	4	key Mali town	key town 
+252	4 <==> 2	EQUI	5	leaves	leaves 
+252	1 <==> 0	ALIC	NIL	Pakistan	-not aligned- 
+252	5 <==> 3 4	SPE2	4	hospital	British hospital 
+252	8 <==> 0	NOALI	NIL	surgery	-not aligned- 
+252	2 3 <==> 1	EQUI	5	's Malala	Malala 
+252	6 7 <==> 0	NOALI	NIL	to await	-not aligned- 
+253	7 8 9 <==> 0	ALIC	NIL	at essex hotel	-not aligned- 
+253	1 <==> 1 2 3	SPE2	4	two	Man and woman 
+253	2 <==> 4	EQUI	5	found	found 
+253	3 <==> 5	EQUI	5	dead	dead 
+253	4 5 6 <==> 6 7 8 9 10	EQUI	5	in swimming pool	in Essex hotel swimming pool 
+254	3 4 5 <==> 3 4 5	EQUI	5	US drone strike	US drone strike 
+254	1 <==> 1	EQUI	5	Pakistan	Pakistan 
+254	2 <==> 2	EQUI	5	condemns	condemns 
+254	6 7 8 <==> 6 7	SPE1	4	in Shawal Area	in Miranshah 
+255	6 <==> 4	EQUI	5	charges	charges 
+255	2 3 <==> 1	EQUI	5	's Ahmadinejad	Ahmadinejad 
+255	1 <==> 0	ALIC	NIL	Iran	-not aligned- 
+255	4 5 <==> 2 3	EQUI	5	may face	may face 
+255	10 11 <==> 0	NOALI	NIL	with aide	-not aligned- 
+255	7 8 9 <==> 5 6 7	EQUI	5	over election appearance	over election appearance 
+256	0 <==> 5	NOALI	NIL	-not aligned-	, 
+256	5 <==> 4	EQUI	5	up	higher 
+256	6 <==> 0	NOALI	NIL	ahead	-not aligned- 
+256	7 8 9 <==> 0	NOALI	NIL	of jobs report	-not aligned- 
+256	1 2 3 <==> 1 2	SPE1	4	US stock futures	Stock futures 
+256	0 <==> 6 7	NOALI	NIL	-not aligned-	all eyes 
+256	0 <==> 8 9	NOALI	NIL	-not aligned-	on Fed 
+256	4 <==> 3	EQUI	5	edge	edge 
+257	3 <==> 3 4	SPE2	4	sanctions	diamond sanctions 
+257	1 <==> 1	EQUI	5	EU	EU 
+257	4 5 <==> 5 6	EQUI	5	against Zimbabwe	against Zimbabwe 
+257	2 <==> 2	SPE1	4	renews	lifts 
+258	2 3 <==> 2 3	EQUI	5	reach agreement	reach agreement 
+258	4 5 <==> 4 5 6	SPE2	4	on Syria	on Syria weapons 
+258	1 <==> 1	EQUI	5	US-Russia	US-Russia 
+259	1 <==> 1	EQUI	5	Obama	Obama 
+259	3 4 <==> 3	EQUI	5	Moscow meeting	meeting 
+259	2 <==> 2	EQUI	5	cancels	canceled 
+259	5 6 <==> 4 5	EQUI	5	with Putin	with Putin 
+260	6 <==> 0	NOALI	NIL	'	-not aligned- 
+260	2 <==> 0	NOALI	NIL	`	-not aligned- 
+260	4 5 <==> 6 7	EQUI	5	legal action	legal action 
+260	3 <==> 5	EQUI	5	threatens	threatens 
+260	7 8 9 <==> 8 9 10	SIMI	4	after affair allegations	over affair claims 
+260	1 <==> 1 2 3 4	EQUI	5	Hollande	FranÃ § ois Hollande 
+261	4 5 <==> 1 2	EQUI	5	Sri Lanka	Sri Lanka 
+261	8 9 10 11 <==> 4 5 6 7	EQUI	5	over war crime allegations	over war crime allegations 
+261	1 2 <==> 0	NOALI	NIL	David Cameron	-not aligned- 
+261	3 <==> 3	EQUI	5	puts	warned 
+261	6 7 <==> 0	ALIC	NIL	on notice	-not aligned- 
+262	3 <==> 2	EQUI	5	prays	prays 
+262	4 5 <==> 3 4	EQUI	5	for metro	for metro 
+262	1 2 <==> 1	EQUI	5	Indonesian capital	Jakarta 
+262	6 7 <==> 5 6	EQUI	5	to ease	to ease 
+262	8 9 <==> 7 8	EQUI	5	traffic chaos	traffic chaos 
+263	3 <==> 3	SPE1	3	Wounds	rocks 
+263	5 6 7 <==> 4 5	EQUI	5	in Hezbollah Stronghold	Hezbollah stronghold 
+263	4 <==> 0	ALIC	NIL	15	-not aligned- 
+263	1 2 <==> 1 2	EQUI	5	Car Bomb	Car bomb 
+263	8 9 <==> 6 7	EQUI	5	in Lebanon	in Lebanon 
+264	9 10 11 <==> 1 2 3 4 5	EQUI	5	after Hakimullah Mehsud	Pakistani Taliban chief Hakimullah Mehsud 
+264	4 5 6 7 8 <==> 0	ALIC	NIL	as new Pakistani Taliban leader	-not aligned- 
+264	13 14 15 <==> 7 8 9	EQUI	5	in drone strike	in drone strike 
+264	1 2 <==> 0	NOALI	NIL	Khan Said	-not aligned- 
+264	12 <==> 6	EQUI	5	killed	killed 
+264	3 <==> 0	NOALI	NIL	named	-not aligned- 
+265	2 <==> 2	EQUI	5	releases	releases 
+265	1 <==> 1	EQUI	5	Pakistan	Pakistan 
+265	3 4 5 6 <==> 3 4 5 6	SPE1	3	top Afghan Taliban prisoner	seven Afghan Taliban fighters 
+266	0 <==> 5 6 7	NOALI	NIL	-not aligned-	at US embassy 
+266	4 <==> 4	SPE2	1	9	guard 
+266	3 <==> 3	EQUI	5	kills	kills 
+266	5 6 7 8 <==> 0	NOALI	NIL	at Pakistan political rally	-not aligned- 
+266	0 <==> 8 9	NOALI	NIL	-not aligned-	in Turkey 
+266	1 2 <==> 1 2	EQUI	5	Suicide bomber	Suicide bomber 
+267	2 <==> 0	NOALI	NIL	take	-not aligned- 
+267	3 4 <==> 0	NOALI	NIL	a ride	-not aligned- 
+267	5 6 <==> 0	NOALI	NIL	on airwaves	-not aligned- 
+267	0 <==> 4 5	NOALI	NIL	-not aligned-	off Taiwan 
+267	0 <==> 3	NOALI	NIL	-not aligned-	hits 
+267	1 <==> 0	NOALI	NIL	Students	-not aligned- 
+267	0 <==> 1 2	NOALI	NIL	-not aligned-	5.5-magnitude quake 
+268	5 <==> 5	EQUI	5	higher	higher 
+268	1 <==> 1	EQUI	5	Stocks	Stocks 
+268	2 <==> 2	EQUI	5	close	close 
+268	3 4 <==> 3 4	SIMI	2	0.39 %	2.47 % 
+269	3 4 <==> 3 4 5	SIMI	1	one soldier	6 polio workers 
+269	6 <==> 0	NOALI	NIL	injure	-not aligned- 
+269	2 <==> 2	EQUI	5	kill	kill 
+269	5 <==> 0	NOALI	NIL	,	-not aligned- 
+269	9 10 <==> 6 7	EQUI	5	in Pakistan	in Pakistan 
+269	7 8 <==> 0	NOALI	NIL	two others	-not aligned- 
+269	1 <==> 1	EQUI	5	Gunmen	Gunmen 
+270	7 <==> 0	NOALI	NIL	begins	-not aligned- 
+270	0 <==> 7 8	NOALI	NIL	-not aligned-	Could Prove 
+270	2 3 <==> 2 3	EQUI	5	of Syria	of Syria 
+270	4 5 6 <==> 4 5 6	EQUI	5	's chemical weapons	's Chemical Weapons 
+270	0 <==> 9	NOALI	NIL	-not aligned-	Difficult 
+270	1 <==> 1	EQUI	5	Destruction	Destruction 
+271	2 <==> 0	NOALI	NIL	coming	-not aligned- 
+271	4 5 <==> 0	NOALI	NIL	to listen	-not aligned- 
+271	3 <==> 0	NOALI	NIL	`	-not aligned- 
+271	1 <==> 1	SIMI	3	Obama	Kerry 
+271	6 <==> 0	NOALI	NIL	'	-not aligned- 
+271	0 <==> 3 4	NOALI	NIL	-not aligned-	Arab Plan 
+271	7 8 9 10 <==> 5 6 7	REL	4	to Israel , Palestinians	for Israeli-Palestinian Talks 
+271	0 <==> 2	NOALI	NIL	-not aligned-	Welcomes 
+272	0 <==> 4	NOALI	NIL	-not aligned-	Work 
+272	5 6 <==> 5 6 7 8 9 10 11	REL	3	chemical weapons	on ` Concrete ' Chemical Weapons Plan 
+272	1 <==> 1 2 3	SPE2	3	Syria	Russia , Syria 
+272	2 <==> 0	NOALI	NIL	`	-not aligned- 
+272	7 <==> 0	NOALI	NIL	and	-not aligned- 
+272	8 <==> 0	NOALI	NIL	sign	-not aligned- 
+272	10 <==> 0	NOALI	NIL	'	-not aligned- 
+272	3 4 <==> 0	NOALI	NIL	to declare	-not aligned- 
+272	9 <==> 0	NOALI	NIL	convention	-not aligned- 
+273	1 2 3 4 5 <==> 2 3 4 5	SIMI	2	Italian Prime Minister Mario Monti	Palestinian Prime Minister Fayyad 
+273	6 <==> 6	EQUI	5	Resigns	resigns 
+273	0 <==> 7	NOALI	NIL	-not aligned-	' 
+273	0 <==> 1	NOALI	NIL	-not aligned-	` 
+274	0 <==> 1	NOALI	NIL	-not aligned-	Oh 
+274	0 <==> 7	NOALI	NIL	-not aligned-	â 
+274	5 6 <==> 0	NOALI	NIL	for Christmas	-not aligned- 
+274	0 <==> 3 4	NOALI	NIL	-not aligned-	little town 
+274	1 <==> 0	NOALI	NIL	Crowds	-not aligned- 
+274	3 4 <==> 5 6	EQUI	5	in Bethlehem	of Bethlehem 
+274	0 <==> 2	NOALI	NIL	-not aligned-	, 
+274	2 <==> 0	NOALI	NIL	Gather	-not aligned- 
+275	1 2 <==> 1 2	SIMI	4	Israeli soldier	Israeli soldiers 
+275	6 7 <==> 6 7 8	SPE1	4	in Hebron	in West Bank 
+275	3 <==> 3	SIMI	2	hits	kill 
+275	4 5 <==> 4 5	SIMI	3	Palestinian child	Palestinian woman 
+276	0 <==> 8	ALIC	NIL	-not aligned-	Hundreds 
+276	3 <==> 12 13	SIMI	3	attack	drive back 
+276	0 <==> 1 2	ALIC	NIL	-not aligned-	A battle 
+276	1 2 <==> 9 10 11	SPE2	4	French forces	of French troops 
+276	4 <==> 14 15	SIMI	4	al-Qaeda	al-Qaida-linked rebels 
+276	0 <==> 5 6	ALIC	NIL	-not aligned-	north Mali 
+276	0 <==> 3 4	NOALI	NIL	-not aligned-	to retake 
+276	5 6 7 <==> 0	ALIC	NIL	's Mali allies	-not aligned- 
+276	0 <==> 7	NOALI	NIL	-not aligned-	: 
+277	2 <==> 2	SIMI	4	Mounts	mulls 
+277	1 <==> 1	EQUI	5	Algeria	Algeria 
+277	5 6 <==> 0	NOALI	NIL	to Rescue	-not aligned- 
+277	3 4 <==> 3 4	SPE2	4	Military Operation	international force 
+277	7 8 9 <==> 5 6	SPE1	4	Al Qaeda Hostages	for hostages 
+278	5 6 <==> 0	NOALI	NIL	at entrance	-not aligned- 
+278	0 <==> 2	NOALI	NIL	-not aligned-	Charged 
+278	1 <==> 1	EQUI	5	Man	Man 
+278	7 8 9 <==> 0	ALIC	NIL	to Buckingham Palace	-not aligned- 
+278	4 <==> 3 4 5 6	EQUI	5	arrested	After Buckingham Palace Arrest 
+278	2 3 <==> 0	NOALI	NIL	with knife	-not aligned- 
+279	2 <==> 0	NOALI	NIL	blasts	-not aligned- 
+279	0 <==> 3	NOALI	NIL	-not aligned-	cabinet 
+279	0 <==> 2	NOALI	NIL	-not aligned-	urges 
+279	4 5 6 <==> 6 7 8	SPE2	4	over prisoner release	Palestinian prisoners release 
+279	0 <==> 4 5	NOALI	NIL	-not aligned-	to approve 
+279	3 <==> 1	SIMI	2	Netanyahu	Yacimovich 
+279	1 <==> 0	NOALI	NIL	Almagor	-not aligned- 
+280	5 <==> 0	NOALI	NIL	ground	-not aligned- 
+280	6 7 <==> 0	NOALI	NIL	after killings	-not aligned- 
+280	1 <==> 1	EQUI	5	Egypt	Egypt 
+280	0 <==> 6 7	NOALI	NIL	-not aligned-	Behind Morsi 
+280	0 <==> 2	NOALI	NIL	-not aligned-	: 
+280	2 3 <==> 3 4	SPE2	4	's Brotherhood	Muslim Brotherhood 
+280	4 <==> 5	EQUI	5	stands	Stands 
+281	1 2 3 <==> 1 2 3	SIMI	2	4 NATO Troops	Eight NATO Troops 
+281	5 6 <==> 5 6	EQUI	5	in Afghanistan	In Afghanistan 
+281	4 <==> 4	EQUI	5	Killed	Killed 
+282	1 2 3 <==> 1 2 3	SIMI	2	At least 45	At least 13 
+282	5 6 7 8 <==> 0	NOALI	NIL	in Spain train crash	-not aligned- 
+282	0 <==> 11 12	NOALI	NIL	-not aligned-	's Diyala 
+282	0 <==> 5 6 7 8	NOALI	NIL	-not aligned-	in triple car bombings 
+282	4 <==> 4	EQUI	5	killed	killed 
+282	0 <==> 9 10	NOALI	NIL	-not aligned-	in Iraq 
+283	1 <==> 0	NOALI	NIL	Hospital	-not aligned- 
+283	5 6 7 8 <==> 4 5 6 7	EQUI	5	in Venezuela prison riot	in Venezuela prison riot 
+283	2 <==> 0	NOALI	NIL	:	-not aligned- 
+283	4 <==> 3	EQUI	5	killed	killed 
+283	3 <==> 1	SPE1	3	61	Dozens 
+283	0 <==> 2	NOALI_FACT	NIL	-not aligned-	reported 
+284	0 <==> 6 7 8	NOALI	NIL	-not aligned-	for Mass March 
+284	6 7 8 <==> 0	NOALI	NIL	as Its Leader	-not aligned- 
+284	4 5 <==> 0	NOALI	NIL	as Beleaguered	-not aligned- 
+284	1 <==> 1	EQUI	5	Egypt	Egypt 
+284	2 3 <==> 2 3 4	SPE2	4	's Brotherhood	's Muslim Brotherhood 
+284	0 <==> 5	NOALI	NIL	-not aligned-	Set 
+285	0 <==> 1 2 3	NOALI	NIL	-not aligned-	Belarus , Latvia 
+285	6 <==> 0	NOALI	NIL	commissioned	-not aligned- 
+285	1 <==> 0	NOALI	NIL	China	-not aligned- 
+285	2 3 4 5 <==> 0	NOALI	NIL	's new stealth frigate	-not aligned- 
+285	0 <==> 7 8	NOALI	NIL	-not aligned-	border commission 
+285	0 <==> 4 5 6	NOALI	NIL	-not aligned-	to set up 
+286	6 7 8 <==> 5 6 7 8 9	SIMI	4	over sex claims	Over ` Sex Abuse ' 
+286	1 2 3 4 <==> 1 2 3	EQUI	5	TV weatherman Fred Talbot	Weatherman Fred Talbot 
+286	5 <==> 4	EQUI	5	arrested	Held 
+287	0 <==> 5	NOALI	NIL	-not aligned-	14 
+287	6 <==> 7	SPE1	4	25	dozens 
+287	1 2 <==> 1 2 3	SIMI	4	Building collapses	India building collapse 
+287	0 <==> 6	NOALI	NIL	-not aligned-	; 
+287	7 8 <==> 8	SPE1	4	feared trapped	trapped 
+287	5 <==> 0	NOALI	NIL	;	-not aligned- 
+287	3 4 <==> 0	ALIC	NIL	in India	-not aligned- 
+287	0 <==> 4	NOALI	NIL	-not aligned-	kills 
+288	3 4 <==> 5 6	EQUI	5	as clashes	in clashes 
+288	6 7 8 <==> 7 8 9	SIMI	4	at Morsi rally	at Morsi rallies 
+288	5 <==> 0	NOALI	NIL	erupt	-not aligned- 
+288	9 10 <==> 10 11	SPE1	4	in Cairo	in Egypt 
+288	2 <==> 0	ALIC	NIL	die	-not aligned- 
+288	1 <==> 1 2 3 4	SPE2	3	Dozens	More than 70 dead 
+289	5 6 7 <==> 5 6 7	EQUI	5	to be questioned	to be questioned 
+289	0 <==> 8 9	NOALI	NIL	-not aligned-	by judge 
+289	1 2 3 4 <==> 1 2 3 4	SPE2	4	Spanish train crash driver	Spanish train driver Garzon 
+290	4 5 6 7 8 9 <==> 5 6	SPE1	4	in Afghan ` insider attack '	in Afghan 
+290	3 <==> 3	SPE2	4	killed	shot 
+290	0 <==> 7	NOALI	NIL	-not aligned-	â 
+290	1 2 <==> 1 2	EQUI	5	ISAF soldier	British soldier 
+290	0 <==> 4	ALIC	NIL	-not aligned-	dead 
+291	3 <==> 3	EQUI	5	gang-raped	gang-raped 
+291	4 5 <==> 4 5	EQUI	5	in India	in India 
+291	1 2 <==> 1 2	EQUI	5	Swiss tourist	Swiss tourist 
+292	3 4 <==> 5 6	EQUI	5	to shut	to shut 
+292	7 8 <==> 9 10	EQUI	5	at night	at night 
+292	0 <==> 3	ALIC	NIL	-not aligned-	rejects 
+292	1 2 <==> 4	SIMI	4	No plan	proposal 
+292	5 6 <==> 7 8	EQUI	5	petrol pumps	petrol pumps 
+292	9 <==> 1 2	REL	4	Moily	India govt 
+293	5 6 7 8 <==> 7 8 9	SPE1	4	for Taliban peace talks	for Taliban talks 
+293	1 <==> 1 2	SPE1	4	Karzai	Afghan president 
+293	2 3 <==> 4	EQUI	5	to visit	visit 
+293	0 <==> 3	NOALI	NIL	-not aligned-	extends 
+293	4 <==> 5 6	EQUI	5	Pakistan	to Pakistan 
+294	1 <==> 1	EQUI	5	Three	Three 
+294	3 4 5 <==> 3 4	SPE1	4	after car crash	In Crash 
+294	6 7 8 9 <==> 5 6 7	SPE2	4	at Tian ` anmen	At Tiananmen Square 
+294	2 <==> 2	EQUI	5	die	Killed 
+295	1 2 3 4 <==> 1 2	EQUI	5	` Whitey ' Bulger	Whitey Bulger 
+295	5 <==> 3	EQUI	5	given	gets 
+295	6 7 8 9 <==> 4	SPE1	3	two consecutive life terms	life 
+295	0 <==> 5 6 7 8	NOALI	NIL	-not aligned-	for racketeering , killings 
+296	3 4 <==> 2 3 4	EQUI	5	GDP growth	's GDP growth 
+296	5 6 7 8 <==> 6 7 8 9	EQUI	5	to annual 1.1 pct	to annual 1.1 % 
+296	2 <==> 0	NOALI	NIL	revises	-not aligned- 
+296	1 <==> 1	EQUI	5	Japan	Japan 
+296	0 <==> 5	NOALI	NIL	-not aligned-	downgraded 
+296	9 10 <==> 0	NOALI	NIL	in Q3	-not aligned- 
+297	6 7 <==> 0	NOALI	NIL	death toll	-not aligned- 
+297	5 <==> 0	NOALI	NIL	;	-not aligned- 
+297	4 <==> 4	EQUI	5	ends	ends 
+297	1 2 3 <==> 1 2 3	EQUI	5	Algeria hostage crisis	Algeria hostage crisis 
+297	0 <==> 5 6	NOALI	NIL	-not aligned-	in bloodbath 
+297	8 <==> 0	NOALI	NIL	unclear	-not aligned- 
+298	6 7 <==> 7 8	EQUI	5	against USD	against USD 
+298	4 5 <==> 4 5 6	SPE1	3	to 6.2689	to new high 
+298	3 <==> 3	EQUI	5	strengthens	strengthens 
+298	1 2 <==> 1 2	EQUI	5	China yuan	China yuan 
+299	1 <==> 1	EQUI	5	Protests	Protests 
+299	3 4 5 6 <==> 3 4	SIMI	1	in tense Ukraine capital	in Brazil 
+299	2 <==> 2	EQUI	5	continue	continue 
+300	2 <==> 2	SPE1	3	arrests	bans 
+300	1 <==> 1	EQUI	5	Egypt	Egypt 
+300	3 4 5 6 <==> 3 4 5	REL	4	Muslim Brotherhood Supreme Guide	Muslim Brotherhood group 
+301	2 <==> 2	EQUI	5	kill	kill 
+301	1 <==> 1	EQUI	5	Gunmen	Gunmen 
+301	5 6 7 <==> 5 6	SIMI	2	in northwest Pakistan	in Iraq 
+301	3 4 <==> 3 4	SPE2	1	nine people	3 policemen 
+302	4 5 6 <==> 4 5 6	SIMI	4	6 March 2013	12 March 2013 
+302	1 2 3 <==> 1 2 3	EQUI	5	Forex & Gold	Forex & Gold 
+303	5 <==> 0	NOALI	NIL	used	-not aligned- 
+303	0 <==> 2	NOALI	NIL	-not aligned-	votes 
+303	6 7 <==> 6 7 8	EQUI	5	chemical weapons	's chemical weapons 
+303	1 <==> 1	REL	4	U.S.	UN 
+303	2 3 <==> 0	NOALI	NIL	has determined	-not aligned- 
+303	4 <==> 5	EQUI	5	Syria	Syria 
+303	0 <==> 3 4	NOALI	NIL	-not aligned-	to eliminate 
+304	6 7 8 <==> 5 6 7 8	SPE2	4	after drone strike	in US drone strike 
+304	1 2 <==> 1 2 3	EQUI	5	Pakistani Taliban	Pakistani Taleban chief 
+304	3 <==> 0	NOALI	NIL	names	-not aligned- 
+304	0 <==> 4	NOALI	NIL	-not aligned-	killed 
+304	4 5 <==> 0	ALIC	NIL	new leader	-not aligned- 
+305	4 5 6 7 <==> 4 5 6	REL	3	for National Unity Government	for political change 
+305	1 2 <==> 1 2	EQUI	5	Syria envoy	Syria envoy 
+305	0 <==> 9	NOALI	NIL	-not aligned-	conflict 
+305	3 <==> 3	EQUI	5	calls	calls 
+305	0 <==> 7 8	NOALI	NIL	-not aligned-	to end 
+306	8 <==> 0	NOALI	NIL	Votes	-not aligned- 
+306	9 10 <==> 7 8	SPE2	4	In Election	Snap Elections 
+306	0 <==> 5	NOALI	NIL	-not aligned-	, 
+306	6 7 <==> 1 2	SIMI	2	As He	Bulgaria President 
+306	1 2 <==> 0	NOALI	NIL	Topless Women	-not aligned- 
+306	0 <==> 6	NOALI	NIL	-not aligned-	Opposes 
+306	0 <==> 3	NOALI	NIL	-not aligned-	Backs 
+306	3 <==> 4	REL	4	Protest	Protesters 
+306	4 5 <==> 0	ALIC	NIL	Against Berlusconi	-not aligned- 
+307	1 <==> 0	NOALI	NIL	Obama	-not aligned- 
+307	4 5 6 7 <==> 6	EQUI	5	of icon Nelson Mandela	Mandela 
+307	0 <==> 1 2	NOALI	NIL	-not aligned-	South Africans 
+307	3 <==> 0	NOALI	NIL	death	-not aligned- 
+307	2 <==> 3 4 5	SPE2	4	mourns	mourn , celebrate 
+308	0 <==> 4 5	NOALI	NIL	-not aligned-	in history 
+308	0 <==> 1 2 3	NOALI	NIL	-not aligned-	For first time 
+308	0 <==> 6	NOALI	NIL	-not aligned-	, 
+308	1 <==> 0	NOALI	NIL	Goa	-not aligned- 
+308	4 5 6 <==> 0	NOALI	NIL	in Modis march	-not aligned- 
+308	7 8 <==> 11 12	SIMI	1	to Delhi	in Russia 
+308	2 3 <==> 0	NOALI	NIL	first step	-not aligned- 
+308	0 <==> 10	NOALI	NIL	-not aligned-	engineering 
+308	0 <==> 8 9	NOALI	NIL	-not aligned-	to teach 
+308	0 <==> 7	NOALI	NIL	-not aligned-	Technion 
+309	4 5 6 7 8 <==> 4 5 6 7	REL	4	of 1,004 Muslim Brotherhood supporters	of Brotherhood chief Badie 
+309	1 <==> 1	EQUI	5	Egypt	Egypt 
+309	2 <==> 2	SIMI_FACT	3	announces	orders 
+309	3 <==> 3	EQUI	5	arrest	arrest 
+310	0 <==> 4 5	NOALI	NIL	-not aligned-	to choose 
+310	5 6 <==> 0	NOALI	NIL	to Send	-not aligned- 
+310	0 <==> 6 7	NOALI	NIL	-not aligned-	interim PM 
+310	7 <==> 0	NOALI	NIL	Arms	-not aligned- 
+310	4 <==> 0	NOALI	NIL	EU	-not aligned- 
+310	1 2 <==> 1 2	EQUI	5	Syrian Opposition	Syrian opposition 
+310	8 9 <==> 0	NOALI	NIL	to Rebels	-not aligned- 
+310	0 <==> 3	NOALI	NIL	-not aligned-	meets 
+310	3 <==> 0	NOALI	NIL	Urges	-not aligned- 
+311	2 <==> 4	SPE1	2	Israeli	2 
+311	0 <==> 1 2	NOALI	NIL	-not aligned-	Israeli forces 
+311	4 <==> 3	EQUI	5	arrested	detain 
+311	3 <==> 0	NOALI	NIL	'	-not aligned- 
+311	0 <==> 5 6 7 8	NOALI	NIL	-not aligned-	in Hebron arrest raid 
+311	1 <==> 0	NOALI	NIL	`	-not aligned- 
+311	5 6 <==> 0	NOALI	NIL	in Yemen	-not aligned- 
+311	7 8 <==> 0	NOALI	NIL	Mossad spy	-not aligned- 
+312	1 <==> 1	EQUI	5	Egypt	Egypt 
+312	0 <==> 5 6	NOALI	NIL	-not aligned-	swears in 
+312	2 3 4 <==> 2 3 4	EQUI	5	's interim president	's interim president 
+312	5 <==> 0	NOALI	NIL	appoints	-not aligned- 
+312	6 7 <==> 7 8	REL	3	2 advisors	new Cabinet 
+313	2 <==> 0	NOALI	NIL	launches	-not aligned- 
+313	1 <==> 1 2	SIMI	3	China	China court 
+313	0 <==> 4 5	NOALI	NIL	-not aligned-	Bo Xilai 
+313	3 4 5 <==> 0	NOALI	NIL	first air-to-air missile	-not aligned- 
+313	0 <==> 3	NOALI	NIL	-not aligned-	sentences 
+313	0 <==> 9 10	NOALI	NIL	-not aligned-	for corruption 
+313	6 7 <==> 0	NOALI	NIL	from chopper	-not aligned- 
+313	0 <==> 6 7 8	NOALI	NIL	-not aligned-	to life imprisonment 
+314	4 5 6 7 <==> 8 9 10	SIMI	3	in New York ambush	after deadly ambush 
+314	3 <==> 5 6 7	SPE1	3	killed	in guarded condition 
+314	1 2 <==> 1 2 3 4	SPE2	4	Two firefighters	Two New York firefighters 
+315	1 2 <==> 1 2	SIMI	3	Car bombing	Suicide bomber 
+315	3 <==> 3	EQUI	5	kills	kills 
+315	4 <==> 4	SIMI	3	17	10 
+315	5 6 <==> 5 6	EQUI	5	in Pakistan	in Pakistan 
+316	0 <==> 5 6	NOALI	NIL	-not aligned-	stir up 
+316	6 7 <==> 7 8	REL	2	in Krasnoyarsk	anti-Putin protests 
+316	5 <==> 0	NOALI	NIL	Reunited	-not aligned- 
+316	1 2 3 4 <==> 1 2 3 4	SPE2	4	2 Pussy Riot Members	Freed Pussy Riot pair 
+317	1 <==> 1 2	SPE2	4	Stocks	Singapore stocks 
+317	3 4 <==> 4 5	SIMI	4	0.39 %	0.31 pct 
+317	2 <==> 3	EQUI	5	close	close 
+317	5 <==> 6	OPPO	4	higher	lower 
+318	0 <==> 12	ALIC	NIL	-not aligned-	use 
+318	12 <==> 0	NOALI	NIL	:	-not aligned- 
+318	13 <==> 0	NOALI	NIL	US	-not aligned- 
+318	4 <==> 0	NOALI	NIL	'	-not aligned- 
+318	7 8 <==> 0	ALIC	NIL	Syrian rebels	-not aligned- 
+318	3 <==> 0	NOALI	NIL	alone	-not aligned- 
+318	2 <==> 0	NOALI	NIL	`	-not aligned- 
+318	5 6 <==> 0	NOALI	NIL	in blaming	-not aligned- 
+318	9 10 11 <==> 8 9 10 11	REL	4	for chemical attack	of Syria chemical arms 
+318	0 <==> 6 7	NOALI	NIL	-not aligned-	its inquiry 
+318	0 <==> 4 5	NOALI	NIL	-not aligned-	to consider 
+318	0 <==> 2	NOALI	NIL	-not aligned-	asks 
+318	1 <==> 1	EQUI	5	Russia	Russia 
+318	0 <==> 3	NOALI	NIL	-not aligned-	UN 
+319	3 4 <==> 4 5	SIMI	2	six dead	18 dead 
+319	2 <==> 3	EQUI	5	leave	leave 
+319	1 <==> 1 2	REL	4	Floods	Heavy rains 
+319	5 6 <==> 6 7	EQUI	5	in Philippines	in Philippines 
+320	8 9 <==> 8 9	EQUI	5	after collapsing	after collapse 
+320	10 11 <==> 0	NOALI	NIL	at game	-not aligned- 
+320	7 <==> 5 6 7	REL	3	hospitalized	in stable condition 
+320	1 2 3 4 5 6 <==> 1 2 3 4	EQUI	5	Houston Texans head coach Gary Kubiak	Texans coach Gary Kubiak 
+321	0 <==> 4	NOALI	NIL	-not aligned-	tell 
+321	4 <==> 0	NOALI	NIL	south	-not aligned- 
+321	3 <==> 5 6 7	REL	3	derails	of crash ordeal 
+321	5 6 <==> 0	NOALI	NIL	of Paris	-not aligned- 
+321	1 2 <==> 1 2 3	REL	4	French train	French train passengers 
+322	0 <==> 1	NOALI	NIL	-not aligned-	Iran 
+322	0 <==> 3 4	NOALI	NIL	-not aligned-	to trigger 
+322	4 <==> 0	NOALI	NIL	Presidency	-not aligned- 
+322	3 <==> 0	NOALI	NIL	Wins	-not aligned- 
+322	0 <==> 5 6 7	NOALI	NIL	-not aligned-	oil price war 
+322	0 <==> 2	NOALI	NIL	-not aligned-	threatens 
+322	5 6 7 8 <==> 0	NOALI	NIL	by a Large Margin	-not aligned- 
+322	1 2 <==> 0	NOALI	NIL	Iran Moderate	-not aligned- 
+323	3 4 <==> 0	NOALI	NIL	nuclear talks	-not aligned- 
+323	7 8 <==> 0	NOALI	NIL	next month	-not aligned- 
+323	0 <==> 7 8 9	NOALI	NIL	-not aligned-	' communication systems 
+323	0 <==> 4 5	NOALI	NIL	-not aligned-	of jamming 
+323	1 <==> 1	EQUI	5	Iran	Iran 
+323	2 <==> 2	EQUI	5	says	says 
+323	0 <==> 3	NOALI	NIL	-not aligned-	capable 
+323	0 <==> 6	NOALI	NIL	-not aligned-	foes 
+323	5 6 <==> 0	NOALI	NIL	to resume	-not aligned- 
+324	5 6 <==> 5 6	SIMI	1	in Belfast	in Tunisia 
+324	1 2 <==> 2	SPE1	4	Brief clashes	clash 
+324	0 <==> 1	NOALI	NIL	-not aligned-	Mourners 
+324	3 4 <==> 3 4	EQUI	5	with police	with police 
+325	1 2 <==> 0	ALIC	NIL	China quake	-not aligned- 
+325	6 <==> 5	EQUI	5	rises	rises 
+325	4 5 <==> 1 2 3 4	SIMI	1	Death toll	China flu death toll 
+325	0 <==> 6 7	NOALI	NIL	-not aligned-	to six 
+325	3 <==> 0	NOALI	NIL	:	-not aligned- 
+326	4 5 6 <==> 3 4 5 6	REL	3	of chemical weapons	over chemical weapons claims 
+326	7 8 <==> 7 8	EQUI	5	in Syria	in Syria 
+326	3 <==> 0	ALIC	NIL	use	-not aligned- 
+326	0 <==> 2	NOALI	NIL	-not aligned-	arise 
+326	2 <==> 0	NOALI	NIL	condemns	-not aligned- 
+326	1 <==> 0	NOALI	NIL	RI	-not aligned- 
+326	0 <==> 1	NOALI	NIL	-not aligned-	Questions 
+327	6 7 8 <==> 1 2 3	REL	2	military modernization drive	Chinese vice premier 
+327	0 <==> 5 6	NOALI	NIL	-not aligned-	Australian Governor-General 
+327	5 <==> 0	NOALI	NIL	extends	-not aligned- 
+327	0 <==> 4	NOALI	NIL	-not aligned-	meets 
+327	1 <==> 0	NOALI	NIL	China	-not aligned- 
+327	2 3 4 <==> 0	NOALI	NIL	's new carrier	-not aligned- 
+328	4 <==> 0	NOALI	NIL	hints	-not aligned- 
+328	5 6 <==> 0	NOALI	NIL	at joining	-not aligned- 
+328	0 <==> 4	NOALI	2	-not aligned-	hold 
+328	0 <==> 5	NOALI	NIL	-not aligned-	talks 
+328	11 <==> 0	NOALI_FACT	NIL	Report	-not aligned- 
+328	0 <==> 6	NOALI	NIL	-not aligned-	linked 
+328	10 <==> 0	NOALI	NIL	:	-not aligned- 
+328	7 8 9 <==> 7 8 9 10	SIMI	3	Pacific trade pact	to regional trade pact 
+328	1 2 3 <==> 1 2 3	REL	2	New Japan govt	Japan , US 
+329	0 <==> 1 2 3	NOALI	NIL	-not aligned-	Suspected US drone 
+329	4 <==> 4	EQUI	5	dies	kills 
+329	0 <==> 7 8	NOALI	NIL	-not aligned-	in Yemen 
+329	1 2 3 <==> 5 6	SIMI_FACT	1	Suspected Saudi militant	6 militants 
+329	5 6 7 <==> 0	NOALI	NIL	in Lebanese custody	-not aligned- 
+330	3 <==> 0	NOALI	NIL	:	-not aligned- 
+330	5 6 7 <==> 5 6 7	EQUI	5	of the Day	of the Day 
+330	8 <==> 0	NOALI	NIL	:	-not aligned- 
+330	0 <==> 3	NOALI	NIL	-not aligned-	: 
+330	1 2 <==> 1 2	EQUI	5	India Ink	India Ink 
+330	9 10 <==> 9 10	SIMI	2	January 27	March 20 
+330	4 <==> 4	EQUI	5	Image	Image 
+330	0 <==> 8	NOALI	NIL	-not aligned-	: 
+331	0 <==> 1 2 3	NOALI	NIL	-not aligned-	At least 200 
+331	2 <==> 0	NOALI	NIL	images	-not aligned- 
+331	1 <==> 0	NOALI	NIL	Select	-not aligned- 
+331	3 4 5 6 <==> 5 6 7 8	EQUI	5	from Bangladesh building collapse	in Bangladesh building collapse 
+331	0 <==> 4	NOALI	NIL	-not aligned-	killed 
+332	5 6 7 <==> 5 6	REL	3	missile repair trade	Cuba missiles 
+332	0 <==> 4	NOALI	NIL	-not aligned-	carrying 
+332	8 9 <==> 0	ALIC	NIL	with Cuba	-not aligned- 
+332	1 2 3 <==> 1 2 3	SPE1	4	North Korean cargo	N Korean ship 
+332	4 <==> 7	REL	2	reveals	seized 
+333	0 <==> 1	NOALI	NIL	-not aligned-	Benedict 
+333	0 <==> 2	NOALI	NIL	-not aligned-	comes 
+333	0 <==> 4 5 6 7 8 9	NOALI	NIL	-not aligned-	to new house and new Pope 
+333	6 <==> 0	NOALI	NIL	ahead	-not aligned- 
+333	4 5 <==> 0	NOALI	NIL	on moving	-not aligned- 
+333	2 3 <==> 0	NOALI	NIL	to vote	-not aligned- 
+333	7 8 9 <==> 0	NOALI	NIL	on Hagel nod	-not aligned- 
+333	1 <==> 0	NOALI	NIL	Senate	-not aligned- 
+333	0 <==> 3	NOALI	NIL	-not aligned-	home 
+334	8 <==> 0	NOALI	NIL	goes	-not aligned- 
+334	9 10 <==> 0	NOALI	NIL	on holiday	-not aligned- 
+334	6 7 <==> 1 2	REL	4	as Obama	John Boehner 
+334	1 2 <==> 0	NOALI	NIL	No deal	-not aligned- 
+334	0 <==> 3	NOALI	NIL	-not aligned-	: 
+334	0 <==> 12 13	NOALI	NIL	-not aligned-	his undoing 
+334	0 <==> 7	NOALI	NIL	-not aligned-	, 
+334	0 <==> 4 5 6	NOALI	NIL	-not aligned-	from humble origin 
+334	0 <==> 10 11	NOALI	NIL	-not aligned-	may be 
+334	3 4 5 <==> 8 9	EQUI	5	on fiscal cliff	fiscal cliff 
+335	0 <==> 5	NOALI	NIL	-not aligned-	yet 
+335	0 <==> 9 10	NOALI	NIL	-not aligned-	with Iran 
+335	2 <==> 0	NOALI	NIL	:	-not aligned- 
+335	0 <==> 3 4	NOALI	NIL	-not aligned-	No deal 
+335	1 <==> 1	EQUI	5	Kerry	Kerry 
+335	8 9 <==> 0	NOALI	NIL	Could Work	-not aligned- 
+335	0 <==> 6 7 8	NOALI	NIL	-not aligned-	in nuclear talks 
+335	3 4 5 6 7 <==> 0	NOALI	NIL	$ 4b Palestinian Economic Plan	-not aligned- 
+335	0 <==> 2	NOALI	NIL	-not aligned-	: 
+336	3 4 <==> 0	NOALI	NIL	army action	-not aligned- 
+336	0 <==> 4	NOALI	NIL	-not aligned-	evacuation 
+336	0 <==> 5 6	NOALI	NIL	-not aligned-	at Princeton 
+336	5 6 7 <==> 0	NOALI	NIL	against oil protesters	-not aligned- 
+336	1 <==> 0	NOALI	NIL	Libya	-not aligned- 
+336	2 <==> 0	NOALI	NIL	threatens	-not aligned- 
+336	0 <==> 3	NOALI	NIL	-not aligned-	forces 
+336	0 <==> 1 2	NOALI	NIL	-not aligned-	Bomb threat 
+337	0 <==> 3 4	NOALI	NIL	-not aligned-	humanitarian aid 
+337	3 <==> 5 6 7	REL	3	Syria	to Syrian refugees 
+337	5 6 <==> 8 9	EQUI	5	into Lebanon	in Lebanon 
+337	1 <==> 1	REL	3	Russians	Russia 
+337	2 <==> 0	NOALI	NIL	leaving	-not aligned- 
+337	4 <==> 0	NOALI	NIL	cross	-not aligned- 
+337	0 <==> 2	NOALI	NIL	-not aligned-	delivers 
+338	3 <==> 0	NOALI	NIL	condemns	-not aligned- 
+338	0 <==> 6 7	NOALI	NIL	-not aligned-	at Lampedusa 
+338	0 <==> 4 5	NOALI	NIL	-not aligned-	dead migrants 
+338	0 <==> 3	NOALI	NIL	-not aligned-	commemorates 
+338	6 7 <==> 0	NOALI	NIL	to suffering	-not aligned- 
+338	1 2 <==> 1 2	EQUI	5	Pope Francis	Pope Francis 
+338	4 5 <==> 0	NOALI	NIL	global indifference	-not aligned- 
+339	8 9 10 <==> 5 6 7 8	SPE2	4	at Boston Marathon	in Boston Marathon attack 
+339	6 <==> 0	NOALI	NIL	wound	-not aligned- 
+339	1 <==> 1 2 3	SPE2	4	Bombs	Only two bombs 
+339	7 <==> 0	NOALI	NIL	dozens	-not aligned- 
+339	2 <==> 0	NOALI	NIL	kill	-not aligned- 
+339	5 <==> 0	NOALI	NIL	,	-not aligned- 
+339	3 4 <==> 0	NOALI	NIL	two people	-not aligned- 
+339	0 <==> 4	NOALI	NIL	-not aligned-	found 
+340	0 <==> 3 4 5 6	NOALI	NIL	-not aligned-	for deeper economic ties 
+340	8 9 10 <==> 7 8 9	EQUI	5	with Sri Lanka	with Sri Lanka 
+340	5 6 7 <==> 0	NOALI	NIL	of Eco Partnership	-not aligned- 
+340	2 3 4 <==> 0	NOALI	NIL	for early conclusion	-not aligned- 
+340	1 <==> 0	NOALI	NIL	President	-not aligned- 
+340	0 <==> 1 2	NOALI	NIL	-not aligned-	Pakistan PM 
+341	0 <==> 3 4 5	NOALI	NIL	-not aligned-	after heavy rains 
+341	6 7 8 <==> 6 7	SIMI	2	off Florida coast	on island 
+341	1 2 <==> 1 2	SIMI	3	4 dead	8 dead 
+341	5 <==> 0	NOALI	NIL	capsizes	-not aligned- 
+341	0 <==> 8 9 10	ALIC	NIL	-not aligned-	of St Vincent 
+341	3 4 <==> 0	NOALI	NIL	after boat	-not aligned- 
+342	7 <==> 0	NOALI	NIL	:	-not aligned- 
+342	4 5 6 <==> 5 6 7	SIMI	1	Honshu , Japan	Santa Cruz Islands 
+342	0 <==> 8	NOALI	NIL	-not aligned-	: 
+342	8 <==> 9	EQUI	5	CENC	CENC 
+342	1 2 <==> 1 2 3	SIMI	4	6.3-magnitude quake	Magnitude-6 .0 quake 
+342	3 <==> 4	EQUI	5	hits	jolts 
+343	0 <==> 3 4	NOALI	NIL	-not aligned-	on street 
+343	0 <==> 1	NOALI	NIL	-not aligned-	Police 
+343	0 <==> 2	NOALI	NIL	-not aligned-	converge 
+343	7 8 <==> 7 8 9 10	SPE1	4	Boston bomber	for Boston bomb suspect 
+343	6 <==> 0	ALIC	NIL	arrested	-not aligned- 
+343	3 <==> 0	NOALI	NIL	waiting	-not aligned- 
+343	4 5 <==> 0	NOALI	NIL	to question	-not aligned- 
+343	1 2 <==> 0	NOALI	NIL	American investigators	-not aligned- 
+343	0 <==> 5 6	NOALI	NIL	-not aligned-	in search 
+344	3 <==> 0	NOALI	NIL	,	-not aligned- 
+344	4 <==> 4	SIMI	2	five	39 
+344	0 <==> 3	NOALI	NIL	-not aligned-	, 
+344	5 <==> 5	EQUI	5	injured	injured 
+344	1 2 <==> 1 2	SIMI	2	10 dead	1 dead 
+344	6 7 8 9 10 <==> 6 7 8 9 10	SIMI	3	in SW China road accident	in E China road accident 
+345	3 4 <==> 3 4	EQUI	5	end up	end up 
+345	5 6 <==> 5 6	SIMI	2	0.26 percent	0.11 pct 
+345	1 2 <==> 1 2	EQUI	5	Singapore stocks	Singapore stocks 
+346	2 3 4 <==> 2 3 4	EQUI	5	of the day	of the Day 
+346	1 <==> 1	SIMI	4	Pictures	Picture 
+346	6 7 8 <==> 0	NOALI	NIL	7 August 2013	-not aligned- 
+346	5 <==> 0	NOALI	NIL	:	-not aligned- 
+347	4 5 <==> 2 3 4	REL	3	presidential elections	's interim president 
+347	0 <==> 5 6	NOALI	NIL	-not aligned-	swears in 
+347	1 <==> 1	EQUI	5	Egypt	Egypt 
+347	6 7 8 <==> 7 8	REL	2	before parliamentary polls	new Cabinet 
+347	2 3 <==> 0	NOALI	NIL	to hold	-not aligned- 
+348	1 2 <==> 1 2	SIMI	3	Afghan legislators	Afghan president 
+348	3 <==> 3	EQUI	5	approve	approves 
+348	4 5 6 <==> 4 5 6	OPPO	5	new election law	new electon law 
+349	0 <==> 3	NOALI	NIL	-not aligned-	holds 
+349	6 <==> 4 5	SIMI	3	Buried	state funeral 
+349	1 2 <==> 1 2	EQUI	5	South Africans	South Africa 
+349	3 <==> 0	ALIC	NIL	Mourn	-not aligned- 
+349	4 5 <==> 6 7	EQUI	5	as Mandela	for Mandela 
+350	1 2 3 <==> 1 2 3	REL	3	Costa Concordia captain	Costa Concordia survivors 
+350	4 5 6 <==> 0	NOALI	NIL	to be tried	-not aligned- 
+350	0 <==> 6 7 8	NOALI	NIL	-not aligned-	one year later 
+350	0 <==> 4	NOALI	NIL	-not aligned-	detail 
+350	7 8 <==> 5	SPE1	4	for manslaughter	experience 
+351	6 <==> 0	NOALI	NIL	rises	-not aligned- 
+351	1 2 <==> 0	NOALI	NIL	Death toll	-not aligned- 
+351	3 4 5 <==> 5 6 7	EQUI	5	in Colorado floods	in Colorado flooding 
+351	0 <==> 3 4	NOALI	NIL	-not aligned-	to evacuate 
+351	7 8 <==> 0	NOALI	NIL	to four	-not aligned- 
+351	0 <==> 1	NOALI	NIL	-not aligned-	Thousands 
+351	0 <==> 2	NOALI	NIL	-not aligned-	told 
+352	1 <==> 1	SIMI	4	17	15 
+352	6 7 8 <==> 6 7 8	SPE1	4	in bomb attacks	in fresh attacks 
+352	3 <==> 0	NOALI	NIL	,	-not aligned- 
+352	2 <==> 2	EQUI	5	killed	killed 
+352	4 <==> 4	SIMI	3	133	90 
+352	9 10 11 <==> 9 10	SPE1	4	in northern Iraq	in Iraq 
+352	0 <==> 3	NOALI	NIL	-not aligned-	, 
+352	5 <==> 5	EQUI	5	wounded	wounded 
+353	0 <==> 7 8 9 10	NOALI	NIL	-not aligned-	than usual euro nonsense 
+353	4 5 <==> 0	NOALI	NIL	alarm markets	-not aligned- 
+353	1 2 <==> 2 3	EQUI	5	Cyprus bailout	Cyprus bailout 
+353	0 <==> 5 6	NOALI	NIL	-not aligned-	nothing more 
+353	0 <==> 1	NOALI	NIL	-not aligned-	Why 
+353	0 <==> 4	NOALI	NIL	-not aligned-	is 
+353	3 <==> 0	NOALI	NIL	remarks	-not aligned- 
+354	0 <==> 7	NOALI	NIL	-not aligned-	arrested 
+354	2 3 <==> 0	NOALI	NIL	shuts down	-not aligned- 
+354	1 <==> 1	EQUI	5	Egypt	Egypt 
+354	0 <==> 2	NOALI	NIL	-not aligned-	: 
+354	4 5 6 <==> 3 4 5 6	REL	3	Muslim Brotherhood newspaper	Muslim Brotherhood deputy head 
+355	9 10 11 <==> 10 11 12	SPE1	4	towards Oklahoma City	Oklahoma City area 
+355	0 <==> 6	NOALI	NIL	-not aligned-	killed 
+355	8 <==> 9	SIMI	3	heads	rake 
+355	1 2 3 4 5 6 7 <==> 7 8	SPE1	3	` Large and extremely dangerous ' tornado	as tornadoes 
+355	0 <==> 1 2 3	NOALI	NIL	-not aligned-	Mom and baby 
+355	0 <==> 4 5	NOALI	NIL	-not aligned-	among five 
+356	7 8 9 10 11 <==> 0	NOALI	NIL	West Bank gov ' t	-not aligned- 
+356	5 6 <==> 0	NOALI	NIL	to form	-not aligned- 
+356	3 <==> 0	NOALI	NIL	assigns	-not aligned- 
+356	0 <==> 3	NOALI	NIL	-not aligned-	wants 
+356	0 <==> 4	NOALI	NIL	-not aligned-	Israelis 
+356	0 <==> 5 6	NOALI	NIL	-not aligned-	to talk 
+356	4 <==> 0	NOALI	NIL	academic	-not aligned- 
+356	0 <==> 7	NOALI	NIL	-not aligned-	peace 
+356	1 2 <==> 1 2	EQUI	5	Palestinian president	Palestinian president 
+357	0 <==> 3 4	NOALI	NIL	-not aligned-	to Fallujah 
+357	3 4 5 6 <==> 0	NOALI	NIL	to Texas blast site	-not aligned- 
+357	1 <==> 1	EQUI	5	Residents	Residents 
+357	2 <==> 2	EQUI	5	return	return 
+358	1 2 <==> 1 2	EQUI	5	Singapore stocks	Singapore stocks 
+358	4 5 <==> 4 5	SIMI	2	0.44 pct	0.5 pct 
+358	3 <==> 3	EQUI	5	close	close 
+358	6 <==> 6	OPPO	4	lower	higher 
+359	3 <==> 3	EQUI	5	close	close 
+359	5 6 <==> 5 6	SIMI	3	on Wednesday	on Friday 
+359	1 2 <==> 1 2	EQUI	5	Chinese shares	China stocks 
+359	4 <==> 4	EQUI	5	lower	lower 
+360	5 6 7 8 <==> 4 5 6	SPE1	4	in Bangladesh factory fire	in Bangladesh factory 
+360	1 2 3 <==> 0	NOALI	NIL	Owners , others	-not aligned- 
+360	0 <==> 3	NOALI	NIL	-not aligned-	found 
+360	4 <==> 0	NOALI	NIL	charged	-not aligned- 
+360	0 <==> 1 2	NOALI	NIL	-not aligned-	50 survivors 
+361	0 <==> 3	NOALI	NIL	-not aligned-	rejects 
+361	3 4 5 <==> 0	NOALI	NIL	in three provinces	-not aligned- 
+361	0 <==> 4 5 6 7	NOALI	NIL	-not aligned-	Hun Sen election win 
+361	2 <==> 0	NOALI	NIL	canceled	-not aligned- 
+361	1 <==> 0	NOALI	NIL	Voting	-not aligned- 
+361	0 <==> 1 2	NOALI	NIL	-not aligned-	Cambodian opposition 
+361	6 7 8 9 <==> 0	NOALI	NIL	in tense Thai election	-not aligned- 
+362	4 5 <==> 6 7 8	SPE2	4	Mubarak release	's release request 
+362	1 2 <==> 1 2	EQUI	5	Egypt court	Egypt court 
+362	0 <==> 5	ALIC	NIL	-not aligned-	Mubarak 
+362	3 <==> 0	NOALI	NIL	orders	-not aligned- 
+362	0 <==> 3 4	NOALI	NIL	-not aligned-	turns down 
+363	1 2 <==> 0	NOALI	NIL	Bomb blast	-not aligned- 
+363	5 6 7 <==> 5 6	SPE1	4	in southwest Pakistan	in Pakistan 
+363	0 <==> 1 2	NOALI	NIL	-not aligned-	Major quake 
+363	4 <==> 4	SIMI	2	10	39 
+363	3 <==> 3	EQUI	5	kills	kills 
+364	0 <==> 5	NOALI	NIL	-not aligned-	directs 
+364	0 <==> 2	NOALI	NIL	-not aligned-	Judge 
+364	1 <==> 6	SPE1	4	Egyptians	voters 
+364	0 <==> 1	NOALI	NIL	-not aligned-	` 
+364	2 <==> 3 4	REL	4	vote	at polls 
+364	0 <==> 11	NOALI	NIL	-not aligned-	' 
+364	3 4 5 <==> 7 8 9 10	REL	3	on Islamist-backed constitution	on Egypt constitution vote 
+365	3 <==> 2	EQUI	5	clash	clash 
+365	4 5 6 <==> 3 4 5	EQUI	5	with riot police	with riot police 
+365	1 2 <==> 1	SPE1	3	Morsi supporters	Protesters 
+365	7 8 <==> 6 7	SIMI	2	in Cairo	in Kiev 
+366	4 5 <==> 5 6 7	REL	2	Philippine stores	in S. Philippines 
+366	0 <==> 4	NOALI	NIL	-not aligned-	15 
+366	1 2 <==> 1 2	REL	3	Typhoon survivors	Typhoon Bopha 
+366	0 <==> 3	NOALI	NIL	-not aligned-	kills 
+366	3 <==> 0	NOALI	NIL	raid	-not aligned- 
+367	0 <==> 3	NOALI	NIL	-not aligned-	, 
+367	1 2 <==> 1 2	SIMI	3	Five dead	8 dead 
+367	3 <==> 0	NOALI	NIL	,	-not aligned- 
+367	4 5 <==> 4 5	SIMI	2	40 missing	11 missing 
+367	0 <==> 6 7 8 9	NOALI	NIL	-not aligned-	in SW China landslide 
+367	6 7 8 9 <==> 0	NOALI	NIL	in Canada train disaster	-not aligned- 
+368	5 6 7 <==> 5 6 7	SPE2	4	in Bomb Blasts	In Baquba Blasts 
+368	8 9 <==> 0	ALIC	NIL	in Iraq	-not aligned- 
+368	1 2 3 <==> 1 2 3	SIMI	3	At Least 66	At Least 47 
+368	4 <==> 4	EQUI	5	Killed	Killed 
+369	5 <==> 5	EQUI	5	rises	rises 
+369	1 2 3 4 <==> 0	NOALI	NIL	Iran earthquake death toll	-not aligned- 
+369	0 <==> 1 2 3 4	NOALI	NIL	-not aligned-	Algeria hostage death toll 
+370	0 <==> 2 3	NOALI	NIL	-not aligned-	in trial 
+370	0 <==> 1	NOALI	NIL	-not aligned-	Testimony 
+370	7 8 <==> 0	NOALI	NIL	an election	-not aligned- 
+370	1 2 <==> 0	NOALI	NIL	Maldives team	-not aligned- 
+370	5 6 <==> 0	NOALI	NIL	to observe	-not aligned- 
+370	0 <==> 8	NOALI	NIL	-not aligned-	begins 
+370	3 4 <==> 0	NOALI	NIL	in India	-not aligned- 
+370	0 <==> 4 5 6 7	NOALI	NIL	-not aligned-	of former FM Liberman 
+371	1 <==> 0	NOALI	NIL	China	-not aligned- 
+371	0 <==> 3 4	NOALI	NIL	-not aligned-	the reins 
+371	0 <==> 2	NOALI	NIL	-not aligned-	takes 
+371	0 <==> 1	NOALI	NIL	-not aligned-	Napthine 
+371	2 <==> 0	NOALI	NIL	detains	-not aligned- 
+371	0 <==> 9	NOALI	NIL	-not aligned-	crumbles 
+371	5 6 7 <==> 0	NOALI	NIL	after fruit seller	-not aligned- 
+371	0 <==> 5 6	NOALI	NIL	-not aligned-	after Baillieu 
+371	8 <==> 0	NOALI	NIL	dies	-not aligned- 
+371	3 4 <==> 0	NOALI	NIL	city workers	-not aligned- 
+371	0 <==> 7 8	NOALI	NIL	-not aligned-	's leadership 
+372	3 4 <==> 2	EQUI	5	to release	releases 
+372	5 6 <==> 3 4 5 6	SPE2	4	Palestinian prisoners	26 more Palestinian prisoners 
+372	2 <==> 0	NOALI_FACT	NIL	agrees	-not aligned- 
+372	1 <==> 1	EQUI	5	Israel	Israel 
+373	1 2 <==> 0	NOALI	NIL	Three dead	-not aligned- 
+373	0 <==> 2	NOALI	NIL	-not aligned-	denies 
+373	3 4 5 6 <==> 4 5 6 7	SPE2	4	in US marathon bomb	in Boston marathon bombing 
+373	0 <==> 3	NOALI	NIL	-not aligned-	involvement 
+373	0 <==> 1	NOALI	NIL	-not aligned-	Taliban 
+374	0 <==> 4	NOALI	NIL	-not aligned-	situation 
+374	5 6 <==> 0	NOALI	NIL	opposition leaders	-not aligned- 
+374	1 2 3 <==> 0	NOALI	NIL	US Senator McCain	-not aligned- 
+374	0 <==> 1 2	NOALI	NIL	-not aligned-	SFG meeting 
+374	4 <==> 0	NOALI	NIL	meets	-not aligned- 
+374	7 8 <==> 5 6	SIMI	2	in Ukraine	in Mali 
+374	0 <==> 3	NOALI	NIL	-not aligned-	reviews 
+375	7 8 <==> 9 10	SIMI	2	in Kyiv	in Bhutan 
+375	1 <==> 1	EQUI	5	Tens	Tens 
+375	0 <==> 8	NOALI	NIL	-not aligned-	votes 
+375	0 <==> 6 7	NOALI	NIL	-not aligned-	to cast 
+375	4 5 <==> 0	NOALI	NIL	of Ukrainians	-not aligned- 
+375	2 3 <==> 2 3	EQUI	5	of Thousands	of thousands 
+375	6 <==> 0	NOALI	NIL	Protest	-not aligned- 
+375	0 <==> 4 5	NOALI	NIL	-not aligned-	line up 
+376	2 <==> 0	NOALI	NIL	pledges	-not aligned- 
+376	1 <==> 1	EQUI	5	Obama	Obama 
+376	3 4 <==> 5 6	SIMI	3	to reignite	to act 
+376	0 <==> 4	NOALI	NIL	-not aligned-	Congress 
+376	5 <==> 7 8	EQUI	5	economy	on economy 
+376	0 <==> 2 3	NOALI	NIL	-not aligned-	to press 
+377	5 6 <==> 0	NOALI	NIL	gear up	-not aligned- 
+377	7 8 <==> 6 7	EQUI	5	for elections	for elections 
+377	1 2 <==> 1 2	SIMI	2	Pak missions	Islamist parties 
+377	0 <==> 5	NOALI	NIL	-not aligned-	unite 
+377	3 4 <==> 3 4	SIMI	2	in UAE	in Egypt 
+378	4 5 6 7 8 <==> 4 5 6 7 8	SIMI	2	in deadly LA boardwalk crash	in deadly LA driving attack 
+378	1 <==> 1	EQUI	5	Police	Police 
+378	2 <==> 2	SPE1	4	question	arrest 
+378	3 <==> 3	SPE2	3	man	suspect 

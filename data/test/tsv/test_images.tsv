@@ -1,0 +1,2450 @@
+sentence_id	chunks_ids	type	score	chunk1	chunk2	pred_type	pred_score
+1	10 <==> 0	NOALI	NIL	.	-not aligned- 
+1	7 8 9 <==> 6 7	EQUI	5	on the tracks	on tracks 
+1	0 <==> 8	NOALI	NIL	-not aligned-	. 
+1	1 2 3 4 5 <==> 1 2 3 4 5	EQUI	5	Two green and white trains	Two green and white trains 
+1	6 <==> 0	NOALI	NIL	sitting	-not aligned- 
+2	4 5 6 <==> 7	EQUI	5	in a street	street 
+2	3 <==> 5 6	SPE2	4	driving	driving down 
+2	0 <==> 8	NOALI	NIL	-not aligned-	. 
+2	7 <==> 0	NOALI	NIL	.	-not aligned- 
+2	1 2 <==> 1 2 3 4	SPE2	3	a bus	Red double decker bus 
+3	3 4 5 6 <==> 2 3	SPE1	4	at a dinner table	at table 
+3	1 2 <==> 1	EQUI	5	a woman	Woman 
+3	11 <==> 0	NOALI	NIL	.	-not aligned- 
+3	7 <==> 4	REL	3	writing	busy 
+3	0 <==> 7	NOALI	NIL	-not aligned-	. 
+3	8 9 10 <==> 5 6	SPE1	4	on her notebook	with something 
+4	3 4 5 6 <==> 4 5 6	SPE1	4	of a brown horse	of a horse 
+4	7 8 <==> 7 8	EQUI	5	's head	's head 
+4	0 <==> 9	NOALI	NIL	-not aligned-	. 
+4	1 2 <==> 1 2 3	SIMI	3	A close-up	A side view 
+4	9 <==> 0	NOALI	NIL	.	-not aligned- 
+5	1 2 <==> 1 2	EQUI	5	The man	A man 
+5	10 <==> 0	NOALI	NIL	.	-not aligned- 
+5	0 <==> 11	NOALI	NIL	-not aligned-	. 
+5	3 4 <==> 3 4	EQUI	5	is riding	is riding 
+5	7 8 9 <==> 8 9 10	SPE1	4	down the road	on the road 
+5	5 6 <==> 5 6 7	SPE2	4	a motorcycle	a red motorcycle 
+6	3 4 5 6 <==> 3 4 5 6	SPE1	4	in front of steps	in front of ruins 
+6	7 8 <==> 0	ALIC	NIL	of ruins	-not aligned- 
+6	9 <==> 0	NOALI	NIL	.	-not aligned- 
+6	0 <==> 7	NOALI	NIL	-not aligned-	. 
+6	1 2 <==> 1 2	EQUI	5	A moped	A moped 
+7	9 <==> 3	EQUI	5	having	eating 
+7	3 4 5 <==> 0	ALIC	NIL	of four people	-not aligned- 
+7	11 <==> 0	NOALI	NIL	.	-not aligned- 
+7	10 <==> 4	SPE1	3	cake	dessert 
+7	0 <==> 8	NOALI	NIL	-not aligned-	. 
+7	1 2 <==> 1 2	EQUI	5	A group	Four people 
+7	6 7 8 <==> 5 6 7	REL	3	in a dinner	around a table 
+8	0 <==> 10	NOALI	NIL	-not aligned-	. 
+8	8 <==> 0	NOALI	NIL	.	-not aligned- 
+8	1 2 <==> 1 2 3 4	EQUI	5	Close up	A close up view 
+8	6 7 <==> 8 9	EQUI	5	of water	of water 
+8	3 4 5 <==> 5 6 7	EQUI	5	of a bottle	of a bottle 
+9	8 <==> 10	EQUI	5	closed	closed 
+9	4 5 6 7 <==> 7 8 9	EQUI	5	with it 's eyes	with its eyes 
+9	1 2 3 <==> 4 5 6	SPE1	4	A longed-haired cat	of a cat 
+9	0 <==> 1 2 3	NOALI	NIL	-not aligned-	A close up 
+9	9 <==> 0	NOALI	NIL	.	-not aligned- 
+9	0 <==> 11	NOALI	NIL	-not aligned-	. 
+10	3 <==> 6 7	EQUI	5	feed	are eating 
+10	4 5 6 <==> 8 9 10	EQUI	5	in the trough	in the trough 
+10	1 2 <==> 1 2 3 4 5	SPE2	4	The cows	The brown and white cows 
+10	7 <==> 0	NOALI	NIL	.	-not aligned- 
+10	0 <==> 11	NOALI	NIL	-not aligned-	. 
+11	13 <==> 0	NOALI	NIL	.	-not aligned- 
+11	1 2 3 4 5 6 7 <==> 5 6 7 8	SIMI	2	A black and wood colored dining room	in living room setting 
+11	0 <==> 9	NOALI	NIL	-not aligned-	. 
+11	9 10 11 12 <==> 1 2 3 4	REL	2	in a small apartment	Black and brown table 
+11	8 <==> 0	NOALI	NIL	set	-not aligned- 
+12	1 2 3 4 5 <==> 1 2 3 4 5	EQUI	5	a black and white cow	A black and white cow 
+12	8 <==> 0	NOALI	NIL	.	-not aligned- 
+12	6 7 <==> 6 7 8	SPE2	4	in hay	in a pen 
+12	0 <==> 11	NOALI	NIL	-not aligned-	. 
+12	0 <==> 9 10	ALIC	NIL	-not aligned-	with hay 
+13	4 5 6 <==> 5 6 7 8	EQUI	5	on grassy field	on the green grass 
+13	7 <==> 0	NOALI	NIL	.	-not aligned- 
+13	0 <==> 9	NOALI	NIL	-not aligned-	. 
+13	1 2 <==> 1 2 3	EQUI	5	Camouflage airplane	A camouflaged plane 
+13	3 <==> 4	EQUI	5	sitting	sitting 
+14	0 <==> 7	NOALI	NIL	-not aligned-	. 
+14	8 <==> 0	NOALI	NIL	on	-not aligned- 
+14	9 <==> 0	NOALI	NIL	.	-not aligned- 
+14	5 6 7 <==> 4 5 6	SIMI	4	with computer monitor	with two monitors 
+14	1 2 3 4 <==> 1 2 3	EQUI	5	Very crowded office desk	Messy computer desk 
+15	0 <==> 2	ALIC	NIL	-not aligned-	walking 
+15	3 4 5 <==> 3	EQUI	5	with a bicycle	bicycle 
+15	10 <==> 0	NOALI	NIL	.	-not aligned- 
+15	0 <==> 10	NOALI	NIL	-not aligned-	. 
+15	6 7 8 9 <==> 6 7 8 9	SIMI	4	at a coffee house	of a coffee shop 
+15	0 <==> 4 5	NOALI	NIL	-not aligned-	to patio 
+15	1 2 <==> 1	EQUI	5	A man	Man 
+16	1 2 3 4 <==> 1 2 3 4 5	EQUI	5	Red double decker bus	A red two story bus 
+16	7 8 <==> 7 8 9	EQUI	5	a street	along the street 
+16	5 6 <==> 6	SPE1	4	driving down	driving 
+16	0 <==> 10	NOALI	NIL	-not aligned-	. 
+16	9 <==> 0	NOALI	NIL	.	-not aligned- 
+17	0 <==> 9	NOALI	NIL	-not aligned-	. 
+17	3 4 <==> 4	EQUI	5	holding on	clings 
+17	9 <==> 0	NOALI	NIL	.	-not aligned- 
+17	5 6 7 8 <==> 5 6 7 8	SIMI	4	to a metal gate	to a wire fence 
+17	1 2 <==> 1 2 3	SPE2	4	A bird	A multi-colored bird 
+18	1 2 3 <==> 1 2 3	EQUI	5	A cruise liner	A cruise ship 
+18	0 <==> 7	NOALI	NIL	-not aligned-	. 
+18	5 6 7 <==> 5 6	EQUI	5	at the shoreline	at shore 
+18	4 <==> 4	EQUI	5	docked	docked 
+18	8 <==> 0	NOALI	NIL	.	-not aligned- 
+19	0 <==> 9	NOALI	NIL	-not aligned-	. 
+19	1 2 3 4 5 <==> 1 2 3 4	EQUI	5	A red double decker bus	A double decker bus 
+19	6 7 8 9 <==> 5 6 7 8	SPE1	4	on a crowded street	on a city street 
+19	10 <==> 0	NOALI	NIL	.	-not aligned- 
+20	3 4 5 <==> 1 2 3	EQUI	5	a rear view	The rear view 
+20	2 <==> 0	NOALI	NIL	is	-not aligned- 
+20	1 <==> 0	NOALI	NIL	This	-not aligned- 
+20	11 <==> 0	NOALI	NIL	.	-not aligned- 
+20	6 7 8 9 10 <==> 4 5 6 7 8 9	SIMI	4	of a Chevrolet sports car	of a red Chevrolet concept car 
+20	0 <==> 10	NOALI	NIL	-not aligned-	. 
+21	3 <==> 4	EQUI	5	holding	holding 
+21	1 2 <==> 1 2 3	SPE2	4	A woman	A smiling woman 
+21	4 5 6 <==> 5 6 7	EQUI	5	a small baby	a small baby 
+21	7 <==> 0	NOALI	NIL	.	-not aligned- 
+21	0 <==> 8	NOALI	NIL	-not aligned-	. 
+22	9 10 <==> 0	ALIC	NIL	that has	-not aligned- 
+22	12 13 <==> 0	NOALI	NIL	on it	-not aligned- 
+22	6 7 8 <==> 4 5 6	EQUI	5	at a table	at the table 
+22	1 2 <==> 1 2	EQUI	5	Three men	Three men 
+22	14 <==> 0	NOALI	NIL	.	-not aligned- 
+22	3 4 5 <==> 3	EQUI	5	are sitting down	sitting 
+22	0 <==> 11	NOALI	NIL	-not aligned-	. 
+22	11 <==> 7 8 9 10	SPE2	2	drinks	with beer and food 
+23	4 5 6 <==> 5 6 7	EQUI	5	on a branch	on a branch 
+23	7 <==> 0	NOALI	NIL	.	-not aligned- 
+23	3 <==> 4	EQUI	5	perched	perched 
+23	1 2 <==> 1 2 3	SPE2	4	Two Eagles	Two bald eagles 
+23	0 <==> 8	NOALI	NIL	-not aligned-	. 
+24	11 12 13 <==> 0	NOALI	NIL	on a desk	-not aligned- 
+24	14 <==> 0	NOALI	NIL	.	-not aligned- 
+24	0 <==> 6	NOALI	NIL	-not aligned-	. 
+24	4 5 6 7 8 9 10 <==> 2 3 4 5	SPE1	3	with three computer monitors and other equipment	with several computer monitors 
+24	1 2 3 <==> 1	SPE1	4	A home office	Room 
+25	6 7 8 <==> 4 5 6	EQUI	5	on the ground	on the ground 
+25	1 2 3 <==> 1 2	EQUI	5	The black bird	A blackbird 
+25	0 <==> 7	NOALI	NIL	-not aligned-	. 
+25	9 <==> 0	NOALI	NIL	.	-not aligned- 
+25	4 5 <==> 3	EQUI	5	is sitting	sitting 
+26	10 <==> 0	NOALI	NIL	.	-not aligned- 
+26	0 <==> 8	NOALI	NIL	-not aligned-	sits 
+26	0 <==> 17	NOALI	NIL	-not aligned-	. 
+26	0 <==> 9 10	NOALI	NIL	-not aligned-	on top 
+26	4 <==> 5 6 7	REL	4	riding	in riding gear 
+26	5 6 7 8 9 <==> 11 12 13 14 15 16	EQUI	5	a white and gray horse	of a gray and white horse 
+26	1 2 3 <==> 1 2 3 4	SPE2	4	A young girl	A young blonde girl 
+27	1 2 <==> 1 2 3	SPE1	4	The seagull	A little bird 
+27	3 4 <==> 4	EQUI	5	is floating	floating 
+27	8 <==> 0	NOALI	NIL	.	-not aligned- 
+27	0 <==> 8	NOALI	NIL	-not aligned-	. 
+27	5 6 7 <==> 5 6 7	EQUI	5	on the water	in the water 
+28	0 <==> 12	NOALI	NIL	-not aligned-	. 
+28	10 11 12 <==> 9 10 11	EQUI	5	in the snow	in the snow 
+28	13 <==> 0	NOALI	NIL	.	-not aligned- 
+28	3 <==> 3	REL	4	posing	stands 
+28	4 5 6 7 8 9 <==> 4 5 6 7 8	SPE1	4	in front of an apartment building	in front of a building 
+28	1 2 <==> 1 2	EQUI	5	A woman	A woman 
+29	0 <==> 8 9 10 11	NOALI	NIL	-not aligned-	at the waters edge 
+29	5 6 7 <==> 0	NOALI	NIL	at the camera	-not aligned- 
+29	8 <==> 0	NOALI	NIL	.	-not aligned- 
+29	0 <==> 4	NOALI	NIL	-not aligned-	standing 
+29	0 <==> 5 6 7	NOALI	NIL	-not aligned-	on a log 
+29	0 <==> 12	NOALI	NIL	-not aligned-	. 
+29	3 4 <==> 0	NOALI	NIL	is looking	-not aligned- 
+29	1 2 <==> 1 2 3	SIMI	1	The lamb	A small bird 
+30	4 <==> 8	EQUI	5	look	looking 
+30	5 6 7 <==> 9 10 11	EQUI	5	in the shed	at a shed 
+30	8 <==> 0	NOALI	NIL	.	-not aligned- 
+30	1 2 3 <==> 1 2 3	SIMI	3	The curious boys	Two small boys 
+30	0 <==> 12	NOALI	NIL	-not aligned-	. 
+30	0 <==> 4 5 6 7	NOALI	NIL	-not aligned-	in a woody area 
+31	12 <==> 0	NOALI	NIL	.	-not aligned- 
+31	1 2 3 4 5 <==> 1 2 3 4 5 6 7	SPE2	3	The black and white cows	A black cow and a brown cow 
+31	7 8 9 10 11 <==> 0	NOALI	NIL	in front of the gate	-not aligned- 
+31	0 <==> 9 10 11	NOALI	NIL	-not aligned-	in a plain 
+31	0 <==> 12 13 14 15 16 17	NOALI	NIL	-not aligned-	in front of an uprooted tree 
+31	6 <==> 8	SIMI	3	pause	stands 
+31	0 <==> 18	NOALI	NIL	-not aligned-	. 
+32	0 <==> 8	NOALI	NIL	-not aligned-	. 
+32	4 5 6 7 8 <==> 4 5 6 7	SIMI	1	of a brown faced cat	of an ostrich face 
+32	9 <==> 0	NOALI	NIL	.	-not aligned- 
+32	1 2 3 <==> 1 2 3	EQUI	5	A close up	A close up 
+33	8 9 10 <==> 0	NOALI	NIL	for the camera	-not aligned- 
+33	0 <==> 15 16	NOALI	NIL	-not aligned-	from behind 
+33	7 <==> 0	NOALI	NIL	smiles	-not aligned- 
+33	1 2 <==> 1 2	EQUI	5	A woman	A woman 
+33	11 12 13 <==> 12 13 14	SPE2	4	while the woman	a smiling woman 
+33	0 <==> 3 4 5 6	NOALI	NIL	-not aligned-	with a surprised look 
+33	0 <==> 10 11	NOALI	NIL	-not aligned-	is holding 
+33	3 4 5 6 <==> 0	NOALI	NIL	in a gray shirt	-not aligned- 
+33	19 <==> 0	NOALI	NIL	.	-not aligned- 
+33	17 18 <==> 0	NOALI	NIL	a face	-not aligned- 
+33	16 <==> 0	NOALI	NIL	makes	-not aligned- 
+33	0 <==> 17	NOALI	NIL	-not aligned-	. 
+33	0 <==> 7 8 9	NOALI	NIL	-not aligned-	on her face 
+33	14 15 <==> 0	NOALI	NIL	behind her	-not aligned- 
+34	8 9 10 11 12 13 <==> 0	NOALI	NIL	near a coffee table and television	-not aligned- 
+34	0 <==> 9	NOALI	NIL	-not aligned-	pops 
+34	0 <==> 10 11	NOALI	NIL	-not aligned-	a wheelie 
+34	7 <==> 0	NOALI	NIL	reclines	-not aligned- 
+34	3 4 5 6 <==> 0	NOALI	NIL	in a blue shirt	-not aligned- 
+34	0 <==> 8	NOALI	NIL	-not aligned-	and 
+34	0 <==> 4 5 6 7	NOALI	NIL	-not aligned-	on the motorcycle seat 
+34	14 <==> 0	NOALI	NIL	.	-not aligned- 
+34	0 <==> 3	NOALI	NIL	-not aligned-	stands 
+34	1 2 <==> 1 2	EQUI	5	A person	A person 
+34	0 <==> 12	NOALI	NIL	-not aligned-	. 
+35	9 <==> 0	NOALI	NIL	showing	-not aligned- 
+35	0 <==> 11	NOALI	NIL	-not aligned-	. 
+35	0 <==> 8 9 10	NOALI	NIL	-not aligned-	in their stalls 
+35	6 7 8 <==> 0	NOALI	NIL	of a woman	-not aligned- 
+35	10 11 <==> 6 7	SIMI	2	a horse	of cows 
+35	12 <==> 0	NOALI	NIL	.	-not aligned- 
+35	1 2 3 4 5 <==> 1 2 3 4 5	EQUI	5	A black and white photo	a black and white photo 
+36	0 <==> 1 2	NOALI	NIL	-not aligned-	A sheep 
+36	0 <==> 12	NOALI	NIL	-not aligned-	. 
+36	7 8 <==> 9 10 11	EQUI	5	in background	in the background 
+36	4 <==> 0	NOALI	NIL	beret	-not aligned- 
+36	0 <==> 3 4 5 6	NOALI	NIL	-not aligned-	in the morning mist 
+36	3 <==> 0	NOALI	NIL	wearing	-not aligned- 
+36	9 <==> 0	NOALI	NIL	.	-not aligned- 
+36	5 6 <==> 7 8	REL	3	with mountains	with trees 
+36	1 2 <==> 0	NOALI	NIL	Older man	-not aligned- 
+37	0 <==> 15	NOALI	NIL	-not aligned-	. 
+37	1 2 <==> 1 2	SPE2	3	A person	A girl 
+37	13 <==> 0	NOALI	NIL	.	-not aligned- 
+37	3 <==> 3	EQUI	5	wearing	wearing 
+37	7 8 <==> 10 11 12 13 14	SIMI	2	a bike	next to a blue motorcycle 
+37	6 <==> 0	NOALI	NIL	rides	-not aligned- 
+37	0 <==> 4 5 6 7	NOALI	NIL	-not aligned-	black shorts and boots 
+37	9 10 11 12 <==> 0	NOALI	NIL	near a white structure	-not aligned- 
+37	0 <==> 8 9	NOALI	NIL	-not aligned-	is standing 
+37	4 5 <==> 0	NOALI	NIL	a helmet	-not aligned- 
+38	3 4 <==> 0	NOALI	NIL	of cotton	-not aligned- 
+38	0 <==> 4 5	NOALI	NIL	-not aligned-	on step 
+38	0 <==> 1 2	NOALI	NIL	-not aligned-	Calico cat 
+38	0 <==> 3	NOALI	NIL	-not aligned-	sitting 
+38	1 2 <==> 0	NOALI	NIL	A bag	-not aligned- 
+38	10 <==> 0	NOALI	NIL	.	-not aligned- 
+38	0 <==> 11	NOALI	NIL	-not aligned-	. 
+38	0 <==> 6 7 8 9 10	NOALI	NIL	-not aligned-	in front of a door 
+38	5 6 7 8 9 <==> 0	NOALI	NIL	in front of a couch	-not aligned- 
+39	0 <==> 4 5	NOALI	NIL	-not aligned-	are standing 
+39	0 <==> 9	NOALI	NIL	-not aligned-	. 
+39	1 2 3 <==> 1 2 3	SIMI	1	A white sheep	The skinny cows 
+39	4 5 6 <==> 6 7 8	SIMI	3	on a hillside	on the grass 
+39	11 <==> 0	NOALI	NIL	.	-not aligned- 
+39	8 9 10 <==> 0	NOALI	NIL	at the camera	-not aligned- 
+39	7 <==> 0	NOALI	NIL	looking	-not aligned- 
+40	6 7 8 9 10 11 <==> 0	NOALI	NIL	of an empty glass Coke bottle	-not aligned- 
+40	0 <==> 7 8 9 10 11	NOALI	NIL	-not aligned-	with a computer and papers 
+40	0 <==> 14	NOALI	NIL	-not aligned-	. 
+40	0 <==> 4 5 6	NOALI	NIL	-not aligned-	of a desk 
+40	0 <==> 12 13	NOALI	NIL	-not aligned-	on it 
+40	12 <==> 0	NOALI	NIL	.	-not aligned- 
+40	1 2 3 4 5 <==> 1 2 3	SPE1	3	A close-up , distorted photo	A close-up picture 
+41	3 <==> 0	NOALI	NIL	standing	-not aligned- 
+41	7 8 <==> 0	NOALI	NIL	with trees	-not aligned- 
+41	0 <==> 16	NOALI	NIL	-not aligned-	. 
+41	9 10 11 <==> 13 14 15	EQUI	5	in the background	in the background 
+41	0 <==> 9 10	NOALI	NIL	-not aligned-	of water 
+41	4 5 6 <==> 11 12	SIMI	3	in a field	with grass 
+41	12 <==> 0	NOALI	NIL	.	-not aligned- 
+41	0 <==> 6 7 8	NOALI	NIL	-not aligned-	on a body 
+41	1 2 <==> 1 2 3 4 5	SIMI	1	Two horses	A black and white bird 
+42	0 <==> 9	NOALI	NIL	-not aligned-	. 
+42	1 2 3 <==> 1 2 3	SIMI	1	The skinny cows	The white ducks 
+42	4 5 <==> 4 5	EQUI	5	are standing	are standing 
+42	6 7 8 <==> 6 7 8	SPE1	3	on the grass	on the ground 
+42	9 <==> 0	NOALI	NIL	.	-not aligned- 
+43	9 <==> 0	NOALI	NIL	.	-not aligned- 
+43	0 <==> 9	NOALI	NIL	-not aligned-	. 
+43	0 <==> 4 5	NOALI	NIL	-not aligned-	in middle 
+43	5 <==> 3	EQUI	5	standing	standing 
+43	6 7 8 <==> 6 7 8	SPE2	4	in a field	of grassy field 
+43	1 2 <==> 1 2	SIMI	3	Brown cow	Brown horse 
+43	3 4 <==> 0	NOALI	NIL	with horns	-not aligned- 
+44	0 <==> 11 12 13	NOALI	NIL	-not aligned-	in a kitchen 
+44	0 <==> 1 2 3 4	NOALI	NIL	-not aligned-	A man and women 
+44	13 <==> 0	NOALI	NIL	.	-not aligned- 
+44	6 7 8 <==> 6 7 8	EQUI	5	at the camera	at the camera 
+44	0 <==> 14	NOALI	NIL	-not aligned-	. 
+44	4 5 <==> 5	REL	3	looking up	smiling 
+44	11 12 <==> 0	NOALI	NIL	on grass	-not aligned- 
+44	1 2 3 <==> 0	NOALI	NIL	A small dog	-not aligned- 
+44	9 10 <==> 9 10	EQUI	5	while standing	while standing 
+45	1 2 3 4 <==> 1 2 3 4 5	EQUI	5	Black and white photo	a black and white photo 
+45	0 <==> 12	NOALI	NIL	-not aligned-	. 
+45	0 <==> 6 7 8	NOALI	NIL	-not aligned-	of a cow 
+45	7 8 <==> 0	NOALI	NIL	with purse	-not aligned- 
+45	0 <==> 9 10 11	NOALI	NIL	-not aligned-	under a tree 
+45	5 6 <==> 0	NOALI	NIL	of couch	-not aligned- 
+45	12 <==> 0	NOALI	NIL	.	-not aligned- 
+45	9 10 11 <==> 0	NOALI	NIL	at one end	-not aligned- 
+46	9 <==> 0	NOALI	NIL	.	-not aligned- 
+46	0 <==> 7	NOALI	NIL	-not aligned-	. 
+46	6 7 8 <==> 5 6	EQUI	5	on the water	on water 
+46	5 <==> 4	EQUI	5	floating	floating 
+46	1 2 <==> 0	NOALI	NIL	Two men	-not aligned- 
+46	0 <==> 8	NOALI	NIL	-not aligned-	l. 
+46	3 4 <==> 1 2 3	SPE2	3	on boat	Large green boat 
+47	0 <==> 10	NOALI	NIL	-not aligned-	. 
+47	7 8 <==> 5	EQUI	5	is sleeping	sleeping 
+47	12 <==> 0	NOALI	NIL	.	-not aligned- 
+47	1 2 3 4 5 6 <==> 1 2 3 4	SIMI	4	A gray and white tabby cat	Black and white cat 
+47	9 10 11 <==> 6 7 8 9	SIMI	3	on purple fabric	on a brown tarp 
+48	0 <==> 8 9 10	NOALI	NIL	-not aligned-	near a highway 
+48	3 <==> 0	NOALI	NIL	dressed	-not aligned- 
+48	4 5 <==> 0	NOALI	NIL	in white	-not aligned- 
+48	7 8 9 10 <==> 0	NOALI	NIL	on a grass field	-not aligned- 
+48	0 <==> 5 6 7	NOALI	NIL	-not aligned-	underneath an overpass 
+48	11 <==> 0	NOALI	NIL	.	-not aligned- 
+48	1 2 <==> 1 2	SIMI	3	Two people	A person 
+48	0 <==> 11	NOALI	NIL	-not aligned-	. 
+48	6 <==> 3 4	EQUI	5	standing	is standing 
+49	0 <==> 7 8	NOALI	NIL	-not aligned-	shining in 
+49	6 7 8 9 <==> 3 4	SPE1	4	in a living room	in room 
+49	10 <==> 0	NOALI	NIL	.	-not aligned- 
+49	0 <==> 9	NOALI	NIL	-not aligned-	. 
+49	0 <==> 5 6	NOALI	NIL	-not aligned-	with sun 
+49	1 2 3 4 5 <==> 1 2	SPE1	3	Blue couch and twin bed	Blue couch 
+50	13 14 15 16 <==> 0	NOALI	NIL	near a large building	-not aligned- 
+50	1 2 <==> 0	NOALI	NIL	The udders	-not aligned- 
+50	3 4 5 6 <==> 1 2 3 4 5	SIMI	4	of a dairy cow	The black and brown cow 
+50	17 <==> 0	NOALI	NIL	.	-not aligned- 
+50	0 <==> 12	NOALI	NIL	-not aligned-	. 
+50	8 9 <==> 6 7	EQUI	5	is standing	is standing 
+50	7 <==> 0	NOALI	NIL	that	-not aligned- 
+50	10 11 12 <==> 8 9 10 11	SIMI	4	in a pasture	on the green grass 
+51	4 5 6 <==> 0	NOALI	NIL	in the snow	-not aligned- 
+51	1 2 3 <==> 1 2 3	EQUI	5	A passenger train	A passenger train 
+51	0 <==> 5 6 7	NOALI	NIL	-not aligned-	in a station 
+51	7 <==> 0	NOALI	NIL	.	-not aligned- 
+51	0 <==> 4	NOALI	NIL	-not aligned-	waiting 
+51	0 <==> 8	NOALI	NIL	-not aligned-	. 
+52	6 7 <==> 0	NOALI	NIL	is walking	-not aligned- 
+52	1 2 3 4 5 <==> 1 2 3 4 5	SIMI	3	A black and white sheep	Little black and white calf 
+52	0 <==> 12	NOALI	NIL	-not aligned-	. 
+52	0 <==> 9 10 11	NOALI	NIL	-not aligned-	on its ear 
+52	8 9 10 11 12 <==> 0	NOALI	NIL	next to a white sheep	-not aligned- 
+52	0 <==> 6 7 8	NOALI	NIL	-not aligned-	with a tag 
+52	13 <==> 0	NOALI	NIL	.	-not aligned- 
+53	5 <==> 0	NOALI	NIL	gets	-not aligned- 
+53	6 7 8 <==> 0	NOALI	NIL	some afternoon sun	-not aligned- 
+53	0 <==> 7	NOALI	NIL	-not aligned-	set 
+53	0 <==> 8 9	NOALI	NIL	-not aligned-	with playmates 
+53	9 <==> 0	NOALI	NIL	.	-not aligned- 
+53	0 <==> 1 2	ALIC	NIL	-not aligned-	Dining room 
+53	0 <==> 10	NOALI	NIL	-not aligned-	. 
+53	1 2 3 4 <==> 3 4 5 6	SPE2	4	The dining room table	with wooden dining table 
+54	5 6 7 <==> 0	NOALI	NIL	next to materials	-not aligned- 
+54	12 <==> 0	NOALI	NIL	.	-not aligned- 
+54	4 <==> 0	NOALI	NIL	stands	-not aligned- 
+54	0 <==> 12 13 14 15	NOALI	NIL	-not aligned-	on a marble post 
+54	0 <==> 1 2 3 4	NOALI	NIL	-not aligned-	An Asian toddler girl 
+54	0 <==> 5	NOALI	NIL	-not aligned-	sits 
+54	0 <==> 6 7 8 9	NOALI	NIL	-not aligned-	next to a pot 
+54	0 <==> 10 11	NOALI	NIL	-not aligned-	of flowers 
+54	1 2 3 <==> 0	NOALI	NIL	A black dog	-not aligned- 
+54	0 <==> 16	NOALI	NIL	-not aligned-	. 
+54	8 9 10 11 <==> 0	NOALI	NIL	at a construction site	-not aligned- 
+55	0 <==> 8 9 10	NOALI	NIL	-not aligned-	in the snow 
+55	0 <==> 3 4	NOALI	NIL	-not aligned-	is riding 
+55	0 <==> 5 6 7	NOALI	NIL	-not aligned-	on the tracks 
+55	7 <==> 0	NOALI	NIL	looking	-not aligned- 
+55	0 <==> 11	NOALI	NIL	-not aligned-	. 
+55	1 2 <==> 0	NOALI	NIL	A man	-not aligned- 
+55	4 5 6 <==> 0	NOALI	NIL	on the grass	-not aligned- 
+55	0 <==> 1 2	NOALI	NIL	-not aligned-	The train 
+55	11 <==> 0	NOALI	NIL	.	-not aligned- 
+55	8 9 10 <==> 0	NOALI	NIL	toward the sky	-not aligned- 
+55	3 <==> 0	NOALI	NIL	sitting	-not aligned- 
+56	0 <==> 10	NOALI	NIL	-not aligned-	. 
+56	11 12 13 <==> 0	NOALI	NIL	with a moped	-not aligned- 
+56	14 <==> 0	NOALI	NIL	.	-not aligned- 
+56	6 7 8 9 10 <==> 6 7 8 9	SPE2	4	in front of a building	outside a decrepit building 
+56	1 2 <==> 1 2	EQUI	5	A group	A group 
+56	3 4 5 <==> 3 4	SPE1	4	of black people	of people 
+56	0 <==> 5	NOALI	NIL	-not aligned-	are 
+57	6 7 8 <==> 0	NOALI	2	on a rope	-not aligned- 
+57	1 2 3 <==> 1 2 3	SIMI	4	The bald eagle	Two bald eagles 
+57	4 5 <==> 4	EQUI	5	is perched	perched 
+57	9 <==> 0	NOALI	NIL	.	-not aligned- 
+57	0 <==> 5 6 7	NOALI	NIL	-not aligned-	on a branch 
+57	0 <==> 8	NOALI	NIL	-not aligned-	. 
+58	6 7 8 9 <==> 0	NOALI	NIL	with a long face	-not aligned- 
+58	0 <==> 6 7 8	NOALI	NIL	-not aligned-	with black boots 
+58	0 <==> 3 4 5	NOALI	NIL	-not aligned-	of a woman 
+58	0 <==> 9 10 11 12 13	NOALI	NIL	-not aligned-	next to a blue motorcycle 
+58	3 4 5 <==> 0	NOALI	NIL	of an animal	-not aligned- 
+58	11 12 <==> 0	NOALI	NIL	on grass	-not aligned- 
+58	13 14 15 <==> 0	NOALI	NIL	near a tree	-not aligned- 
+58	0 <==> 14	NOALI	NIL	-not aligned-	. 
+58	1 2 <==> 1 2	EQUI	5	A close-up	A close-up 
+58	16 <==> 0	NOALI	NIL	.	-not aligned- 
+58	10 <==> 0	NOALI	NIL	standing	-not aligned- 
+59	1 2 <==> 1 2 3	SPE2	4	A man	an African man 
+59	0 <==> 4	NOALI	NIL	-not aligned-	hanging 
+59	11 <==> 0	NOALI	NIL	.	-not aligned- 
+59	0 <==> 14	NOALI	NIL	-not aligned-	. 
+59	7 8 9 10 <==> 8 9 10 11 12 13	SIMI	3	of an orange SUV	of a very full yellow van 
+59	3 <==> 0	NOALI	NIL	riding	-not aligned- 
+59	4 5 6 <==> 5 6 7	EQUI	5	on the back	onto the back 
+60	11 <==> 0	NOALI	NIL	.	-not aligned- 
+60	1 2 3 4 5 <==> 1 2 3 4 5	EQUI	5	A black and white photo	a black and white photo 
+60	0 <==> 6 7 8	NOALI	NIL	-not aligned-	of a cat 
+60	0 <==> 9 10	NOALI	NIL	-not aligned-	lying down 
+60	6 7 8 9 10 <==> 0	NOALI	NIL	of an empty train station	-not aligned- 
+60	0 <==> 11	NOALI	NIL	-not aligned-	. 
+61	4 5 6 7 <==> 4 5 6 7	REL	1	on a concrete slab	next to white wall 
+61	3 <==> 3	SIMI	4	sitting	sitting 
+61	0 <==> 8	NOALI	NIL	-not aligned-	. 
+61	1 2 <==> 1 2	SIMI	1	Black bird	Small dog 
+61	8 <==> 0	NOALI	NIL	.	-not aligned- 
+62	3 4 <==> 4	EQUI	5	is floating	floating 
+62	0 <==> 1 2 3	NOALI	NIL	-not aligned-	Large cruise ship 
+62	1 2 <==> 0	NOALI	NIL	The seagull	-not aligned- 
+62	0 <==> 8	NOALI	NIL	-not aligned-	. 
+62	8 <==> 0	NOALI	NIL	.	-not aligned- 
+62	5 6 7 <==> 5 6 7	EQUI	5	on the water	on the water 
+63	0 <==> 4 5 6 7 8	NOALI	NIL	-not aligned-	with only a few sprouting 
+63	9 <==> 0	NOALI	NIL	.	-not aligned- 
+63	4 5 <==> 0	NOALI	NIL	in sunlight	-not aligned- 
+63	6 7 8 <==> 0	NOALI	NIL	from a window	-not aligned- 
+63	0 <==> 9	NOALI	NIL	-not aligned-	. 
+63	1 2 3 <==> 1 2 3	EQUI	5	A potted plant	A potted plant 
+64	12 <==> 0	NOALI	NIL	.	-not aligned- 
+64	9 10 11 <==> 1 2 3 4 5	SIMI	2	a brown horse	A tan and white dog 
+64	0 <==> 13	NOALI	NIL	-not aligned-	. 
+64	0 <==> 9 10 11 12	NOALI	NIL	-not aligned-	with a yellow coverlet 
+64	1 2 <==> 0	NOALI	NIL	A girl	-not aligned- 
+64	7 8 <==> 0	NOALI	NIL	is riding	-not aligned- 
+64	0 <==> 6	NOALI	NIL	-not aligned-	laying 
+64	3 4 5 6 <==> 0	NOALI	NIL	in a red shirt	-not aligned- 
+64	0 <==> 7 8	NOALI	NIL	-not aligned-	in bed 
+65	0 <==> 4	NOALI	NIL	-not aligned-	sits 
+65	5 6 7 <==> 6 7 8	EQUI	5	down the tracks	on the tracks 
+65	4 <==> 0	NOALI	NIL	traveling	-not aligned- 
+65	0 <==> 9	NOALI	NIL	-not aligned-	. 
+65	1 2 3 <==> 1 2 3	SPE1	4	A coal train	An old train 
+65	8 <==> 0	NOALI	NIL	.	-not aligned- 
+65	0 <==> 5	NOALI	NIL	-not aligned-	idle 
+66	7 8 9 <==> 4	REL	3	at the airport	flies 
+66	10 <==> 0	NOALI	NIL	.	-not aligned- 
+66	1 2 3 <==> 1 2 3	SIMI	4	A large jet	A passenger jet 
+66	4 5 6 <==> 5 6 7	OPPO	4	on the ground	through the air 
+66	0 <==> 8	NOALI	NIL	-not aligned-	. 
+67	0 <==> 11	NOALI	NIL	-not aligned-	. 
+67	10 <==> 0	NOALI	NIL	.	-not aligned- 
+67	0 <==> 4 5 6	NOALI	NIL	-not aligned-	a red blouse 
+67	4 <==> 3	EQUI	5	wearing	wearing 
+67	8 9 <==> 8 9 10	SIMI	4	a pony	a brown horse 
+67	7 <==> 7	EQUI	5	riding	riding 
+67	1 2 3 <==> 1 2	SPE1	4	A young girl	A girl 
+67	5 6 <==> 0	NOALI	NIL	a helmet	-not aligned- 
+68	4 5 6 <==> 6 7 8	REL	2	in a pen	in a field 
+68	0 <==> 9	NOALI	NIL	-not aligned-	. 
+68	3 <==> 5	SPE2	4	standing	grazing 
+68	0 <==> 3 4	ALIC	NIL	-not aligned-	of horses 
+68	7 <==> 0	NOALI	NIL	.	-not aligned- 
+68	1 2 <==> 1 2	SPE1	3	Two horses	A group 
+69	0 <==> 3 4	ALIC	NIL	-not aligned-	of people 
+69	7 8 9 <==> 9 10 11	REL	2	at a restaurant	on a porch 
+69	3 <==> 5	EQUI	5	sitting	sitting 
+69	4 5 6 <==> 6 7 8	EQUI	5	at a table	around a table 
+69	1 2 <==> 1 2	SPE1	3	Two people	A group 
+69	10 <==> 0	NOALI	NIL	.	-not aligned- 
+69	0 <==> 12	NOALI	NIL	-not aligned-	. 
+70	7 8 9 <==> 0	NOALI	NIL	in the outdoors	-not aligned- 
+70	0 <==> 9	NOALI	NIL	-not aligned-	. 
+70	3 <==> 3	SIMI	2	riding	jumping 
+70	0 <==> 6 7 8	NOALI	NIL	-not aligned-	in the air 
+70	10 <==> 0	NOALI	NIL	.	-not aligned- 
+70	4 5 6 <==> 4 5	SIMI	3	a dirt bike	a motorbike 
+70	1 2 <==> 1 2	EQUI	5	A person	A person 
+71	0 <==> 6 7 8	NOALI	NIL	-not aligned-	of a cat 
+71	0 <==> 13	NOALI	NIL	-not aligned-	. 
+71	11 <==> 0	NOALI	NIL	.	-not aligned- 
+71	6 7 8 9 10 <==> 0	NOALI	NIL	of an old train station	-not aligned- 
+71	0 <==> 9	NOALI	NIL	-not aligned-	sitting 
+71	0 <==> 10 11 12	NOALI	NIL	-not aligned-	on a sofa 
+71	1 2 3 4 5 <==> 1 2 3 4 5	EQUI	5	A black and white photo	A black and white photo 
+72	0 <==> 9	NOALI	NIL	-not aligned-	. 
+72	0 <==> 7 8	NOALI	NIL	-not aligned-	from above 
+72	0 <==> 3	NOALI	NIL	-not aligned-	taking 
+72	1 2 <==> 1 2	EQUI	5	A woman	A woman 
+72	0 <==> 4 5 6	NOALI	NIL	-not aligned-	her own photo 
+72	4 5 6 <==> 0	NOALI	NIL	a brown horse	-not aligned- 
+72	7 <==> 0	NOALI	NIL	.	-not aligned- 
+72	3 <==> 0	NOALI	NIL	riding	-not aligned- 
+73	2 3 4 5 <==> 0	NOALI	NIL	with blue table cloth	-not aligned- 
+73	8 <==> 0	NOALI	NIL	.	-not aligned- 
+73	0 <==> 5	NOALI	NIL	-not aligned-	. 
+73	1 <==> 1 2	SPE1	3	Table	Wooden cabinets 
+73	6 7 <==> 3 4	EQUI	5	in kitchen	in kitchen 
+74	0 <==> 14	NOALI	NIL	-not aligned-	. 
+74	0 <==> 10 11 12 13	NOALI	NIL	-not aligned-	of a red tablecloth 
+74	5 <==> 5 6	EQUI	5	is	is placed 
+74	9 10 11 12 13 <==> 0	NOALI	NIL	of a tinfoil covered plate	-not aligned- 
+74	6 7 8 <==> 7 8 9	EQUI	5	at the center	in the center 
+74	1 2 <==> 1 2	EQUI	5	A pot	A pot 
+74	3 4 <==> 0	NOALI	NIL	of liquid	-not aligned- 
+74	0 <==> 3 4	NOALI	NIL	-not aligned-	of food 
+74	14 <==> 0	NOALI	NIL	.	-not aligned- 
+75	0 <==> 8 9	NOALI	NIL	-not aligned-	with beer 
+75	7 8 9 <==> 0	NOALI	NIL	at a car	-not aligned- 
+75	0 <==> 3 4 5 6	NOALI	NIL	-not aligned-	in a pink top 
+75	0 <==> 7	NOALI	NIL	-not aligned-	posing 
+75	10 <==> 0	NOALI	NIL	.	-not aligned- 
+75	0 <==> 10	NOALI	NIL	-not aligned-	. 
+75	3 <==> 0	NOALI	NIL	standing	-not aligned- 
+75	4 5 <==> 0	NOALI	NIL	in grass	-not aligned- 
+75	1 2 <==> 1 2	SIMI	3	Two men	A woman 
+75	6 <==> 0	NOALI	NIL	staring	-not aligned- 
+76	6 7 8 9 10 11 <==> 4 5 6 7	REL	3	in a den or living room	in a living chair 
+76	1 2 3 4 <==> 1 2	SPE1	2	Four Asian young people	A girl 
+76	12 <==> 0	NOALI	NIL	.	-not aligned- 
+76	0 <==> 8	NOALI	NIL	-not aligned-	. 
+76	5 <==> 3	EQUI	5	sitting	sitting 
+77	5 6 7 8 <==> 6 7 8 9 10 11 12 13 14 15	SPE2	2	with wine and dishes	with candles , wine , and a purple plastic bowl 
+77	9 10 11 <==> 0	NOALI	NIL	for two people	-not aligned- 
+77	12 <==> 0	NOALI	NIL	.	-not aligned- 
+77	1 2 <==> 1 2 3	SPE2	4	A table	A wooden table 
+77	3 4 <==> 4 5	EQUI	5	is set	is set 
+77	0 <==> 16	NOALI	NIL	-not aligned-	. 
+78	11 <==> 0	NOALI	NIL	.	-not aligned- 
+78	0 <==> 11 12 13	NOALI	NIL	-not aligned-	in their ears 
+78	3 4 5 <==> 0	NOALI	NIL	of river barges	-not aligned- 
+78	0 <==> 8 9 10	NOALI	NIL	-not aligned-	with yellow tags 
+78	0 <==> 3 4	NOALI	NIL	-not aligned-	of cows 
+78	8 9 10 <==> 0	NOALI	NIL	in the background	-not aligned- 
+78	1 2 <==> 1 2	EQUI	5	A group	A group 
+78	6 7 <==> 5 6 7	REL	3	with trees	in a field 
+78	0 <==> 14	NOALI	NIL	-not aligned-	. 
+79	1 2 <==> 1 2	SIMI	2	A moped	White bus 
+79	7 <==> 0	NOALI	NIL	.	-not aligned- 
+79	0 <==> 10	NOALI	NIL	-not aligned-	. 
+79	3 4 5 6 <==> 6 7 8 9	REL	2	in front of ruins	in front of building 
+79	0 <==> 4 5	NOALI	NIL	-not aligned-	in grass 
+79	0 <==> 3	NOALI	NIL	-not aligned-	parked 
+80	0 <==> 7	NOALI	NIL	-not aligned-	. 
+80	8 <==> 0	NOALI	NIL	.	-not aligned- 
+80	4 <==> 3	OPPO	4	moves	idle 
+80	1 2 3 <==> 1 2	EQUI	5	A black train	Black train 
+80	5 6 7 <==> 4 5 6	EQUI	5	down the tracks	on the tracks 
+81	6 <==> 0	NOALI	NIL	pulled	-not aligned- 
+81	10 <==> 0	NOALI	NIL	.	-not aligned- 
+81	0 <==> 3	NOALI	NIL	-not aligned-	wearing 
+81	1 2 <==> 1 2	SPE2	4	A person	A man 
+81	4 5 <==> 0	NOALI	NIL	a cart	-not aligned- 
+81	0 <==> 12	NOALI	NIL	-not aligned-	. 
+81	0 <==> 4 5 6	NOALI	NIL	-not aligned-	a dust mask 
+81	3 <==> 7	SIMI	2	driving	riding 
+81	7 8 9 <==> 8 9 10 11	SPE2	3	by a bicycle	a three wheeled bicycle 
+82	0 <==> 10	NOALI	NIL	-not aligned-	. 
+82	0 <==> 4 5 6 7 8 9	NOALI	NIL	-not aligned-	in a large black leather chair 
+82	8 <==> 0	NOALI	NIL	.	-not aligned- 
+82	4 5 6 7 <==> 0	NOALI	NIL	a large black motorbike	-not aligned- 
+82	0 <==> 3	NOALI	NIL	-not aligned-	sits 
+82	3 <==> 0	NOALI	NIL	rides	-not aligned- 
+82	1 2 <==> 1 2	SIMI	3	A man	A child 
+83	8 <==> 0	NOALI	NIL	.	-not aligned- 
+83	0 <==> 8	NOALI	NIL	-not aligned-	. 
+83	1 2 <==> 0	NOALI	NIL	Two people	-not aligned- 
+83	3 <==> 3	SIMI	4	sitting	sitting 
+83	4 5 6 7 <==> 0	NOALI	NIL	on a large motorcycle	-not aligned- 
+83	0 <==> 4 5 6 7	NOALI	NIL	-not aligned-	on a long branch 
+83	0 <==> 1 2	NOALI	NIL	-not aligned-	Two eagles 
+84	6 7 8 <==> 0	NOALI	NIL	on a twig	-not aligned- 
+84	11 12 13 14 <==> 6 7 8 9	SIMI	4	on a wooden deck	on the wooden floor 
+84	15 <==> 0	NOALI	NIL	.	-not aligned- 
+84	0 <==> 10 11 12	ALIC	NIL	-not aligned-	underneath the table 
+84	0 <==> 13	NOALI	NIL	-not aligned-	. 
+84	9 10 <==> 4 5	EQUI	5	while lying	is laying 
+84	5 <==> 0	NOALI	NIL	chews	-not aligned- 
+84	1 2 3 4 <==> 1 2 3	SPE1	4	A small white dog	The white dog 
+85	0 <==> 12	NOALI	NIL	-not aligned-	. 
+85	12 <==> 0	NOALI	NIL	.	-not aligned- 
+85	0 <==> 6	NOALI	NIL	-not aligned-	standing 
+85	8 9 10 11 <==> 0	NOALI	NIL	on a striped couch	-not aligned- 
+85	1 2 3 4 5 6 7 <==> 1 2 3 4 5	SPE1	3	A black and white cat and dog	A black and white cat 
+85	0 <==> 7 8 9 10 11	NOALI	NIL	-not aligned-	in front of a window 
+86	0 <==> 14	NOALI	NIL	-not aligned-	. 
+86	15 <==> 0	NOALI	NIL	.	-not aligned- 
+86	0 <==> 5 6 7 8	NOALI	NIL	-not aligned-	on a wooden beam 
+86	7 8 9 10 <==> 0	NOALI	NIL	at a dinner table	-not aligned- 
+86	0 <==> 1 2 3	NOALI	NIL	-not aligned-	A small cat 
+86	6 <==> 0	NOALI	NIL	sitting	-not aligned- 
+86	0 <==> 4	NOALI	NIL	-not aligned-	laying 
+86	1 2 3 4 5 <==> 0	NOALI	NIL	A women and small child	-not aligned- 
+86	12 13 14 <==> 11 12 13	EQUI	5	at the camera	at the camera 
+86	11 <==> 9 10	REL	3	smiling	looking up 
+87	0 <==> 6	NOALI	NIL	-not aligned-	. 
+87	4 <==> 2	SIMI	4	driving	pulling 
+87	0 <==> 3 4 5	NOALI	NIL	-not aligned-	into a station 
+87	5 6 7 8 9 <==> 0	NOALI	NIL	in front of a garden	-not aligned- 
+87	10 <==> 0	NOALI	NIL	.	-not aligned- 
+87	1 2 3 <==> 1	SPE1	2	Two red buses	Train 
+88	1 <==> 0	NOALI	NIL	This	-not aligned- 
+88	0 <==> 14 15 16	NOALI	NIL	-not aligned-	in the background 
+88	2 3 <==> 0	NOALI	NIL	a picture	-not aligned- 
+88	0 <==> 17	NOALI	NIL	-not aligned-	. 
+88	0 <==> 1	NOALI	NIL	-not aligned-	There 
+88	11 12 13 <==> 0	NOALI	NIL	in the background	-not aligned- 
+88	0 <==> 2	NOALI	NIL	-not aligned-	are 
+88	14 <==> 0	NOALI	NIL	.	-not aligned- 
+88	0 <==> 3 4 5	NOALI	NIL	-not aligned-	some black cattle 
+88	4 5 6 <==> 6 7 8 9	SIMI	3	of the countryside	in a grassy plain 
+88	7 8 9 10 <==> 10 11 12 13	REL	2	with a large city	with a large tree 
+89	3 4 5 6 7 8 9 <==> 3 4 5 6	SIMI	1	in a black bikini top and jeans	in a black hat 
+89	1 2 <==> 1 2	EQUI	5	A woman	A woman 
+89	0 <==> 9 10 11	NOALI	NIL	-not aligned-	by the subway 
+89	0 <==> 12	NOALI	NIL	-not aligned-	. 
+89	10 <==> 0	NOALI	NIL	.	-not aligned- 
+89	0 <==> 7 8	NOALI	NIL	-not aligned-	is standing 
+90	0 <==> 4 5 6	NOALI	NIL	-not aligned-	in a kitchen 
+90	7 <==> 0	NOALI	NIL	.	-not aligned- 
+90	0 <==> 3	NOALI	NIL	-not aligned-	eating 
+90	4 5 6 <==> 0	NOALI	NIL	in a tent	-not aligned- 
+90	1 2 <==> 1 2	EQUI	5	Three men	Three men 
+90	0 <==> 7	NOALI	NIL	-not aligned-	. 
+90	3 <==> 0	NOALI	NIL	posing	-not aligned- 
+91	0 <==> 2 3 4	NOALI	NIL	-not aligned-	with blue shirt 
+91	0 <==> 11	NOALI	NIL	-not aligned-	. 
+91	1 2 <==> 1	EQUI	5	A man	Man 
+91	4 5 6 7 8 9 <==> 6 7 8 9 10	SPE1	4	in front of a large fountain	in front of a fountain 
+91	3 <==> 5	REL	4	poses	standing 
+91	15 <==> 0	NOALI	NIL	.	-not aligned- 
+91	13 14 <==> 0	NOALI	NIL	on top	-not aligned- 
+91	10 11 12 <==> 0	NOALI	NIL	with a statue	-not aligned- 
+92	0 <==> 2	NOALI	NIL	-not aligned-	milking 
+92	3 4 <==> 3 4	SIMI	2	a sheep	a cow 
+92	1 <==> 1	SIMI	4	Children	Child 
+92	0 <==> 6	NOALI	NIL	-not aligned-	. 
+92	5 <==> 0	NOALI	NIL	.	-not aligned- 
+92	2 <==> 0	NOALI	NIL	looking	-not aligned- 
+92	0 <==> 5	NOALI	NIL	-not aligned-	outside 
+93	10 <==> 0	NOALI	NIL	.	-not aligned- 
+93	3 4 5 6 <==> 3 4 5	SPE1	4	of a gray cat	of a cat 
+93	7 8 9 <==> 0	NOALI	NIL	with green eyes	-not aligned- 
+93	1 2 <==> 1 2	EQUI	5	A close-up	A close-up 
+93	0 <==> 6 7 8 9	NOALI	NIL	-not aligned-	on a cream sofa 
+93	0 <==> 10	NOALI	NIL	-not aligned-	. 
+94	3 <==> 3	EQUI	5	stand	stand 
+94	0 <==> 7	NOALI	NIL	-not aligned-	. 
+94	1 2 <==> 1 2	SIMI	3	Two sheep	Two rams 
+94	4 5 6 <==> 0	NOALI	NIL	in a doorway	-not aligned- 
+94	0 <==> 4 5 6	NOALI	NIL	-not aligned-	on snowy ground 
+94	7 <==> 0	NOALI	NIL	.	-not aligned- 
+95	0 <==> 16	NOALI	NIL	-not aligned-	. 
+95	0 <==> 10 11 12	NOALI	NIL	-not aligned-	at a cat 
+95	1 2 <==> 0	NOALI	NIL	The train	-not aligned- 
+95	0 <==> 6 7 8	NOALI	NIL	-not aligned-	of a patio 
+95	0 <==> 9	NOALI	NIL	-not aligned-	looks 
+95	0 <==> 13 14 15	NOALI	NIL	-not aligned-	on the fence 
+95	0 <==> 3 4 5	NOALI	NIL	-not aligned-	on the floor 
+95	3 <==> 0	NOALI	NIL	heads	-not aligned- 
+95	11 <==> 0	NOALI	NIL	.	-not aligned- 
+95	0 <==> 1 2	NOALI	NIL	-not aligned-	a dog 
+95	4 5 6 7 8 9 10 <==> 0	NOALI	NIL	down the tracks and along the hedge	-not aligned- 
+96	6 7 <==> 5 6 7	EQUI	5	the tracks	on a track 
+96	8 <==> 0	NOALI	NIL	.	-not aligned- 
+96	4 5 <==> 0	NOALI	NIL	moves down	-not aligned- 
+96	0 <==> 8	NOALI	NIL	-not aligned-	. 
+96	1 2 3 <==> 1 2 3 4	SPE1	4	A black train	A mostly black train 
+97	0 <==> 16	NOALI	NIL	-not aligned-	. 
+97	0 <==> 10 11 12 13 14 15	NOALI	NIL	-not aligned-	against a partly cloudy blue sky 
+97	1 2 3 4 <==> 1 2 3 4 5	SPE2	4	Black and white cows	Two black and white cows 
+97	5 6 7 <==> 6 7 8 9	SPE2	4	behind a fence	behind a metal gate 
+97	8 <==> 0	NOALI	NIL	.	-not aligned- 
+98	4 <==> 4	EQUI	5	running	runs 
+98	1 2 3 <==> 1 2 3	SPE2	4	A white animal	A white dog 
+98	5 6 7 8 <==> 5 6 7 8 9	EQUI	5	through snow covered woods	through a snow covered wood 
+98	0 <==> 10	NOALI	NIL	-not aligned-	. 
+98	9 <==> 0	NOALI	NIL	.	-not aligned- 
+99	11 <==> 0	NOALI	NIL	.	-not aligned- 
+99	7 <==> 0	NOALI	NIL	placed	-not aligned- 
+99	8 9 10 <==> 5 6 7	EQUI	5	on the floor	on the floor 
+99	0 <==> 8	NOALI	NIL	-not aligned-	. 
+99	1 2 3 4 5 6 <==> 1 2 3 4	SPE1	4	A black , flat screen television	A flat screen TV 
+100	0 <==> 6 7 8	NOALI	NIL	-not aligned-	on a couch 
+100	4 5 <==> 10	EQUI	5	is resting	has 
+100	1 2 3 <==> 1 2 3	EQUI	5	The brown dog	A tan dog 
+100	8 9 10 11 <==> 13 14 15 16	EQUI	5	on a white pillow	on a white pillow 
+100	0 <==> 9	NOALI	NIL	-not aligned-	and 
+100	6 7 <==> 11 12	EQUI	5	his head	its head 
+100	0 <==> 17	NOALI	NIL	-not aligned-	. 
+100	12 <==> 0	NOALI	NIL	.	-not aligned- 
+100	0 <==> 4 5	NOALI	NIL	-not aligned-	is lying 
+101	3 4 5 <==> 3 4 5 6	EQUI	5	on train tracks	on the train tracks 
+101	0 <==> 7	NOALI	NIL	-not aligned-	. 
+101	1 2 <==> 1 2	SPE1	4	Black train	A train 
+101	6 <==> 0	NOALI	NIL	.	-not aligned- 
+102	0 <==> 6	NOALI	NIL	-not aligned-	posing 
+102	8 9 10 <==> 0	NOALI	NIL	with her arm	-not aligned- 
+102	4 5 6 7 <==> 4 5	SPE1	4	on red patterned couch	on couch 
+102	0 <==> 7 8	NOALI	NIL	-not aligned-	for camera 
+102	0 <==> 9	NOALI	NIL	-not aligned-	. 
+102	14 <==> 0	NOALI	NIL	.	-not aligned- 
+102	1 2 <==> 1 2	SPE1	4	Elderly woman	Two women 
+102	3 <==> 3	EQUI	5	sitting	sitting 
+102	11 12 13 <==> 0	ALIC	NIL	around younger woman	-not aligned- 
+103	12 <==> 0	NOALI	NIL	.	-not aligned- 
+103	4 <==> 0	NOALI	NIL	together	-not aligned- 
+103	0 <==> 8	NOALI	NIL	-not aligned-	. 
+103	3 <==> 0	NOALI	NIL	sitting	-not aligned- 
+103	10 11 <==> 5 6 7	EQUI	5	the window	at a window 
+103	8 9 <==> 3 4	SPE1	4	looking out	are looking 
+103	1 2 <==> 1 2	EQUI	5	Two cats	Two cats 
+103	5 6 7 <==> 0	NOALI	NIL	on the sofa	-not aligned- 
+104	11 <==> 0	NOALI	NIL	.	-not aligned- 
+104	6 7 <==> 6 7	EQUI	5	is looking	is looking 
+104	1 2 3 4 5 <==> 1 2 3 4 5	SIMI	3	The black and brown cow	The black and white bull 
+104	8 9 10 <==> 8 9 10	EQUI	5	at the camera	at the camera 
+104	0 <==> 11	NOALI	NIL	-not aligned-	. 
+105	5 <==> 4	EQUI	5	sits	sitting 
+105	10 11 12 <==> 0	NOALI	NIL	of a bedroom	-not aligned- 
+105	13 <==> 0	NOALI	NIL	.	-not aligned- 
+105	1 2 3 4 <==> 1 2 3	SPE1	4	A white Apple computer	An Apple computer 
+105	6 7 8 9 <==> 5 6 7	SPE1	4	on the beige carpeting	on the floor 
+105	0 <==> 8	NOALI	NIL	-not aligned-	. 
+106	8 <==> 0	NOALI	NIL	.	-not aligned- 
+106	1 2 3 4 <==> 1 2	SPE1	4	Red and white bus	A bus 
+106	0 <==> 8	NOALI	NIL	-not aligned-	. 
+106	7 <==> 5 6 7	SPE2	4	road	a busy road 
+106	5 6 <==> 3 4	EQUI	5	driving down	drives down 
+107	1 2 3 <==> 1 2 3 4	EQUI	5	Red sports car	A red sports car 
+107	0 <==> 6	ALIC	NIL	-not aligned-	quickly 
+107	7 <==> 0	NOALI	NIL	.	-not aligned- 
+107	0 <==> 10	NOALI	NIL	-not aligned-	. 
+107	4 <==> 5	EQUI	5	racing	driving 
+107	5 6 <==> 7 8 9	SPE1	4	down track	on a track 
+108	7 8 9 10 11 <==> 5 6 7 8 9 10 11	SPE2	4	with red and gold stripes	with red , orange and yellow stripes 
+108	5 <==> 0	NOALI	NIL	is	-not aligned- 
+108	12 <==> 0	NOALI	NIL	.	-not aligned- 
+108	1 2 3 4 <==> 1 2 3 4	SPE1	4	A Victory Liner bus	A white tour bus 
+108	0 <==> 12	NOALI	NIL	-not aligned-	. 
+108	6 <==> 0	ALIC	NIL	white	-not aligned- 
+109	0 <==> 8	NOALI	NIL	-not aligned-	. 
+109	3 <==> 4	EQUI	5	parked	parked 
+109	4 5 6 7 <==> 5 6 7	SIMI	3	next to a car	between two cars 
+109	1 2 <==> 1 2 3	SPE2	4	A motorcycle	A BMW motorcycle 
+109	8 <==> 0	NOALI	NIL	.	-not aligned- 
+110	9 10 11 <==> 10 11 12	EQUI	5	under a tree	under a tree 
+110	0 <==> 16	NOALI	NIL	-not aligned-	. 
+110	0 <==> 13 14 15	NOALI	NIL	-not aligned-	in a field 
+110	12 <==> 0	NOALI	NIL	.	-not aligned- 
+110	6 7 8 <==> 6 7 8	EQUI	5	of a cow	of a cow 
+110	0 <==> 9	NOALI	NIL	-not aligned-	walking 
+110	1 2 3 4 5 <==> 1 2 3 4 5	EQUI	5	a black and white photo	A black and white photo 
+111	6 7 8 <==> 5 6 7	EQUI	5	at a station	in a station 
+111	9 <==> 0	NOALI	NIL	.	-not aligned- 
+111	1 2 3 4 <==> 1 2 3	SPE1	4	An Amtrak passenger train	A passenger train 
+111	0 <==> 8	NOALI	NIL	-not aligned-	. 
+111	5 <==> 4	EQUI	5	waiting	waiting 
+112	0 <==> 7	NOALI	NIL	-not aligned-	. 
+112	1 2 <==> 1 2 3	SPE2	4	Two women	Two smiling women 
+112	4 5 6 <==> 5 6	EQUI	5	with a baby	a baby 
+112	0 <==> 4	NOALI	NIL	-not aligned-	holding 
+112	7 <==> 0	NOALI	NIL	.	-not aligned- 
+112	3 <==> 0	NOALI	NIL	posing	-not aligned- 
+113	8 9 10 11 <==> 5 6 7	EQUI	5	on on the tracks	on the track 
+113	12 <==> 0	NOALI	NIL	.	-not aligned- 
+113	0 <==> 8	NOALI	NIL	-not aligned-	. 
+113	1 2 3 4 5 6 7 <==> 1 2	SPE1	4	The red train and the yellow train	Two trains 
+113	0 <==> 3 4	NOALI	NIL	-not aligned-	are traveling 
+114	8 <==> 0	NOALI	NIL	.	-not aligned- 
+114	0 <==> 8	NOALI	NIL	-not aligned-	. 
+114	4 <==> 0	ALIC	NIL	head	-not aligned- 
+114	5 6 7 <==> 4 5 6 7	SIMI	4	of an ostrich	of an ostrich face 
+114	1 2 3 <==> 1 2 3	EQUI	5	a close up	A close up 
+115	3 <==> 3	SIMI	3	sailing	floating 
+115	7 <==> 0	NOALI	NIL	.	-not aligned- 
+115	4 5 6 <==> 4 5 6 7	SPE2	4	on the water	on the blue water 
+115	0 <==> 8	NOALI	NIL	-not aligned-	. 
+115	1 2 <==> 1 2	EQUI	5	Sail boat	Sail boat 
+116	11 <==> 0	NOALI	NIL	.	-not aligned- 
+116	3 4 5 6 <==> 3 4 5 6	EQUI	5	in a top hat	with a top hat 
+116	7 <==> 7	EQUI	5	rides	riding 
+116	1 2 <==> 1 2	EQUI	5	A man	A man 
+116	0 <==> 11	NOALI	NIL	-not aligned-	. 
+116	8 9 10 <==> 8 9 10	EQUI	5	a white horse	a white horse 
+117	6 <==> 0	NOALI	NIL	.	-not aligned- 
+117	0 <==> 10	NOALI	NIL	-not aligned-	. 
+117	0 <==> 8 9	ALIC	NIL	-not aligned-	is parked 
+117	1 2 3 4 5 <==> 1 2 3 4 5 6 7	SPE2	4	Parked white double decker bus	A red and white double decker bus 
+118	1 2 <==> 1 2 3	SPE2	4	Two birds	Two small birds 
+118	0 <==> 9	NOALI	NIL	-not aligned-	. 
+118	3 4 <==> 4	EQUI	5	are perched	perched 
+118	9 <==> 0	NOALI	NIL	.	-not aligned- 
+118	5 6 7 8 <==> 5 6 7 8	EQUI	5	on a metal band	on a metal bar 
+119	14 <==> 0	NOALI	NIL	.	-not aligned- 
+119	6 7 8 9 <==> 6 7 8 9	SIMI	3	with a yawning baby	with a newborn baby 
+119	5 <==> 5	EQUI	5	pose	poses 
+119	1 2 3 4 <==> 1 2 3 4	EQUI	5	An elderly Asian couple	An older Asian couple 
+119	10 11 12 13 <==> 10 11 12 13	EQUI	5	at a dinner table	at the dinner table 
+119	0 <==> 14	NOALI	NIL	-not aligned-	. 
+120	0 <==> 9	NOALI	NIL	-not aligned-	. 
+120	1 2 3 <==> 1 2	EQUI	5	A brown horse	Brown horse 
+120	8 9 10 <==> 6 7 8	EQUI	5	of green grass	of grassy field 
+120	5 6 7 <==> 0	ALIC	NIL	in a field	-not aligned- 
+120	0 <==> 4 5	NOALI	NIL	-not aligned-	in middle 
+120	4 <==> 3	SPE1	4	grazing	standing 
+120	11 <==> 0	NOALI	NIL	.	-not aligned- 
+121	0 <==> 5	NOALI	NIL	-not aligned-	. 
+121	6 <==> 0	NOALI	NIL	.	-not aligned- 
+121	1 <==> 1	EQUI	5	Train	Train 
+121	4 5 <==> 3 4	EQUI	5	the tracks	on tracks 
+121	2 3 <==> 2	SIMI	3	going down	gliding 
+122	5 6 <==> 4 5 6	EQUI	5	at table	at a table 
+122	0 <==> 7	NOALI	NIL	-not aligned-	. 
+122	1 <==> 1 2	SPE2	4	Group	four people 
+122	4 <==> 3	EQUI	5	sitting	sitting 
+122	9 <==> 0	NOALI	NIL	.	-not aligned- 
+122	2 3 <==> 0	ALIC	NIL	of people	-not aligned- 
+122	7 8 <==> 0	NOALI	NIL	with drinks	-not aligned- 
+123	0 <==> 9	NOALI	NIL	-not aligned-	. 
+123	1 2 3 <==> 1 2 3 4	SIMI	4	Yellow striped cat	An orange tabby cat 
+123	8 <==> 0	NOALI	NIL	.	-not aligned- 
+123	4 <==> 5	SPE2	4	resting	sleeping 
+123	5 6 7 <==> 6 7 8	SPE1	4	on blue sofa	on the sofa 
+124	1 2 3 <==> 1 2 3	EQUI	5	A white jeep	A white Jeep 
+124	10 <==> 0	NOALI	NIL	.	-not aligned- 
+124	4 <==> 4	EQUI	5	parked	parked 
+124	5 6 7 8 9 <==> 5 6 7	SPE1	3	in front of a store	on a street 
+124	0 <==> 8	NOALI	NIL	-not aligned-	. 
+125	0 <==> 5 6 7 8 9	NOALI	NIL	-not aligned-	by a large white building 
+125	4 5 <==> 3 4	EQUI	5	parked up	are parked 
+125	1 2 3 <==> 1 2	SPE1	4	Two red buses	Red buses 
+125	0 <==> 14	NOALI	NIL	-not aligned-	. 
+125	12 <==> 0	NOALI	NIL	.	-not aligned- 
+125	8 9 10 11 <==> 0	ALIC	NIL	in front of them	-not aligned- 
+125	6 7 <==> 10 11 12 13	SPE2	3	with gardens	beside a formal garden 
+126	0 <==> 11	NOALI	NIL	-not aligned-	. 
+126	9 <==> 0	NOALI	NIL	.	-not aligned- 
+126	3 <==> 6	EQUI	5	sniffing	sniffing 
+126	4 5 <==> 0	ALIC	NIL	the bottom	-not aligned- 
+126	6 7 8 <==> 7 8 9 10	SPE2	3	of a door	at a closed door 
+126	1 2 <==> 1 2 3 4 5	SPE2	4	A dog	A black and white dog 
+127	6 <==> 3	EQUI	5	sitting	parked 
+127	11 <==> 0	NOALI	NIL	.	-not aligned- 
+127	0 <==> 8	NOALI	NIL	-not aligned-	. 
+127	1 2 3 4 5 <==> 1 2	SPE1	4	A silver and blue motorcycle	A motorcycle 
+127	7 8 9 10 <==> 4 5 6 7	EQUI	5	next to a car	next to a car 
+128	3 4 5 6 7 <==> 3 4 5 6 7 8 9	SIMI	4	in front of silver train	in front of a silver rail car 
+128	8 <==> 0	NOALI	NIL	.	-not aligned- 
+128	0 <==> 10	NOALI	NIL	-not aligned-	. 
+128	2 <==> 2	EQUI	5	standing	standing 
+128	1 <==> 1	EQUI	5	Man	Man 
+129	8 9 10 <==> 7 8 9	EQUI	5	in a field	in the field 
+129	11 <==> 0	NOALI	NIL	.	-not aligned- 
+129	1 2 3 4 5 6 <==> 1 2 3 4 5	SPE1	4	A black and white horned cow	a black and white cow 
+129	0 <==> 10	NOALI	NIL	-not aligned-	. 
+129	7 <==> 6	EQUI	5	standing	standing 
+130	10 <==> 0	NOALI	NIL	.	-not aligned- 
+130	1 2 <==> 1 2	EQUI	5	A man	A man 
+130	4 5 6 <==> 4 5 6	EQUI	5	a white horse	a white horse 
+130	0 <==> 7	NOALI	NIL	-not aligned-	. 
+130	7 8 9 <==> 0	NOALI	NIL	in an arena	-not aligned- 
+130	3 <==> 3	EQUI	5	riding	riding 
+131	14 15 16 17 <==> 8 9 10	SPE1	4	a white show horse	a white horse 
+131	12 13 <==> 7	EQUI	5	is riding	riding 
+131	4 5 6 7 8 9 10 11 <==> 3 4 5 6	SPE1	3	black formal wear & a black top hat	with a top hat 
+131	18 <==> 0	NOALI	NIL	.	-not aligned- 
+131	3 <==> 0	ALIC	NIL	wearing	-not aligned- 
+131	0 <==> 11	NOALI	NIL	-not aligned-	. 
+131	1 2 <==> 1 2	EQUI	5	A man	A man 
+132	1 2 3 4 <==> 1 2 3	SPE1	4	A small brown birds	A small bird 
+132	5 6 <==> 0	NOALI	NIL	is eating	-not aligned- 
+132	12 13 14 <==> 10 11 12	EQUI	5	from a tree	from the tree 
+132	0 <==> 4	NOALI	NIL	-not aligned-	perches 
+132	15 <==> 0	NOALI	NIL	.	-not aligned- 
+132	0 <==> 13	NOALI	NIL	-not aligned-	. 
+132	7 8 9 10 <==> 5 6 7 8	EQUI	5	from a bird feeder	on the bird feeder 
+132	11 <==> 9	EQUI	5	hanging	hanging 
+133	1 2 <==> 1 2	EQUI	5	A girl	A girl 
+133	0 <==> 3 4 5 6	NOALI	NIL	-not aligned-	in a red shirt 
+133	0 <==> 12	NOALI	NIL	-not aligned-	. 
+133	11 <==> 0	NOALI	NIL	.	-not aligned- 
+133	6 <==> 0	ALIC	NIL	sits	-not aligned- 
+133	7 8 9 10 <==> 9 10 11	EQUI	5	atop a brown horse	a brown horse 
+133	3 4 5 <==> 7 8	REL	4	in riding gear	is riding 
+134	11 12 <==> 12 13	EQUI	5	of trees	of trees 
+134	0 <==> 14	NOALI	NIL	-not aligned-	. 
+134	4 5 6 7 <==> 4 5 6	SPE1	4	in a grassy field	in the field 
+134	13 <==> 0	NOALI	NIL	.	-not aligned- 
+134	2 3 <==> 2 3	EQUI	5	are grazing	are grazing 
+134	8 9 10 <==> 7 8 9 10 11	SIMI	4	near a stand	in front of a line 
+134	1 <==> 1	EQUI	5	Sheep	Sheep 
+135	5 6 7 <==> 4 5 6 7	SPE1	4	a gray jacket	in a pet jacket 
+135	3 4 <==> 0	NOALI	NIL	is wearing	-not aligned- 
+135	0 <==> 3	NOALI	NIL	-not aligned-	laying 
+135	0 <==> 8	NOALI	NIL	-not aligned-	. 
+135	8 <==> 0	NOALI	NIL	.	-not aligned- 
+135	1 2 <==> 1 2	EQUI	5	A dog	A dog 
+136	6 7 8 <==> 8 9 10	EQUI	5	at the camera	into the camera 
+136	1 2 3 <==> 0	NOALI	NIL	a little girl	-not aligned- 
+136	9 <==> 0	NOALI	NIL	.	-not aligned- 
+136	0 <==> 1 2 3	NOALI	NIL	-not aligned-	A white cow 
+136	0 <==> 11	NOALI	NIL	-not aligned-	. 
+136	0 <==> 4 5 6	NOALI	NIL	-not aligned-	with big ears 
+136	4 5 <==> 7	SPE1	3	is laughing	looking 
+137	0 <==> 6 7 8 9 10	NOALI	NIL	-not aligned-	of an old train station 
+137	7 <==> 0	NOALI	NIL	.	-not aligned- 
+137	4 5 6 <==> 0	NOALI	NIL	of a loveseat	-not aligned- 
+137	1 2 3 <==> 1 2 3 4 5	EQUI	5	A black-and-white photo	A black and white photo 
+137	0 <==> 11	NOALI	NIL	-not aligned-	. 
+138	1 2 <==> 1 2	EQUI	5	Two women	Two women 
+138	0 <==> 8	NOALI	NIL	-not aligned-	. 
+138	4 5 6 <==> 5 6 7	REL	2	in lawn chairs	in a cafe 
+138	7 <==> 0	NOALI	NIL	.	-not aligned- 
+138	3 <==> 3 4	EQUI	5	sitting	are sitting 
+139	0 <==> 8 9 10 11	NOALI	NIL	-not aligned-	on the green grass 
+139	0 <==> 12	NOALI	NIL	-not aligned-	. 
+139	8 9 10 <==> 0	NOALI	NIL	on a desk	-not aligned- 
+139	0 <==> 1 2 3 4 5	NOALI	NIL	-not aligned-	A man and his bicycle 
+139	11 <==> 0	NOALI	NIL	.	-not aligned- 
+139	1 2 3 4 5 <==> 0	NOALI	NIL	Grey and white domestic kitten	-not aligned- 
+139	6 7 <==> 6 7	SIMI	4	lying down	laying down 
+140	0 <==> 1 2 3	NOALI	NIL	-not aligned-	A school bus 
+140	0 <==> 4 5	NOALI	NIL	-not aligned-	driving down 
+140	1 2 3 4 <==> 0	NOALI	NIL	A table and chairs	-not aligned- 
+140	9 10 11 12 13 14 15 16 17 18 <==> 0	NOALI	NIL	with a picture on the wall and a ceiling fan	-not aligned- 
+140	5 <==> 0	NOALI	NIL	are	-not aligned- 
+140	6 7 8 <==> 0	NOALI	NIL	in a room	-not aligned- 
+140	0 <==> 8 9 10 11 12	NOALI	NIL	-not aligned-	with green trees and grass 
+140	0 <==> 13 14 15	NOALI	NIL	-not aligned-	in the background 
+140	0 <==> 16	NOALI	NIL	-not aligned-	. 
+140	19 <==> 0	NOALI	NIL	.	-not aligned- 
+140	0 <==> 6 7	NOALI	NIL	-not aligned-	a road 
+141	8 <==> 0	NOALI	NIL	.	-not aligned- 
+141	0 <==> 8	NOALI	NIL	-not aligned-	. 
+141	1 2 3 <==> 1 2 3	EQUI	5	A passenger train	A passenger train 
+141	4 <==> 0	NOALI	NIL	coming	-not aligned- 
+141	5 6 7 <==> 5 6 7	EQUI	5	into a station	in the station 
+141	0 <==> 4	NOALI	NIL	-not aligned-	sits 
+142	0 <==> 1 2 3	NOALI	NIL	-not aligned-	A lone cow 
+142	0 <==> 4	NOALI	NIL	-not aligned-	sits 
+142	0 <==> 11	NOALI	NIL	-not aligned-	. 
+142	1 2 <==> 0	NOALI	NIL	An airplane	-not aligned- 
+142	0 <==> 5 6 7	NOALI	NIL	-not aligned-	in the cold 
+142	3 <==> 0	NOALI	NIL	facing	-not aligned- 
+142	0 <==> 8 9 10	NOALI	NIL	-not aligned-	of the yard 
+142	6 <==> 0	NOALI	NIL	.	-not aligned- 
+142	4 5 <==> 0	NOALI	NIL	the camera	-not aligned- 
+143	4 <==> 6 7	EQUI	5	looking	is looking 
+143	5 6 7 <==> 8 9 10	EQUI	5	at the camera	at the camera 
+143	8 <==> 0	NOALI	NIL	.	-not aligned- 
+143	0 <==> 11	NOALI	NIL	-not aligned-	. 
+143	1 2 3 <==> 1 2 3 4 5	SIMI	2	A black dog	The black and white bull 
+144	0 <==> 10 11	NOALI	NIL	-not aligned-	of yarn 
+144	7 8 9 <==> 0	NOALI	NIL	with a blanket	-not aligned- 
+144	6 <==> 0	NOALI	NIL	playing	-not aligned- 
+144	1 2 3 4 5 <==> 1 2 3 4 5	EQUI	5	A black and white cat	A black and white cat 
+144	10 <==> 0	NOALI	NIL	.	-not aligned- 
+144	0 <==> 12	NOALI	NIL	-not aligned-	. 
+144	0 <==> 8 9	NOALI	NIL	-not aligned-	a basket 
+144	0 <==> 6 7	NOALI	NIL	-not aligned-	gets into 
+145	0 <==> 8 9 10	NOALI	NIL	-not aligned-	in a field 
+145	3 4 <==> 0	NOALI	NIL	of people	-not aligned- 
+145	6 7 <==> 0	NOALI	NIL	a drink	-not aligned- 
+145	8 <==> 0	NOALI	NIL	.	-not aligned- 
+145	0 <==> 1 2	NOALI	NIL	-not aligned-	A row 
+145	5 <==> 0	NOALI	NIL	having	-not aligned- 
+145	0 <==> 11	NOALI	NIL	-not aligned-	. 
+145	0 <==> 3 4	NOALI	NIL	-not aligned-	of locomotives 
+145	0 <==> 5 6 7	NOALI	NIL	-not aligned-	on a siding 
+145	1 2 <==> 0	NOALI	NIL	A group	-not aligned- 
+146	11 <==> 0	NOALI	NIL	.	-not aligned- 
+146	8 9 10 <==> 7 8 9 10	REL	2	in the sky	in formation trailing smoke 
+146	6 7 <==> 6	EQUI	5	is flying	flying 
+146	0 <==> 11	NOALI	NIL	-not aligned-	. 
+146	1 2 3 4 5 <==> 1 2 3 4 5	SIMI	2	A yellow and blue airplane	Nine red and white aircraft 
+147	1 2 <==> 1 2	SIMI	3	Two guys	Two women 
+147	0 <==> 15	NOALI	NIL	-not aligned-	. 
+147	0 <==> 13 14	NOALI	NIL	-not aligned-	may cross 
+147	0 <==> 6 7 8	NOALI	NIL	-not aligned-	with their bikes 
+147	0 <==> 3	NOALI	NIL	-not aligned-	watching 
+147	0 <==> 9 10	NOALI	NIL	-not aligned-	to see 
+147	16 <==> 0	NOALI	NIL	.	-not aligned- 
+147	4 5 6 <==> 0	NOALI	NIL	on a couch	-not aligned- 
+147	0 <==> 4 5	NOALI	NIL	-not aligned-	the street 
+147	0 <==> 11 12	NOALI	NIL	-not aligned-	when they 
+147	13 14 15 <==> 0	NOALI	NIL	on their laps	-not aligned- 
+147	12 <==> 0	NOALI	NIL	lying	-not aligned- 
+147	8 <==> 0	NOALI	NIL	beers	-not aligned- 
+147	7 <==> 0	NOALI	NIL	holding	-not aligned- 
+147	9 10 11 <==> 0	NOALI	NIL	with a girl	-not aligned- 
+147	3 <==> 0	NOALI	NIL	sit	-not aligned- 
+148	5 6 7 <==> 0	NOALI	NIL	without a rider	-not aligned- 
+148	8 <==> 0	NOALI	NIL	.	-not aligned- 
+148	4 <==> 3	EQUI	5	galloping	galloping 
+148	1 2 3 <==> 1 2	SPE1	4	A race horse	A horse 
+148	0 <==> 4 5	NOALI	NIL	-not aligned-	while wearing 
+148	0 <==> 9	NOALI	NIL	-not aligned-	. 
+148	0 <==> 6 7 8	NOALI	NIL	-not aligned-	the number 4 
+149	3 4 5 6 <==> 3 4 5 6	EQUI	5	on a dirt road	on a dirt road 
+149	0 <==> 11	NOALI	NIL	-not aligned-	. 
+149	8 9 10 11 <==> 8 9 10	SPE2	4	from a passenger vehicle	from a car 
+149	12 <==> 0	NOALI	NIL	.	-not aligned- 
+149	7 <==> 7	REL	4	viewed	shot 
+149	1 2 <==> 1 2	EQUI	5	Three sheep	Three sheep 
+150	0 <==> 1 2 3	NOALI	NIL	-not aligned-	Two police officers 
+150	0 <==> 14	NOALI	NIL	-not aligned-	. 
+150	10 <==> 0	NOALI	NIL	.	-not aligned- 
+150	0 <==> 5 6 7	NOALI	NIL	-not aligned-	behind a van 
+150	0 <==> 4	NOALI	NIL	-not aligned-	standing 
+150	5 6 <==> 0	NOALI	NIL	with trees	-not aligned- 
+150	1 2 3 4 <==> 0	NOALI	NIL	An Esso gas station	-not aligned- 
+150	0 <==> 8 9 10	NOALI	NIL	-not aligned-	with a bus 
+150	7 8 9 <==> 11 12 13	EQUI	5	in the background	in the background 
+151	7 <==> 0	NOALI	NIL	.	-not aligned- 
+151	4 5 6 <==> 5 6 7	EQUI	5	on a table	on a table 
+151	3 <==> 4	EQUI	5	are	sitting 
+151	1 2 <==> 1 2 3	SIMI	2	Three bottles	Old green bottle 
+151	0 <==> 8	NOALI	NIL	-not aligned-	. 
+152	9 <==> 0	NOALI	NIL	.	-not aligned- 
+152	1 2 3 <==> 1 2	SIMI	1	Two white dogs	The birds 
+152	0 <==> 8	NOALI	NIL	-not aligned-	. 
+152	4 5 <==> 3 4	EQUI	5	are swimming	are swimming 
+152	6 7 8 <==> 5 6 7	EQUI	5	in the water	in the water 
+153	4 5 6 7 <==> 3 4 5	EQUI	5	in a large field	in a field 
+153	0 <==> 6	NOALI	NIL	-not aligned-	. 
+153	8 <==> 0	NOALI	NIL	.	-not aligned- 
+153	1 2 <==> 1	SIMI	2	Two cows	Horse 
+153	3 <==> 2	EQUI	5	standing	standing 
+154	4 5 6 7 8 <==> 0	NOALI	NIL	in front of a train	-not aligned- 
+154	3 <==> 3 4	EQUI	5	stands	is standing 
+154	0 <==> 5 6 7 8 9 10	NOALI	NIL	-not aligned-	in front of a raised statue 
+154	0 <==> 11	NOALI	NIL	-not aligned-	, 
+154	1 2 <==> 1 2	EQUI	5	A man	A man 
+154	9 <==> 0	NOALI	NIL	.	-not aligned- 
+154	0 <==> 12	NOALI	NIL	-not aligned-	. 
+155	1 2 <==> 1 2	EQUI	5	Two women	Two women 
+155	7 <==> 0	NOALI	NIL	.	-not aligned- 
+155	0 <==> 8	NOALI	NIL	-not aligned-	. 
+155	4 5 6 <==> 0	NOALI	NIL	on brown couch	-not aligned- 
+155	0 <==> 5 6 7	NOALI	NIL	-not aligned-	of a bus 
+155	3 <==> 3	SIMI	2	sitting	standing 
+155	0 <==> 4	NOALI	NIL	-not aligned-	outside 
+156	15 <==> 0	NOALI	NIL	.	-not aligned- 
+156	0 <==> 6 7 8 9	NOALI	NIL	-not aligned-	behind a metal gate 
+156	1 2 3 4 5 <==> 1 2 3 4 5	SIMI	4	A black and white cow	Two black and white cows 
+156	6 <==> 0	NOALI	NIL	stands	-not aligned- 
+156	7 8 <==> 0	NOALI	NIL	on grass	-not aligned- 
+156	9 10 11 12 13 14 <==> 10 11 12 13 14 15	EQUI	5	against a partly cloudy blue sky	against a partly cloudy blue sky 
+156	0 <==> 16	NOALI	NIL	-not aligned-	. 
+157	9 <==> 0	NOALI	NIL	.	-not aligned- 
+157	0 <==> 7	NOALI	NIL	-not aligned-	. 
+157	3 4 5 <==> 1 2 3	SIMI	3	several sheared sheep	Three white sheep 
+157	6 7 8 <==> 4 5 6	EQUI	5	in a pen	in an enclosure 
+157	2 <==> 0	NOALI	NIL	are	-not aligned- 
+157	1 <==> 0	NOALI	NIL	There	-not aligned- 
+158	1 2 <==> 1 2	SIMI	1	Ten sheep	A cat 
+158	7 <==> 0	NOALI	NIL	.	-not aligned- 
+158	4 5 6 <==> 7 8 9	EQUI	5	at the camera	at the camera 
+158	0 <==> 3 4 5	NOALI	NIL	-not aligned-	on its back 
+158	0 <==> 10	NOALI	NIL	-not aligned-	. 
+158	3 <==> 6	EQUI	5	looking	looking 
+159	0 <==> 6	NOALI	NIL	-not aligned-	. 
+159	0 <==> 1 2	NOALI	NIL	-not aligned-	A woman 
+159	1 2 3 <==> 0	NOALI	NIL	A black table	-not aligned- 
+159	4 5 6 7 <==> 0	NOALI	NIL	with white fuzzy chair	-not aligned- 
+159	0 <==> 3 4 5	NOALI	NIL	-not aligned-	with her child 
+159	8 <==> 0	NOALI	NIL	.	-not aligned- 
+160	0 <==> 3	NOALI	NIL	-not aligned-	parked 
+160	5 6 7 <==> 4 5 6 7 8	SIMI	3	on a track	in front of train tracks 
+160	0 <==> 9	NOALI	NIL	-not aligned-	. 
+160	8 <==> 0	NOALI	NIL	.	-not aligned- 
+160	1 2 3 4 <==> 1 2	SIMI	2	A mostly black train	A car 
+161	0 <==> 1 2 3	NOALI	NIL	-not aligned-	A social gathering 
+161	4 5 6 <==> 0	NOALI	NIL	beside a train	-not aligned- 
+161	3 <==> 0	NOALI	NIL	standing	-not aligned- 
+161	0 <==> 4 5	NOALI	NIL	-not aligned-	of people 
+161	1 2 <==> 0	NOALI	NIL	A backpack	-not aligned- 
+161	0 <==> 6 7 8	NOALI	NIL	-not aligned-	in a restaurant 
+161	7 <==> 0	NOALI	NIL	.	-not aligned- 
+161	0 <==> 9	NOALI	NIL	-not aligned-	. 
+162	13 <==> 0	NOALI	NIL	.	-not aligned- 
+162	11 12 <==> 0	NOALI	NIL	near water	-not aligned- 
+162	0 <==> 12	NOALI	NIL	-not aligned-	. 
+162	0 <==> 9 10 11	NOALI	NIL	-not aligned-	on a table 
+162	0 <==> 4 5 6 7	NOALI	NIL	-not aligned-	in a pink dress 
+162	0 <==> 1 2 3	NOALI	NIL	-not aligned-	A small child 
+162	8 9 10 <==> 0	NOALI	NIL	on the grass	-not aligned- 
+162	0 <==> 8	NOALI	NIL	-not aligned-	sits 
+162	1 2 3 4 5 6 7 <==> 0	NOALI	NIL	A mallard and a tame white duck	-not aligned- 
+163	1 2 <==> 0	NOALI	NIL	A girl	-not aligned- 
+163	8 9 10 <==> 0	NOALI	NIL	on the street	-not aligned- 
+163	0 <==> 4 5	NOALI	NIL	-not aligned-	is staring 
+163	11 <==> 0	NOALI	NIL	.	-not aligned- 
+163	0 <==> 9	NOALI	NIL	-not aligned-	. 
+163	3 4 5 6 <==> 0	NOALI	NIL	with a red bag	-not aligned- 
+163	0 <==> 6 7 8	NOALI	NIL	-not aligned-	at a sheep 
+163	7 <==> 0	NOALI	NIL	standing	-not aligned- 
+163	0 <==> 1 2 3	NOALI	NIL	-not aligned-	A black dog 
+164	0 <==> 14	NOALI	NIL	-not aligned-	. 
+164	11 <==> 0	NOALI	NIL	.	-not aligned- 
+164	3 4 5 6 7 <==> 4 5 6 7 8 9 10	SPE2	3	with several computers and pictures	with three computer monitors and other equipment 
+164	1 2 <==> 1 2 3	SPE2	3	A room	A home office 
+164	0 <==> 11 12 13	NOALI	NIL	-not aligned-	on a desk 
+164	8 9 10 <==> 0	NOALI	NIL	on the wall	-not aligned- 
+165	0 <==> 7 8 9	NOALI	NIL	-not aligned-	at the camera 
+165	13 14 15 <==> 0	NOALI	NIL	in a field	-not aligned- 
+165	6 7 8 <==> 1 2 3 4 5	SIMI	2	of a cow	A black and white dog 
+165	9 <==> 0	NOALI	NIL	walking	-not aligned- 
+165	1 2 3 4 5 <==> 0	NOALI	NIL	A black and white photo	-not aligned- 
+165	0 <==> 6	NOALI	NIL	-not aligned-	looking 
+165	0 <==> 10	NOALI	NIL	-not aligned-	. 
+165	10 11 12 <==> 0	NOALI	NIL	under a tree	-not aligned- 
+165	16 <==> 0	NOALI	NIL	.	-not aligned- 
+166	9 <==> 0	NOALI	NIL	.	-not aligned- 
+166	4 5 <==> 4 5	EQUI	5	is parked	is parked 
+166	0 <==> 9	NOALI	NIL	-not aligned-	. 
+166	6 7 8 <==> 6 7 8	REL	3	on the cement	on the sidewalk 
+166	1 2 3 <==> 1 2 3	SIMI	1	A white airplane	A blue motorcycle 
+167	1 2 <==> 1 2	SIMI	2	Three cows	Several sheep 
+167	0 <==> 7	NOALI	NIL	-not aligned-	. 
+167	4 5 6 <==> 4 5 6	EQUI	5	in a field	in the field 
+167	3 <==> 3	EQUI	5	grazing	grazing 
+167	7 <==> 0	NOALI	NIL	.	-not aligned- 
+168	1 2 3 <==> 1 2 3	SPE1	4	Black domestic cat	A gray cat 
+168	5 6 7 <==> 5 6 7 8	SIMI	4	on brown table	on a dining table 
+168	0 <==> 9	NOALI	NIL	-not aligned-	. 
+168	8 <==> 0	NOALI	NIL	.	-not aligned- 
+168	4 <==> 4	EQUI	5	lying	laying 
+169	1 2 3 4 <==> 1 2 3 4	EQUI	5	Red double decker bus	Red double decker bus 
+169	0 <==> 5 6 7	NOALI	NIL	-not aligned-	with hood up 
+169	0 <==> 8	NOALI	NIL	-not aligned-	. 
+169	8 <==> 0	NOALI	NIL	.	-not aligned- 
+169	7 <==> 0	NOALI	NIL	passengers	-not aligned- 
+169	5 6 <==> 0	NOALI	NIL	taking on	-not aligned- 
+170	1 2 3 4 5 <==> 1 2	SPE1	3	Two black and white dogs	A dog 
+170	0 <==> 3 4	NOALI	NIL	-not aligned-	is lying 
+170	11 <==> 0	NOALI	NIL	.	-not aligned- 
+170	6 7 8 <==> 5 6 7	EQUI	5	at the bottom	at the bottom 
+170	0 <==> 11 12 13 14 15	ALIC	NIL	-not aligned-	next to another standing dog 
+170	0 <==> 16	NOALI	NIL	-not aligned-	. 
+170	9 10 <==> 8 9 10	EQUI	5	of stairs	of a staircase 
+171	4 5 6 <==> 5 6 7	EQUI	5	on a track	on a track 
+171	1 2 3 <==> 1 2 3 4	SIMI	3	A multi-colored train	A mostly black train 
+171	0 <==> 8	NOALI	NIL	-not aligned-	. 
+171	7 <==> 0	NOALI	NIL	.	-not aligned- 
+172	10 <==> 0	NOALI	NIL	.	-not aligned- 
+172	7 8 9 <==> 9 10 11	REL	2	in the ocean	at the pier 
+172	1 2 3 4 5 6 <==> 1 2 3 4 5 6	EQUI	5	An old fashioned wooden sailing ship	An old fashioned wooden sailing ship 
+172	0 <==> 7 8	NOALI	NIL	-not aligned-	is parked 
+172	0 <==> 12	NOALI	NIL	-not aligned-	. 
+173	9 <==> 0	NOALI	NIL	,	-not aligned- 
+173	4 5 <==> 0	NOALI	NIL	cross legged	-not aligned- 
+173	0 <==> 4 5	NOALI	NIL	-not aligned-	to coast 
+173	0 <==> 3	NOALI	NIL	-not aligned-	close 
+173	0 <==> 1 2	NOALI	NIL	-not aligned-	Ocean liner 
+173	0 <==> 11	NOALI	NIL	-not aligned-	. 
+173	0 <==> 6 7	NOALI	NIL	-not aligned-	with houses 
+173	16 <==> 0	NOALI	NIL	.	-not aligned- 
+173	6 7 8 <==> 0	NOALI	NIL	on the grass	-not aligned- 
+173	3 <==> 0	NOALI	NIL	sitting	-not aligned- 
+173	10 11 12 <==> 0	NOALI	NIL	with a tree	-not aligned- 
+173	13 14 15 <==> 8 9 10	EQUI	5	in the background	in the background 
+173	1 2 <==> 0	NOALI	NIL	A man	-not aligned- 
+174	7 <==> 0	NOALI	NIL	and	-not aligned- 
+174	1 2 <==> 1 2	EQUI	5	A person	A person 
+174	0 <==> 7 8 9	NOALI	NIL	-not aligned-	in the outdoors 
+174	9 10 <==> 0	NOALI	NIL	a trick	-not aligned- 
+174	11 <==> 0	NOALI	NIL	.	-not aligned- 
+174	8 <==> 0	NOALI	NIL	performing	-not aligned- 
+174	3 4 <==> 3	SIMI	2	is jumping	riding 
+174	0 <==> 10	NOALI	NIL	-not aligned-	. 
+174	5 6 <==> 4 5 6	SPE2	4	a bicycle	a dirt bike 
+175	3 4 5 6 7 <==> 0	NOALI	NIL	of a black train engine	-not aligned- 
+175	8 <==> 0	NOALI	NIL	.	-not aligned- 
+175	1 2 <==> 1 2	EQUI	5	A close-up	Close up 
+175	0 <==> 3 4 5 6	NOALI	NIL	-not aligned-	of a white sheep 
+175	0 <==> 11	NOALI	NIL	-not aligned-	. 
+175	0 <==> 7 8 9 10	NOALI	NIL	-not aligned-	with a black head 
+176	9 10 <==> 5 6 7	EQUI	5	the window	of a window 
+176	0 <==> 8	NOALI	NIL	-not aligned-	. 
+176	4 5 6 <==> 0	NOALI	NIL	on a couch	-not aligned- 
+176	7 8 <==> 3 4	EQUI	5	looking out	looking out 
+176	11 <==> 0	NOALI	NIL	.	-not aligned- 
+176	3 <==> 0	NOALI	NIL	sitting	-not aligned- 
+176	1 2 <==> 1 2	SIMI	4	Two cats	A cat 
+177	4 5 6 <==> 7 8 9	SPE1	4	a small bicycle	on a bike 
+177	3 <==> 3 4	REL	3	riding	is doing 
+177	7 <==> 0	NOALI	NIL	.	-not aligned- 
+177	1 2 <==> 1 2	EQUI	5	A man	A man 
+177	0 <==> 5 6	ALIC	NIL	-not aligned-	a wheelie 
+177	0 <==> 10	NOALI	NIL	-not aligned-	. 
+178	6 7 8 9 <==> 0	NOALI	NIL	on a mountain bike	-not aligned- 
+178	0 <==> 11	NOALI	NIL	-not aligned-	. 
+178	0 <==> 3	NOALI	NIL	-not aligned-	posing 
+178	1 2 <==> 1 2	SIMI	3	A man	A woman 
+178	0 <==> 7 8 9 10	NOALI	NIL	-not aligned-	with a U2 sign 
+178	3 4 5 <==> 0	NOALI	NIL	doing a wheelie	-not aligned- 
+178	10 <==> 0	NOALI	NIL	.	-not aligned- 
+178	0 <==> 4 5 6	NOALI	NIL	-not aligned-	by a pillar 
+179	0 <==> 3 4	NOALI	NIL	-not aligned-	in suits 
+179	10 <==> 0	NOALI	NIL	.	-not aligned- 
+179	1 2 <==> 1 2	SIMI	2	Two women	Three men 
+179	6 <==> 0	NOALI	NIL	looking	-not aligned- 
+179	7 8 9 <==> 0	NOALI	NIL	at a object	-not aligned- 
+179	0 <==> 9	NOALI	NIL	-not aligned-	. 
+179	0 <==> 5	NOALI	NIL	-not aligned-	sitting 
+179	3 4 5 <==> 6 7 8	REL	2	in the kitchen	at a table 
+180	9 <==> 0	ALIC	NIL	containing	-not aligned- 
+180	11 <==> 0	NOALI	NIL	.	-not aligned- 
+180	0 <==> 12	NOALI	NIL	-not aligned-	. 
+180	1 2 <==> 1 2	SPE2	4	A group	Four people 
+180	10 <==> 9 10 11	SPE2	3	food	with . snacks 
+180	3 4 <==> 0	ALIC	NIL	of people	-not aligned- 
+180	5 <==> 3 4	EQUI	5	sitting	are sitting 
+180	6 7 8 <==> 5 6 7 8	REL	3	around a table	around a living room 
+181	3 <==> 0	NOALI	NIL	riding	-not aligned- 
+181	7 <==> 0	NOALI	NIL	.	-not aligned- 
+181	0 <==> 7	NOALI	NIL	-not aligned-	. 
+181	1 2 <==> 1 2	SIMI	3	A man	A woman 
+181	4 5 6 <==> 3 4 5 6	EQUI	5	a white horse	with a white horse 
+182	5 <==> 6	EQUI	5	sit	sit 
+182	6 7 8 <==> 7 8 9 10	SPE2	4	at a table	at a long table 
+182	0 <==> 14	NOALI	NIL	-not aligned-	. 
+182	9 10 11 <==> 11 12 13	EQUI	5	in a restaurant	in a restaurant 
+182	12 <==> 0	NOALI	NIL	.	-not aligned- 
+182	1 2 3 4 <==> 1 2 3 4 5	SIMI	2	A man and woman	Four women and two men 
+183	1 2 3 <==> 0	NOALI	NIL	The white ducks	-not aligned- 
+183	0 <==> 3 4 5 6	NOALI	NIL	-not aligned-	in a black hat 
+183	0 <==> 1 2	NOALI	NIL	-not aligned-	A woman 
+183	9 <==> 0	NOALI	NIL	.	-not aligned- 
+183	6 7 8 <==> 0	NOALI	NIL	on the ground	-not aligned- 
+183	0 <==> 9 10 11	NOALI	NIL	-not aligned-	by the subway 
+183	4 5 <==> 7 8	SIMI	4	are standing	is standing 
+183	0 <==> 12	NOALI	NIL	-not aligned-	. 
+184	4 5 6 7 <==> 3 4 5	OPPO	4	of the front end	of the rear 
+184	0 <==> 11	NOALI	NIL	-not aligned-	. 
+184	1 2 3 <==> 1 2	EQUI	5	A close up	Close up 
+184	8 9 10 11 12 13 14 <==> 6 7 8 9 10	SIMI	2	of a purple and white motor cycle	of a red sports car 
+184	15 <==> 0	NOALI	NIL	.	-not aligned- 
+185	14 <==> 0	NOALI	NIL	.	-not aligned- 
+185	3 4 5 6 <==> 0	NOALI	NIL	in a red cap	-not aligned- 
+185	8 9 10 11 12 13 <==> 0	NOALI	NIL	next to a brick support beam	-not aligned- 
+185	0 <==> 1 2 3	NOALI	NIL	-not aligned-	A brown horse 
+185	1 2 <==> 0	NOALI	NIL	A person	-not aligned- 
+185	0 <==> 10	NOALI	NIL	-not aligned-	. 
+185	0 <==> 6 7 8 9	NOALI	NIL	-not aligned-	on grass and scrub 
+185	7 <==> 4 5	SIMI	4	standing	is standing 
+186	0 <==> 10	NOALI	NIL	-not aligned-	. 
+186	1 2 3 4 5 <==> 1 2 3 4 5	EQUI	5	A black and white cow	a black and white cow 
+186	11 <==> 0	NOALI	NIL	.	-not aligned- 
+186	7 8 9 10 <==> 7 8 9	SPE1	4	in a grassy field	in the field 
+186	6 <==> 6	EQUI	5	standing	standing 
+187	2 <==> 3 4	EQUI	5	standing	is standing 
+187	3 4 5 6 7 <==> 5 6 7 8 9 10	SPE1	4	in front of yellow corvette	next to a yellow sports car 
+187	0 <==> 11	NOALI	NIL	-not aligned-	. 
+187	1 <==> 1 2	EQUI	5	Man	A man 
+187	8 <==> 0	NOALI	NIL	.	-not aligned- 
+188	4 5 6 7 <==> 4 5 6 7	EQUI	5	at a train station	at the train station 
+188	3 <==> 3	EQUI	5	is	sits 
+188	8 <==> 0	NOALI	NIL	.	-not aligned- 
+188	1 2 <==> 1 2	EQUI	5	A train	The train 
+188	0 <==> 8	NOALI	NIL	-not aligned-	. 
+189	5 6 7 <==> 0	NOALI	NIL	in a room	-not aligned- 
+189	8 <==> 0	NOALI	NIL	together	-not aligned- 
+189	0 <==> 6 7 8 9 10 11 12	NOALI	NIL	-not aligned-	in white , red and black sweaters 
+189	1 2 3 <==> 1 2 3 4 5	SPE2	4	Three young women	Three dark haired young women 
+189	9 <==> 0	NOALI	NIL	.	-not aligned- 
+189	0 <==> 13	NOALI	NIL	-not aligned-	. 
+189	4 <==> 0	NOALI	NIL	standing	-not aligned- 
+190	8 <==> 0	NOALI	NIL	.	-not aligned- 
+190	1 2 3 <==> 1 2	SPE1	4	Two white horses	Two horses 
+190	0 <==> 3	NOALI	NIL	-not aligned-	standing 
+190	4 <==> 0	NOALI	NIL	staring	-not aligned- 
+190	5 6 7 <==> 4 5 6	SIMI	3	over a fence	in a pen 
+190	0 <==> 7	NOALI	NIL	-not aligned-	. 
+191	6 <==> 7	EQUI	5	standing	standing 
+191	0 <==> 11	NOALI	NIL	-not aligned-	. 
+191	1 2 3 4 5 <==> 1 2 3 4 5 6	SPE2	4	A black and white cow	A black and white horned cow 
+191	11 <==> 0	NOALI	NIL	.	-not aligned- 
+191	7 8 9 10 <==> 8 9 10	SPE1	5	in a grassy field	in a field 
+192	1 2 3 4 5 <==> 1 2 3 4 5	SPE1	4	a black and white photo	A black and white image 
+192	9 10 <==> 9	EQUI	5	lying down	laying 
+192	0 <==> 13	NOALI	NIL	-not aligned-	. 
+192	0 <==> 10 11 12	NOALI	NIL	-not aligned-	on a rug 
+192	11 <==> 0	NOALI	NIL	.	-not aligned- 
+192	6 7 8 <==> 6 7 8	EQUI	5	of a cat	of a cat 
+193	0 <==> 9	NOALI	NIL	-not aligned-	. 
+193	7 8 9 10 <==> 5 6 7 8	SIMI	4	on a leather chair	on an office chair 
+193	11 <==> 0	NOALI	NIL	.	-not aligned- 
+193	6 <==> 4	SPE1	3	asleep	sitting 
+193	1 2 3 4 5 <==> 1 2 3	SIMI	4	A orange and white cat	A ginger cat 
+194	9 10 11 12 13 <==> 4 5 6 7 8 9 10 11 12 13	SPE2	4	a bikini top and jeans	jeans , a dark bikini top , and a bracelet 
+194	4 5 6 <==> 0	ALIC	NIL	with a bracelet	-not aligned- 
+194	1 2 3 <==> 1 2	SPE1	4	A young woman	A woman 
+194	0 <==> 14	NOALI	NIL	-not aligned-	. 
+194	7 8 <==> 3	EQUI	5	is wearing	wearing 
+194	14 <==> 0	NOALI	NIL	.	-not aligned- 
+195	3 <==> 3	EQUI	5	sits	sits 
+195	10 11 12 <==> 7 8 9 10 11 12	SPE2	4	a small TV	very close to a small television 
+195	4 5 <==> 0	NOALI	NIL	crossed legged	-not aligned- 
+195	1 2 <==> 1 2	EQUI	5	A man	A man 
+195	6 7 8 <==> 4 5 6	EQUI	5	on a bed	on a bed 
+195	13 <==> 0	NOALI	NIL	.	-not aligned- 
+195	0 <==> 13	NOALI	NIL	-not aligned-	. 
+195	9 <==> 0	NOALI	NIL	watching	-not aligned- 
+196	3 4 5 6 <==> 6 7 8 9	EQUI	5	on a blue car	on a blue car 
+196	0 <==> 1 2 3	NOALI	NIL	-not aligned-	Close up of 
+196	1 2 <==> 4 5	EQUI	5	The headlights	the headlights 
+196	7 <==> 0	NOALI	NIL	.	-not aligned- 
+196	0 <==> 10	NOALI	NIL	-not aligned-	. 
+197	0 <==> 10	NOALI	NIL	-not aligned-	. 
+197	6 7 8 <==> 0	NOALI	NIL	in a city	-not aligned- 
+197	1 2 <==> 1 2	SPE1	4	Three bicyclists	The bicyclists 
+197	9 <==> 0	NOALI	NIL	.	-not aligned- 
+197	0 <==> 7 8 9	NOALI	NIL	-not aligned-	in the rain 
+197	4 5 <==> 5 6	EQUI	5	a bridge	a bridge 
+197	3 <==> 3 4	EQUI	5	crossing	are crossing 
+198	7 <==> 0	NOALI	NIL	.	-not aligned- 
+198	3 <==> 0	NOALI	NIL	riding	-not aligned- 
+198	0 <==> 10	NOALI	NIL	-not aligned-	. 
+198	4 5 6 <==> 6 7 8 9	EQUI	4	a brown horse	on a brown horse 
+198	1 2 <==> 1 2	SPE1	4	A woman	A person 
+198	0 <==> 3	NOALI	NIL	-not aligned-	dressed 
+198	0 <==> 4 5	NOALI	NIL	-not aligned-	in white 
+199	10 <==> 0	NOALI	NIL	.	-not aligned- 
+199	0 <==> 3	NOALI	NIL	-not aligned-	sit 
+199	0 <==> 11	NOALI	NIL	-not aligned-	. 
+199	1 2 3 <==> 1 2	EQUI	5	The two dogs	Two dogs 
+199	0 <==> 4 5 6	NOALI	NIL	-not aligned-	on a couch 
+199	4 5 <==> 0	NOALI	NIL	blend in	-not aligned- 
+199	6 7 8 9 <==> 7 8 9 10	SPE2	4	with the stuff animals	with many stuffed animals 
+200	8 <==> 0	NOALI	NIL	.	-not aligned- 
+200	1 2 <==> 1 2	EQUI	5	A train	A train 
+200	0 <==> 8 9 10 11	NOALI	NIL	-not aligned-	in a rural area 
+200	5 6 7 <==> 5 6 7	SPE2	4	on the tracks	down the track 
+200	3 4 <==> 3 4	EQUI	5	is running	is running 
+200	0 <==> 12	NOALI	NIL	-not aligned-	. 
+201	7 <==> 0	NOALI	NIL	,	-not aligned- 
+201	0 <==> 7	NOALI	NIL	-not aligned-	, 
+201	2 <==> 3	EQUI	5	standing	stands 
+201	9 10 <==> 9 10	EQUI	5	a plane	a plane 
+201	1 <==> 1 2	SPE2	4	Someone	A man 
+201	0 <==> 11	NOALI	NIL	-not aligned-	. 
+201	3 4 5 6 <==> 4 5 6	SPE1	4	on a snowy mountain	on a mountain 
+201	11 <==> 0	NOALI	NIL	.	-not aligned- 
+201	8 <==> 8	EQUI	5	watching	watching 
+202	8 <==> 0	NOALI	NIL	.	-not aligned- 
+202	4 <==> 4	EQUI	5	docked	docked 
+202	1 2 3 <==> 1 2 3	EQUI	5	A cruise liner	A cruise ship 
+202	0 <==> 8	NOALI	NIL	-not aligned-	. 
+202	5 6 7 <==> 5 6 7	SPE1	4	at a port	at a coast 
+203	0 <==> 15	NOALI	NIL	-not aligned-	. 
+203	0 <==> 1	NOALI	NIL	-not aligned-	This 
+203	0 <==> 2	NOALI	NIL	-not aligned-	is 
+203	9 10 <==> 9 10	SIMI	2	an incline	over rocks 
+203	3 4 5 6 <==> 6 7 8	EQUI	5	on a mountain bike	a mountain bike 
+203	11 <==> 0	NOALI	NIL	.	-not aligned- 
+203	1 2 <==> 3 4	EQUI	5	A man	a man 
+203	0 <==> 11 12 13 14	NOALI	NIL	-not aligned-	on a clear day 
+203	7 8 <==> 5	SIMI	3	going down	riding 
+204	1 2 <==> 1 2	EQUI	5	Three sheep	Three sheep 
+204	12 <==> 0	NOALI	NIL	.	-not aligned- 
+204	8 9 10 11 <==> 0	NOALI	NIL	from a passenger vehicle	-not aligned- 
+204	7 <==> 0	NOALI	NIL	viewed	-not aligned- 
+204	3 4 5 6 <==> 5 6 7	SIMI	2	on a dirt road	of gravel road 
+204	0 <==> 8	NOALI	NIL	-not aligned-	. 
+204	0 <==> 3 4	NOALI	NIL	-not aligned-	in middle 
+205	1 2 3 4 <==> 1 2 3 4 5	EQUI	5	Red double decker bus	A red double decker bus 
+205	8 <==> 0	NOALI	NIL	.	-not aligned- 
+205	0 <==> 11 12 13	NOALI	NIL	-not aligned-	in a city 
+205	5 6 <==> 6 7 8	EQUI	5	taking on	is picking up 
+205	0 <==> 14	NOALI	NIL	-not aligned-	. 
+205	7 <==> 9 10	SPE2	4	passengers	more passengers 
+206	10 11 12 <==> 0	ALIC	NIL	of Coca Cola	-not aligned- 
+206	0 <==> 14	NOALI	NIL	-not aligned-	. 
+206	1 2 3 4 5 <==> 1 2 3 4 5 6 7	EQUI	5	A black and white photo	This is a black and white picture 
+206	6 7 8 9 <==> 8 9 10 11 12 13	SIMI	4	of a glass bottle	of a short squat Coca-cola bottle 
+206	13 <==> 0	NOALI	NIL	.	-not aligned- 
+207	5 6 7 8 <==> 4 5 6 7	SIMI	3	in a market square	in a city street 
+207	0 <==> 8	NOALI	NIL	-not aligned-	. 
+207	1 2 <==> 1	EQUI	5	Several people	People 
+207	9 <==> 0	NOALI	NIL	.	-not aligned- 
+207	3 4 <==> 2 3	EQUI	5	on motorcycles	on motorbikes 
+208	1 <==> 1 2	EQUI	5	Group	A group 
+208	8 <==> 10	EQUI	5	dressed	dressed 
+208	2 3 <==> 3 4	EQUI	5	of people	of people 
+208	4 <==> 5	REL	4	posing	standing 
+208	0 <==> 13	NOALI	NIL	-not aligned-	. 
+208	11 <==> 0	NOALI	NIL	.	-not aligned- 
+208	9 10 <==> 11 12	EQUI	5	as Elvis	as Elvis 
+208	5 6 7 <==> 6 7 8 9	SPE1	4	with two men	with two other people 
+209	0 <==> 3	NOALI	NIL	-not aligned-	sitting 
+209	0 <==> 10	NOALI	NIL	-not aligned-	. 
+209	4 <==> 7	EQUI	5	holding	holding 
+209	1 2 3 <==> 1 2	SPE1	4	A smiling woman	a woman 
+209	0 <==> 4 5 6	NOALI	NIL	-not aligned-	on a sofa 
+209	8 <==> 0	NOALI	NIL	.	-not aligned- 
+209	5 6 7 <==> 8 9	SPE1	4	a small baby	a baby 
+210	16 <==> 0	NOALI	NIL	.	-not aligned- 
+210	0 <==> 16	NOALI	NIL	-not aligned-	. 
+210	5 6 <==> 5 6	EQUI	5	one another	each other 
+210	12 <==> 12	EQUI	5	points	points 
+210	7 8 9 <==> 7 8 9	EQUI	5	at a table	at a table 
+210	4 <==> 4	EQUI	5	facing	facing 
+210	1 2 <==> 1 2	SPE1	4	Two boys	Two people 
+210	11 <==> 10 11	EQUI	5	one	as one 
+210	10 <==> 0	NOALI	NIL	and	-not aligned- 
+210	3 <==> 3	EQUI	5	sit	sit 
+210	13 14 15 <==> 13 14 15	EQUI	5	at the other	at the other 
+211	0 <==> 9	NOALI	NIL	-not aligned-	. 
+211	3 4 5 6 <==> 6 7 8	SPE1	4	a small shopping cart	a shopping cart 
+211	7 <==> 0	NOALI	NIL	.	-not aligned- 
+211	2 <==> 4 5	EQUI	5	pushing	is steering 
+211	1 <==> 1 2 3	SPE1	4	Parrot	A white bird 
+212	7 <==> 0	NOALI	NIL	.	-not aligned- 
+212	1 2 <==> 1 2	EQUI	5	Two birds	Two birds 
+212	4 5 6 <==> 4 5 6	SIMI	4	towards water feeder	near bird feeders 
+212	3 <==> 3	EQUI	5	flying	flying 
+212	0 <==> 7	NOALI	NIL	-not aligned-	. 
+213	0 <==> 9	NOALI	NIL	-not aligned-	. 
+213	5 <==> 5	SPE1	4	grazing	are 
+213	1 2 <==> 1 2	EQUI	5	A group	A group 
+213	6 7 8 <==> 6 7 8	EQUI	5	on a hill	on a hill 
+213	3 4 <==> 3 4	EQUI	5	of sheep	of sheep 
+213	9 <==> 0	NOALI	NIL	.	-not aligned- 
+214	9 10 11 <==> 4 5 6	EQUI	5	on a sofa	on a sofa 
+214	7 8 <==> 3	EQUI	5	while sitting	sitting 
+214	4 5 6 <==> 8 9	SPE1	4	a small baby	a baby 
+214	1 2 <==> 1 2	EQUI	5	A women	a woman 
+214	12 <==> 0	NOALI	NIL	.	-not aligned- 
+214	0 <==> 10	NOALI	NIL	-not aligned-	. 
+214	3 <==> 7	EQUI	5	holds	holding 
+215	11 <==> 0	NOALI	NIL	.	-not aligned- 
+215	1 2 3 <==> 1 2 3 4 5 6 7 8	SPE2	3	A gray cat	A gray , black , and white cat 
+215	4 5 6 <==> 0	NOALI	NIL	with green eyes	-not aligned- 
+215	7 <==> 9	EQUI	5	looking	looking 
+215	0 <==> 13	NOALI	NIL	-not aligned-	. 
+215	8 9 10 <==> 10 11 12	EQUI	5	into the camera	at the camera 
+216	1 2 <==> 1 2	EQUI	5	A guy	A man 
+216	0 <==> 3	NOALI	NIL	-not aligned-	riding 
+216	0 <==> 7 8 9	NOALI	NIL	-not aligned-	in an arena 
+216	3 4 5 6 <==> 4 5 6	EQUI	5	on a white horse	a white horse 
+216	0 <==> 10	NOALI	NIL	-not aligned-	. 
+216	7 <==> 0	NOALI	NIL	.	-not aligned- 
+217	0 <==> 10	NOALI	NIL	-not aligned-	. 
+217	10 <==> 0	NOALI	NIL	.	-not aligned- 
+217	6 7 <==> 0	NOALI	NIL	near pile	-not aligned- 
+217	1 2 3 4 <==> 1 2 3 4 5	EQUI	5	Black and white cow	a black and white cow 
+217	8 9 <==> 7 8 9	REL	2	of snow	in the field 
+217	5 <==> 6	EQUI	5	standing	standing 
+218	1 2 3 <==> 1 2	SIMI	2	Home office space	An office 
+218	0 <==> 9	NOALI	NIL	-not aligned-	. 
+218	4 5 6 7 8 9 <==> 3 4 5 6 7 8	SIMI	2	with bright green walls and artwork	with multiple desks and green walls 
+218	10 <==> 0	NOALI	NIL	.	-not aligned- 
+219	19 <==> 12	EQUI	5	pointing	points 
+219	0 <==> 16	NOALI	NIL	-not aligned-	. 
+219	0 <==> 4	NOALI	NIL	-not aligned-	facing 
+219	4 5 <==> 3	EQUI	5	are sitting	sit 
+219	23 <==> 0	NOALI	NIL	.	-not aligned- 
+219	6 7 8 <==> 7 8 9	EQUI	5	at a table	at a table 
+219	0 <==> 5 6	NOALI	NIL	-not aligned-	each other 
+219	16 17 18 <==> 10 11	EQUI	5	with one person	as one 
+219	9 10 11 12 13 14 <==> 0	NOALI	NIL	next to a sliding glass door	-not aligned- 
+219	15 <==> 0	NOALI	NIL	,	-not aligned- 
+219	1 2 3 <==> 1 2	SPE1	4	Two young people	Two people 
+219	20 21 22 <==> 13 14 15	EQUI	5	at the other	at the other 
+220	4 5 6 <==> 0	NOALI	NIL	on the water	-not aligned- 
+220	0 <==> 7	NOALI	NIL	-not aligned-	. 
+220	3 <==> 2	EQUI	5	sailing	sailing 
+220	7 <==> 0	NOALI	NIL	.	-not aligned- 
+220	1 2 <==> 1	EQUI	5	Sail boat	Sailboat 
+220	0 <==> 3 4 5 6	NOALI	NIL	-not aligned-	on a cloudy day 
+221	10 <==> 0	NOALI	NIL	.	-not aligned- 
+221	4 5 6 <==> 0	NOALI	NIL	by the water	-not aligned- 
+221	1 2 <==> 1 2	EQUI	5	Three people	Three people 
+221	3 <==> 0	NOALI	NIL	are	-not aligned- 
+221	0 <==> 3	NOALI	NIL	-not aligned-	preparing 
+221	0 <==> 6	NOALI	NIL	-not aligned-	. 
+221	7 8 9 <==> 4 5	SPE1	4	with yellow canoes	to canoe 
+222	5 6 7 <==> 5 6 7	EQUI	5	on a branch	on a branch 
+222	8 <==> 0	NOALI	NIL	.	-not aligned- 
+222	1 2 3 <==> 1 2	SPE1	4	Two bald eagles	Two eagles 
+222	0 <==> 8	NOALI	NIL	-not aligned-	. 
+222	4 <==> 3 4	EQUI	5	perched	are perched 
+223	9 <==> 0	NOALI	NIL	.	-not aligned- 
+223	0 <==> 7	NOALI	NIL	-not aligned-	. 
+223	6 7 8 <==> 4 5 6	EQUI	5	a white horse	a white horse 
+223	4 5 <==> 3	SIMI	4	is riding	leading 
+223	1 2 3 <==> 1 2	SPE1	3	A horse rider	A woman 
+224	0 <==> 7	NOALI	NIL	-not aligned-	. 
+224	8 <==> 0	NOALI	NIL	.	-not aligned- 
+224	5 6 7 <==> 3 4 5 6	EQUI	5	on train tracks	on the train tracks 
+224	1 2 3 <==> 1 2	SPE1	4	A long train	A train 
+224	4 <==> 0	NOALI	NIL	is	-not aligned- 
+225	1 2 3 4 5 <==> 1 2 3 4	EQUI	5	A silver AreoMexico Jet Liner	An aeromexico silver plane 
+225	6 <==> 5	EQUI	5	sitting	is 
+225	7 8 9 <==> 6 7 8	SPE2	4	on the tarmac	on a runway 
+225	10 <==> 0	NOALI	NIL	.	-not aligned- 
+225	0 <==> 9	NOALI	NIL	-not aligned-	. 
+226	3 <==> 2	EQUI	5	sailing	sailing 
+226	0 <==> 7	NOALI	NIL	-not aligned-	. 
+226	4 5 6 7 8 <==> 3 4 5 6	SPE1	4	a small white sail boat	in a small sailboat 
+226	9 <==> 0	NOALI	NIL	.	-not aligned- 
+226	1 2 <==> 1	EQUI	5	Two people	Couple 
+227	12 <==> 0	NOALI	NIL	.	-not aligned- 
+227	1 2 3 <==> 1 2 3	SIMI	4	A dining table	A wooden table 
+227	0 <==> 4 5	NOALI	NIL	-not aligned-	is set 
+227	0 <==> 16	NOALI	NIL	-not aligned-	. 
+227	4 5 6 7 8 9 10 11 <==> 6 7 8 9 10 11 12 13 14 15	SIMI	4	with candles , wine , and a teapot	with candles , wine , and a purple plastic bowl 
+228	7 8 <==> 0	NOALI	NIL	are reflected	-not aligned- 
+228	13 <==> 0	NOALI	NIL	.	-not aligned- 
+228	9 10 11 12 <==> 7 8 9 10	SPE2	3	in the still water	on a clear lake 
+228	3 <==> 0	NOALI	NIL	paddling	-not aligned- 
+228	1 2 <==> 1 2	EQUI	5	Two people	Two people 
+228	4 5 6 <==> 3 4 5 6	EQUI	5	a red canoe	in a red canoe 
+228	0 <==> 11	NOALI	NIL	-not aligned-	. 
+229	8 9 <==> 7 8 9	SPE2	3	a cloak	a brown cloth 
+229	0 <==> 15	NOALI	NIL	-not aligned-	. 
+229	1 2 <==> 1	EQUI	5	The man	Man 
+229	3 4 <==> 2	EQUI	5	is sitting	sitting 
+229	10 <==> 0	NOALI	NIL	and	-not aligned- 
+229	5 6 <==> 3 4	EQUI	5	cross legged	cross legged 
+229	0 <==> 10	NOALI	NIL	-not aligned-	and 
+229	14 <==> 0	NOALI	NIL	.	-not aligned- 
+229	12 13 <==> 12 13 14	SPE2	4	a stick	a wooden stick 
+229	7 <==> 5 6	EQUI	5	wearing	while wearing 
+229	11 <==> 11	EQUI	5	holding	holding 
+230	5 6 <==> 4 5 6	SPE1	4	a creek	in a river 
+230	7 <==> 0	NOALI	NIL	.	-not aligned- 
+230	0 <==> 7	NOALI	NIL	-not aligned-	. 
+230	1 2 <==> 1 2	SPE1	4	Small boat	a boat 
+230	3 4 <==> 3	SPE1	4	going down	moving 
+231	19 <==> 0	NOALI	NIL	.	-not aligned- 
+231	10 11 12 13 14 15 16 17 18 <==> 0	NOALI	NIL	with a large window , sofa , and chair	-not aligned- 
+231	0 <==> 14	NOALI	NIL	-not aligned-	outlooking 
+231	1 2 3 4 5 <==> 1 2 3 4 5	SPE1	4	A black and white photo	A black and white scene 
+231	0 <==> 11 12 13	NOALI	NIL	-not aligned-	with a view 
+231	6 7 8 9 <==> 6 7 8 9 10	SPE1	3	of a living room	of a well furnished room 
+231	0 <==> 17	NOALI	NIL	-not aligned-	. 
+231	0 <==> 15 16	NOALI	NIL	-not aligned-	a forest 
+232	0 <==> 9	NOALI	NIL	-not aligned-	. 
+232	3 4 5 <==> 1 2 3	SPE2	4	of a cat	A siamese cat 
+232	10 <==> 0	NOALI	NIL	.	-not aligned- 
+232	0 <==> 4	NOALI	NIL	-not aligned-	resting 
+232	6 7 8 9 <==> 5 6 7 8	SIMI	4	on a cream sofa	on a white sofa 
+232	1 2 <==> 0	NOALI	NIL	A close-up	-not aligned- 
+233	14 <==> 0	NOALI	NIL	.	-not aligned- 
+233	5 6 7 8 <==> 4 5 6 7	EQUI	5	on a yellow chair	on a yellow chair 
+233	0 <==> 13	NOALI	NIL	-not aligned-	. 
+233	1 2 3 <==> 1 2	SIMI	4	A pug dog	A bulldog 
+233	9 10 11 12 13 <==> 8 9 10 11 12	SIMI	4	next to a green dumpster	beside a large waste receptacle 
+233	0 <==> 3	NOALI	NIL	-not aligned-	sitting 
+233	4 <==> 0	NOALI	NIL	wits	-not aligned- 
+234	6 <==> 6	SPE1	4	asleep	laying 
+234	0 <==> 15	NOALI	NIL	-not aligned-	. 
+234	1 2 3 4 5 <==> 1 2 3 4 5	EQUI	5	A orange and white cat	A orange and white cat 
+234	7 8 9 10 <==> 10 11 12 13 14	SPE2	4	on a leather chair	in a black leather chair 
+234	11 <==> 0	NOALI	NIL	.	-not aligned- 
+234	0 <==> 7 8 9	NOALI	NIL	-not aligned-	on a blanket 
+235	9 <==> 0	NOALI	NIL	.	-not aligned- 
+235	0 <==> 11	NOALI	NIL	-not aligned-	. 
+235	5 <==> 7	EQUI	5	standing	standing 
+235	1 2 3 4 <==> 1 2 3 4 5 6	SPE2	4	Black and white cow	A black and white horned cow 
+235	6 7 8 <==> 8 9 10	SPE1	4	in grassy field	in a field 
+236	7 8 9 <==> 5 6 7	EQUI	5	by a dog	by a dog 
+236	1 2 <==> 1 2	EQUI	5	Three goats	Three goats 
+236	3 4 5 6 <==> 3 4	SIMI	4	are being rounded up	are chased 
+236	10 <==> 0	NOALI	NIL	.	-not aligned- 
+236	0 <==> 8	NOALI	NIL	-not aligned-	. 
+237	4 <==> 3	EQUI	5	moves	traveling 
+237	5 6 7 <==> 4 5 6	EQUI	5	down the tracks	down the tracks 
+237	1 2 3 <==> 1 2	SPE1	4	A black train	A train 
+237	8 <==> 0	NOALI	NIL	.	-not aligned- 
+237	0 <==> 7	NOALI	NIL	-not aligned-	. 
+238	5 6 7 8 <==> 5 6 7 8 9	SPE2	4	in a grassy area	in a grassy wooded area 
+238	9 <==> 0	NOALI	NIL	.	-not aligned- 
+238	1 2 3 <==> 1 2 3	SIMI	4	A black dog	A long-haired dog 
+238	0 <==> 10	NOALI	NIL	-not aligned-	. 
+238	4 <==> 4	EQUI	5	standing	stands 
+239	9 <==> 0	NOALI	NIL	.	-not aligned- 
+239	4 5 <==> 4	EQUI	5	is parked	parked 
+239	0 <==> 8	NOALI	NIL	-not aligned-	. 
+239	6 7 8 <==> 5 6 7	EQUI	5	on the sidewalk	on the sidewalk 
+239	1 2 3 <==> 1 2 3	SIMI	4	A blue motorcycle	A blue moped 
+240	1 2 3 4 5 <==> 1 2 3 4 5	EQUI	5	A red double decker bus	A red double decker bus 
+240	10 <==> 0	NOALI	NIL	.	-not aligned- 
+240	0 <==> 6 7	NOALI	NIL	-not aligned-	driving down 
+240	0 <==> 10	NOALI	NIL	-not aligned-	. 
+240	6 7 8 9 <==> 8 9	SPE1	4	on a city street	a street 
+241	0 <==> 8	NOALI	NIL	-not aligned-	. 
+241	5 <==> 0	NOALI	NIL	.	-not aligned- 
+241	1 2 3 4 <==> 1 2 3 4	REL	4	An empty office cubicle	An empty office chair 
+241	0 <==> 5 6 7	ALIC	NIL	-not aligned-	in a cubicle 
+242	12 <==> 0	NOALI	NIL	.	-not aligned- 
+242	0 <==> 7 8	NOALI	NIL	-not aligned-	near beach 
+242	4 <==> 0	NOALI	NIL	wearing	-not aligned- 
+242	1 2 3 <==> 1 2 3	SPE2	4	A young man	Young redheaded man 
+242	8 9 <==> 4	EQUI	5	is holding	holding 
+242	5 6 7 <==> 0	NOALI	NIL	a striped shirt	-not aligned- 
+242	10 11 <==> 5 6	EQUI	5	two bicycles	two bicycles 
+242	0 <==> 9	NOALI	NIL	-not aligned-	. 
+243	1 2 3 <==> 1 2 3 4	SPE2	4	A white plane	A white Swiss airplane 
+243	0 <==> 8	NOALI	NIL	-not aligned-	. 
+243	0 <==> 5	NOALI	NIL	-not aligned-	approaches 
+243	4 5 6 <==> 6 7	EQUI	5	on the runway	the runway 
+243	7 <==> 0	NOALI	NIL	.	-not aligned- 
+244	10 <==> 0	NOALI	NIL	.	-not aligned- 
+244	0 <==> 7 8	NOALI	NIL	-not aligned-	of grass 
+244	4 5 6 <==> 4 5 6	SIMI	4	on the median	on a patch 
+244	1 2 <==> 1 2	SPE2	4	Several cows	Five cows 
+244	0 <==> 12	NOALI	NIL	-not aligned-	. 
+244	3 <==> 3	EQUI	5	grazing	grazing 
+244	7 8 9 <==> 9 10 11	SIMI	4	by the road	between two roadways 
+245	0 <==> 9	NOALI	NIL	-not aligned-	. 
+245	1 2 3 4 <==> 1 2 3 4	EQUI	5	Red double decker bus	A double decker bus 
+245	7 <==> 5 6 7 8	SPE2	4	street	on a city street 
+245	8 <==> 0	NOALI	NIL	.	-not aligned- 
+245	5 6 <==> 0	NOALI	NIL	driving down	-not aligned- 
+246	8 <==> 0	NOALI	NIL	.	-not aligned- 
+246	4 5 6 7 <==> 3 4 5 6	EQUI	5	at a clothing store	in a clothing store 
+246	3 <==> 0	NOALI	NIL	shopping	-not aligned- 
+246	1 2 <==> 1 2	EQUI	5	Two women	Two women 
+246	0 <==> 7	NOALI	NIL	-not aligned-	. 
+247	4 5 6 7 8 <==> 6 7 8 9	SPE1	4	next to a brown cow	next to a cow 
+247	1 2 <==> 1 2	EQUI	5	A women	A women 
+247	0 <==> 13	NOALI	NIL	-not aligned-	. 
+247	0 <==> 10 11 12	NOALI	NIL	-not aligned-	in a field 
+247	3 <==> 5	EQUI	5	standing	stands 
+247	9 <==> 0	NOALI	NIL	.	-not aligned- 
+247	0 <==> 3 4	NOALI	NIL	-not aligned-	in glasses 
+248	1 2 <==> 1 2	EQUI	5	A dog	A dog 
+248	7 8 9 <==> 9 10 11	EQUI	5	of a truck	of a van 
+248	10 <==> 0	NOALI	NIL	.	-not aligned- 
+248	3 4 <==> 3 4 5	EQUI	5	peaks out	is peeking out 
+248	5 6 <==> 6 7 8	EQUI	5	the back	of the back 
+248	0 <==> 12	NOALI	NIL	-not aligned-	. 
+249	9 10 11 <==> 10 11 12	EQUI	5	at the camera	at the camera 
+249	6 7 8 <==> 9	SPE1	4	is looking up	looking 
+249	12 <==> 0	NOALI	NIL	.	-not aligned- 
+249	0 <==> 13	NOALI	NIL	-not aligned-	. 
+249	1 2 3 4 5 <==> 1 2 3 4 5 6 7 8	SPE2	4	The black and white cat	A gray , black , and white cat 
+250	9 <==> 0	NOALI	NIL	.	-not aligned- 
+250	5 <==> 5	SIMI	2	standing	sitting 
+250	1 2 3 4 <==> 1 2 3 4	SIMI	4	A small white cat	Grey and white cat 
+250	0 <==> 9	NOALI	NIL	-not aligned-	. 
+250	6 7 8 <==> 6 7 8	SPE2	4	in a sink	in bathroom sink 
+251	8 <==> 0	NOALI	NIL	and	-not aligned- 
+251	9 10 <==> 8 9	EQUI	5	looking up	looks up 
+251	14 <==> 0	NOALI	NIL	.	-not aligned- 
+251	4 5 <==> 5	EQUI	5	is wearing	wearing 
+251	0 <==> 13	NOALI	NIL	-not aligned-	. 
+251	1 2 3 <==> 1 2 3 4	SPE2	4	The small dog	A small white dog 
+251	6 7 <==> 6 7	SIMI	4	a sweater	a jacket 
+251	11 12 13 <==> 10 11 12	EQUI	5	at the camera	at the camera 
+252	8 <==> 0	NOALI	NIL	is	-not aligned- 
+252	4 5 6 7 <==> 0	NOALI	NIL	with the word Julia	-not aligned- 
+252	0 <==> 9 10 11	ALIC	NIL	-not aligned-	in the background 
+252	15 <==> 0	NOALI	NIL	.	-not aligned- 
+252	9 10 11 12 13 14 <==> 4 5 6 7 8	EQUI	5	near water and a big ship	with water and a barge 
+252	1 2 3 <==> 1 2 3	EQUI	5	A white bus	A white bus 
+252	0 <==> 12	NOALI	NIL	-not aligned-	. 
+253	0 <==> 8	NOALI	NIL	-not aligned-	. 
+253	1 2 3 <==> 1 2 3	EQUI	5	A green car	A green car 
+253	8 <==> 0	NOALI	NIL	.	-not aligned- 
+253	5 6 7 <==> 5 6 7	EQUI	5	at a saloon	outside the saloon 
+253	4 <==> 4	EQUI	5	parked	parked 
+254	2 3 <==> 3 4	EQUI	5	of people	of people 
+254	10 <==> 0	NOALI	NIL	.	-not aligned- 
+254	1 <==> 1 2	EQUI	5	Group	A group 
+254	4 <==> 5	EQUI	5	sitting	sitting 
+254	5 6 7 8 9 <==> 6 7 8 9	EQUI	5	around a restaurant dining table	at a restaurant table 
+254	0 <==> 10	NOALI	NIL	-not aligned-	. 
+255	0 <==> 6	NOALI	NIL	-not aligned-	. 
+255	2 3 4 <==> 2 3 4 5	SPE2	4	in a station	inside an indoor station 
+255	1 <==> 1	SIMI	4	Train	Trains 
+255	5 <==> 0	NOALI	NIL	.	-not aligned- 
+256	0 <==> 9	NOALI	NIL	-not aligned-	. 
+256	5 6 <==> 0	NOALI	NIL	driving down	-not aligned- 
+256	9 <==> 0	NOALI	NIL	.	-not aligned- 
+256	1 2 3 4 <==> 1 2 3 4	EQUI	5	Red double decker bus	A double decker bus 
+256	7 8 <==> 5 6 7 8	SPE2	4	a street	on a city street 
+257	5 6 7 8 <==> 4 5 6	SPE1	4	in a grassy field	in a field 
+257	1 2 <==> 1 2	EQUI	5	Three cows	Three cows 
+257	9 <==> 0	NOALI	NIL	.	-not aligned- 
+257	3 4 <==> 3	EQUI	5	are grazing	grazing 
+257	0 <==> 7	NOALI	NIL	-not aligned-	. 
+258	0 <==> 11	NOALI	NIL	-not aligned-	. 
+258	1 2 3 4 5 <==> 5 6 7 8 9 10	EQUI	5	A red , double-decker bus	of a red double decker bus 
+258	6 <==> 0	NOALI	NIL	.	-not aligned- 
+258	0 <==> 1 2 3 4	NOALI	NIL	-not aligned-	Front and left side 
+259	1 2 3 <==> 1 2	EQUI	5	An elderly man	Older gentleman 
+259	0 <==> 8	NOALI	NIL	-not aligned-	. 
+259	5 6 7 <==> 6 7	EQUI	5	on his laptop	with laptop 
+259	0 <==> 4 5	NOALI	NIL	-not aligned-	on couch 
+259	0 <==> 3	NOALI	NIL	-not aligned-	sitting 
+259	8 9 <==> 0	NOALI	NIL	at home	-not aligned- 
+259	10 <==> 0	NOALI	NIL	.	-not aligned- 
+259	4 <==> 0	NOALI	NIL	works	-not aligned- 
+260	4 5 6 7 <==> 5 6 7	REL	3	in a mountainous area	on a hill 
+260	3 <==> 4	EQUI	5	standing	standing 
+260	0 <==> 8	NOALI	NIL	-not aligned-	. 
+260	1 2 <==> 1 2 3	SPE2	4	A sheep	A large sheep 
+260	8 <==> 0	NOALI	NIL	.	-not aligned- 
+261	1 2 3 <==> 1 2 3	EQUI	5	A tan puppy	A tan puppy 
+261	4 5 <==> 4 5 6 7	SPE2	4	being petted	being held and petted 
+261	6 <==> 0	NOALI	NIL	.	-not aligned- 
+261	0 <==> 8	NOALI	NIL	-not aligned-	. 
+262	0 <==> 4	NOALI	NIL	-not aligned-	riding 
+262	1 2 <==> 1 2 3	SPE2	4	two motorbikes	Two dirt bikers 
+262	7 <==> 0	NOALI	NIL	.	-not aligned- 
+262	0 <==> 8	NOALI	NIL	-not aligned-	. 
+262	3 4 5 6 <==> 5 6 7	SPE2	3	on a dirt track	over dirt hill 
+263	1 2 3 <==> 1 2 3	EQUI	5	A large pile	A large pile 
+263	0 <==> 7	NOALI	NIL	-not aligned-	. 
+263	4 5 6 <==> 4 5 6	SIMI	4	of wooden items	of scrap wood 
+263	9 <==> 0	NOALI	NIL	.	-not aligned- 
+263	7 <==> 0	NOALI	NIL	piled	-not aligned- 
+263	8 <==> 0	NOALI	NIL	high	-not aligned- 
+264	1 2 <==> 1 2	SIMI	4	A woman	A girl 
+264	3 <==> 3	EQUI	5	riding	riding 
+264	4 5 6 <==> 4 5 6	EQUI	5	a brown horse	a brown horse 
+264	7 <==> 0	NOALI	NIL	.	-not aligned- 
+264	0 <==> 7	NOALI	NIL	-not aligned-	. 
+265	7 <==> 0	NOALI	NIL	standing	-not aligned- 
+265	1 2 3 4 5 6 <==> 1 2 3 4 5 6	SPE2	4	A black and white horned cow	A large black and white cow 
+265	0 <==> 10	NOALI	NIL	-not aligned-	. 
+265	11 <==> 0	NOALI	NIL	.	-not aligned- 
+265	8 9 10 <==> 7 8 9	EQUI	5	in a field	in a field 
+266	0 <==> 6 7 8	NOALI	NIL	-not aligned-	in a shop 
+266	0 <==> 9	NOALI	NIL	-not aligned-	. 
+266	7 8 9 <==> 0	NOALI	NIL	at a car	-not aligned- 
+266	6 <==> 0	NOALI	NIL	staring	-not aligned- 
+266	1 2 <==> 1 2	SIMI	3	Two men	Two women 
+266	0 <==> 4 5	NOALI	NIL	-not aligned-	in chairs 
+266	4 5 <==> 0	NOALI	NIL	in grass	-not aligned- 
+266	10 <==> 0	NOALI	NIL	.	-not aligned- 
+266	3 <==> 0	NOALI	NIL	standing	-not aligned- 
+266	0 <==> 3	NOALI	NIL	-not aligned-	sitting 
+267	1 2 3 <==> 1 2	SIMI	3	A little bird	A duck 
+267	5 6 7 <==> 4 5 6	EQUI	5	in the water	in the water 
+267	4 <==> 3	EQUI	5	floating	floating 
+267	0 <==> 7	NOALI	NIL	-not aligned-	. 
+267	8 <==> 0	NOALI	NIL	.	-not aligned- 
+268	0 <==> 8	NOALI	NIL	-not aligned-	. 
+268	1 2 3 4 5 <==> 1 2 3	SPE1	3	Old blue and white train	A blue train 
+268	0 <==> 4 5 6 7	NOALI	NIL	-not aligned-	in a mountainous area 
+268	6 7 <==> 0	NOALI	NIL	on tracks	-not aligned- 
+268	8 <==> 0	NOALI	NIL	.	-not aligned- 
+269	1 2 <==> 1 2	SIMI	3	Two ducks	The birds 
+269	5 6 7 <==> 5 6 7	EQUI	5	by the water	in the water 
+269	3 4 <==> 3 4	SIMI	2	are standing	are swimming 
+269	8 <==> 0	NOALI	NIL	.	-not aligned- 
+269	0 <==> 8	NOALI	NIL	-not aligned-	. 
+270	7 <==> 0	NOALI	NIL	.	-not aligned- 
+270	2 <==> 0	NOALI	NIL	playing	-not aligned- 
+270	0 <==> 8	NOALI	NIL	-not aligned-	. 
+270	1 <==> 0	NOALI	NIL	Man	-not aligned- 
+270	4 5 6 <==> 0	NOALI	NIL	while sitting down	-not aligned- 
+270	0 <==> 7	NOALI	NIL	-not aligned-	road 
+270	0 <==> 5 6	NOALI	NIL	-not aligned-	driving down 
+270	0 <==> 1 2 3 4	NOALI	NIL	-not aligned-	Red and white bus 
+270	3 <==> 0	NOALI	NIL	guitar	-not aligned- 
+271	10 <==> 0	NOALI	NIL	.	-not aligned- 
+271	6 7 8 9 <==> 6 7 8	EQUI	5	on the railroad tracks	on the tracks 
+271	1 2 3 <==> 1 2 3	SIMI	4	The brown train	The white train 
+271	4 5 <==> 4 5	EQUI	5	is sitting	is sitting 
+271	0 <==> 9	NOALI	NIL	-not aligned-	. 
+272	9 <==> 8	EQUI	5	sits	sits 
+272	0 <==> 5	NOALI	NIL	-not aligned-	wearing 
+272	1 2 3 4 <==> 1 2 3 4	SIMI	3	A tiny blonde child	A young blonde girl 
+272	10 11 12 <==> 0	NOALI	NIL	on a table	-not aligned- 
+272	0 <==> 13 14	NOALI	NIL	-not aligned-	behind her 
+272	5 6 7 8 <==> 0	NOALI	NIL	in a blue dress	-not aligned- 
+272	0 <==> 9 10 11 12	NOALI	NIL	-not aligned-	with a red bicycle 
+272	16 <==> 0	NOALI	NIL	.	-not aligned- 
+272	13 14 15 <==> 0	NOALI	NIL	near her mother	-not aligned- 
+272	0 <==> 6 7	NOALI	NIL	-not aligned-	a helmet 
+272	0 <==> 15	NOALI	NIL	-not aligned-	. 
+273	1 2 3 4 5 <==> 1 2 3 4 5	SIMI	2	A black and white cow	A black and white cat 
+273	0 <==> 7 8 9	NOALI	NIL	-not aligned-	in the dirt 
+273	0 <==> 10	NOALI	NIL	-not aligned-	. 
+273	11 <==> 0	NOALI	NIL	.	-not aligned- 
+273	6 7 8 <==> 0	NOALI	NIL	in a pen	-not aligned- 
+273	9 10 <==> 0	NOALI	NIL	with hay	-not aligned- 
+273	0 <==> 6	NOALI	NIL	-not aligned-	lies 
+274	5 <==> 5	SIMI	2	sitting	standing 
+274	10 11 12 13 <==> 0	NOALI	NIL	next to a kitchen	-not aligned- 
+274	1 2 <==> 1 2	EQUI	5	A group	A group 
+274	0 <==> 6 7 8 9	NOALI	NIL	-not aligned-	near a small child 
+274	3 4 <==> 3 4	EQUI	5	of people	of people 
+274	0 <==> 10	NOALI	NIL	-not aligned-	sitting 
+274	0 <==> 11 12 13	NOALI	NIL	-not aligned-	on a horse 
+274	0 <==> 14	NOALI	NIL	-not aligned-	. 
+274	6 7 8 9 <==> 0	NOALI	NIL	on a small sofa	-not aligned- 
+274	14 <==> 0	NOALI	NIL	.	-not aligned- 
+275	8 9 10 <==> 7 8 9	EQUI	5	on a sofa	on a sofa 
+275	3 <==> 0	NOALI	NIL	laying	-not aligned- 
+275	0 <==> 10	NOALI	NIL	-not aligned-	. 
+275	11 <==> 0	NOALI	NIL	.	-not aligned- 
+275	7 <==> 5 6	EQUI	5	sitting	are sitting 
+275	0 <==> 3 4	NOALI	NIL	-not aligned-	in shorts 
+275	4 5 6 <==> 1 2	EQUI	5	across two men	Two men 
+275	1 2 <==> 0	NOALI	NIL	A women	-not aligned- 
+276	0 <==> 8	NOALI	NIL	-not aligned-	. 
+276	0 <==> 4	NOALI	NIL	-not aligned-	riding 
+276	3 <==> 0	NOALI	NIL	stand	-not aligned- 
+276	8 <==> 0	NOALI	NIL	.	-not aligned- 
+276	4 5 6 7 <==> 5 6 7	SIMI	3	on a grassy hill	over dirt hill 
+276	0 <==> 1 2 3	NOALI	NIL	-not aligned-	Two dirt bikers 
+276	1 2 <==> 0	NOALI	NIL	Two lambs	-not aligned- 
+277	0 <==> 9 10 11	NOALI	NIL	-not aligned-	under a tree 
+277	8 9 10 <==> 0	NOALI	NIL	on a sofa	-not aligned- 
+277	0 <==> 6 7 8	NOALI	NIL	-not aligned-	of a cow 
+277	1 2 3 4 <==> 1 2 3 4 5	EQUI	5	Black and white photo	a black and white photo 
+277	5 6 7 <==> 0	NOALI	NIL	of a girl	-not aligned- 
+277	0 <==> 12	NOALI	NIL	-not aligned-	. 
+277	11 <==> 0	NOALI	NIL	.	-not aligned- 
+278	7 8 9 <==> 0	NOALI	NIL	on a windowsill	-not aligned- 
+278	1 2 3 4 5 <==> 1 2 3 4	SIMI	3	Large black and white cat	A small white cat 
+278	0 <==> 9	NOALI	NIL	-not aligned-	. 
+278	6 <==> 5	SIMI	3	resting	sitting 
+278	0 <==> 6 7 8	NOALI	NIL	-not aligned-	in a sink 
+278	10 <==> 0	NOALI	NIL	.	-not aligned- 
+279	0 <==> 4 5 6	NOALI	NIL	-not aligned-	of a woman 
+279	8 9 10 <==> 0	NOALI	NIL	in a pot	-not aligned- 
+279	11 <==> 0	NOALI	NIL	.	-not aligned- 
+279	0 <==> 7	NOALI	NIL	-not aligned-	holding 
+279	0 <==> 11	NOALI	NIL	-not aligned-	. 
+279	4 5 6 7 <==> 0	NOALI	NIL	of a small cactus	-not aligned- 
+279	0 <==> 8 9 10	NOALI	NIL	-not aligned-	a white puppy 
+279	1 2 3 <==> 1 2 3	EQUI	5	a close up	a close up 
+280	7 <==> 0	NOALI	NIL	.	-not aligned- 
+280	0 <==> 6	NOALI	NIL	-not aligned-	sitting 
+280	0 <==> 7 8 9 10	NOALI	NIL	-not aligned-	around a dining table 
+280	0 <==> 3 4 5	NOALI	NIL	-not aligned-	of elderly people 
+280	4 5 6 <==> 0	NOALI	NIL	with an awning	-not aligned- 
+280	0 <==> 1 2	NOALI	NIL	-not aligned-	A group 
+280	1 2 3 <==> 0	NOALI	NIL	A wooden bicycle	-not aligned- 
+280	0 <==> 11	NOALI	NIL	-not aligned-	. 
+281	0 <==> 3	NOALI	NIL	-not aligned-	stand 
+281	0 <==> 10	NOALI	NIL	-not aligned-	. 
+281	1 2 <==> 1 2	EQUI	5	Two men	Two men 
+281	6 <==> 0	NOALI	NIL	.	-not aligned- 
+281	0 <==> 7 8 9	NOALI	NIL	-not aligned-	outside a shop 
+281	3 <==> 0	NOALI	NIL	wearing	-not aligned- 
+281	4 5 <==> 4 5 6	REL	4	bike helmets	with their bicycles 
+282	0 <==> 15	NOALI	NIL	-not aligned-	. 
+282	3 <==> 0	NOALI	NIL	painting	-not aligned- 
+282	13 <==> 0	NOALI	NIL	.	-not aligned- 
+282	6 7 8 9 <==> 0	NOALI	NIL	with a dining room	-not aligned- 
+282	0 <==> 9 10 11	NOALI	NIL	-not aligned-	with the sea 
+282	10 11 12 <==> 12 13 14	EQUI	5	in the background	in the background 
+282	1 2 <==> 1 2 3 4	SIMI	2	A women	A man and boy 
+282	4 5 <==> 0	NOALI	NIL	a chair	-not aligned- 
+282	0 <==> 5	NOALI	NIL	-not aligned-	walking 
+282	0 <==> 6 7 8	NOALI	NIL	-not aligned-	along a beach 
+283	4 <==> 0	NOALI	NIL	wearing	-not aligned- 
+283	14 <==> 0	NOALI	NIL	.	-not aligned- 
+283	11 12 13 <==> 12 13 14	EQUI	5	in the background	in the background 
+283	8 9 10 <==> 0	NOALI	NIL	with a bicycle	-not aligned- 
+283	0 <==> 7 8 9	NOALI	NIL	-not aligned-	on a leash 
+283	1 2 3 <==> 1 2	SPE1	3	A young girl	A women 
+283	0 <==> 3	NOALI	NIL	-not aligned-	holds 
+283	0 <==> 10 11	NOALI	NIL	-not aligned-	with chairs 
+283	5 6 7 <==> 0	NOALI	NIL	a bike helmet	-not aligned- 
+283	0 <==> 15	NOALI	NIL	-not aligned-	. 
+283	0 <==> 4 5 6	NOALI	NIL	-not aligned-	a small dog 
+284	7 <==> 0	NOALI	NIL	.	-not aligned- 
+284	4 5 6 <==> 4 5 6 7	SPE2	4	in a field	in a green field 
+284	1 2 <==> 1 2 3	SIMI	2	Two cows	A brown horse 
+284	3 <==> 0	NOALI	NIL	graze	-not aligned- 
+284	0 <==> 8	NOALI	NIL	-not aligned-	. 
+285	8 9 10 <==> 0	NOALI	NIL	near a highway	-not aligned- 
+285	0 <==> 6 7 8	NOALI	NIL	-not aligned-	along the water 
+285	0 <==> 11	NOALI	NIL	-not aligned-	. 
+285	1 2 <==> 1 2	EQUI	5	A person	A person 
+285	5 6 7 <==> 0	NOALI	NIL	underneath an overpass	-not aligned- 
+285	0 <==> 4 5	NOALI	NIL	-not aligned-	a dog 
+285	3 4 <==> 3	SIMI	2	is standing	walks 
+285	0 <==> 9 10	NOALI	NIL	-not aligned-	's edge 
+285	11 <==> 0	NOALI	NIL	.	-not aligned- 
+286	6 7 8 9 <==> 8 9	SPE1	4	on a city street	a street 
+286	0 <==> 10	NOALI	NIL	-not aligned-	. 
+286	10 <==> 0	NOALI	NIL	.	-not aligned- 
+286	1 2 3 4 <==> 1 2 3 4 5	EQUI	5	A double decker bus	A red double decker bus 
+286	5 <==> 6 7	SPE2	4	drives	driving down 
+287	12 <==> 0	NOALI	NIL	.	-not aligned- 
+287	8 9 10 11 <==> 8 9 10 11	EQUI	5	at a construction site	of a construction site 
+287	0 <==> 5 6 7	NOALI	NIL	-not aligned-	in the middle 
+287	5 6 7 <==> 0	NOALI	NIL	next to materials	-not aligned- 
+287	4 <==> 4	EQUI	5	stands	stands 
+287	0 <==> 12	NOALI	NIL	-not aligned-	. 
+287	1 2 3 <==> 1 2 3	EQUI	5	A black dog	A black dog 
+288	4 5 6 <==> 3 4 5 6 7	SPE2	3	with a hat	with a cap and jacket 
+288	15 <==> 0	NOALI	NIL	.	-not aligned- 
+288	7 <==> 8	SIMI	2	standing	walking 
+288	1 2 3 <==> 1 2	SPE1	4	A long-haired man	A man 
+288	0 <==> 13	NOALI	NIL	-not aligned-	. 
+288	8 9 10 11 12 13 14 <==> 9 10 11 12	SPE1	3	between two large , half-empty Coke bottles	between two large bottles 
+289	0 <==> 8	NOALI	NIL	-not aligned-	. 
+289	3 <==> 3 4	EQUI	5	sitting	are sitting 
+289	9 <==> 0	NOALI	NIL	.	-not aligned- 
+289	6 7 8 <==> 5 6 7	SIMI	3	in a shop	in a cafe 
+289	4 5 <==> 0	NOALI	NIL	in chairs	-not aligned- 
+289	1 2 <==> 1 2	EQUI	5	Two women	Two women 
+290	10 <==> 0	NOALI	NIL	.	-not aligned- 
+290	0 <==> 7	NOALI	NIL	-not aligned-	. 
+290	1 2 <==> 1	EQUI	5	A man	Man 
+290	7 8 9 <==> 4 5 6	EQUI	5	in a store	in a store 
+290	3 <==> 2	EQUI	5	playing	playing 
+290	4 5 6 <==> 3	SPE1	4	a video game	game 
+291	0 <==> 11	NOALI	NIL	-not aligned-	. 
+291	1 2 <==> 1 2	EQUI	5	the back	The back 
+291	12 <==> 0	NOALI	NIL	.	-not aligned- 
+291	3 4 5 6 <==> 3 4 5 6	EQUI	5	of a stop sign	of the stop sign 
+291	10 11 <==> 7 8	SIMI	4	on it	is adorned 
+291	7 8 9 <==> 9 10	SPE1	4	with many stickers	with stickers 
+292	16 <==> 0	NOALI	NIL	.	-not aligned- 
+292	10 11 12 13 <==> 5 6 7 8 9 10	EQUI	5	with a ferris wheel	in front of a ferris wheel 
+292	1 2 3 4 5 6 <==> 1 2 3	SPE1	4	a brown double decker tour bus	A double-decker bus 
+292	14 15 <==> 0	ALIC	NIL	behind it	-not aligned- 
+292	0 <==> 11	NOALI	NIL	-not aligned-	. 
+292	7 8 9 <==> 0	NOALI	NIL	on a street	-not aligned- 
+292	0 <==> 4	NOALI	NIL	-not aligned-	driving 
+293	0 <==> 10	NOALI	NIL	-not aligned-	. 
+293	3 4 5 6 <==> 3 4 5	SIMI	4	in a black uniform	in a tux 
+293	7 8 9 10 <==> 6 7 8 9	EQUI	5	on a white horse	on a white horse 
+293	1 2 <==> 1 2	EQUI	5	A man	A man 
+293	11 <==> 0	NOALI	NIL	.	-not aligned- 
+294	4 5 6 7 <==> 3 4 5 6	EQUI	5	on a dirt course	on a dirt track 
+294	1 2 <==> 1 2	EQUI	5	Two motorbikes	two motorbikes 
+294	3 <==> 0	NOALI	NIL	racing	-not aligned- 
+294	8 <==> 0	NOALI	NIL	.	-not aligned- 
+294	0 <==> 7	NOALI	NIL	-not aligned-	. 
+295	0 <==> 10	NOALI	NIL	-not aligned-	. 
+295	4 5 6 <==> 3 4 5	EQUI	5	of the headlights	of the headlights 
+295	7 8 9 10 11 <==> 6 7 8 9	SPE1	4	of a blue old-fashioned car	on a blue car 
+295	12 <==> 0	NOALI	NIL	.	-not aligned- 
+295	1 2 3 <==> 1 2	EQUI	5	A close-up view	Close up 
+296	0 <==> 11	NOALI	NIL	-not aligned-	. 
+296	1 2 3 4 5 <==> 1 2 3 4 5	EQUI	5	A black and white cat	A black and white cat 
+296	7 8 9 <==> 7 8 9 10	SPE2	4	on a blanket	on a purple blanket 
+296	6 <==> 6	SPE2	4	lying	sleeps 
+296	10 <==> 0	NOALI	NIL	.	-not aligned- 
+297	0 <==> 10	NOALI	NIL	-not aligned-	. 
+297	5 <==> 3	EQUI	5	sitting	sitting 
+297	10 11 12 <==> 8 9	SPE1	4	a small baby	a baby 
+297	9 <==> 7	EQUI	5	holding	holding 
+297	1 2 3 4 <==> 1 2	SPE1	3	A man and women	a woman 
+297	6 7 8 <==> 4 5 6	EQUI	5	on a sofa	on a sofa 
+297	13 <==> 0	NOALI	NIL	.	-not aligned- 
+298	0 <==> 1	NOALI	NIL	-not aligned-	View 
+298	4 5 6 7 <==> 6 7 8 9	REL	4	with a dining table	with a dining room 
+298	8 9 10 <==> 10 11 12	REL	5	in the background	in the background 
+298	1 2 3 <==> 2 3 4 5	EQUI	5	A living room	of a living room 
+298	11 <==> 0	NOALI	NIL	.	-not aligned- 
+298	0 <==> 13	NOALI	NIL	-not aligned-	. 
+299	0 <==> 12	NOALI	NIL	-not aligned-	. 
+299	5 6 <==> 8 9 10	EQUI	5	with hood	with its hood 
+299	8 <==> 0	NOALI	NIL	.	-not aligned- 
+299	7 <==> 11	EQUI	5	open	raised 
+299	1 2 3 4 <==> 1 2 3 4 5 6 7	SPE2	4	Red double decker bus	An old Red London double decker bus 
+300	3 4 <==> 3	EQUI	5	are sheering	shearing 
+300	13 <==> 0	NOALI	NIL	.	-not aligned- 
+300	5 6 7 <==> 4 5 6	EQUI	5	a white sheep	a white sheep 
+300	0 <==> 11	NOALI	NIL	-not aligned-	. 
+300	1 2 <==> 1 2	EQUI	5	Two women	Two women 
+300	8 9 10 11 12 <==> 7 8 9 10	SPE2	4	inside of a wooden building	in a wooden stall 
+301	0 <==> 8	NOALI	NIL	-not aligned-	. 
+301	5 6 7 <==> 5 6 7	EQUI	5	into the station	into a station 
+301	1 2 3 <==> 1 2 3	SIMI	3	A subway train	A white train 
+301	8 <==> 0	NOALI	NIL	.	-not aligned- 
+301	4 <==> 4	EQUI	5	pulling	pulling 
+302	0 <==> 13	NOALI	NIL	-not aligned-	. 
+302	0 <==> 9 10 11 12	NOALI	NIL	-not aligned-	in front of him 
+302	12 <==> 0	NOALI	NIL	.	-not aligned- 
+302	9 10 11 <==> 0	NOALI	NIL	in the foreground	-not aligned- 
+302	1 2 <==> 1 2	EQUI	5	A man	A man 
+302	0 <==> 3	NOALI	NIL	-not aligned-	talking 
+302	0 <==> 8	NOALI	NIL	-not aligned-	sitting 
+302	3 4 5 6 7 8 <==> 4 5 6 7	SPE1	3	with glasses and two plastic bottles	with two water bottles 
+303	9 10 <==> 7 8 9	EQUI	5	of water	on the water 
+303	11 <==> 0	NOALI	NIL	.	-not aligned- 
+303	1 2 <==> 1 2 3	SPE2	4	A goose	A black swan 
+303	0 <==> 10	NOALI	NIL	-not aligned-	. 
+303	4 5 <==> 5 6	EQUI	5	its wings	its wings 
+303	6 7 8 <==> 0	ALIC	NIL	in a body	-not aligned- 
+303	3 <==> 4	EQUI	5	flapping	flapping 
+304	3 4 5 6 <==> 4 5 6 7	EQUI	5	next to a car	next to a car 
+304	1 <==> 1 2	EQUI	5	Motorcycle	A motorcycle 
+304	2 <==> 3	EQUI	5	parked	parked 
+304	8 <==> 0	NOALI	NIL	.	-not aligned- 
+304	0 <==> 8	NOALI	NIL	-not aligned-	. 
+304	7 <==> 0	NOALI	NIL	outside	-not aligned- 
+305	1 <==> 1 2	EQUI	5	Boy	The boy 
+305	5 6 <==> 8 9 10	SPE2	4	with dog	with a puppy 
+305	0 <==> 11	NOALI	NIL	-not aligned-	. 
+305	3 4 <==> 5 6 7	EQUI	5	on couch	on a couch 
+305	2 <==> 3 4	EQUI	5	laying	is lying 
+305	7 <==> 0	NOALI	NIL	.	-not aligned- 
+306	7 8 9 <==> 5 6 7	EQUI	5	at the airport	at the airport 
+306	0 <==> 10	NOALI	NIL	-not aligned-	. 
+306	0 <==> 8 9	NOALI	NIL	-not aligned-	at night 
+306	4 5 6 <==> 4	SIMI	4	on the ground	parked 
+306	10 <==> 0	NOALI	NIL	.	-not aligned- 
+306	1 2 3 <==> 1 2 3	EQUI	5	A large jet	A large airplane 
+307	11 <==> 0	NOALI	NIL	.	-not aligned- 
+307	0 <==> 12	NOALI	NIL	-not aligned-	. 
+307	3 4 5 <==> 3 4 5	SPE1	4	of Harp lager	of Harp beer 
+307	1 2 <==> 1 2	EQUI	5	Eight bottles	Eight bottles 
+307	6 7 <==> 6 7	EQUI	5	lined up	lined up 
+307	8 9 10 <==> 8 9 10 11	SPE2	4	on the floor	on a wooden floor 
+308	9 <==> 0	NOALI	NIL	.	-not aligned- 
+308	7 8 <==> 7 8	EQUI	5	a movie	a movie 
+308	0 <==> 9	NOALI	NIL	-not aligned-	. 
+308	2 3 4 5 <==> 1 2 3 4	SPE2	4	of a television screen	The wall-mounted flat-screen TV 
+308	6 <==> 5 6	EQUI	5	showing	is showing 
+308	1 <==> 0	NOALI	NIL	photo	-not aligned- 
+309	4 5 6 7 <==> 6 7 8	SPE2	4	inside of a sink	in bathroom sink 
+309	1 2 <==> 1 2 3 4	SPE2	4	White cat	Grey and white cat 
+309	0 <==> 9	NOALI	NIL	-not aligned-	. 
+309	3 <==> 5	EQUI	5	sitting	sitting 
+309	8 <==> 0	NOALI	NIL	.	-not aligned- 
+310	1 2 <==> 1 2	SPE2	4	Two people	Two women 
+310	0 <==> 6	NOALI	NIL	-not aligned-	. 
+310	5 6 7 <==> 3 4 5	SIMI	4	a small boat	in a sailboat 
+310	3 4 <==> 0	NOALI	NIL	are sailing	-not aligned- 
+310	8 <==> 0	NOALI	NIL	.	-not aligned- 
+311	0 <==> 11	NOALI	NIL	-not aligned-	and 
+311	7 8 9 <==> 8 9 10	EQUI	5	of a couch	of a couch 
+311	1 2 <==> 1 2	EQUI	5	Two cats	Two cats 
+311	4 5 6 <==> 5 6 7	EQUI	5	on the back	on the back 
+311	12 13 <==> 14 15	EQUI	5	the window	the window 
+311	0 <==> 16 17 18 19	NOALI	NIL	-not aligned-	in a sea photo 
+311	10 11 <==> 12 13	EQUI	5	looking out	looking out 
+311	0 <==> 20	NOALI	NIL	-not aligned-	. 
+311	14 <==> 0	NOALI	NIL	.	-not aligned- 
+311	3 <==> 3 4	EQUI	5	sit	are sitting 
+312	0 <==> 6	NOALI	NIL	-not aligned-	. 
+312	4 <==> 3	EQUI	5	shear	sheering 
+312	1 2 3 <==> 1 2	SPE1	4	Two young women	Two women 
+312	5 6 <==> 4 5	EQUI	5	a sheep	a sheep 
+312	7 <==> 0	NOALI	NIL	.	-not aligned- 
+313	3 4 <==> 5	EQUI	5	are seated	sitting 
+313	1 2 <==> 1 2	SPE1	4	Six people	A group 
+313	5 6 7 8 <==> 6 7 8 9	EQUI	5	at a restaurant table	at a restaurant table 
+313	10 <==> 0	NOALI	NIL	looking	-not aligned- 
+313	14 <==> 0	NOALI	NIL	.	-not aligned- 
+313	0 <==> 3 4	ALIC	NIL	-not aligned-	of people 
+313	9 <==> 0	NOALI	NIL	and	-not aligned- 
+313	11 12 13 <==> 0	NOALI	NIL	into the camera	-not aligned- 
+313	0 <==> 10	NOALI	NIL	-not aligned-	. 
+314	12 <==> 0	NOALI	NIL	.	-not aligned- 
+314	1 2 3 4 <==> 1 2 3 4 5	EQUI	5	A Philips flat-screen TV	A Phillips flat screen TV 
+314	5 6 <==> 0	NOALI	NIL	is shown	-not aligned- 
+314	7 8 9 10 11 <==> 6 7 8 9	EQUI	5	with its two remote controls	with two remote controls 
+314	0 <==> 10	NOALI	NIL	-not aligned-	. 
+315	0 <==> 8 9	ALIC	NIL	-not aligned-	being constructed 
+315	0 <==> 10	NOALI	NIL	-not aligned-	. 
+315	4 <==> 4	EQUI	5	stands	standing 
+315	5 6 7 <==> 0	NOALI	NIL	next to materials	-not aligned- 
+315	1 2 3 <==> 1 2 3	EQUI	5	A black dog	A black dog 
+315	12 <==> 0	NOALI	NIL	.	-not aligned- 
+315	8 9 10 11 <==> 5 6 7	SIMI	3	at a construction site	in a room 
+316	0 <==> 11	NOALI	NIL	-not aligned-	. 
+316	6 <==> 6	EQUI	5	lying	laying 
+316	7 8 9 <==> 7 8 9 10	SIMI	3	on a blanket	on a cat bed 
+316	1 2 3 4 5 <==> 1 2 3 4 5	EQUI	5	A black and white cat	A black and white cat 
+316	10 <==> 0	NOALI	NIL	.	-not aligned- 
+317	5 6 <==> 0	NOALI	NIL	for take-off	-not aligned- 
+317	0 <==> 7 8 9	NOALI	NIL	-not aligned-	on the tarmac 
+317	7 <==> 0	NOALI	NIL	.	-not aligned- 
+317	1 2 <==> 1 2 3 4	SPE2	3	A plane	A small turboprop plane 
+317	3 4 <==> 5 6	SIMI	3	being readied	being loaded 
+317	0 <==> 10	NOALI	NIL	-not aligned-	. 
+318	5 <==> 0	NOALI	NIL	standing	-not aligned- 
+318	9 <==> 0	NOALI	NIL	.	-not aligned- 
+318	1 2 3 4 <==> 1 2 3	SPE1	4	A dark brown horse	A brown horse 
+318	6 7 8 <==> 4 5 6 7	SPE1	4	in a field	in a green field 
+318	0 <==> 8	NOALI	NIL	-not aligned-	. 
+319	4 <==> 4	EQUI	5	stands	parked 
+319	1 2 3 <==> 1 2 3	SIMI	4	A white bicycle	Old style bicycle 
+319	5 6 7 <==> 5 6	EQUI	5	on a floor	on floor 
+319	8 <==> 0	NOALI	NIL	.	-not aligned- 
+319	0 <==> 7	NOALI	NIL	-not aligned-	. 
+320	8 <==> 0	NOALI	NIL	.	-not aligned- 
+320	3 <==> 3	SIMI	2	sitting	standing 
+320	4 5 6 7 <==> 4 5	SPE1	4	on a concrete slab	on concrete 
+320	0 <==> 6	NOALI	NIL	-not aligned-	. 
+320	1 2 <==> 1 2	EQUI	5	Black bird	Black bird 
+321	0 <==> 9	NOALI	NIL	-not aligned-	. 
+321	5 6 7 <==> 5 6 7 8	EQUI	5	in grassy field	in a grassy field 
+321	4 <==> 4	EQUI	5	standing	standing 
+321	8 <==> 0	NOALI	NIL	.	-not aligned- 
+321	1 2 3 <==> 1 2 3	SIMI	4	Dark colored dog	A gray dog 
+322	4 5 <==> 4 5	SIMI	4	one brown	one ginger 
+322	3 <==> 0	NOALI	NIL	,	-not aligned- 
+322	13 14 15 16 <==> 0	NOALI	NIL	with a blue blanket	-not aligned- 
+322	10 11 12 <==> 11 12 13	EQUI	5	on a bed	on a bed 
+322	17 <==> 0	NOALI	NIL	.	-not aligned- 
+322	1 2 <==> 1 2	EQUI	5	two cats	Two cats 
+322	0 <==> 3	NOALI	NIL	-not aligned-	, 
+322	7 8 <==> 7 8 9	EQUI	5	one white	the other white 
+322	0 <==> 14	NOALI	NIL	-not aligned-	. 
+322	9 <==> 10	EQUI	5	laying	laying 
+322	0 <==> 6	NOALI	NIL	-not aligned-	, 
+322	6 <==> 0	NOALI	NIL	and	-not aligned- 
+323	3 <==> 0	NOALI	NIL	holds	-not aligned- 
+323	6 <==> 0	NOALI	NIL	.	-not aligned- 
+323	1 2 <==> 1	EQUI	5	A couple	Couple 
+323	0 <==> 5	NOALI	NIL	-not aligned-	. 
+323	4 5 <==> 2 3 4	SPE2	4	a baby	with newborn baby 
+324	0 <==> 10	NOALI	NIL	-not aligned-	. 
+324	11 <==> 0	NOALI	NIL	.	-not aligned- 
+324	1 2 <==> 1 2	EQUI	5	Close up	A close-up 
+324	3 4 5 6 <==> 3 4 5	SPE1	4	of a white sheep	of a sheep 
+324	7 8 9 10 <==> 6 7 8 9	EQUI	5	with a black head	with a black head 
+325	5 6 7 <==> 5 6 7	EQUI	5	on a sofa	on a sofa 
+325	11 <==> 0	NOALI	NIL	.	-not aligned- 
+325	0 <==> 11	NOALI	NIL	-not aligned-	. 
+325	4 <==> 4	EQUI	5	laying	laying 
+325	1 2 3 <==> 1 2 3	SIMI	4	A young boy	A small boy 
+325	8 9 10 <==> 8 9 10	EQUI	5	with a dog	with a dog 
+326	3 <==> 0	NOALI	NIL	is	-not aligned- 
+326	8 <==> 0	NOALI	NIL	.	-not aligned- 
+326	4 5 6 7 <==> 3 4 5 6	EQUI	5	on the railroad tracks	on the train tracks 
+326	0 <==> 7	NOALI	NIL	-not aligned-	. 
+326	1 2 <==> 1 2	EQUI	5	A train	A train 
+327	0 <==> 12	NOALI	NIL	-not aligned-	. 
+327	5 6 7 <==> 0	NOALI	NIL	in a shed	-not aligned- 
+327	1 2 3 4 <==> 3 4 5 6 7	SPE1	4	Large silver locomotive engine	of a silver train engine 
+327	0 <==> 8 9 10 11	NOALI	NIL	-not aligned-	with a red stripe 
+327	0 <==> 1 2	NOALI	NIL	-not aligned-	A close-up 
+327	8 <==> 0	NOALI	NIL	.	-not aligned- 
+328	7 8 9 10 <==> 6 7 8 9	SPE2	4	of a semi truck	of white semi truck 
+328	5 6 <==> 4 5	EQUI	5	on top	on top 
+328	0 <==> 10	NOALI	NIL	-not aligned-	. 
+328	1 2 3 4 <==> 1 2 3	SIMI	4	A small red car	Red sports car 
+328	11 <==> 0	NOALI	NIL	.	-not aligned- 
+329	0 <==> 9 10	NOALI	NIL	-not aligned-	past spectators 
+329	0 <==> 11	NOALI	NIL	-not aligned-	. 
+329	5 6 7 8 9 10 11 <==> 0	NOALI	NIL	on a black and red racing bike	-not aligned- 
+329	3 4 <==> 3 4 5 6 7	SPE2	4	in black	in black and white lira 
+329	1 2 <==> 1 2	EQUI	5	A bicyclist	A cyclist 
+329	0 <==> 8	NOALI	NIL	-not aligned-	speeding 
+329	12 <==> 0	NOALI	NIL	.	-not aligned- 
+330	7 8 9 <==> 0	ALIC	NIL	with several bookcases	-not aligned- 
+330	3 4 5 6 <==> 1 2	SPE1	4	in a messy room	A room 
+330	10 <==> 0	NOALI	NIL	.	-not aligned- 
+330	1 2 <==> 3 4 5 6 7 8 9	SPE2	3	A television	with a television , stereo and bookshelf 
+330	0 <==> 10	NOALI	NIL	-not aligned-	. 
+331	4 <==> 7	EQUI	5	touches	pets 
+331	1 2 3 <==> 1 2 3	EQUI	5	A bald man	A bald man 
+331	0 <==> 19	NOALI	NIL	-not aligned-	. 
+331	7 8 9 10 <==> 10 11 12 13 14 15	SPE2	4	of a black horse	of a black and white horse 
+331	18 <==> 0	NOALI	NIL	.	-not aligned- 
+331	15 16 17 <==> 16 17 18	SPE1	4	of a fence	at the fence 
+331	5 6 <==> 8 9	EQUI	5	the nose	the nose 
+331	11 12 13 14 <==> 0	ALIC	NIL	on the other side	-not aligned- 
+331	0 <==> 4 5 6	NOALI	NIL	-not aligned-	with a beard 
+332	8 <==> 0	NOALI	NIL	.	-not aligned- 
+332	1 2 3 <==> 1	SPE1	4	A gray house	House 
+332	0 <==> 6	NOALI	NIL	-not aligned-	. 
+332	4 5 6 7 <==> 2 3 4 5	EQUI	5	with a red door	with a red door 
+333	8 9 10 <==> 8 9 10	SIMI	3	in their stalls	at a trough 
+333	1 2 3 4 5 <==> 1 2 3 4 5	EQUI	5	a black and white photo	A black and white photo 
+333	11 <==> 0	NOALI	NIL	.	-not aligned- 
+333	0 <==> 11	NOALI	NIL	-not aligned-	. 
+333	6 7 <==> 6 7	SPE1	4	of cows	of cattle 
+334	4 5 6 7 8 9 <==> 10 11 12 13	SPE2	4	with the London Eye ferris wheel	with a ferris wheel 
+334	10 11 <==> 14 15	EQUI	5	in background	behind it 
+334	0 <==> 7 8 9	NOALI	NIL	-not aligned-	on a street 
+334	12 <==> 0	NOALI	NIL	.	-not aligned- 
+334	1 2 3 <==> 1 2 3 4 5 6	SPE2	4	Double decker bus	a brown double decker tour bus 
+334	0 <==> 16	NOALI	NIL	-not aligned-	. 
+335	13 <==> 0	NOALI	NIL	.	-not aligned- 
+335	4 <==> 5	EQUI	5	parked	parked 
+335	0 <==> 13	NOALI	NIL	-not aligned-	. 
+335	5 6 7 <==> 6 7 8	SIMI	4	at an airfield	in an airport 
+335	8 9 10 11 12 <==> 9 10 11 12	EQUI	5	with a cloudy sky overhead	on a cloudy day 
+335	1 2 3 <==> 1 2 3 4	SPE2	4	A small plane	A small white plane 
+336	5 6 7 <==> 3 4 5	EQUI	5	on the floor	on the floor 
+336	8 <==> 0	NOALI	NIL	.	-not aligned- 
+336	0 <==> 6	NOALI	NIL	-not aligned-	. 
+336	1 2 3 <==> 1 2	SPE1	4	A Macintosh computer	a computer 
+336	4 <==> 0	NOALI	NIL	sitting	-not aligned- 
+337	10 <==> 0	NOALI	NIL	.	-not aligned- 
+337	0 <==> 12	NOALI	NIL	-not aligned-	. 
+337	0 <==> 7 8	NOALI	NIL	-not aligned-	with purse 
+337	1 2 3 4 5 <==> 1 2 3 4	EQUI	5	A black and white photo	Black and white photo 
+337	0 <==> 9 10 11	NOALI	NIL	-not aligned-	at one end 
+337	6 7 8 9 <==> 5 6	SPE1	4	of a love seat	of couch 
+338	4 <==> 6	EQUI	5	walking	walking 
+338	2 3 <==> 3 4 5	SPE2	4	of people	of four people 
+338	1 <==> 1 2	EQUI	5	Crowd	A group 
+338	0 <==> 11	NOALI	NIL	-not aligned-	. 
+338	9 <==> 0	NOALI	NIL	.	-not aligned- 
+338	5 6 7 8 <==> 7 8 9 10	EQUI	5	past a giant mushroom	past a giant mushroom 
+339	12 <==> 0	NOALI	NIL	.	-not aligned- 
+339	3 <==> 3	SIMI	2	sitting	stands 
+339	0 <==> 17	NOALI	NIL	-not aligned-	. 
+339	10 11 <==> 0	NOALI	NIL	stands by	-not aligned- 
+339	4 5 6 <==> 9 10 11	EQUI	5	on a motorcycle	on a motorcycle 
+339	0 <==> 12 13 14 15 16	NOALI	NIL	-not aligned-	in an empty parking lot 
+339	1 2 <==> 1 2	SPE2	4	A person	A man 
+339	7 8 9 <==> 4 5 6 7 8	SPE2	4	while a man	next to a helmeted man 
+340	9 <==> 0	NOALI	NIL	.	-not aligned- 
+340	0 <==> 16 17 18	ALIC	NIL	-not aligned-	in the background 
+340	0 <==> 19	NOALI	NIL	-not aligned-	. 
+340	1 2 <==> 1 2	EQUI	5	A sheep	A sheep 
+340	0 <==> 4 5 6	ALIC	NIL	-not aligned-	on the edge 
+340	0 <==> 3	NOALI	NIL	-not aligned-	is 
+340	3 4 5 6 7 8 <==> 7 8 9	SPE2	4	beside a road and a lake	of a road 
+340	0 <==> 10 11 12 13 14 15	ALIC	NIL	-not aligned-	with a lake and a mountain 
+341	9 <==> 0	NOALI	NIL	.	-not aligned- 
+341	0 <==> 6 7 8	NOALI	NIL	-not aligned-	at a table 
+341	8 <==> 9	EQUI	5	outside	outside 
+341	3 4 <==> 3 4	EQUI	5	of people	of people 
+341	1 2 <==> 1 2	EQUI	5	A group	A group 
+341	6 7 <==> 0	ALIC	NIL	a meal	-not aligned- 
+341	0 <==> 10	NOALI	NIL	-not aligned-	. 
+341	5 <==> 5	EQUI	5	having	eat 
+342	1 2 3 <==> 1 2	EQUI	5	A close-up view	A close-up 
+342	4 5 6 <==> 3 4 5 6	SPE2	4	of a horse	of a brown horse 
+342	7 8 <==> 7 8	EQUI	5	's head	's head 
+342	9 <==> 0	NOALI	NIL	.	-not aligned- 
+342	0 <==> 9	NOALI	NIL	-not aligned-	. 
+343	0 <==> 6	NOALI	NIL	-not aligned-	. 
+343	3 <==> 0	NOALI	NIL	is	-not aligned- 
+343	4 5 6 7 <==> 3 4 5	EQUI	5	at a train station	in a station 
+343	8 <==> 0	NOALI	NIL	.	-not aligned- 
+343	1 2 <==> 1 2	EQUI	5	A train	a train 
+344	3 4 <==> 3 4 5	SPE2	4	of people	of six people 
+344	6 7 8 <==> 7 8 9	EQUI	5	at a table	at a table 
+344	9 10 11 12 <==> 10 11	REL	2	in an Italian restaurant	with salad 
+344	5 <==> 6	EQUI	5	sit	sitting 
+344	0 <==> 12	ALIC	NIL	-not aligned-	served 
+344	1 2 <==> 1 2	EQUI	5	A group	A group 
+344	13 <==> 0	NOALI	NIL	.	-not aligned- 
+344	0 <==> 13	NOALI	NIL	-not aligned-	. 
+345	0 <==> 3	NOALI	NIL	-not aligned-	sitting 
+345	0 <==> 4 5 6	NOALI	NIL	-not aligned-	on a sofa 
+345	6 <==> 0	NOALI	NIL	.	-not aligned- 
+345	3 <==> 7	EQUI	5	holding	holding 
+345	4 5 <==> 8 9	SPE1	4	newborn baby	a baby 
+345	1 2 <==> 1 2	SPE1	4	Older woman	a woman 
+345	0 <==> 10	NOALI	NIL	-not aligned-	. 
+346	11 <==> 11	EQUI	5	down	down 
+346	7 8 9 10 <==> 7 8 9 10	SIMI	4	with its landing gear	with its landing gears 
+346	12 <==> 0	NOALI	NIL	.	-not aligned- 
+346	0 <==> 12	NOALI	NIL	-not aligned-	. 
+346	1 2 3 4 5 <==> 1 2 3 4 5	SIMI	4	A blue and orange airplane	A red and blue plane 
+346	6 <==> 6	EQUI	5	flying	flying 
+347	4 5 <==> 0	NOALI	NIL	flying up	-not aligned- 
+347	1 2 3 <==> 1 2 3	SIMI	1	A white bird	A white cat 
+347	0 <==> 4	NOALI	NIL	-not aligned-	laying 
+347	9 <==> 0	NOALI	NIL	.	-not aligned- 
+347	0 <==> 8	NOALI	NIL	-not aligned-	. 
+347	6 7 8 <==> 0	NOALI	NIL	onto a tree	-not aligned- 
+347	0 <==> 5 6 7	NOALI	NIL	-not aligned-	on a sheet 
+348	1 2 3 4 5 <==> 1 2 3 4 5	EQUI	5	A black and white photo	A black and white photo 
+348	0 <==> 9	NOALI	NIL	-not aligned-	. 
+348	6 7 8 9 <==> 0	NOALI	NIL	of a love seat	-not aligned- 
+348	0 <==> 6 7 8	NOALI	NIL	-not aligned-	of a bicycle 
+348	10 <==> 0	NOALI	NIL	.	-not aligned- 
+349	8 <==> 0	NOALI	NIL	.	-not aligned- 
+349	1 2 3 4 5 6 7 <==> 1 2 3 4 5	SIMI	4	A laptop computer and a computer monitor	A laptop and a PC 
+349	0 <==> 9	NOALI	NIL	-not aligned-	. 
+349	0 <==> 6 7 8	NOALI	NIL	-not aligned-	at a workstation 
+350	9 <==> 0	NOALI	NIL	.	-not aligned- 
+350	1 2 3 <==> 0	NOALI	NIL	An orange kitten	-not aligned- 
+350	0 <==> 1 2	NOALI	NIL	-not aligned-	Young couple 
+350	0 <==> 8	NOALI	NIL	-not aligned-	. 
+350	5 6 7 8 <==> 4 5 6 7	SIMI	4	on a leather couch	on a black couch 
+350	4 <==> 3	SIMI	2	lay	sitting 
+351	5 <==> 4	SIMI	2	sitting	sits 
+351	0 <==> 5 6 7 8	NOALI	NIL	-not aligned-	on a stone ledge 
+351	0 <==> 14	NOALI	NIL	-not aligned-	. 
+351	6 7 8 9 <==> 0	NOALI	NIL	on a tropical beach	-not aligned- 
+351	0 <==> 1 2 3	NOALI	NIL	-not aligned-	A small girl 
+351	0 <==> 9 10 11 12 13	NOALI	NIL	-not aligned-	near a white flowering plant 
+351	10 <==> 0	NOALI	NIL	.	-not aligned- 
+351	1 2 3 4 <==> 0	NOALI	NIL	A small yellow boat	-not aligned- 
+352	1 2 3 <==> 1 2 3	SIMI	1	Long-haired black dog	A blue jay 
+352	8 <==> 0	NOALI	NIL	.	-not aligned- 
+352	0 <==> 9	NOALI	NIL	-not aligned-	. 
+352	4 <==> 4	EQUI	5	standing	standing 
+352	5 6 7 <==> 5 6 7 8	EQUI	5	in grassy field	in a grassy field 
+353	0 <==> 9	NOALI	NIL	-not aligned-	. 
+353	8 <==> 0	NOALI	NIL	.	-not aligned- 
+353	0 <==> 4 5	NOALI	NIL	-not aligned-	a fish 
+353	0 <==> 6 7 8	NOALI	NIL	-not aligned-	in a swamp 
+353	1 2 <==> 1 2	SIMI	3	Two women	Two men 
+353	0 <==> 3	NOALI	NIL	-not aligned-	catching 
+353	3 4 <==> 0	NOALI	NIL	are sitting	-not aligned- 
+353	5 6 7 <==> 0	NOALI	NIL	in a cafe	-not aligned- 
+354	0 <==> 7	NOALI	NIL	-not aligned-	. 
+354	8 <==> 0	NOALI	NIL	.	-not aligned- 
+354	1 2 3 <==> 0	NOALI	NIL	A small child	-not aligned- 
+354	0 <==> 1 2	NOALI	NIL	-not aligned-	A cat 
+354	4 <==> 3	SPE1	3	smiling	looking 
+354	5 6 7 <==> 4 5 6	EQUI	5	at the camera	at the camera 
+355	0 <==> 8	NOALI	NIL	-not aligned-	. 
+355	3 <==> 3	EQUI	5	sitting	sitting 
+355	7 <==> 0	NOALI	NIL	.	-not aligned- 
+355	4 5 6 <==> 4 5 6 7	SIMI	2	on a rock	on a long branch 
+355	1 2 <==> 1 2	SPE2	3	Two animals	Two eagles 
+356	8 <==> 0	NOALI	NIL	.	-not aligned- 
+356	1 2 <==> 1 2	SIMI	3	Left side	A close-up 
+356	0 <==> 8	NOALI	NIL	-not aligned-	. 
+356	3 4 5 6 7 <==> 3 4 5 6 7	SIMI	4	of a silver train engine	of a black train engine 
+357	0 <==> 6 7 8 9 10	NOALI	NIL	-not aligned-	in front of a door 
+357	0 <==> 1 2	NOALI	NIL	-not aligned-	Calico cat 
+357	11 <==> 0	NOALI	NIL	.	-not aligned- 
+357	0 <==> 3	NOALI	NIL	-not aligned-	sitting 
+357	0 <==> 11	NOALI	NIL	-not aligned-	. 
+357	4 <==> 0	NOALI	NIL	is	-not aligned- 
+357	5 6 7 8 9 10 <==> 0	NOALI	NIL	in front of a docking area	-not aligned- 
+357	1 2 3 <==> 0	NOALI	NIL	A cruise ship	-not aligned- 
+357	0 <==> 4 5	NOALI	NIL	-not aligned-	on step 
+358	6 <==> 8	EQUI	5	standing	standing 
+358	0 <==> 2	NOALI	NIL	-not aligned-	is 
+358	14 <==> 0	NOALI	NIL	.	-not aligned- 
+358	11 12 13 <==> 0	NOALI	NIL	at the camera	-not aligned- 
+358	7 8 <==> 9 10 11	SIMI	3	in hay	on the grass 
+358	1 2 3 4 5 <==> 3 4 5 6 7	SIMI	3	A black and white cow	a black and white sheep 
+358	0 <==> 1	NOALI	NIL	-not aligned-	There 
+358	0 <==> 12	NOALI	NIL	-not aligned-	. 
+358	9 10 <==> 0	NOALI	NIL	looks back	-not aligned- 
+359	1 2 <==> 1 2 3 4	SPE2	4	The cat	Grey and white cat 
+359	0 <==> 5	NOALI	NIL	-not aligned-	sitting 
+359	0 <==> 9	NOALI	NIL	-not aligned-	. 
+359	9 <==> 0	NOALI	NIL	.	-not aligned- 
+359	5 6 7 8 <==> 0	NOALI	NIL	a corn husk broom	-not aligned- 
+359	0 <==> 6 7 8	NOALI	NIL	-not aligned-	in bathroom sink 
+359	3 4 <==> 0	NOALI	NIL	is attacking	-not aligned- 
+360	6 <==> 9	EQUI	5	looking	looking 
+360	7 8 9 <==> 10 11 12	EQUI	5	at the camera	at the camera 
+360	10 <==> 0	NOALI	NIL	.	-not aligned- 
+360	0 <==> 13	NOALI	NIL	-not aligned-	. 
+360	1 2 3 4 5 <==> 1 2 3 4 5 6 7 8	SIMI	3	A black and white dog	A gray , black , and white cat 
+361	12 13 14 <==> 0	NOALI	NIL	in the background	-not aligned- 
+361	1 2 <==> 1 2	EQUI	5	A women	A woman 
+361	7 <==> 6	EQUI	5	drinking	drinks 
+361	4 5 6 <==> 10 11 12	EQUI	5	at a table	at a table 
+361	0 <==> 7	NOALI	NIL	-not aligned-	something 
+361	15 <==> 0	NOALI	NIL	.	-not aligned- 
+361	0 <==> 3 4 5	NOALI	NIL	-not aligned-	in a sari 
+361	3 <==> 8 9	EQUI	5	sitting	while sitting 
+361	0 <==> 13	NOALI	NIL	-not aligned-	. 
+361	8 9 10 11 <==> 0	NOALI	NIL	with a basketball picture	-not aligned- 
+362	0 <==> 10	NOALI	NIL	-not aligned-	. 
+362	7 8 9 <==> 0	NOALI	NIL	through the fence	-not aligned- 
+362	1 2 3 4 5 <==> 1 2 3 4 5	SIMI	2	A black and white cow	A black and white dog 
+362	10 <==> 0	NOALI	NIL	.	-not aligned- 
+362	6 <==> 6	EQUI	5	looking	looking 
+362	0 <==> 7 8 9	NOALI	NIL	-not aligned-	at the camera 
+363	0 <==> 8	NOALI	NIL	-not aligned-	. 
+363	8 <==> 0	NOALI	NIL	.	-not aligned- 
+363	3 <==> 3 4	SPE2	3	standing	is grazing 
+363	1 2 <==> 1 2	SIMI	4	Two cows	The cow 
+363	4 5 6 7 <==> 5 6 7	SPE1	4	in a large field	in a field 
+364	6 <==> 0	NOALI	NIL	.	-not aligned- 
+364	0 <==> 4 5	NOALI	NIL	-not aligned-	newborn baby 
+364	4 5 <==> 0	NOALI	NIL	on couch	-not aligned- 
+364	1 2 <==> 1 2	SIMI	3	Depressed woman	Older woman 
+364	3 <==> 0	NOALI	NIL	sitting	-not aligned- 
+364	0 <==> 3	NOALI	NIL	-not aligned-	holding 
+364	0 <==> 6	NOALI	NIL	-not aligned-	. 
+365	9 <==> 0	NOALI	NIL	.	-not aligned- 
+365	1 2 3 4 <==> 1 2 3 4 5	SPE2	4	Black and white cows	Two black and white cows 
+365	0 <==> 8 9 10	NOALI	NIL	-not aligned-	of a pond 
+365	6 7 8 <==> 0	NOALI	NIL	in a pen	-not aligned- 
+365	0 <==> 11	NOALI	NIL	-not aligned-	. 
+365	5 <==> 6	SIMI	3	grazing	drinking 
+365	0 <==> 7	NOALI	2	-not aligned-	out 
+366	3 <==> 0	NOALI	NIL	riding	-not aligned- 
+366	0 <==> 5 6 7	NOALI	NIL	-not aligned-	in a pen 
+366	0 <==> 8	NOALI	NIL	-not aligned-	. 
+366	4 5 6 <==> 1 2 3	REL	3	a white horse	A domestic animal 
+366	1 2 <==> 0	NOALI	NIL	A man	-not aligned- 
+366	7 8 9 <==> 0	NOALI	NIL	in an arena	-not aligned- 
+366	10 <==> 0	NOALI	NIL	.	-not aligned- 
+366	0 <==> 4	NOALI	NIL	-not aligned-	stands 
+367	14 <==> 0	NOALI	NIL	.	-not aligned- 
+367	0 <==> 8 9 10 11 12	NOALI	NIL	-not aligned-	next to a green dumpster 
+367	0 <==> 13	NOALI	NIL	-not aligned-	. 
+367	1 2 3 4 5 <==> 1 2	SIMI	3	A black and white cat	A dog 
+367	12 13 <==> 0	NOALI	NIL	looking up	-not aligned- 
+367	6 7 <==> 3	EQUI	5	is sitting	sitting 
+367	8 9 10 11 <==> 4 5 6 7	SIMI	4	on a brown chair	on a yellow chair 
+368	6 7 <==> 10	EQUI	5	are smiling	smiling 
+368	0 <==> 11	NOALI	NIL	-not aligned-	. 
+368	0 <==> 3 4 5	NOALI	NIL	-not aligned-	in Indian dresses 
+368	0 <==> 6 7 8 9	NOALI	NIL	-not aligned-	in a crowded room 
+368	1 2 <==> 1 2	EQUI	5	Three women	Three women 
+368	8 <==> 0	NOALI	NIL	.	-not aligned- 
+368	3 4 5 <==> 0	NOALI	NIL	with brown hair	-not aligned- 
+369	1 2 <==> 0	NOALI	NIL	Two dogs	-not aligned- 
+369	0 <==> 3 4 5	NOALI	NIL	-not aligned-	on a guy 
+369	3 4 5 6 <==> 0	NOALI	NIL	in a fenced kennel	-not aligned- 
+369	0 <==> 12	NOALI	NIL	-not aligned-	. 
+369	0 <==> 7 8 9	NOALI	NIL	-not aligned-	on the bow 
+369	7 8 <==> 0	NOALI	NIL	look ahead	-not aligned- 
+369	0 <==> 1 2	NOALI	NIL	-not aligned-	Two girls 
+369	9 <==> 0	NOALI	NIL	.	-not aligned- 
+369	0 <==> 10 11	NOALI	NIL	-not aligned-	a boat 
+369	0 <==> 6	NOALI	NIL	-not aligned-	posing 
+370	0 <==> 6	NOALI	NIL	-not aligned-	laying 
+370	10 <==> 0	NOALI	NIL	.	-not aligned- 
+370	8 9 <==> 0	NOALI	NIL	the fence	-not aligned- 
+370	6 7 <==> 0	NOALI	NIL	looking through	-not aligned- 
+370	0 <==> 10 11 12	NOALI	NIL	-not aligned-	in the sun 
+370	0 <==> 7 8 9	NOALI	NIL	-not aligned-	on the ground 
+370	1 2 3 4 5 <==> 1 2 3 4 5	SIMI	2	A black and white cow	A black and white cat 
+370	0 <==> 13	NOALI	NIL	-not aligned-	. 
+371	0 <==> 6 7 8	NOALI	NIL	-not aligned-	with its ear 
+371	1 2 <==> 1 2	EQUI	5	A close-up	A close-up 
+371	3 4 5 <==> 3 4 5	SIMI	4	of a sheep	of a lamb 
+371	0 <==> 14	NOALI	NIL	-not aligned-	. 
+371	0 <==> 10	NOALI	NIL	-not aligned-	, 
+371	0 <==> 9	NOALI	NIL	-not aligned-	tagged 
+371	9 <==> 0	NOALI	NIL	.	-not aligned- 
+371	6 7 8 <==> 12 13	EQUI	5	in the grass	on grass 
+371	0 <==> 11	NOALI	NIL	-not aligned-	standing 
+372	7 <==> 0	NOALI	NIL	.	-not aligned- 
+372	3 <==> 3	EQUI	5	grazing	graze 
+372	0 <==> 7	NOALI	NIL	-not aligned-	. 
+372	1 2 <==> 1 2	SIMI	4	Three cows	Two cows 
+372	4 5 6 <==> 4 5 6	EQUI	5	in a field	in a field 
+373	1 2 <==> 1 2	SIMI	3	A man	A women 
+373	0 <==> 4 5 6	NOALI	NIL	-not aligned-	a small baby 
+373	3 <==> 7 8	EQUI	5	sitting	while sitting 
+373	11 12 13 <==> 0	NOALI	NIL	on a leash	-not aligned- 
+373	0 <==> 3	NOALI	NIL	-not aligned-	holds 
+373	8 9 10 <==> 0	NOALI	NIL	at a dog	-not aligned- 
+373	7 <==> 0	NOALI	NIL	looking	-not aligned- 
+373	17 <==> 0	NOALI	NIL	.	-not aligned- 
+373	14 <==> 0	NOALI	NIL	sitting	-not aligned- 
+373	4 5 6 <==> 9 10 11	SIMI	3	on a bench	on a sofa 
+373	15 16 <==> 0	NOALI	NIL	on sidewalk	-not aligned- 
+373	0 <==> 12	NOALI	NIL	-not aligned-	. 
+374	0 <==> 8	NOALI	NIL	-not aligned-	. 
+374	9 <==> 0	NOALI	NIL	.	-not aligned- 
+374	6 7 8 <==> 5 6 7	SIMI	2	on the ground	on the branch 
+374	4 5 <==> 3 4	EQUI	5	is sitting	is sitting 
+374	1 2 3 <==> 1 2	SPE1	4	The black bird	The bird 
+375	0 <==> 7	NOALI	NIL	-not aligned-	perched 
+375	11 <==> 0	NOALI	NIL	hanging	-not aligned- 
+375	5 6 <==> 0	NOALI	NIL	is eating	-not aligned- 
+375	0 <==> 11	NOALI	NIL	-not aligned-	. 
+375	7 8 9 10 <==> 0	NOALI	NIL	from a bird feeder	-not aligned- 
+375	12 13 14 <==> 8 9 10	EQUI	5	from a tree	in a tree 
+375	15 <==> 0	NOALI	NIL	.	-not aligned- 
+375	1 2 3 4 <==> 1 2 3 4 5 6	SIMI	3	A small brown birds	A small red and gray bird 

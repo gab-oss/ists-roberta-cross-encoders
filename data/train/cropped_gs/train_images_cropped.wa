@@ -1,0 +1,4303 @@
+<sentence id="1" status="">
+<alignment>
+7 <==> 0 // NOALI // 0 // . <==> -not aligned- 
+0 <==> 7 8 // NOALI // NIL // -not aligned- <==> high up 
+3 <==> 6 // EQUI // 5 // standing <==> is 
+4 5 6 <==> 9 10 11 // EQUI // 5 // on tree branches <==> on tree branches 
+0 <==> 12 // NOALI // 0 // -not aligned- <==> . 
+1 2 <==> 1 2 3 4 5 // SPE2 // 4 // A cat <==> A black and white cat 
+</alignment>
+</sentence>
+
+<sentence id="2" status="">
+<alignment>
+10 <==> 0 // NOALI // 0 // . <==> -not aligned- 
+1 2 3 <==> 1 2 3 // EQUI // 5 // A large boat <==> A large boat 
+0 <==> 7 // NOALI // 0 // -not aligned- <==> . 
+4 5 6 <==> 4 5 6 // SPE2 // 4 // in the water <==> on the sea 
+7 8 9 <==> 0 // NOALI // NIL // at the marina <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="3" status="">
+<alignment>
+1 2 3 <==> 1 2 3 // EQUI // 5 // A passenger train <==> A passenger train 
+0 <==> 8 // NOALI // 0 // -not aligned- <==> . 
+8 <==> 0 // NOALI // 0 // . <==> -not aligned- 
+4 <==> 4 // SIMI // 4 // waiting <==> sits 
+5 6 7 <==> 5 6 7 // EQUI // 5 // in a station <==> in the station 
+</alignment>
+</sentence>
+
+<sentence id="4" status="">
+<alignment>
+0 <==> 8 // NOALI // 0 // -not aligned- <==> . 
+5 6 7 <==> 5 6 7 // EQUI // 5 // on the floor <==> on the floor 
+8 <==> 0 // NOALI // 0 // . <==> -not aligned- 
+4 <==> 4 // EQUI // 5 // sitting <==> sitting 
+1 2 3 <==> 1 2 3 // EQUI // 5 // An Apple computer <==> A Macintosh computer 
+</alignment>
+</sentence>
+
+<sentence id="5" status="">
+<alignment>
+0 <==> 9 // NOALI // 0 // -not aligned- <==> . 
+1 2 <==> 1 2 // EQUI // 5 // A jockey <==> A jockey 
+6 <==> 0 // NOALI // 0 // . <==> -not aligned- 
+4 5 <==> 4 5 // EQUI // 5 // a horse <==> a horse 
+0 <==> 6 7 8 // NOALI // NIL // -not aligned- <==> in a pen 
+3 <==> 3 // EQUI // 5 // riding <==> riding 
+</alignment>
+</sentence>
+
+<sentence id="6" status="">
+<alignment>
+7 <==> 0 // NOALI // 0 // . <==> -not aligned- 
+1 2 <==> 1 2 3 // SIMI // 4 // A woman <==> A young girl 
+4 5 6 <==> 5 6 7 // EQUI // 5 // a brown horse <==> a brown horse 
+0 <==> 8 // NOALI // 0 // -not aligned- <==> . 
+3 <==> 4 // EQUI // 5 // riding <==> riding 
+</alignment>
+</sentence>
+
+<sentence id="7" status="">
+<alignment>
+0 <==> 10 // NOALI // 0 // -not aligned- <==> . 
+7 8 9 <==> 0 // ALIC // NIL // in his lap <==> -not aligned- 
+0 <==> 4 5 6 // NOALI // NIL // -not aligned- <==> in a chair 
+3 <==> 3 // EQUI // 5 // sleeps <==> asleep 
+1 2 <==> 1 2 // EQUI // 5 // A man <==> A man 
+10 <==> 0 // NOALI // 0 // . <==> -not aligned- 
+4 5 6 <==> 7 8 9 // SPE2 // 4 // with a baby <==> holding a baby 
+</alignment>
+</sentence>
+
+<sentence id="8" status="">
+<alignment>
+5 6 7 8 9 <==> 5 6 7 // SIMI // 2 // in front of yellow flowers <==> in a field 
+0 <==> 8 // NOALI // 0 // -not aligned- <==> . 
+4 <==> 4 // EQUI // 5 // standing <==> standing 
+10 <==> 0 // NOALI // 0 // . <==> -not aligned- 
+1 2 3 <==> 1 2 3 // EQUI // 5 // A black dog <==> A black dog 
+</alignment>
+</sentence>
+
+<sentence id="9" status="">
+<alignment>
+3 4 <==> 4 5 6 // EQUI // 5 // in afield <==> in a field 
+2 <==> 3 // SPE2 // 3 // standing <==> grazing 
+1 <==> 1 2 // EQUI // 5 // sheep <==> A sheep 
+5 <==> 0 // NOALI // 0 // . <==> -not aligned- 
+0 <==> 7 // NOALI // 0 // -not aligned- <==> . 
+</alignment>
+</sentence>
+
+<sentence id="10" status="">
+<alignment>
+9 <==> 0 // NOALI // 0 // . <==> -not aligned- 
+5 <==> 4 // EQUI // 5 // standing <==> stands 
+0 <==> 10 // NOALI // 0 // -not aligned- <==> . 
+1 2 3 4 <==> 1 2 3 // SPE1 // 4 // A dark brown horse <==> A brown horse 
+6 7 8 <==> 5 6 7 8 9 // SPE2 // 3 // in a field <==> in a lush green field 
+</alignment>
+</sentence>
+
+<sentence id="11" status="">
+<alignment>
+13 <==> 0 // NOALI // 0 // . <==> -not aligned- 
+9 10 <==> 9 10 11 12 // SPE2 // 4 // with food <==> with food and beer 
+3 4 <==> 3 4 // EQUI // 5 // of people <==> of people 
+6 7 8 <==> 6 7 8 // EQUI // 5 // around a table <==> around a table 
+0 <==> 13 // NOALI // 0 // -not aligned- <==> . 
+11 12 <==> 0 // NOALI // NIL // on it <==> -not aligned- 
+1 2 <==> 1 2 // EQUI // 5 // A group <==> A group 
+5 <==> 5 // EQUI // 5 // sitting <==> sit 
+</alignment>
+</sentence>
+
+<sentence id="12" status="">
+<alignment>
+4 <==> 0 // NOALI // 0 // stands <==> -not aligned- 
+1 2 3 <==> 1 2 3 // EQUI // 5 // A brown horse <==> A brown horse 
+0 <==> 8 // NOALI // 0 // -not aligned- <==> . 
+5 6 7 8 9 <==> 4 5 6 7 // SPE1 // 4 // in a lush green field <==> in a green field 
+10 <==> 0 // NOALI // 0 // . <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="13" status="">
+<alignment>
+8 9 10 <==> 9 10 11 // EQUI // 5 // with two cats <==> with two cats 
+11 12 13 <==> 12 13 14 // EQUI // 5 // at her feet <==> at her feet 
+0 <==> 15 // NOALI // 0 // -not aligned- <==> . 
+5 6 7 <==> 6 7 8 // EQUI // 5 // in a kitchen <==> in the kitchen 
+4 <==> 4 5 // EQUI // 5 // stands <==> is standing 
+1 2 3 <==> 1 2 3 // EQUI // 5 // An elderly woman <==> The old lady 
+14 <==> 0 // NOALI // 0 // . <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="14" status="">
+<alignment>
+1 2 3 4 <==> 1 2 3 4 // SPE1 // 4 // Red double decker bus <==> Double decker passenger bus 
+0 <==> 8 // NOALI // 0 // -not aligned- <==> . 
+6 7 8 <==> 6 7 // REL // 3 // through the streets <==> with traffic 
+9 <==> 0 // NOALI // 0 // . <==> -not aligned- 
+5 <==> 5 // EQUI // 5 // driving <==> driving 
+</alignment>
+</sentence>
+
+<sentence id="15" status="">
+<alignment>
+0 <==> 11 // NOALI // 0 // -not aligned- <==> . 
+4 5 6 7 <==> 7 8 9 10 // EQUI // 5 // in a cluttered room <==> in a cluttered room 
+3 <==> 3 // SIMI // 4 // sitting <==> lies 
+0 <==> 4 5 6 // NOALI // NIL // -not aligned- <==> in a bed 
+1 2 <==> 1 2 // EQUI // 5 // A man <==> A man 
+8 <==> 0 // NOALI // 0 // . <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="16" status="">
+<alignment>
+3 <==> 2 // EQUI // 5 // walking <==> walking 
+4 5 <==> 3 4 5 // SIMI // 4 // under trees <==> under the tree 
+8 <==> 0 // NOALI // 0 // . <==> -not aligned- 
+1 2 <==> 1 // SPE1 // 4 // Black cow <==> Cow 
+6 7 <==> 6 7 8 // EQUI // 5 // in pasture <==> in a pasture 
+0 <==> 9 // NOALI // 0 // -not aligned- <==> . 
+</alignment>
+</sentence>
+
+<sentence id="17" status="">
+<alignment>
+1 2 3 <==> 1 2 // SIMI // 3 // A smiling woman <==> Two women 
+0 <==> 6 // NOALI // 0 // -not aligned- <==> . 
+9 10 11 12 <==> 5 // REL // 2 // with another smiling woman <==> laughing 
+13 <==> 0 // NOALI // 0 // . <==> -not aligned- 
+4 5 6 <==> 0 // NOALI // NIL // with a beer <==> -not aligned- 
+7 <==> 3 // EQUI // 5 // sitting <==> sitting 
+8 <==> 4 // EQUI // 5 // outside <==> outside 
+</alignment>
+</sentence>
+
+<sentence id="18" status="">
+<alignment>
+0 <==> 11 // NOALI // 0 // -not aligned- <==> . 
+3 4 5 6 <==> 4 5 6 7 8 9 10 // SPE2 // 3 // with a big necklace <==> with a black top and a necklace 
+7 <==> 0 // NOALI // 0 // . <==> -not aligned- 
+1 2 <==> 1 2 3 // SPE2 // 4 // a woman <==> A young woman 
+</alignment>
+</sentence>
+
+<sentence id="19" status="">
+<alignment>
+12 <==> 0 // NOALI // 0 // . <==> -not aligned- 
+0 <==> 14 // NOALI // 0 // -not aligned- <==> . 
+6 7 <==> 7 8 9 10 // EQUI // 5 // in grass <==> in a grassy area 
+8 9 <==> 0 // NOALI // NIL // at side <==> -not aligned- 
+5 <==> 6 // EQUI // 5 // standing <==> standing 
+10 11 <==> 0 // NOALI // NIL // of road <==> -not aligned- 
+0 <==> 11 12 13 // NOALI // NIL // -not aligned- <==> with trees behind 
+1 2 3 4 <==> 1 2 3 4 5 // EQUI // 5 // Brown and white cow <==> A brown and white cow 
+</alignment>
+</sentence>
+
+<sentence id="20" status="">
+<alignment>
+4 5 <==> 4 5 // EQUI // 5 // a horse <==> a horse 
+3 <==> 3 // EQUI // 5 // riding <==> rides 
+9 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 6 7 8 // NOALI // NIL // -not aligned- <==> at a gallop 
+1 2 <==> 1 2 // EQUI // 5 // A jockey <==> A jockey 
+0 <==> 9 // NOALI // 0 // -not aligned- <==> . 
+6 7 8 <==> 0 // NOALI // NIL // in a pen <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="21" status="">
+<alignment>
+9 10 11 12 <==> 0 // NOALI // NIL // near a white structure <==> -not aligned- 
+6 <==> 7 // EQUI // 5 // rides <==> rides 
+1 2 <==> 1 2 // EQUI // 5 // A person <==> A person 
+7 8 <==> 8 9 // EQUI // 5 // a bike <==> a bike 
+0 <==> 15 // NOALI // 0 // -not aligned- <==> . 
+4 5 <==> 4 5 6 // EQUI // 5 // a helmet <==> a bike helmet 
+3 <==> 3 // EQUI // 5 // wearing <==> wearing 
+0 <==> 10 11 12 // NOALI // NIL // -not aligned- <==> on a path 
+0 <==> 13 14 // NOALI // NIL // -not aligned- <==> through trees 
+13 <==> 0 // NOALI // 0 // . <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="22" status="">
+<alignment>
+0 <==> 9 // NOALI // 0 // -not aligned- <==> . 
+8 <==> 0 // NOALI // 0 // . <==> -not aligned- 
+2 3 <==> 3 4 // EQUI // 5 // of horses <==> of horses 
+4 <==> 5 // EQUI // 5 // grazing <==> grazing 
+1 <==> 1 2 // EQUI // 5 // Group <==> A group 
+5 6 7 <==> 6 7 8 // SPE1 // 4 // in grassy field <==> in a field 
+</alignment>
+</sentence>
+
+<sentence id="23" status="">
+<alignment>
+6 7 <==> 5 6 7 // EQUI // 5 // a helmet <==> a bike helmet 
+8 <==> 0 // NOALI // 0 // sits <==> -not aligned- 
+0 <==> 14 // NOALI // 0 // -not aligned- <==> . 
+1 2 3 4 <==> 1 2 3 // SPE1 // 4 // A young blonde girl <==> A young girl 
+15 <==> 0 // NOALI // 0 // . <==> -not aligned- 
+13 14 <==> 11 12 13 // EQUI // 5 // behind her <==> in the background 
+9 10 11 12 <==> 8 9 10 // SPE1 // 4 // with a red bicycle <==> with a bicycle 
+5 <==> 4 // EQUI // 5 // wearing <==> wearing 
+</alignment>
+</sentence>
+
+<sentence id="24" status="">
+<alignment>
+1 2 3 <==> 1 2 // SIMI // 3 // A striped cat <==> Domestic cat 
+0 <==> 9 // NOALI // 0 // -not aligned- <==> . 
+4 5 <==> 3 // EQUI // 5 // laying down <==> laying 
+0 <==> 4 5 // NOALI // NIL // -not aligned- <==> on back 
+6 7 8 <==> 0 // NOALI // NIL // on a bag <==> -not aligned- 
+12 <==> 0 // NOALI // 0 // . <==> -not aligned- 
+9 10 11 <==> 6 7 8 // EQUI // 5 // of cat litter <==> of cat litter 
+</alignment>
+</sentence>
+
+<sentence id="25" status="">
+<alignment>
+1 2 <==> 1 2 // SIMI // 3 // Five birds <==> Several cardinals 
+0 <==> 7 // NOALI // 0 // -not aligned- <==> . 
+4 5 6 <==> 4 5 6 // EQUI // 5 // on the snow <==> in the snow 
+7 <==> 0 // NOALI // 0 // . <==> -not aligned- 
+3 <==> 3 // EQUI // 5 // stand <==> stand 
+</alignment>
+</sentence>
+
+<sentence id="26" status="">
+<alignment>
+11 <==> 0 // NOALI // 0 // . <==> -not aligned- 
+3 <==> 3 4 // SPE1 // 4 // posing <==> is standing 
+4 5 6 <==> 5 6 7 // EQUI // 5 // by a pillar <==> by a pillar 
+0 <==> 14 // NOALI // 0 // -not aligned- <==> . 
+1 2 <==> 1 2 // EQUI // 5 // A woman <==> a woman 
+7 8 9 10 <==> 8 9 10 11 12 13 // EQUI // 5 // with a U2 sign <==> where `` u2 '' is written 
+</alignment>
+</sentence>
+
+<sentence id="27" status="">
+<alignment>
+1 2 3 <==> 1 2 3 // SPE2 // 4 // A red moped <==> The red scooter 
+4 <==> 4 5 // SIMI // 4 // parked <==> is sitting 
+5 6 7 <==> 6 7 8 // SPE1 // 4 // on a sidewalk <==> on the street 
+8 9 10 11 <==> 9 10 11 12 13 // REL // 3 // in front of graffiti <==> in front of the building 
+12 <==> 0 // NOALI // 0 // . <==> -not aligned- 
+0 <==> 14 // NOALI // 0 // -not aligned- <==> . 
+</alignment>
+</sentence>
+
+<sentence id="28" status="">
+<alignment>
+9 <==> 0 // NOALI // 0 // . <==> -not aligned- 
+0 <==> 10 // NOALI // 0 // -not aligned- <==> . 
+7 8 <==> 7 8 9 // EQUI // 5 // on couch <==> on a couch 
+1 2 3 4 5 <==> 1 2 3 4 5 // EQUI // 5 // Two dogs and one cat <==> Two dogs and a cat 
+6 <==> 6 // SIMI // 4 // sitting <==> resting 
+</alignment>
+</sentence>
+
+<sentence id="29" status="">
+<alignment>
+0 <==> 14 // NOALI // 0 // -not aligned- <==> . 
+10 11 12 13 <==> 10 11 12 13 // EQUI // 5 // with their thumbs up <==> the thumbs up sign 
+1 2 3 4 5 6 <==> 1 2 // SPE1 // 2 // One Asian and one occasion woman <==> Two women 
+7 8 <==> 0 // NOALI // NIL // in glasses <==> -not aligned- 
+14 <==> 0 // NOALI // 0 // . <==> -not aligned- 
+0 <==> 5 6 7 // NOALI // NIL // -not aligned- <==> for the camera 
+0 <==> 9 // ALIC // NIL // -not aligned- <==> giving 
+0 <==> 8 // NOALI // NIL // -not aligned- <==> and 
+9 <==> 3 4 // REL // 3 // smiling <==> are posing 
+</alignment>
+</sentence>
+
+<sentence id="30" status="">
+<alignment>
+5 6 7 8 9 10 <==> 4 5 6 7 8 9 10 11 // SIMI // 4 // in front of an alpine lake <==> next to a mountain , and a body 
+4 <==> 3 // EQUI // 5 // grazing <==> grazing 
+11 <==> 0 // NOALI // 0 // . <==> -not aligned- 
+1 2 3 <==> 1 2 // SPE1 // 1 // Two mountain goats <==> Two animals 
+0 <==> 14 // NOALI // 0 // -not aligned- <==> . 
+0 <==> 12 13 // ALIC // NIL // -not aligned- <==> of water 
+</alignment>
+</sentence>
+
+<sentence id="31" status="">
+<alignment>
+5 6 7 <==> 5 6 7 8 9 // SPE2 // 4 // in a station <==> at the city train station 
+4 <==> 4 // EQUI // 5 // waiting <==> waiting 
+1 2 3 <==> 1 2 3 // EQUI // 5 // A passenger train <==> A passenger train 
+0 <==> 10 // NOALI // 0 // -not aligned- <==> . 
+8 <==> 0 // NOALI // 0 // . <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="32" status="">
+<alignment>
+1 2 <==> 1 2 // EQUI // 5 // A bicycle <==> A bicycle 
+3 4 <==> 3 4 // EQUI // 5 // is parked <==> is parked 
+5 6 7 <==> 5 6 7 // SPE2 // 4 // by a shop <==> outside a bookstore 
+0 <==> 8 // NOALI // 0 // -not aligned- <==> . 
+8 <==> 0 // NOALI // 0 // . <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="33" status="">
+<alignment>
+0 <==> 8 // NOALI // 0 // -not aligned- <==> and 
+7 8 9 <==> 0 // NOALI // NIL // on a blanket <==> -not aligned- 
+15 <==> 0 // NOALI // 0 // . <==> -not aligned- 
+10 11 12 13 14 <==> 10 11 12 13 // SPE1 // 4 // in a black leather chair <==> on a leather chair 
+1 2 3 4 5 <==> 1 2 3 4 5 // SPE2 // 4 // A orange and white cat <==> A ginger and white cat 
+6 <==> 9 // SIMI // 4 // laying <==> asleep 
+0 <==> 14 // NOALI // 0 // -not aligned- <==> . 
+0 <==> 6 7 // ALIC // NIL // -not aligned- <==> curled up 
+</alignment>
+</sentence>
+
+<sentence id="34" status="">
+<alignment>
+3 4 5 <==> 3 4 5 6 // EQUI // 5 // on train tracks <==> on the train tracks 
+1 2 <==> 1 2 // SPE1 // 4 // Black train <==> A train 
+0 <==> 7 // NOALI // 0 // -not aligned- <==> . 
+6 <==> 0 // NOALI // 0 // . <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="35" status="">
+<alignment>
+0 <==> 6 // NOALI // 0 // -not aligned- <==> . 
+4 5 6 7 <==> 4 5 // SPE1 // 4 // on a black couch <==> on couch 
+8 <==> 0 // NOALI // 0 // . <==> -not aligned- 
+1 2 <==> 1 2 // EQUI // 5 // Young couple <==> Young couple 
+3 <==> 3 // EQUI // 5 // sitting <==> sitting 
+</alignment>
+</sentence>
+
+<sentence id="36" status="">
+<alignment>
+4 5 6 <==> 0 // NOALI // NIL // for a picture <==> -not aligned- 
+0 <==> 6 // NOALI // 0 // -not aligned- <==> . 
+7 8 9 <==> 4 5 // EQUI // 5 // on a couch <==> on couch 
+10 <==> 0 // NOALI // 0 // . <==> -not aligned- 
+1 2 <==> 1 2 // SPE2 // 4 // A couple <==> Young couple 
+3 <==> 3 // REL // 3 // posing <==> sitting 
+</alignment>
+</sentence>
+
+<sentence id="37" status="">
+<alignment>
+5 <==> 0 // NOALI // 0 // . <==> -not aligned- 
+0 <==> 5 6 7 // NOALI // NIL // -not aligned- <==> with hood up 
+0 <==> 8 // NOALI // 0 // -not aligned- <==> . 
+1 2 3 4 <==> 1 2 3 4 // EQUI // 5 // Red double decker bus <==> Red double decker bus 
+</alignment>
+</sentence>
+
+<sentence id="38" status="">
+<alignment>
+0 <==> 9 10 // ALIC // NIL // -not aligned- <==> with food 
+0 <==> 13 // NOALI // 0 // -not aligned- <==> . 
+10 <==> 0 // NOALI // 0 // . <==> -not aligned- 
+1 2 <==> 1 2 // EQUI // 5 // A group <==> A group 
+5 <==> 5 // EQUI // 5 // sitting <==> sitting 
+6 7 8 9 <==> 6 7 8 // SPE1 // 4 // at a restaurant table <==> around a table 
+0 <==> 11 12 // NOALI // NIL // -not aligned- <==> on it 
+3 4 <==> 3 4 // EQUI // 5 // of people <==> of people 
+</alignment>
+</sentence>
+
+<sentence id="39" status="">
+<alignment>
+3 <==> 3 // SIMI // 4 // napping <==> sleeping 
+8 <==> 0 // NOALI // 0 // . <==> -not aligned- 
+0 <==> 7 // NOALI // 0 // -not aligned- <==> . 
+4 5 6 7 <==> 4 5 6 // SPE1 // 4 // under a small table <==> under a table 
+1 2 <==> 1 2 // EQUI // 5 // a dog <==> A dog 
+</alignment>
+</sentence>
+
+<sentence id="40" status="">
+<alignment>
+8 9 <==> 4 5 6 // EQUI // 5 // on water <==> on the water 
+10 <==> 0 // NOALI // 0 // . <==> -not aligned- 
+1 2 <==> 1 2 // SPE2 // 4 // A boat <==> Sail boat 
+6 7 <==> 3 // EQUI // 5 // is sailing <==> sailing 
+0 <==> 7 // NOALI // 0 // -not aligned- <==> . 
+3 4 5 <==> 0 // ALIC // NIL // with four sails <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="41" status="">
+<alignment>
+5 6 7 <==> 5 6 // SPE1 // 4 // a small baby <==> a baby 
+4 <==> 4 // EQUI // 5 // holding <==> holding 
+0 <==> 7 // NOALI // 0 // -not aligned- <==> . 
+8 <==> 0 // NOALI // 0 // . <==> -not aligned- 
+1 2 3 <==> 1 2 3 // SIMI // 4 // A smiling woman <==> Two smiling women 
+</alignment>
+</sentence>
+
+<sentence id="42" status="">
+<alignment>
+1 2 3 4 <==> 1 2 3 4 5 // EQUI // 5 // Red double decker bus <==> A red double decker bus 
+9 <==> 0 // NOALI // 0 // . <==> -not aligned- 
+5 6 <==> 0 // ALIC // NIL // on side <==> -not aligned- 
+0 <==> 10 // NOALI // 0 // -not aligned- <==> . 
+7 8 <==> 6 7 8 9 // SPE2 // 4 // of street <==> on a city street 
+</alignment>
+</sentence>
+
+<sentence id="43" status="">
+<alignment>
+7 <==> 0 // NOALI // 0 // . <==> -not aligned- 
+5 6 <==> 5 6 7 // EQUI // 5 // the window <==> of a window 
+0 <==> 8 // NOALI // 0 // -not aligned- <==> . 
+3 4 <==> 3 4 // EQUI // 5 // looking out <==> looking out 
+1 2 <==> 1 2 // SPE1 // 4 // Gray cat <==> A cat 
+</alignment>
+</sentence>
+
+<sentence id="44" status="">
+<alignment>
+10 <==> 0 // NOALI // 0 // . <==> -not aligned- 
+7 8 9 <==> 8 9 10 11 // SIMI // 4 // on the tracks <==> on the train track 
+0 <==> 12 // NOALI // 0 // -not aligned- <==> . 
+6 <==> 6 7 // EQUI // 5 // sitting <==> are sitting 
+1 2 3 4 5 <==> 1 2 3 4 5 // EQUI // 5 // Two green and white trains <==> Two green and white trains 
+</alignment>
+</sentence>
+
+<sentence id="45" status="">
+<alignment>
+5 6 <==> 11 12 // EQUI // 5 // the camera <==> the camera 
+0 <==> 13 // NOALI // 0 // -not aligned- <==> . 
+1 2 <==> 1 2 3 4 5 6 7 8 // SPE2 // 3 // A cat <==> A gray , black , and white cat 
+3 4 <==> 9 10 // EQUI // 5 // looking at <==> looking at 
+7 <==> 0 // NOALI // 0 // . <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="46" status="">
+<alignment>
+9 <==> 0 // NOALI // 0 // . <==> -not aligned- 
+1 2 3 <==> 1 2 3 // EQUI // 5 // A gray cat <==> A gray cat 
+0 <==> 9 // NOALI // 0 // -not aligned- <==> . 
+5 6 7 8 <==> 5 6 7 8 // SIMI // 4 // on a wooden table <==> on a dining table 
+4 <==> 4 // EQUI // 5 // lying <==> laying 
+</alignment>
+</sentence>
+
+<sentence id="47" status="">
+<alignment>
+4 5 6 <==> 6 7 // EQUI // 5 // in a chair <==> on chair 
+7 8 9 <==> 8 9 // EQUI // 5 // with a baby <==> with infant 
+0 <==> 10 // NOALI // 0 // -not aligned- <==> . 
+1 2 <==> 1 // SPE1 // 3 // A father <==> Man 
+3 <==> 5 // SIMI // 4 // napping <==> sleeping 
+13 <==> 0 // NOALI // 0 // . <==> -not aligned- 
+10 11 12 <==> 0 // ALIC // NIL // on his lap <==> -not aligned- 
+0 <==> 2 3 4 // NOALI // NIL // -not aligned- <==> with pink shirt 
+</alignment>
+</sentence>
+
+<sentence id="48" status="">
+<alignment>
+6 7 8 <==> 10 11 12 13 // EQUI // 5 // on tree branch <==> on a tree branch 
+5 <==> 9 // EQUI // 5 // perched <==> perched 
+9 <==> 0 // NOALI // 0 // . <==> -not aligned- 
+1 2 3 4 <==> 1 // SPE2 // 4 // Green and white bird <==> Bird 
+0 <==> 14 // NOALI // 0 // -not aligned- <==> . 
+0 <==> 2 3 4 5 6 7 8 // ALIC // NIL // -not aligned- <==> with a green head and white chest 
+</alignment>
+</sentence>
+
+<sentence id="49" status="">
+<alignment>
+0 <==> 6 7 8 // ALIC // NIL // -not aligned- <==> through the air 
+11 <==> 0 // NOALI // 0 // . <==> -not aligned- 
+1 2 3 4 5 <==> 1 2 3 4 // EQUI // 5 // A red and white plane <==> Red and white plane 
+6 <==> 5 // EQUI // 5 // flying <==> flying 
+7 8 9 10 <==> 0 // NOALI // NIL // on a sunny day <==> -not aligned- 
+0 <==> 9 // NOALI // 0 // -not aligned- <==> . 
+</alignment>
+</sentence>
+
+<sentence id="50" status="">
+<alignment>
+0 <==> 3 // NOALI // 0 // -not aligned- <==> sitting 
+3 4 5 6 <==> 5 6 7 // EQUI // 5 // with a viking hat <==> a viking hat 
+0 <==> 8 // NOALI // 0 // -not aligned- <==> . 
+1 2 <==> 1 2 // SPE2 // 4 // a woman <==> Smiling woman 
+8 <==> 0 // NOALI // 0 // . <==> -not aligned- 
+7 <==> 4 // SIMI // 4 // on <==> wearing 
+</alignment>
+</sentence>
+
+<sentence id="51" status="">
+<alignment>
+8 <==> 4 // EQUI // 5 // standing <==> stands 
+0 <==> 8 // NOALI // 0 // -not aligned- <==> . 
+5 6 7 <==> 0 // NOALI // NIL // with glowing eyes <==> -not aligned- 
+12 <==> 0 // NOALI // 0 // . <==> -not aligned- 
+9 10 11 <==> 5 6 7 // SPE1 // 4 // underneath a chair <==> on the floor 
+1 2 3 4 <==> 1 2 3 // SPE1 // 4 // A small white cat <==> A white cat 
+</alignment>
+</sentence>
+
+<sentence id="52" status="">
+<alignment>
+10 <==> 0 // NOALI // 0 // . <==> -not aligned- 
+6 7 8 <==> 6 7 8 // EQUI // 5 // at a table <==> around a table 
+0 <==> 9 // NOALI // 0 // -not aligned- <==> . 
+9 <==> 0 // NOALI // 0 // outside <==> -not aligned- 
+3 4 <==> 2 3 4 // SPE2 // 4 // of people <==> of elderly people 
+1 2 <==> 1 // EQUI // 5 // A group <==> Group 
+5 <==> 5 // REL // 3 // eat <==> sitting 
+</alignment>
+</sentence>
+
+<sentence id="53" status="">
+<alignment>
+0 <==> 10 // NOALI // NIL // -not aligned- <==> . 
+3 <==> 4 // EQUI // 5 // standing <==> stands 
+1 2 <==> 1 2 3 // SIMI // 2 // A bull <==> A brown horse 
+4 5 6 <==> 5 6 7 8 9 // SPE2 // 2 // in the field <==> in a lush green field 
+7 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="54" status="">
+<alignment>
+4 5 <==> 0 // NOALI // NIL // a ledge <==> -not aligned- 
+0 <==> 10 // NOALI // NIL // -not aligned- <==> . 
+3 <==> 6 // REL // 4 // jumping <==> playing 
+6 7 8 <==> 0 // NOALI // NIL // with a bike <==> -not aligned- 
+0 <==> 7 8 9 // NOALI // NIL // -not aligned- <==> with a blanket 
+1 2 <==> 0 // NOALI // NIL // A kid <==> -not aligned- 
+9 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 1 2 3 4 5 // NOALI // NIL // -not aligned- <==> A black and white cat 
+</alignment>
+</sentence>
+
+<sentence id="55" status="">
+<alignment>
+6 7 8 <==> 7 8 9 10 // SPE2 // 2 // at a table <==> around a dining table 
+5 <==> 0 // NOALI // NIL // eat <==> -not aligned- 
+1 2 <==> 1 2 // EQUI // 5 // A group <==> A group 
+10 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 11 // NOALI // NIL // -not aligned- <==> . 
+0 <==> 6 // NOALI // NIL // -not aligned- <==> pose 
+3 4 <==> 3 4 5 // SPE2 // 4 // of people <==> of elderly people 
+9 <==> 0 // NOALI // NIL // outside <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="56" status="">
+<alignment>
+7 8 9 <==> 0 // NOALI // NIL // on the tracks <==> -not aligned- 
+1 2 3 4 5 6 <==> 0 // NOALI // NIL // A silver and blue Amtrak train <==> -not aligned- 
+0 <==> 6 7 8 9 // NOALI // NIL // -not aligned- <==> at the gas station 
+10 11 12 13 14 <==> 0 // NOALI // NIL // near a small train station <==> -not aligned- 
+15 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 10 // NOALI // NIL // -not aligned- <==> . 
+0 <==> 1 2 3 4 // NOALI // NIL // -not aligned- <==> A small white car 
+0 <==> 5 // NOALI // NIL // -not aligned- <==> parked 
+</alignment>
+</sentence>
+
+<sentence id="57" status="">
+<alignment>
+3 4 5 <==> 4 5 // SIMI // 4 // are looking at <==> looking out 
+1 2 <==> 1 2 3 // SIMI // 2 // Two cats <==> A white cat 
+0 <==> 9 // NOALI // NIL // -not aligned- <==> . 
+6 7 <==> 6 7 8 // EQUI // 5 // a window <==> of a window 
+8 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="58" status="">
+<alignment>
+0 <==> 12 // NOALI // NIL // -not aligned- <==> . 
+1 2 3 <==> 0 // NOALI // NIL // A pitched tent <==> -not aligned- 
+7 8 9 <==> 9 10 11 // EQUI // 5 // in the background <==> in the background 
+10 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 1 2 3 4 5 // NOALI // NIL // -not aligned- <==> A black and white lamb 
+4 5 6 <==> 6 7 8 // SIMI // 2 // with a horse <==> with other lambs 
+</alignment>
+</sentence>
+
+<sentence id="59" status="">
+<alignment>
+7 <==> 6 7 // EQUI // 5 // perched <==> is perched 
+1 2 3 4 5 6 <==> 1 2 3 4 5 // SIMI // 3 // A small red and gray bird <==> A red and brown bird 
+12 13 14 <==> 0 // ALIC // NIL // of a tree <==> -not aligned- 
+8 9 10 11 <==> 8 9 // SPE1 // 3 // amongst the bare branches <==> on branches 
+15 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 10 // NOALI // NIL // -not aligned- <==> . 
+</alignment>
+</sentence>
+
+<sentence id="60" status="">
+<alignment>
+1 2 3 <==> 0 // NOALI // NIL // A school bus <==> -not aligned- 
+11 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 1 2 3 // NOALI // NIL // -not aligned- <==> A race care 
+0 <==> 9 // NOALI // NIL // -not aligned- <==> . 
+7 8 9 10 <==> 5 6 7 8 // SIMI // 2 // on a rural road <==> along a dirt road 
+4 5 <==> 4 // EQUI // 5 // is driving <==> driving 
+6 <==> 0 // NOALI // NIL // uphill <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="61" status="">
+<alignment>
+5 6 7 <==> 0 // NOALI // NIL // in a room <==> -not aligned- 
+4 <==> 0 // NOALI // NIL // standing <==> -not aligned- 
+1 2 3 <==> 1 2 3 // SIMI // 2 // Three young women <==> Two Indian women 
+9 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 4 5 6 7 // ALIC // NIL // -not aligned- <==> with two Indian girls 
+0 <==> 8 9 10 // NOALI // NIL // -not aligned- <==> near the water 
+0 <==> 11 // NOALI // NIL // -not aligned- <==> . 
+8 <==> 0 // NOALI // NIL // together <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="62" status="">
+<alignment>
+5 6 7 <==> 6 7 8 // EQUI // 5 // in a field <==> in a field 
+0 <==> 9 // NOALI // NIL // -not aligned- <==> . 
+8 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+3 4 <==> 3 4 // SIMI // 2 // of sheep <==> of horses 
+1 2 <==> 1 2 // EQUI // 5 // A group <==> A group 
+0 <==> 5 // NOALI // NIL // -not aligned- <==> grazing 
+</alignment>
+</sentence>
+
+<sentence id="63" status="">
+<alignment>
+0 <==> 8 // NOALI // NIL // -not aligned- <==> . 
+8 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+4 5 6 7 <==> 5 6 7 // SPE1 // 4 // in a green pasture <==> in the pasture 
+1 2 3 <==> 1 2 3 // SIMI // 1 // Two white cows <==> The tan horse 
+0 <==> 4 // NOALI // NIL // -not aligned- <==> is 
+</alignment>
+</sentence>
+
+<sentence id="64" status="">
+<alignment>
+4 5 6 <==> 4 5 6 // EQUI // 5 // at a table <==> at a table 
+1 2 <==> 1 2 // SIMI // 4 // Two people <==> four people 
+0 <==> 7 // NOALI // NIL // -not aligned- <==> . 
+10 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+3 <==> 3 // EQUI // 5 // sitting <==> sitting 
+7 8 9 <==> 0 // NOALI // NIL // at a restaurant <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="65" status="">
+<alignment>
+3 <==> 0 // NOALI // NIL // laying <==> -not aligned- 
+1 2 <==> 1 2 3 4 5 // SPE2 // 2 // A women <==> A man and two women 
+0 <==> 10 // NOALI // NIL // -not aligned- <==> while 
+4 5 6 <==> 0 // ALIC // NIL // across two men <==> -not aligned- 
+0 <==> 7 8 9 // NOALI // NIL // -not aligned- <==> at the camera 
+0 <==> 6 // NOALI // NIL // -not aligned- <==> smiling 
+7 <==> 11 // EQUI // 5 // sitting <==> sitting 
+11 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+8 9 10 <==> 12 13 14 15 // SIMI // 4 // on a sofa <==> on a blue sofa 
+0 <==> 16 // NOALI // NIL // -not aligned- <==> . 
+</alignment>
+</sentence>
+
+<sentence id="66" status="">
+<alignment>
+1 2 3 4 <==> 1 2 3 4 5 // EQUI // 5 // Black and white cat <==> The black and white cat 
+8 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 13 // NOALI // NIL // -not aligned- <==> . 
+5 <==> 9 // SIMI // 3 // lying <==> lounges 
+0 <==> 6 7 8 // NOALI // NIL // -not aligned- <==> with yellow eyes 
+6 7 <==> 10 11 12 // REL // 1 // under bush <==> in the dirt 
+</alignment>
+</sentence>
+
+<sentence id="67" status="">
+<alignment>
+0 <==> 3 4 5 6 7 8 // NOALI // NIL // -not aligned- <==> with glasses and two plastic bottles 
+0 <==> 12 // NOALI // NIL // -not aligned- <==> . 
+1 2 3 <==> 0 // NOALI // NIL // A tan calf <==> -not aligned- 
+4 5 6 7 <==> 0 // NOALI // NIL // with a yellow tag <==> -not aligned- 
+13 14 15 <==> 0 // NOALI // NIL // at the camera <==> -not aligned- 
+8 9 10 11 <==> 0 // NOALI // NIL // on his left ear <==> -not aligned- 
+0 <==> 1 2 // NOALI // NIL // -not aligned- <==> A man 
+0 <==> 9 10 11 // NOALI // NIL // -not aligned- <==> in the foreground 
+12 <==> 0 // NOALI // NIL // looking <==> -not aligned- 
+16 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="68" status="">
+<alignment>
+8 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 7 // NOALI // NIL // -not aligned- <==> . 
+5 6 7 <==> 4 5 6 // EQUI // 5 // at the camera <==> at the camera 
+3 4 <==> 3 // EQUI // 5 // is looking <==> looking 
+1 2 <==> 1 2 // SIMI // 2 // The lamb <==> A cat 
+</alignment>
+</sentence>
+
+<sentence id="69" status="">
+<alignment>
+1 2 3 4 5 <==> 1 2 3 4 5 // EQUI // 5 // A black and white photo <==> A black and white photo 
+0 <==> 6 7 8 // NOALI // NIL // -not aligned- <==> of a motorcycle 
+11 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 9 // NOALI // NIL // -not aligned- <==> laying 
+0 <==> 10 11 12 // NOALI // NIL // -not aligned- <==> on the ground 
+6 7 8 9 10 <==> 0 // NOALI // NIL // of an old train station <==> -not aligned- 
+0 <==> 13 // NOALI // NIL // -not aligned- <==> . 
+</alignment>
+</sentence>
+
+<sentence id="70" status="">
+<alignment>
+7 8 <==> 0 // NOALI // NIL // high up <==> -not aligned- 
+1 2 3 4 5 <==> 1 2 3 4 // SIMI // 2 // A black and white cat <==> Black and white lamb 
+0 <==> 10 // NOALI // NIL // -not aligned- <==> . 
+6 <==> 0 // NOALI // NIL // is <==> -not aligned- 
+12 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 7 8 9 // NOALI // NIL // -not aligned- <==> in right ear 
+0 <==> 5 6 // NOALI // NIL // -not aligned- <==> with tag 
+9 10 11 <==> 0 // NOALI // NIL // on tree branches <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="71" status="">
+<alignment>
+6 7 8 <==> 0 // NOALI // NIL // on the sofa <==> -not aligned- 
+0 <==> 9 10 11 // NOALI // NIL // -not aligned- <==> of his bed 
+0 <==> 1 2 // NOALI // NIL // -not aligned- <==> A man 
+0 <==> 3 4 // NOALI // NIL // -not aligned- <==> is watching 
+0 <==> 5 // NOALI // NIL // -not aligned- <==> TV 
+5 <==> 0 // NOALI // NIL // sleeping <==> -not aligned- 
+0 <==> 12 // NOALI // NIL // -not aligned- <==> . 
+0 <==> 6 7 8 // NOALI // NIL // -not aligned- <==> on the foot 
+9 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+1 2 3 4 <==> 0 // NOALI // NIL // An orange tabby cat <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="72" status="">
+<alignment>
+10 <==> 5 6 // EQUI // 5 // posing <==> are posing 
+6 7 8 9 <==> 0 // NOALI // NIL // in a living room <==> -not aligned- 
+14 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+11 12 13 <==> 7 8 9 // EQUI // 5 // for the camera <==> for the camera 
+0 <==> 10 // NOALI // NIL // -not aligned- <==> . 
+1 2 3 4 5 <==> 1 2 3 4 // SIMI // 3 // A man and small child <==> A man and woman 
+</alignment>
+</sentence>
+
+<sentence id="73" status="">
+<alignment>
+5 6 7 <==> 0 // NOALI // NIL // with a vies <==> -not aligned- 
+1 2 3 <==> 1 2 3 // SPE2 // 4 // A black vehicle <==> A black car 
+4 <==> 4 // EQUI // 5 // parked <==> parked 
+0 <==> 5 6 7 8 // NOALI // NIL // -not aligned- <==> in the dirt out 
+0 <==> 9 10 11 // NOALI // NIL // -not aligned- <==> in the country 
+0 <==> 12 // NOALI // NIL // -not aligned- <==> . 
+8 9 10 <==> 0 // NOALI // NIL // of low-lying mountains <==> -not aligned- 
+11 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="74" status="">
+<alignment>
+1 2 3 4 5 <==> 1 2 3 4 5 // SIMI // 2 // The black and white bull <==> A black and white dog 
+8 9 10 <==> 7 8 9 // EQUI // 5 // at the camera <==> at the camera 
+6 7 <==> 6 // EQUI // 5 // is looking <==> looking 
+11 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 10 // NOALI // NIL // -not aligned- <==> . 
+</alignment>
+</sentence>
+
+<sentence id="75" status="">
+<alignment>
+0 <==> 4 5 // NOALI // NIL // -not aligned- <==> a wheelie 
+11 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 6 7 8 // NOALI // NIL // -not aligned- <==> on a plank 
+8 9 10 <==> 12 13 14 // EQUI // 5 // in the background <==> in the background 
+4 5 6 7 <==> 0 // NOALI // NIL // with a dining table <==> -not aligned- 
+0 <==> 9 10 11 // NOALI // NIL // -not aligned- <==> with the beach 
+0 <==> 3 // NOALI // NIL // -not aligned- <==> doing 
+1 2 3 <==> 0 // NOALI // NIL // A living room <==> -not aligned- 
+0 <==> 1 2 // NOALI // NIL // -not aligned- <==> A boy 
+0 <==> 15 // NOALI // NIL // -not aligned- <==> . 
+</alignment>
+</sentence>
+
+<sentence id="76" status="">
+<alignment>
+5 6 7 <==> 0 // NOALI // NIL // are spread out <==> -not aligned- 
+1 2 <==> 0 // ALIC // NIL // The flock <==> -not aligned- 
+0 <==> 8 // NOALI // NIL // -not aligned- <==> . 
+11 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 5 6 7 // NOALI // NIL // -not aligned- <==> on the floor 
+8 9 10 <==> 0 // NOALI // NIL // in the field <==> -not aligned- 
+0 <==> 4 // NOALI // NIL // -not aligned- <==> stands 
+3 4 <==> 1 2 3 // SIMI // 1 // of sheep <==> A white cat 
+</alignment>
+</sentence>
+
+<sentence id="77" status="">
+<alignment>
+5 6 7 <==> 4 5 6 // SIMI // 1 // beside the road <==> in the field 
+0 <==> 7 // NOALI // NIL // -not aligned- <==> . 
+8 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+3 4 <==> 3 // EQUI // 5 // are grazing <==> grazing 
+1 2 <==> 1 2 // SIMI // 2 // Five cows <==> Several sheep 
+</alignment>
+</sentence>
+
+<sentence id="78" status="">
+<alignment>
+6 7 8 9 <==> 3 4 5 6 // SIMI // 4 // in a living room <==> in a dining room 
+0 <==> 7 // NOALI // NIL // -not aligned- <==> . 
+10 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+4 5 <==> 0 // ALIC // NIL // is parked <==> -not aligned- 
+1 2 3 <==> 1 2 // SPE1 // 4 // A silver bicycle <==> A bicycle 
+</alignment>
+</sentence>
+
+<sentence id="79" status="">
+<alignment>
+0 <==> 10 // NOALI // NIL // -not aligned- <==> . 
+0 <==> 1 // NOALI // NIL // -not aligned- <==> Man 
+5 <==> 5 // REL // 3 // sleeping <==> sitting 
+1 2 3 4 <==> 0 // NOALI // NIL // An orange tabby cat <==> -not aligned- 
+9 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 3 4 // NOALI // NIL // -not aligned- <==> a bib 
+0 <==> 2 // NOALI // NIL // -not aligned- <==> wearing 
+6 7 8 <==> 6 7 8 9 // SPE2 // 4 // on the sofa <==> on a green couch 
+</alignment>
+</sentence>
+
+<sentence id="80" status="">
+<alignment>
+3 4 <==> 0 // NOALI // NIL // are playing <==> -not aligned- 
+7 <==> 0 // NOALI // NIL // and <==> -not aligned- 
+9 10 <==> 0 // NOALI // NIL // a drink <==> -not aligned- 
+0 <==> 16 // NOALI // NIL // -not aligned- <==> . 
+0 <==> 13 14 15 // NOALI // NIL // -not aligned- <==> feeding a sheep 
+0 <==> 1 2 // NOALI // NIL // -not aligned- <==> There is 
+11 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+5 6 <==> 0 // NOALI // NIL // a guitar <==> -not aligned- 
+1 2 <==> 3 4 5 // SIMI // 2 // The men <==> a young boy 
+8 <==> 0 // NOALI // NIL // having <==> -not aligned- 
+0 <==> 6 7 8 9 10 11 12 // NOALI // NIL // -not aligned- <==> with a red and blue jacket on 
+</alignment>
+</sentence>
+
+<sentence id="81" status="">
+<alignment>
+6 <==> 13 // SIMI // 3 // sits <==> relaxes 
+11 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+1 2 3 4 5 <==> 1 2 3 4 5 6 // SPE2 // 3 // A brown and white dog <==> A small orange and white dog 
+7 8 9 10 <==> 14 15 16 17 18 // SIMI // 2 // on a floral-patterned chair <==> on a flower print pillow 
+0 <==> 7 8 9 10 11 12 // NOALI // NIL // -not aligned- <==> with a collar and a bell 
+0 <==> 19 // NOALI // NIL // -not aligned- <==> . 
+</alignment>
+</sentence>
+
+<sentence id="82" status="">
+<alignment>
+0 <==> 5 // NOALI // NIL // -not aligned- <==> , 
+8 <==> 6 // EQUI // 5 // looking <==> looking 
+0 <==> 12 13 // NOALI // NIL // -not aligned- <==> opposite directions 
+1 2 <==> 1 2 // EQUI // 5 // Two sheep <==> Two sheep 
+12 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 10 // NOALI // NIL // -not aligned- <==> , 
+0 <==> 3 4 // NOALI // NIL // -not aligned- <==> are standing 
+9 10 11 <==> 7 8 9 // EQUI // 5 // at the camera <==> at the camera 
+3 4 5 6 7 <==> 0 // NOALI // NIL // on to of a cliff <==> -not aligned- 
+0 <==> 14 // NOALI // NIL // -not aligned- <==> . 
+0 <==> 11 // NOALI // NIL // -not aligned- <==> face 
+</alignment>
+</sentence>
+
+<sentence id="83" status="">
+<alignment>
+0 <==> 9 // NOALI // NIL // -not aligned- <==> . 
+11 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+3 4 <==> 0 // NOALI // NIL // of locomotives <==> -not aligned- 
+0 <==> 1 2 3 4 // NOALI // NIL // -not aligned- <==> A dark brown horse 
+8 9 10 <==> 6 7 8 // EQUI // 5 // in a field <==> in a field 
+1 2 <==> 0 // NOALI // NIL // A row <==> -not aligned- 
+0 <==> 5 // NOALI // NIL // -not aligned- <==> standing 
+5 6 7 <==> 0 // NOALI // NIL // on a siding <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="84" status="">
+<alignment>
+11 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 14 // NOALI // NIL // -not aligned- <==> . 
+0 <==> 1 2 3 // NOALI // NIL // -not aligned- <==> A young girl 
+1 2 <==> 0 // NOALI // NIL // A group <==> -not aligned- 
+3 4 5 <==> 0 // NOALI // NIL // of river barges <==> -not aligned- 
+0 <==> 4 // NOALI // NIL // -not aligned- <==> wearing 
+0 <==> 8 9 10 // NOALI // NIL // -not aligned- <==> with a bicycle 
+0 <==> 5 6 7 // NOALI // NIL // -not aligned- <==> a bike helmet 
+8 9 10 <==> 11 12 13 // EQUI // 5 // in the background <==> in the background 
+6 7 <==> 0 // NOALI // NIL // with trees <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="85" status="">
+<alignment>
+3 <==> 4 // EQUI // 5 // laying <==> lying 
+9 10 11 <==> 11 12 13 // EQUI // 5 // at the camera <==> at the camera 
+1 2 <==> 1 2 3 // SIMI // 3 // A cat <==> A tan dog 
+12 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+8 <==> 9 10 // SPE2 // 4 // looking <==> looking up 
+4 5 6 7 <==> 5 6 7 8 // SPE1 // 4 // on a red cushion <==> on a moggie bed 
+0 <==> 14 // NOALI // NIL // -not aligned- <==> . 
+</alignment>
+</sentence>
+
+<sentence id="86" status="">
+<alignment>
+0 <==> 10 // NOALI // NIL // -not aligned- <==> . 
+5 6 <==> 4 5 6 // EQUI // 5 // a boat <==> on a boat 
+7 8 9 <==> 7 8 9 // SIMI // 2 // near the shore <==> on green water 
+10 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+1 2 <==> 1 2 // EQUI // 5 // Four people <==> four people 
+3 4 <==> 3 // SPE1 // 3 // are rowing <==> are 
+</alignment>
+</sentence>
+
+<sentence id="87" status="">
+<alignment>
+0 <==> 6 // NOALI // NIL // -not aligned- <==> . 
+3 4 5 <==> 3 4 5 // EQUI // 5 // in the sky <==> in the sky 
+6 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+1 2 <==> 1 2 // SIMI // 3 // Two airplanes <==> A plane 
+</alignment>
+</sentence>
+
+<sentence id="88" status="">
+<alignment>
+14 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 1 2 // ALIC // NIL // -not aligned- <==> A room 
+8 9 10 11 12 13 <==> 3 4 5 6 7 8 9 10 // SIMI // 4 // in front of the laundry room <==> with tan walls and a washer and dryer 
+3 4 5 6 7 <==> 0 // NOALI // NIL // a small desk and chair <==> -not aligned- 
+1 2 <==> 0 // NOALI // NIL // There is <==> -not aligned- 
+0 <==> 11 // NOALI // NIL // -not aligned- <==> . 
+</alignment>
+</sentence>
+
+<sentence id="89" status="">
+<alignment>
+4 <==> 0 // NOALI // NIL // displayed <==> -not aligned- 
+1 2 3 <==> 0 // NOALI // NIL // World news headlines <==> -not aligned- 
+0 <==> 3 // NOALI // NIL // -not aligned- <==> dressed 
+0 <==> 7 // NOALI // NIL // -not aligned- <==> relaxes 
+0 <==> 4 5 6 // NOALI // NIL // -not aligned- <==> for a race 
+0 <==> 8 // NOALI // NIL // -not aligned- <==> . 
+0 <==> 1 2 // NOALI // NIL // -not aligned- <==> A man 
+9 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+5 6 7 8 <==> 0 // NOALI // NIL // on a large screen <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="90" status="">
+<alignment>
+3 4 5 <==> 3 4 // REL // 2 // on the porch <==> on acouch 
+0 <==> 5 // NOALI // NIL // -not aligned- <==> . 
+1 <==> 1 // EQUI // 5 // People <==> People 
+2 <==> 2 // EQUI // 5 // sitting <==> sitting 
+6 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="91" status="">
+<alignment>
+0 <==> 7 8 9 10 // NOALI // NIL // -not aligned- <==> of an orange SUV 
+3 <==> 3 // SIMI // 2 // sitting <==> riding 
+1 2 <==> 1 2 // EQUI // 5 // A man <==> A man 
+11 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 4 5 6 // NOALI // NIL // -not aligned- <==> on the back 
+8 <==> 0 // NOALI // NIL // playing <==> -not aligned- 
+0 <==> 11 // NOALI // NIL // -not aligned- <==> . 
+9 10 <==> 0 // NOALI // NIL // the guitar <==> -not aligned- 
+4 5 6 7 <==> 0 // ALIC // NIL // in a back yard <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="92" status="">
+<alignment>
+4 5 6 7 <==> 4 5 6 // SIMI // 3 // near two tiny animals <==> near her children 
+3 <==> 3 // EQUI // 5 // stands <==> standing 
+0 <==> 7 // NOALI // NIL // -not aligned- <==> . 
+8 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+1 2 <==> 1 2 // SIMI // 4 // A lamb <==> A sheep 
+</alignment>
+</sentence>
+
+<sentence id="93" status="">
+<alignment>
+3 4 5 <==> 0 // NOALI // NIL // with ear tags <==> -not aligned- 
+6 7 8 9 <==> 4 5 6 7 // SIMI // 3 // on a grassy field <==> on a green hill 
+10 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 8 // NOALI // NIL // -not aligned- <==> . 
+0 <==> 3 // NOALI // NIL // -not aligned- <==> standing 
+1 2 <==> 1 2 // SIMI // 2 // Tan cow <==> Many sheep 
+</alignment>
+</sentence>
+
+<sentence id="94" status="">
+<alignment>
+3 4 5 6 7 <==> 5 6 7 8 9 // REL // 4 // in front of some ruins <==> in front of a building 
+1 2 <==> 1 2 3 // SPE2 // 4 // A bicycle <==> A pink bicycle 
+8 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 10 // NOALI // NIL // -not aligned- <==> . 
+0 <==> 4 // NOALI // NIL // -not aligned- <==> is 
+</alignment>
+</sentence>
+
+<sentence id="95" status="">
+<alignment>
+3 4 5 6 <==> 1 2 3 4 // EQUI // 5 // of black faced sheep <==> A black faced sheep 
+0 <==> 5 // NOALI // NIL // -not aligned- <==> . 
+1 2 <==> 0 // NOALI // NIL // A field <==> -not aligned- 
+7 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="96" status="">
+<alignment>
+9 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+6 7 8 <==> 0 // NOALI // NIL // on green grass <==> -not aligned- 
+0 <==> 1 2 3 4 5 // NOALI // NIL // -not aligned- <==> A red and white plane 
+0 <==> 11 // NOALI // NIL // -not aligned- <==> . 
+1 2 3 4 <==> 0 // NOALI // NIL // Brown and white ducks <==> -not aligned- 
+5 <==> 6 // SIMI // 1 // walking <==> flying 
+0 <==> 7 8 9 10 // NOALI // NIL // -not aligned- <==> on a sunny day 
+</alignment>
+</sentence>
+
+<sentence id="97" status="">
+<alignment>
+11 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+6 <==> 4 // EQUI // 5 // standing <==> standing 
+7 8 9 10 <==> 5 6 7 8 // EQUI // 5 // in a grassy field <==> in a grassy field 
+0 <==> 9 // NOALI // NIL // -not aligned- <==> . 
+1 2 3 4 5 <==> 1 2 3 // SIMI // 1 // A black and white cow <==> A blue jay 
+</alignment>
+</sentence>
+
+<sentence id="98" status="">
+<alignment>
+3 <==> 3 // SIMI // 2 // sitting <==> sitting 
+0 <==> 7 8 9 10 // NOALI // NIL // -not aligned- <==> in a train yard 
+0 <==> 11 // NOALI // NIL // -not aligned- <==> . 
+7 8 9 <==> 0 // NOALI // NIL // at Christmas holding <==> -not aligned- 
+12 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+4 5 6 <==> 0 // NOALI // NIL // in a chair <==> -not aligned- 
+10 11 <==> 0 // NOALI // NIL // make up <==> -not aligned- 
+0 <==> 1 2 // NOALI // NIL // -not aligned- <==> A train 
+1 2 <==> 0 // NOALI // NIL // A women <==> -not aligned- 
+0 <==> 4 5 6 // NOALI // NIL // -not aligned- <==> on the tracks 
+</alignment>
+</sentence>
+
+<sentence id="99" status="">
+<alignment>
+0 <==> 10 // NOALI // NIL // -not aligned- <==> . 
+1 2 3 <==> 1 2 3 // SIMI // 2 // A young woman <==> Two young kids 
+5 6 <==> 0 // NOALI // NIL // in black <==> -not aligned- 
+0 <==> 8 9 // NOALI // NIL // -not aligned- <==> on chairs 
+7 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+4 <==> 4 5 // SPE2 // 4 // dressed <==> dressed up 
+0 <==> 6 7 // NOALI // NIL // -not aligned- <==> sitting down 
+</alignment>
+</sentence>
+
+<sentence id="100" status="">
+<alignment>
+4 5 6 <==> 0 // NOALI // NIL // at a distance <==> -not aligned- 
+0 <==> 3 4 5 6 // NOALI // NIL // -not aligned- <==> with a white horse 
+0 <==> 1 2 // NOALI // NIL // -not aligned- <==> A woman 
+3 <==> 0 // NOALI // NIL // flying <==> -not aligned- 
+1 2 <==> 0 // NOALI // NIL // A plane <==> -not aligned- 
+7 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 7 // NOALI // NIL // -not aligned- <==> . 
+</alignment>
+</sentence>
+
+<sentence id="101" status="">
+<alignment>
+5 6 <==> 6 7 8 9 // SPE2 // 3 // on side <==> on a crowded street 
+0 <==> 10 // NOALI // 0 // -not aligned- <==> . 
+9 <==> 0 // NOALI // 0 // . <==> -not aligned- 
+7 8 <==> 0 // ALIC // NIL // of street <==> -not aligned- 
+1 2 3 4 <==> 1 2 3 4 5 // EQUI // 5 // Red double decker bus <==> A red double decker bus 
+</alignment>
+</sentence>
+
+<sentence id="102" status="">
+<alignment>
+1 2 <==> 1 2 3 // SPE2 // 4 // A bus <==> A green bus 
+8 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+3 4 <==> 4 5 // EQUI // 5 // drives down <==> drives down 
+0 <==> 8 // NOALI // NIL // -not aligned- <==> . 
+5 6 7 <==> 6 7 // SPE1 // 4 // a busy road <==> a road 
+</alignment>
+</sentence>
+
+<sentence id="103" status="">
+<alignment>
+4 5 6 <==> 0 // NOALI // NIL // with a bracelet <==> -not aligned- 
+1 2 3 <==> 1 2 // SPE1 // 4 // A young woman <==> A women 
+7 8 <==> 3 // EQUI // 5 // is wearing <==> wearing 
+0 <==> 9 // NOALI // NIL // -not aligned- <==> . 
+9 10 11 12 13 <==> 4 5 6 7 8 // EQUI // 5 // a bikini top and jeans <==> a bikini top and jeans 
+14 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="104" status="">
+<alignment>
+0 <==> 10 // NOALI // NIL // -not aligned- <==> . 
+1 2 3 4 5 <==> 1 2 3 // SIMI // 3 // A yellow and blue airplane <==> The white airplane 
+6 7 <==> 4 5 // EQUI // 5 // is flying <==> is flying 
+8 9 10 <==> 6 7 8 9 // SPE2 // 4 // in the sky <==> in the blue sky 
+11 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="105" status="">
+<alignment>
+0 <==> 4 // NOALI // NIL // -not aligned- <==> stand 
+8 9 10 <==> 9 10 11 // SPE2 // 3 // near the water <==> on a beach 
+4 5 6 7 <==> 5 6 7 8 // EQUI // 5 // with two Indian girls <==> with two Indian girls 
+1 2 3 <==> 1 2 3 // EQUI // 5 // Two Indian women <==> Two Indian woman 
+11 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 12 // NOALI // NIL // -not aligned- <==> . 
+</alignment>
+</sentence>
+
+<sentence id="106" status="">
+<alignment>
+0 <==> 14 // NOALI // NIL // -not aligned- <==> . 
+1 2 3 <==> 1 2 3 // EQUI // 5 // A living room <==> A living room 
+8 9 10 <==> 11 12 13 // EQUI // 5 // in the background <==> in the background 
+4 5 6 7 <==> 4 5 6 7 8 9 10 // SPE2 // 3 // with a dining table <==> with large sofas and a dining table 
+11 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="107" status="">
+<alignment>
+8 9 <==> 11 12 // EQUI // 5 // with trees <==> with trees 
+13 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 16 // NOALI // NIL // -not aligned- <==> . 
+0 <==> 8 9 10 // NOALI // NIL // -not aligned- <==> down a river 
+3 <==> 3 // EQUI // 5 // paddling <==> padding 
+1 2 <==> 1 2 // EQUI // 5 // Two people <==> Two people 
+10 11 12 <==> 13 14 15 // EQUI // 5 // in the background <==> in the background 
+4 5 6 7 <==> 4 5 6 7 // SIMI // 4 // in a red canoe <==> in a yellow canoe 
+</alignment>
+</sentence>
+
+<sentence id="108" status="">
+<alignment>
+4 5 <==> 4 5 6 // SIMI // 4 // at sunset <==> near the sunset 
+6 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+1 <==> 1 2 // EQUI // 5 // Plane <==> A plane 
+0 <==> 7 // NOALI // NIL // -not aligned- <==> . 
+2 3 <==> 3 // SIMI // 4 // in mid-flight <==> flying 
+</alignment>
+</sentence>
+
+<sentence id="109" status="">
+<alignment>
+5 6 7 <==> 8 9 10 // EQUI // 5 // to the side <==> to the side 
+11 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 14 // NOALI // NIL // -not aligned- <==> . 
+1 2 3 <==> 1 2 3 4 5 // SIMI // 4 // A yellow parrot <==> A yellow and orange bird 
+8 9 10 <==> 11 12 13 // EQUI // 5 // of its cage <==> of a cage 
+4 <==> 6 7 // EQUI // 5 // clings <==> hold on 
+</alignment>
+</sentence>
+
+<sentence id="110" status="">
+<alignment>
+7 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+2 <==> 3 // EQUI // 5 // sailing <==> sailing 
+0 <==> 8 // NOALI // NIL // -not aligned- <==> . 
+3 4 5 6 <==> 4 5 6 7 // EQUI // 5 // in a small sailboat <==> in a small sailboat 
+1 <==> 1 2 // SPE2 // 4 // Couple <==> Two men 
+</alignment>
+</sentence>
+
+<sentence id="111" status="">
+<alignment>
+5 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+1 2 3 4 <==> 1 2 3 4 5 // EQUI // 5 // Red double decker bus <==> A red , double-decker bus 
+0 <==> 6 // NOALI // NIL // -not aligned- <==> . 
+</alignment>
+</sentence>
+
+<sentence id="112" status="">
+<alignment>
+1 2 <==> 1 2 3 // EQUI // 5 // A close-up <==> Close up image 
+6 7 8 <==> 7 8 9 10 // EQUI // 5 // with its tongue <==> with it 's tongue 
+11 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 13 // NOALI // NIL // -not aligned- <==> . 
+9 10 <==> 11 12 // EQUI // 5 // hanging out <==> hanging out 
+3 4 5 <==> 4 5 6 // EQUI // 5 // of a sheep <==> of a sheep 
+</alignment>
+</sentence>
+
+<sentence id="113" status="">
+<alignment>
+4 <==> 4 // SIMI // 4 // sitting <==> perched 
+5 6 7 <==> 5 6 7 8 // SPE2 // 4 // on a branch <==> on an icy branch 
+10 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+1 2 3 <==> 1 2 3 // EQUI // 5 // a small bird <==> A small bird 
+8 9 <==> 0 // NOALI // NIL // in winter <==> -not aligned- 
+0 <==> 9 // NOALI // NIL // -not aligned- <==> . 
+</alignment>
+</sentence>
+
+<sentence id="114" status="">
+<alignment>
+7 <==> 5 // SIMI // 2 // stand <==> walking 
+0 <==> 9 // NOALI // NIL // -not aligned- <==> . 
+11 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+1 2 3 4 5 6 <==> 1 2 3 4 // SPE1 // 4 // A brown duck and white duck <==> Brown and white ducks 
+8 9 10 <==> 6 7 8 // SPE2 // 4 // on the grass <==> on green grass 
+</alignment>
+</sentence>
+
+<sentence id="115" status="">
+<alignment>
+1 <==> 1 2 // SPE2 // 4 // Cows <==> Five cows 
+8 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+2 <==> 3 // EQUI // 5 // grazing <==> grazing 
+3 4 5 6 7 <==> 4 5 6 7 8 // EQUI // 5 // in a snow covered field <==> in a snow covered field 
+0 <==> 9 // NOALI // NIL // -not aligned- <==> . 
+</alignment>
+</sentence>
+
+<sentence id="116" status="">
+<alignment>
+0 <==> 29 // NOALI // NIL // -not aligned- <==> . 
+0 <==> 21 // NOALI // NIL // -not aligned- <==> which 
+0 <==> 22 // NOALI // NIL // -not aligned- <==> is 
+2 3 4 <==> 3 4 5 6 7 8 9 // SPE2 // 3 // with blue shirt <==> in a blue shirt and tan pants 
+6 7 8 9 10 <==> 12 13 14 15 16 // SIMI // 3 // in front of a fountain <==> in front of a statue 
+11 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+5 <==> 10 11 // EQUI // 5 // standing <==> is standing 
+0 <==> 17 18 19 // NOALI // NIL // -not aligned- <==> of a man 
+1 <==> 1 2 // EQUI // 5 // Man <==> A man 
+0 <==> 20 // NOALI // NIL // -not aligned- <==> , 
+0 <==> 23 24 25 26 27 28 // NOALI // NIL // -not aligned- <==> in a cobble stone paved plaza 
+</alignment>
+</sentence>
+
+<sentence id="117" status="">
+<alignment>
+4 5 6 <==> 4 5 6 7 // EQUI // 5 // on the floor <==> on on the floor 
+0 <==> 12 13 14 // NOALI // NIL // -not aligned- <==> on a box 
+10 11 <==> 0 // NOALI // NIL // on top <==> -not aligned- 
+8 9 <==> 0 // NOALI // NIL // stacked up <==> -not aligned- 
+7 <==> 0 // NOALI // NIL // and <==> -not aligned- 
+12 13 14 <==> 0 // NOALI // NIL // of one another <==> -not aligned- 
+0 <==> 3 // NOALI // NIL // -not aligned- <==> , 
+3 <==> 0 // NOALI // NIL // are <==> -not aligned- 
+0 <==> 8 // NOALI // NIL // -not aligned- <==> , 
+15 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 15 // NOALI // NIL // -not aligned- <==> . 
+0 <==> 9 10 11 // NOALI // NIL // -not aligned- <==> the other two 
+1 2 <==> 1 2 // SPE2 // 4 // Several televisions <==> Three televisions 
+</alignment>
+</sentence>
+
+<sentence id="118" status="">
+<alignment>
+0 <==> 10 // NOALI // NIL // -not aligned- <==> . 
+10 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+5 6 7 8 9 <==> 5 6 7 8 9 // EQUI // 5 // in front of a bookcase <==> in front of book shelves 
+1 2 3 4 <==> 1 2 3 4 // EQUI // 5 // A clear plastic chair <==> a clear plastic chair 
+</alignment>
+</sentence>
+
+<sentence id="119" status="">
+<alignment>
+3 <==> 4 // EQUI // 5 // stands <==> standing 
+7 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 8 // NOALI // NIL // -not aligned- <==> . 
+1 2 <==> 1 2 3 // SPE2 // 4 // A sheep <==> A large sheep 
+4 5 6 <==> 5 6 7 // SIMI // 4 // on a hillside <==> on a hill 
+</alignment>
+</sentence>
+
+<sentence id="120" status="">
+<alignment>
+0 <==> 9 // NOALI // NIL // -not aligned- <==> . 
+1 2 3 4 <==> 1 2 3 4 5 // EQUI // 5 // Blue and red plane <==> a blue and red airplane 
+8 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+5 6 7 <==> 6 7 8 // EQUI // 5 // in mid-air flight <==> while in flight 
+</alignment>
+</sentence>
+
+<sentence id="121" status="">
+<alignment>
+5 6 7 <==> 5 6 7 // EQUI // 5 // on the floor <==> on the floor 
+8 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+1 2 3 4 <==> 1 2 3 // EQUI // 5 // A flat screen TV <==> A flat-screen TV 
+0 <==> 8 // NOALI // NIL // -not aligned- <==> . 
+0 <==> 4 // NOALI // NIL // -not aligned- <==> sits 
+</alignment>
+</sentence>
+
+<sentence id="122" status="">
+<alignment>
+6 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 10 // NOALI // NIL // -not aligned- <==> . 
+2 3 4 5 <==> 3 4 5 6 // SPE2 // 4 // with several computer monitors <==> with four computer monitors 
+0 <==> 7 8 9 // NOALI // NIL // -not aligned- <==> in a row 
+1 <==> 1 2 // EQUI // 5 // Room <==> A room 
+</alignment>
+</sentence>
+
+<sentence id="123" status="">
+<alignment>
+3 4 5 6 <==> 3 4 5 // SPE1 // 4 // of a stop sign <==> of a sign 
+0 <==> 9 // NOALI // NIL // -not aligned- <==> . 
+10 11 <==> 8 // EQUI // 5 // on it <==> on 
+1 2 <==> 1 2 // EQUI // 5 // the back <==> The back 
+7 8 9 <==> 6 7 // SPE1 // 4 // with many stickers <==> with stickers 
+12 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="124" status="">
+<alignment>
+9 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 10 // NOALI // NIL // -not aligned- <==> . 
+1 2 3 4 <==> 1 2 // SPE1 // 4 // Living room or den <==> Living room 
+5 6 7 8 <==> 3 4 5 6 7 8 9 // SPE2 // 3 // with large screen television <==> with tan furniture and flat screen television 
+</alignment>
+</sentence>
+
+<sentence id="125" status="">
+<alignment>
+6 7 <==> 6 7 // EQUI // 5 // driving down <==> driving down 
+10 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+1 2 3 4 5 <==> 1 2 3 4 5 // EQUI // 5 // A doubly decker red bus <==> A red double decker bus 
+8 9 <==> 8 9 // SPE2 // 4 // the road <==> a street 
+0 <==> 10 // NOALI // NIL // -not aligned- <==> . 
+</alignment>
+</sentence>
+
+<sentence id="126" status="">
+<alignment>
+8 9 <==> 7 8 9 // EQUI // 5 // for camera <==> for the camera 
+7 <==> 0 // ALIC // NIL // smiling <==> -not aligned- 
+10 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+6 <==> 0 // NOALI // NIL // , <==> -not aligned- 
+5 <==> 5 6 // SIMI // 4 // stand <==> are posing 
+1 2 3 4 <==> 1 2 3 4 // EQUI // 5 // A man and woman <==> A man and woman 
+0 <==> 10 // NOALI // NIL // -not aligned- <==> . 
+</alignment>
+</sentence>
+
+<sentence id="127" status="">
+<alignment>
+1 2 3 <==> 1 2 3 // SPE2 // 4 // A white bird <==> Large white bird 
+0 <==> 12 // NOALI // NIL // -not aligned- <==> . 
+12 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+4 5 6 7 <==> 4 5 6 7 // SIMI // 3 // with long orange legs <==> with long orange beak 
+9 10 11 <==> 9 10 11 // SPE1 // 4 // by a lake <==> on the shoreline 
+8 <==> 8 // EQUI // 5 // standing <==> standing 
+</alignment>
+</sentence>
+
+<sentence id="128" status="">
+<alignment>
+0 <==> 5 6 7 // ALIC // NIL // -not aligned- <==> on the tracks 
+10 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 11 // NOALI // NIL // -not aligned- <==> . 
+4 <==> 3 4 // SIMI // 4 // driving <==> is riding 
+5 6 7 8 9 <==> 8 9 10 // SPE1 // 3 // through a snow covered city <==> in the snow 
+1 2 3 <==> 1 2 // SPE1 // 4 // A red train <==> The train 
+</alignment>
+</sentence>
+
+<sentence id="129" status="">
+<alignment>
+10 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+7 8 9 <==> 5 6 7 // EQUI // 5 // on the runway <==> on a runway 
+6 <==> 4 // SIMI // 4 // sits <==> parked 
+0 <==> 8 // NOALI // NIL // -not aligned- <==> . 
+1 2 3 4 5 <==> 1 2 3 // SPE1 // 4 // A Das Air Cargo plane <==> A passenger plane 
+</alignment>
+</sentence>
+
+<sentence id="130" status="">
+<alignment>
+4 5 6 <==> 7 8 9 10 // SIMI // 4 // on purple sheet <==> on a purple blanket 
+1 2 <==> 1 2 3 4 5 // SPE2 // 3 // A cat <==> A black and white cat 
+0 <==> 11 // NOALI // NIL // -not aligned- <==> . 
+7 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+3 <==> 6 // EQUI // 5 // sleeps <==> sleeps 
+</alignment>
+</sentence>
+
+<sentence id="131" status="">
+<alignment>
+8 9 10 <==> 9 10 // SPE1 // 4 // an England street <==> the street 
+1 2 3 4 5 <==> 1 2 3 4 5 6 // SPE2 // 4 // A red and white bus <==> A red and white England bus 
+11 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 11 // NOALI // NIL // -not aligned- <==> . 
+6 7 <==> 7 8 // EQUI // 5 // drives down <==> drives down 
+</alignment>
+</sentence>
+
+<sentence id="132" status="">
+<alignment>
+1 2 <==> 1 2 // EQUI // 5 // a jockey <==> A jockey 
+6 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+3 <==> 3 // EQUI // 5 // riding <==> riding 
+0 <==> 6 7 8 // NOALI // NIL // -not aligned- <==> in a pen 
+0 <==> 9 // NOALI // NIL // -not aligned- <==> . 
+4 5 <==> 4 5 // EQUI // 5 // a horse <==> a horse 
+</alignment>
+</sentence>
+
+<sentence id="133" status="">
+<alignment>
+1 2 <==> 1 2 // EQUI // 5 // A kitchen <==> A kitchen 
+0 <==> 8 // NOALI // NIL // -not aligned- <==> . 
+9 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+3 4 5 6 7 8 <==> 3 4 5 6 7 // SPE1 // 4 // with wood cabinets and dining table <==> with wooden cabinets and furniture 
+</alignment>
+</sentence>
+
+<sentence id="134" status="">
+<alignment>
+5 6 7 <==> 0 // ALIC // NIL // near a wall <==> -not aligned- 
+0 <==> 11 12 13 // NOALI // NIL // -not aligned- <==> in the evening 
+13 14 15 <==> 8 9 10 // EQUI // 5 // of a cityscape <==> of a city 
+0 <==> 14 // NOALI // NIL // -not aligned- <==> . 
+16 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+9 10 11 12 <==> 5 6 7 // SIMI // 4 // with a graffiti scene <==> by a mural 
+8 <==> 0 // NOALI // NIL // covered <==> -not aligned- 
+1 2 <==> 1 2 // EQUI // 5 // A motorcycles <==> A motorcycle 
+3 4 <==> 3 4 // EQUI // 5 // is parked <==> is parked 
+</alignment>
+</sentence>
+
+<sentence id="135" status="">
+<alignment>
+0 <==> 10 // NOALI // NIL // -not aligned- <==> . 
+5 6 <==> 0 // NOALI // NIL // its wings <==> -not aligned- 
+10 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 5 6 // NOALI // NIL // -not aligned- <==> is sitting 
+7 8 9 <==> 7 8 9 // EQUI // 5 // in the water <==> in the water 
+3 4 <==> 0 // NOALI // NIL // is flapping <==> -not aligned- 
+1 2 <==> 1 2 3 4 // SPE2 // 3 // A bird <==> A large black bird 
+</alignment>
+</sentence>
+
+<sentence id="136" status="">
+<alignment>
+6 7 8 9 <==> 6 7 8 9 // SIMI // 4 // in a fenced area <==> in a gated yard 
+3 <==> 3 // EQUI // 5 // pets <==> pets 
+4 5 <==> 4 5 // EQUI // 5 // a dog <==> a dog 
+1 2 <==> 1 2 // EQUI // 5 // A woman <==> A woman 
+0 <==> 10 // NOALI // NIL // -not aligned- <==> . 
+10 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="137" status="">
+<alignment>
+3 <==> 4 // SIMI // 4 // reclines <==> sitting 
+4 5 6 7 <==> 5 6 7 8 // EQUI // 5 // on an office chair <==> on an office chair 
+1 2 <==> 1 2 3 // SPE2 // 4 // A cat <==> A ginger cat 
+0 <==> 9 // NOALI // NIL // -not aligned- <==> . 
+8 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="138" status="">
+<alignment>
+3 <==> 4 // EQUI // 5 // sits <==> is 
+8 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+4 5 6 7 <==> 5 6 7 // EQUI // 5 // at the train station <==> at the station 
+0 <==> 8 // NOALI // NIL // -not aligned- <==> . 
+1 2 <==> 1 2 3 // SPE2 // 4 // The train <==> The blue train 
+</alignment>
+</sentence>
+
+<sentence id="139" status="">
+<alignment>
+9 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+3 4 <==> 2 3 // EQUI // 5 // of horses <==> of horses 
+1 2 <==> 1 // EQUI // 5 // A group <==> Group 
+5 <==> 4 // EQUI // 5 // grazing <==> grazing 
+6 7 8 <==> 5 6 7 // SPE2 // 4 // in a field <==> in grassy field 
+0 <==> 8 // NOALI // NIL // -not aligned- <==> . 
+</alignment>
+</sentence>
+
+<sentence id="140" status="">
+<alignment>
+0 <==> 8 // NOALI // NIL // -not aligned- <==> . 
+9 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+5 6 7 8 <==> 5 6 7 // SPE1 // 4 // on an icy branch <==> on a branch 
+1 2 3 <==> 1 2 3 // SIMI // 4 // A small bird <==> A yellow bird 
+4 <==> 4 // EQUI // 5 // perched <==> perched 
+</alignment>
+</sentence>
+
+<sentence id="141" status="">
+<alignment>
+1 <==> 1 2 // EQUI // 5 // Boy <==> A boy 
+2 3 <==> 0 // NOALI // NIL // with glasses <==> -not aligned- 
+0 <==> 8 // NOALI // NIL // -not aligned- <==> . 
+8 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+4 <==> 3 // REL // 2 // typing <==> looking 
+5 6 7 <==> 4 5 6 7 // SIMI // 3 // on a computer <==> at a computer screen 
+</alignment>
+</sentence>
+
+<sentence id="142" status="">
+<alignment>
+0 <==> 8 9 // NOALI // NIL // -not aligned- <==> from behind 
+14 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+5 6 <==> 4 // EQUI // 5 // their tires <==> tires 
+0 <==> 6 // NOALI // NIL // -not aligned- <==> emitting 
+8 9 10 <==> 0 // NOALI // NIL // a black one <==> -not aligned- 
+12 13 <==> 0 // NOALI // NIL // the frame <==> -not aligned- 
+11 <==> 0 // NOALI // NIL // leaves <==> -not aligned- 
+0 <==> 7 // NOALI // NIL // -not aligned- <==> smoke 
+0 <==> 10 // NOALI // NIL // -not aligned- <==> . 
+7 <==> 0 // NOALI // NIL // while <==> -not aligned- 
+4 <==> 3 // EQUI // 5 // spins <==> spinning 
+0 <==> 5 // NOALI // NIL // -not aligned- <==> and 
+1 2 3 <==> 1 2 // EQUI // 5 // A red truck <==> Red truck 
+</alignment>
+</sentence>
+
+<sentence id="143" status="">
+<alignment>
+1 2 3 4 5 <==> 1 2 3 4 5 // EQUI // 5 // Four blue and yellow planes <==> Four blue and yellow planes 
+7 8 9 <==> 0 // NOALI // NIL // over four boats <==> -not aligned- 
+6 <==> 6 7 // EQUI // 5 // flying <==> in flight 
+10 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 8 // NOALI // NIL // -not aligned- <==> . 
+</alignment>
+</sentence>
+
+<sentence id="144" status="">
+<alignment>
+1 2 <==> 1 2 // EQUI // 5 // A train <==> A train 
+3 <==> 3 // EQUI // 5 // is <==> parked 
+0 <==> 8 // NOALI // NIL // -not aligned- <==> . 
+8 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+4 5 6 7 <==> 4 5 6 7 // EQUI // 5 // at a train station <==> at a train station 
+</alignment>
+</sentence>
+
+<sentence id="145" status="">
+<alignment>
+6 7 <==> 6 7 8 9 // SPE2 // 3 // through water <==> towards a the shore 
+8 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+2 3 4 <==> 3 4 5 // EQUI // 5 // in yellow canoe <==> a yellow canoe 
+1 <==> 1 // EQUI // 5 // Man <==> Man 
+5 <==> 2 // EQUI // 5 // paddling <==> paddling 
+0 <==> 10 // NOALI // NIL // -not aligned- <==> . 
+</alignment>
+</sentence>
+
+<sentence id="146" status="">
+<alignment>
+9 10 <==> 0 // ALIC // NIL // lined up <==> -not aligned- 
+14 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+11 12 13 <==> 6 7 8 // EQUI // 5 // on the floor <==> on the floor 
+0 <==> 9 // NOALI // NIL // -not aligned- <==> . 
+1 2 3 4 5 6 7 8 <==> 1 2 // SPE1 // 4 // Beer bottles -LRB- -LRB- Harp Lager -RRB- -RRB- <==> A row 
+0 <==> 3 4 5 // ALIC // NIL // -not aligned- <==> of beer bottles 
+</alignment>
+</sentence>
+
+<sentence id="147" status="">
+<alignment>
+9 <==> 5 // EQUI // 5 // giving <==> giving 
+8 <==> 0 // NOALI // NIL // and <==> -not aligned- 
+10 11 12 13 <==> 6 7 8 9 // EQUI // 5 // the thumbs up sign <==> the thumbs up sign 
+3 4 <==> 0 // NOALI // NIL // are posing <==> -not aligned- 
+0 <==> 10 // NOALI // NIL // -not aligned- <==> . 
+1 2 <==> 1 2 3 4 // SPE2 // 3 // Two women <==> Two smiling young women 
+5 6 7 <==> 0 // NOALI // NIL // for the camera <==> -not aligned- 
+14 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="148" status="">
+<alignment>
+11 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+7 8 9 10 <==> 8 9 // SPE1 // 4 // on a city street <==> the road 
+1 2 3 4 5 6 <==> 1 2 3 4 5 // SPE1 // 4 // A double decker red United bus <==> A doubly decker red bus 
+0 <==> 10 // NOALI // NIL // -not aligned- <==> . 
+0 <==> 6 7 // NOALI // NIL // -not aligned- <==> driving down 
+</alignment>
+</sentence>
+
+<sentence id="149" status="">
+<alignment>
+9 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+2 3 <==> 0 // ALIC // NIL // of people <==> -not aligned- 
+5 6 <==> 4 5 6 // EQUI // 5 // at table <==> at a table 
+7 8 <==> 7 8 9 // EQUI // 5 // of restaurant <==> at a restaurant 
+0 <==> 10 // NOALI // NIL // -not aligned- <==> . 
+1 <==> 1 2 // SIMI // 4 // Group <==> Two people 
+4 <==> 3 // EQUI // 5 // sitting <==> sitting 
+</alignment>
+</sentence>
+
+<sentence id="150" status="">
+<alignment>
+0 <==> 8 // NOALI // NIL // -not aligned- <==> . 
+4 <==> 3 4 // EQUI // 5 // drinking <==> are drinking 
+8 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+1 2 3 <==> 1 2 // SPE1 // 4 // Two dairy cows <==> Two cows 
+5 6 7 <==> 5 6 7 // EQUI // 5 // from a pond <==> from a pond 
+</alignment>
+</sentence>
+
+<sentence id="151" status="">
+<alignment>
+0 <==> 9 // NOALI // NIL // -not aligned- <==> . 
+5 6 7 <==> 0 // NOALI // NIL // into a station <==> -not aligned- 
+4 <==> 0 // NOALI // NIL // coming <==> -not aligned- 
+1 2 3 <==> 0 // NOALI // NIL // A passenger train <==> -not aligned- 
+8 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 1 2 3 // NOALI // NIL // -not aligned- <==> A large bird 
+0 <==> 4 5 // NOALI // NIL // -not aligned- <==> is flying 
+0 <==> 6 7 8 // NOALI // NIL // -not aligned- <==> through the air 
+</alignment>
+</sentence>
+
+<sentence id="152" status="">
+<alignment>
+0 <==> 3 // NOALI // NIL // -not aligned- <==> horses 
+4 5 6 7 <==> 4 5 6 7 // SIMI // 1 // in an urban setting <==> in a fenced area 
+3 <==> 0 // NOALI // NIL // mopeds <==> -not aligned- 
+8 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+2 <==> 2 // SIMI // 3 // ride <==> riding 
+1 <==> 1 // EQUI // 5 // People <==> People 
+0 <==> 8 // NOALI // NIL // -not aligned- <==> . 
+</alignment>
+</sentence>
+
+<sentence id="153" status="">
+<alignment>
+3 <==> 3 // REL // 2 // standing <==> talking 
+9 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+1 2 <==> 1 2 // SIMI // 3 // Two women <==> Two men 
+4 5 6 7 8 <==> 4 5 6 7 8 // SIMI // 2 // in front of tour bus <==> in front of a plane 
+0 <==> 9 // NOALI // NIL // -not aligned- <==> . 
+</alignment>
+</sentence>
+
+<sentence id="154" status="">
+<alignment>
+0 <==> 9 // NOALI // NIL // -not aligned- <==> . 
+0 <==> 4 5 // NOALI // NIL // -not aligned- <==> is parked 
+1 2 3 4 <==> 1 2 3 // SPE1 // 4 // Large silver locomotive engine <==> The silver train 
+8 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+5 6 7 <==> 6 7 8 // SIMI // 3 // in a shed <==> in a station 
+</alignment>
+</sentence>
+
+<sentence id="155" status="">
+<alignment>
+3 4 <==> 2 // SIMI // 2 // is parked <==> stand 
+8 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+5 6 7 <==> 3 4 5 // EQUI // 5 // outside a bookstore <==> outside a bookstore 
+1 2 <==> 0 // NOALI // NIL // A bicycle <==> -not aligned- 
+0 <==> 1 // NOALI // NIL // -not aligned- <==> People 
+0 <==> 6 // NOALI // NIL // -not aligned- <==> . 
+</alignment>
+</sentence>
+
+<sentence id="156" status="">
+<alignment>
+2 <==> 4 // SIMI // 3 // standing <==> standing 
+0 <==> 14 // NOALI // NIL // -not aligned- <==> . 
+0 <==> 1 2 3 // NOALI // NIL // -not aligned- <==> Two police officers 
+7 8 9 <==> 0 // NOALI // NIL // with large building <==> -not aligned- 
+12 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+1 <==> 0 // NOALI // NIL // Feet <==> -not aligned- 
+10 11 <==> 11 12 13 // EQUI // 5 // in background <==> in the background 
+3 4 5 6 <==> 0 // NOALI // NIL // on a pretty day <==> -not aligned- 
+0 <==> 8 9 10 // NOALI // NIL // -not aligned- <==> with a bus 
+0 <==> 5 6 7 // NOALI // NIL // -not aligned- <==> behind a van 
+</alignment>
+</sentence>
+
+<sentence id="157" status="">
+<alignment>
+4 5 <==> 4 // EQUI // 5 // is eating <==> eating 
+6 <==> 5 // EQUI // 5 // fruit <==> fruit 
+11 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+7 8 9 10 <==> 6 7 8 9 // SPE2 // 3 // on a wire grate <==> on a bird feeder 
+0 <==> 10 // NOALI // NIL // -not aligned- <==> . 
+1 2 3 <==> 1 2 3 // EQUI // 5 // A yellow bird <==> A yellow bird 
+</alignment>
+</sentence>
+
+<sentence id="158" status="">
+<alignment>
+4 5 6 <==> 4 5 6 // EQUI // 5 // on the tracks <==> down the tracks 
+7 8 9 <==> 0 // NOALI // NIL // near a field <==> -not aligned- 
+10 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+3 <==> 3 // SIMI // 2 // sitting <==> traveling 
+1 2 <==> 1 2 // EQUI // 5 // A train <==> A train 
+0 <==> 7 // NOALI // NIL // -not aligned- <==> . 
+</alignment>
+</sentence>
+
+<sentence id="159" status="">
+<alignment>
+5 6 7 <==> 0 // NOALI // NIL // on a table <==> -not aligned- 
+0 <==> 10 // NOALI // NIL // -not aligned- <==> . 
+0 <==> 6 7 8 9 // NOALI // NIL // -not aligned- <==> of a wooden fencepost 
+8 9 10 11 12 <==> 0 // NOALI // NIL // with a wooden table runner <==> -not aligned- 
+1 2 3 <==> 0 // NOALI // NIL // A buddha statue <==> -not aligned- 
+0 <==> 1 2 // NOALI // NIL // -not aligned- <==> A bird 
+0 <==> 4 5 // NOALI // NIL // -not aligned- <==> on top 
+13 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+4 <==> 3 // SIMI // 2 // sits <==> standing 
+</alignment>
+</sentence>
+
+<sentence id="160" status="">
+<alignment>
+1 2 <==> 1 2 // SIMI // 3 // A man <==> A woman 
+7 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+4 5 6 <==> 4 5 6 // SIMI // 4 // a white horse <==> a brown horse 
+3 <==> 3 // EQUI // 5 // riding <==> riding 
+0 <==> 7 // NOALI // NIL // -not aligned- <==> . 
+</alignment>
+</sentence>
+
+<sentence id="161" status="">
+<alignment>
+0 <==> 14 // NOALI // NIL // -not aligned- <==> . 
+0 <==> 8 9 10 // NOALI // NIL // -not aligned- <==> to the side 
+0 <==> 11 12 13 // NOALI // NIL // -not aligned- <==> of a cage 
+0 <==> 1 2 3 4 5 // NOALI // NIL // -not aligned- <==> A yellow and orange bird 
+5 6 <==> 6 7 // SIMI // 2 // is standing <==> hold on 
+7 8 9 10 <==> 0 // NOALI // NIL // next to a car <==> -not aligned- 
+1 2 3 4 <==> 0 // NOALI // NIL // A scantily clad woman <==> -not aligned- 
+11 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="162" status="">
+<alignment>
+7 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+3 <==> 7 // EQUI // 5 // riding <==> riding 
+4 5 6 <==> 8 9 10 // EQUI // 5 // a brown horse <==> a brown horse 
+0 <==> 5 // NOALI // NIL // -not aligned- <==> purple 
+0 <==> 11 // NOALI // NIL // -not aligned- <==> . 
+1 2 <==> 1 2 // SPE2 // 3 // A girl <==> The jockey 
+0 <==> 6 // NOALI // NIL // -not aligned- <==> and 
+0 <==> 3 4 // NOALI // NIL // -not aligned- <==> is wearing 
+</alignment>
+</sentence>
+
+<sentence id="163" status="">
+<alignment>
+7 <==> 0 // ALIC // NIL // looking <==> -not aligned- 
+11 <==> 0 // ALIC // NIL // . <==> -not aligned- 
+1 2 <==> 1 2 // EQUI // 5 // A man <==> The man 
+0 <==> 13 // ALIC // NIL // -not aligned- <==> . 
+8 9 10 <==> 0 // ALIC // NIL // toward the sky <==> -not aligned- 
+3 <==> 3 4 // SIMI // 2 // sitting <==> is standing 
+4 5 6 <==> 5 6 7 // SIMI // 2 // on the grass <==> on the sidewalk 
+0 <==> 8 9 10 11 12 // ALIC // NIL // -not aligned- <==> in front of the horse 
+</alignment>
+</sentence>
+
+<sentence id="164" status="">
+<alignment>
+7 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 1 2 // NOALI // NIL // -not aligned- <==> The back 
+0 <==> 7 8 // NOALI // NIL // -not aligned- <==> is adorned 
+0 <==> 3 4 5 6 // NOALI // NIL // -not aligned- <==> of the stop sign 
+4 <==> 0 // NOALI // NIL // protects <==> -not aligned- 
+5 6 <==> 0 // NOALI // NIL // its owner <==> -not aligned- 
+0 <==> 9 10 // NOALI // NIL // -not aligned- <==> with stickers 
+1 2 3 <==> 0 // NOALI // NIL // The small dog <==> -not aligned- 
+0 <==> 11 // NOALI // NIL // -not aligned- <==> . 
+</alignment>
+</sentence>
+
+<sentence id="165" status="">
+<alignment>
+4 <==> 3 // EQUI // 5 // standing <==> standing 
+0 <==> 7 // NOALI // NIL // -not aligned- <==> . 
+5 6 7 <==> 0 // NOALI // NIL // on a carpet <==> -not aligned- 
+0 <==> 4 5 6 // NOALI // NIL // -not aligned- <==> in a forest 
+8 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+1 2 3 <==> 1 2 // SIMI // 2 // A white cat <==> A sheep 
+</alignment>
+</sentence>
+
+<sentence id="166" status="">
+<alignment>
+0 <==> 4 5 6 7 // NOALI // NIL // -not aligned- <==> in a small sailboat 
+5 6 7 <==> 0 // NOALI // NIL // in grassy field <==> -not aligned- 
+1 2 3 <==> 0 // NOALI // NIL // Two brown horses <==> -not aligned- 
+0 <==> 3 // NOALI // NIL // -not aligned- <==> sailing 
+0 <==> 1 2 // NOALI // NIL // -not aligned- <==> Two men 
+0 <==> 8 // NOALI // NIL // -not aligned- <==> . 
+8 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+4 <==> 0 // NOALI // NIL // standing <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="167" status="">
+<alignment>
+4 5 6 <==> 0 // NOALI // NIL // of a bookstore <==> -not aligned- 
+1 2 <==> 0 // NOALI // NIL // A line <==> -not aligned- 
+0 <==> 9 // NOALI // NIL // -not aligned- <==> . 
+3 <==> 0 // NOALI // NIL // outside <==> -not aligned- 
+7 8 9 <==> 6 7 8 // EQUI // 5 // on a street <==> on the street 
+0 <==> 4 5 // NOALI // NIL // -not aligned- <==> is parked 
+10 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 1 2 3 // NOALI // NIL // -not aligned- <==> The yellow motorcycle 
+</alignment>
+</sentence>
+
+<sentence id="168" status="">
+<alignment>
+0 <==> 10 // NOALI // NIL // -not aligned- <==> . 
+1 2 3 <==> 1 2 3 4 // SPE2 // 4 // A passenger jet <==> A large passenger jet 
+5 6 7 <==> 6 7 8 9 // SPE1 // 2 // on a runway <==> close to the ground 
+8 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+4 <==> 5 // REL // 2 // sits <==> flying 
+</alignment>
+</sentence>
+
+<sentence id="169" status="">
+<alignment>
+0 <==> 3 4 // NOALI // NIL // -not aligned- <==> in suits 
+0 <==> 9 // NOALI // NIL // -not aligned- <==> . 
+8 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+5 6 7 <==> 6 7 8 // EQUI // 5 // on a table <==> at a table 
+1 2 3 <==> 0 // NOALI // NIL // Old green bottle <==> -not aligned- 
+0 <==> 1 2 // NOALI // NIL // -not aligned- <==> Three men 
+4 <==> 5 // SIMI // 3 // sitting <==> sitting 
+</alignment>
+</sentence>
+
+<sentence id="170" status="">
+<alignment>
+0 <==> 9 // NOALI // NIL // -not aligned- <==> . 
+0 <==> 4 5 // NOALI // NIL // -not aligned- <==> is flying 
+0 <==> 1 2 3 // NOALI // NIL // -not aligned- <==> The white airplane 
+6 <==> 0 // NOALI // NIL // pause <==> -not aligned- 
+12 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+1 2 3 4 5 <==> 0 // NOALI // NIL // The black and white cows <==> -not aligned- 
+0 <==> 6 7 8 // NOALI // NIL // -not aligned- <==> in the sky 
+7 8 9 10 11 <==> 0 // NOALI // NIL // in front of the gate <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="171" status="">
+<alignment>
+0 <==> 6 7 8 // NOALI // NIL // -not aligned- <==> with his head 
+4 <==> 0 // NOALI // NIL // standing <==> -not aligned- 
+0 <==> 9 10 // NOALI // NIL // -not aligned- <==> hanging off 
+1 2 3 <==> 1 2 3 4 5 // SPE2 // 3 // A white cat <==> A pretty white striped cat 
+8 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 13 // NOALI // NIL // -not aligned- <==> . 
+5 6 7 <==> 11 12 // SIMI // 1 // on a carpet <==> the table 
+</alignment>
+</sentence>
+
+<sentence id="172" status="">
+<alignment>
+0 <==> 4 5 // NOALI // NIL // -not aligned- <==> in grass 
+0 <==> 10 // NOALI // NIL // -not aligned- <==> . 
+0 <==> 1 2 // NOALI // NIL // -not aligned- <==> White bus 
+13 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 3 // NOALI // NIL // -not aligned- <==> parked 
+1 2 <==> 0 // NOALI // NIL // A woman <==> -not aligned- 
+10 11 12 <==> 0 // NOALI // NIL // in the snow <==> -not aligned- 
+3 <==> 0 // NOALI // NIL // posing <==> -not aligned- 
+4 5 6 7 8 9 <==> 6 7 8 9 // SPE1 // 4 // in front of an apartment building <==> in front of building 
+</alignment>
+</sentence>
+
+<sentence id="173" status="">
+<alignment>
+0 <==> 12 13 14 // NOALI // NIL // -not aligned- <==> in the background 
+0 <==> 15 // NOALI // NIL // -not aligned- <==> . 
+6 7 8 <==> 6 7 8 // SPE2 // 2 // on the ground <==> under a tree 
+9 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 1 2 // NOALI // NIL // -not aligned- <==> The back 
+0 <==> 3 4 5 // ALIC // NIL // -not aligned- <==> of a pig 
+4 5 <==> 0 // NOALI // NIL // is sitting <==> -not aligned- 
+1 2 3 <==> 9 10 11 // SIMI // 1 // The black bird <==> with a cow 
+</alignment>
+</sentence>
+
+<sentence id="174" status="">
+<alignment>
+10 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+3 4 5 <==> 3 4 5 // SIMI // 2 // of a cat <==> of a horse 
+6 7 8 9 <==> 0 // NOALI // NIL // on a cream sofa <==> -not aligned- 
+0 <==> 6 // NOALI // NIL // -not aligned- <==> . 
+1 2 <==> 1 2 // EQUI // 5 // A close-up <==> A close-up 
+</alignment>
+</sentence>
+
+<sentence id="175" status="">
+<alignment>
+0 <==> 6 // NOALI // NIL // -not aligned- <==> . 
+3 4 <==> 2 // SIMI // 2 // are swimming <==> fly 
+1 2 <==> 1 // EQUI // 5 // The birds <==> Birds 
+8 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 3 // NOALI // NIL // -not aligned- <==> low 
+5 6 7 <==> 4 5 // SIMI // 2 // in the water <==> over water 
+</alignment>
+</sentence>
+
+<sentence id="176" status="">
+<alignment>
+10 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 5 6 7 // NOALI // NIL // -not aligned- <==> in the snow 
+0 <==> 12 // NOALI // NIL // -not aligned- <==> . 
+6 7 8 9 <==> 8 9 10 11 // SPE1 // 4 // on a crowded street <==> on a public street 
+0 <==> 4 // NOALI // NIL // -not aligned- <==> partially 
+1 2 3 4 5 <==> 1 2 3 // SIMI // 3 // A red double decker bus <==> A white bus 
+</alignment>
+</sentence>
+
+<sentence id="177" status="">
+<alignment>
+0 <==> 8 9 10 // ALIC // NIL // -not aligned- <==> of green grass 
+6 7 8 <==> 5 6 7 // SPE2 // 4 // in a field <==> in a field 
+9 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+5 <==> 4 // EQUI // 5 // grazing <==> grazing 
+3 4 <==> 0 // ALIC // NIL // of horses <==> -not aligned- 
+0 <==> 11 // NOALI // NIL // -not aligned- <==> . 
+1 2 <==> 1 2 3 // SPE2 // 3 // A group <==> A brown horse 
+</alignment>
+</sentence>
+
+<sentence id="178" status="">
+<alignment>
+0 <==> 1 2 // NOALI // NIL // -not aligned- <==> Two woman 
+9 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+3 4 5 6 <==> 0 // NOALI // NIL // in a fenced kennel <==> -not aligned- 
+1 2 <==> 0 // NOALI // NIL // Two dogs <==> -not aligned- 
+7 8 <==> 0 // NOALI // NIL // look ahead <==> -not aligned- 
+0 <==> 4 5 6 7 // NOALI // NIL // -not aligned- <==> in a dining room 
+0 <==> 8 9 10 // NOALI // NIL // -not aligned- <==> with a baby 
+0 <==> 11 // NOALI // NIL // -not aligned- <==> . 
+0 <==> 3 // NOALI // NIL // -not aligned- <==> pose 
+</alignment>
+</sentence>
+
+<sentence id="179" status="">
+<alignment>
+0 <==> 1 2 // NOALI // NIL // -not aligned- <==> A baby 
+4 5 6 <==> 0 // NOALI // NIL // on the tracks <==> -not aligned- 
+10 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+7 8 9 <==> 5 6 7 // SIMI // 3 // near a field <==> in the grass 
+1 2 <==> 0 // NOALI // NIL // A train <==> -not aligned- 
+0 <==> 8 // NOALI // NIL // -not aligned- <==> . 
+3 <==> 3 4 // SIMI // 4 // sitting <==> is sitting 
+</alignment>
+</sentence>
+
+<sentence id="180" status="">
+<alignment>
+10 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 8 9 // NOALI // NIL // -not aligned- <==> a picture 
+7 8 9 <==> 0 // NOALI // NIL // at a object <==> -not aligned- 
+0 <==> 10 // NOALI // NIL // -not aligned- <==> . 
+0 <==> 7 // NOALI // NIL // -not aligned- <==> taking 
+6 <==> 0 // NOALI // NIL // looking <==> -not aligned- 
+1 2 <==> 1 2 // EQUI // 5 // Two women <==> Two women 
+0 <==> 5 6 // NOALI // NIL // -not aligned- <==> with one 
+3 4 5 <==> 3 4 // EQUI // 5 // in the kitchen <==> in kitchen 
+</alignment>
+</sentence>
+
+<sentence id="181" status="">
+<alignment>
+7 8 9 <==> 7 8 9 // EQUI // 5 // toward the camera <==> towards the camera 
+1 2 3 4 5 <==> 0 // NOALI // NIL // A steam engine and train <==> -not aligned- 
+10 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 1 2 3 // NOALI // NIL // -not aligned- <==> A large bird 
+6 <==> 6 // SIMI // 2 // moving <==> flying 
+0 <==> 4 5 // NOALI // NIL // -not aligned- <==> of prey 
+0 <==> 10 // NOALI // NIL // -not aligned- <==> . 
+</alignment>
+</sentence>
+
+<sentence id="182" status="">
+<alignment>
+14 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+10 11 12 13 <==> 0 // NOALI // NIL // alongside a large palm <==> -not aligned- 
+4 5 6 7 8 9 <==> 4 5 6 7 8 9 10 11 12 13 14 15 // SPE2 // 1 // with table , chair and sofa <==> with a blue sofa , camp bed , wooden bench and dresser 
+1 2 3 <==> 1 2 3 // EQUI // 5 // A living room <==> A living room 
+0 <==> 16 // NOALI // NIL // -not aligned- <==> . 
+</alignment>
+</sentence>
+
+<sentence id="183" status="">
+<alignment>
+13 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+1 2 <==> 0 // NOALI // NIL // A horse <==> -not aligned- 
+0 <==> 1 2 // NOALI // NIL // -not aligned- <==> A group 
+4 5 6 <==> 0 // NOALI // NIL // near a gate <==> -not aligned- 
+10 11 12 <==> 8 9 10 // EQUI // 5 // in the background <==> in the background 
+7 8 9 <==> 0 // NOALI // NIL // with another horse <==> -not aligned- 
+0 <==> 11 // NOALI // NIL // -not aligned- <==> . 
+0 <==> 6 7 // NOALI // NIL // -not aligned- <==> with trees 
+0 <==> 3 4 5 // NOALI // NIL // -not aligned- <==> of river barges 
+3 <==> 0 // NOALI // NIL // standing <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="184" status="">
+<alignment>
+1 2 3 <==> 1 2 // SIMI // 4 // A steam engine <==> A train 
+6 7 8 <==> 4 5 6 7 // REL // 3 // a train track <==> at a train station 
+0 <==> 8 // NOALI // NIL // -not aligned- <==> . 
+4 5 <==> 0 // NOALI // NIL // comes down <==> -not aligned- 
+9 10 <==> 0 // NOALI // NIL // near trees <==> -not aligned- 
+11 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 3 // NOALI // NIL // -not aligned- <==> is 
+</alignment>
+</sentence>
+
+<sentence id="185" status="">
+<alignment>
+8 9 <==> 0 // NOALI // NIL // a baby <==> -not aligned- 
+0 <==> 3 4 5 // NOALI // NIL // -not aligned- <==> on a log 
+3 <==> 2 // SIMI // 4 // sitting <==> sitting 
+7 <==> 0 // NOALI // NIL // holding <==> -not aligned- 
+0 <==> 9 // NOALI // NIL // -not aligned- <==> . 
+10 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+4 5 6 <==> 0 // NOALI // NIL // on a sofa <==> -not aligned- 
+1 2 <==> 0 // NOALI // NIL // a woman <==> -not aligned- 
+0 <==> 6 7 8 // NOALI // NIL // -not aligned- <==> in a lake 
+0 <==> 1 // NOALI // NIL // -not aligned- <==> Bird 
+</alignment>
+</sentence>
+
+<sentence id="186" status="">
+<alignment>
+1 2 <==> 1 2 // EQUI // 5 // Two women <==> Two women 
+0 <==> 5 6 7 // ALIC // NIL // -not aligned- <==> of a bus 
+6 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+4 <==> 4 // SPE2 // 3 // outside <==> outside 
+3 <==> 3 // SIMI // 2 // sitting <==> standing 
+0 <==> 8 // NOALI // NIL // -not aligned- <==> . 
+5 <==> 0 // NOALI // NIL // laughing <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="187" status="">
+<alignment>
+6 <==> 0 // NOALI // NIL // moving <==> -not aligned- 
+0 <==> 11 // NOALI // NIL // -not aligned- <==> . 
+7 8 9 <==> 8 9 10 // EQUI // 5 // toward the camera <==> at the camera 
+0 <==> 1 2 3 // NOALI // NIL // -not aligned- <==> A white sheep 
+1 2 3 4 5 <==> 0 // NOALI // NIL // A steam engine and train <==> -not aligned- 
+0 <==> 7 // NOALI // NIL // -not aligned- <==> looking 
+10 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 4 5 6 // NOALI // NIL // -not aligned- <==> on a hillside 
+</alignment>
+</sentence>
+
+<sentence id="188" status="">
+<alignment>
+1 2 <==> 1 2 // SIMI // 1 // The bird <==> The sheep 
+5 6 7 <==> 5 6 7 // SIMI // 2 // on the branch <==> under the trees 
+8 <==> 0 // NOALI // 3 // . <==> -not aligned- 
+0 <==> 8 // NOALI // NIL // -not aligned- <==> . 
+3 4 <==> 3 4 // SIMI // 3 // is sitting <==> is standing 
+</alignment>
+</sentence>
+
+<sentence id="189" status="">
+<alignment>
+9 <==> 6 7 8 // SPE2 // 4 // looking <==> is looking up 
+13 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 12 // NOALI // NIL // -not aligned- <==> . 
+1 2 3 4 5 <==> 1 2 3 4 5 // SIMI // 2 // A brown and white cow <==> The black and white cat 
+6 7 8 <==> 0 // NOALI // NIL // in a field <==> -not aligned- 
+10 11 12 <==> 9 10 11 // EQUI // 5 // into the camera <==> at the camera 
+</alignment>
+</sentence>
+
+<sentence id="190" status="">
+<alignment>
+0 <==> 18 // NOALI // NIL // -not aligned- <==> . 
+9 10 11 <==> 16 17 // SIMI // 4 // along the beach <==> 's shore 
+8 <==> 12 // EQUI // 5 // walking <==> walk 
+0 <==> 3 4 5 6 7 8 // NOALI // NIL // -not aligned- <==> with a beard and a skullcap 
+0 <==> 13 14 15 // ALIC // NIL // -not aligned- <==> along the ocean 
+1 2 3 4 5 <==> 1 2 // SIMI // 2 // A man and a woman <==> A man 
+6 7 <==> 0 // NOALI // NIL // holding hands <==> -not aligned- 
+0 <==> 9 10 11 // ALIC // NIL // -not aligned- <==> and a boy 
+12 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="191" status="">
+<alignment>
+1 2 3 4 5 <==> 1 2 3 4 5 6 // SIMI // 2 // A black and white dog <==> A small black and white goat 
+7 8 9 <==> 12 13 14 // EQUI // 5 // at the camera <==> at the camera 
+0 <==> 7 8 9 // NOALI // NIL // -not aligned- <==> in a pen 
+0 <==> 15 // NOALI // NIL // -not aligned- <==> . 
+10 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+6 <==> 10 11 // SPE2 // 4 // looking <==> looking up 
+</alignment>
+</sentence>
+
+<sentence id="192" status="">
+<alignment>
+1 2 3 4 <==> 1 2 3 4 5 // EQUI // 5 // Red double decker bus <==> A red double decker bus 
+0 <==> 7 8 9 // NOALI // NIL // -not aligned- <==> down a street 
+0 <==> 10 // NOALI // NIL // -not aligned- <==> . 
+8 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+7 <==> 0 // NOALI // NIL // passengers <==> -not aligned- 
+5 6 <==> 0 // NOALI // NIL // taking on <==> -not aligned- 
+0 <==> 6 // NOALI // NIL // -not aligned- <==> driving 
+</alignment>
+</sentence>
+
+<sentence id="193" status="">
+<alignment>
+4 <==> 0 // NOALI // NIL // coloring <==> -not aligned- 
+0 <==> 17 // NOALI // NIL // -not aligned- <==> . 
+0 <==> 9 10 // NOALI // NIL // -not aligned- <==> on top 
+0 <==> 11 12 13 14 15 16 // NOALI // NIL // -not aligned- <==> of a gray and white horse 
+0 <==> 8 // NOALI // NIL // -not aligned- <==> sits 
+1 2 3 <==> 1 2 3 4 // SPE2 // 3 // A young boy <==> A young blonde girl 
+5 6 7 8 9 10 <==> 0 // NOALI // NIL // with a red and blue crayon <==> -not aligned- 
+0 <==> 5 6 7 // NOALI // NIL // -not aligned- <==> in riding gear 
+11 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="194" status="">
+<alignment>
+1 2 <==> 1 2 // EQUI // 5 // A group <==> A group 
+0 <==> 7 8 9 10 // NOALI // NIL // -not aligned- <==> past a giant mushroom 
+0 <==> 6 // NOALI // NIL // -not aligned- <==> walking 
+0 <==> 11 // NOALI // NIL // -not aligned- <==> . 
+9 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+3 4 <==> 3 4 5 // SPE2 // 4 // of people <==> of four people 
+5 6 7 8 <==> 0 // NOALI // NIL // in a living room <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="195" status="">
+<alignment>
+13 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+1 2 <==> 1 2 // SIMI // 2 // The cat <==> Than horse 
+0 <==> 4 5 6 // NOALI // NIL // -not aligned- <==> in a field 
+5 6 7 <==> 0 // NOALI // NIL // between two bicycles <==> -not aligned- 
+8 9 10 11 12 <==> 7 8 9 10 11 // SIMI // 3 // in front of a door <==> in front of a fence 
+3 4 <==> 3 // SIMI // 2 // is sitting <==> standing 
+0 <==> 12 // NOALI // NIL // -not aligned- <==> . 
+</alignment>
+</sentence>
+
+<sentence id="196" status="">
+<alignment>
+0 <==> 5 6 7 // NOALI // NIL // -not aligned- <==> in the shade 
+4 5 6 7 <==> 0 // NOALI // NIL // in a pale scarf <==> -not aligned- 
+0 <==> 13 // NOALI // NIL // -not aligned- <==> . 
+3 <==> 0 // NOALI // NIL // dressed <==> -not aligned- 
+0 <==> 11 12 // NOALI // NIL // -not aligned- <==> of soda 
+1 2 <==> 1 2 // SPE2 // 2 // A man <==> A runner 
+0 <==> 3 4 // NOALI // NIL // -not aligned- <==> is resting 
+8 9 10 <==> 0 // NOALI // NIL // with a stick <==> -not aligned- 
+0 <==> 8 9 10 // NOALI // NIL // -not aligned- <==> with a bottle 
+11 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="197" status="">
+<alignment>
+0 <==> 1 2 3 // NOALI // NIL // -not aligned- <==> A gray cat 
+1 2 3 4 5 <==> 0 // NOALI // NIL // A very retro living room <==> -not aligned- 
+11 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 9 // NOALI // NIL // -not aligned- <==> . 
+9 10 <==> 0 // NOALI // NIL // in it <==> -not aligned- 
+0 <==> 5 6 7 8 // NOALI // NIL // -not aligned- <==> on a wooden table 
+0 <==> 4 // NOALI // NIL // -not aligned- <==> lying 
+6 7 8 <==> 0 // NOALI // NIL // with a television <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="198" status="">
+<alignment>
+3 4 5 6 <==> 3 // REL // 3 // in a riding hat <==> riding 
+0 <==> 7 // NOALI // NIL // -not aligned- <==> . 
+7 8 9 <==> 4 5 6 // SPE2 // 4 // on a horse <==> a brown horse 
+1 2 <==> 1 2 // EQUI // 5 // A girl <==> A girl 
+10 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="199" status="">
+<alignment>
+6 7 8 <==> 0 // NOALI // NIL // in fur hats <==> -not aligned- 
+5 <==> 0 // NOALI // NIL // posing <==> -not aligned- 
+1 2 <==> 1 2 // EQUI // 5 // A group <==> A group 
+9 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+3 4 <==> 3 4 // SPE2 // 2 // of peoples <==> of cyclists 
+0 <==> 9 10 // NOALI // NIL // -not aligned- <==> with spectators 
+0 <==> 5 6 7 8 // NOALI // NIL // -not aligned- <==> in green and white 
+0 <==> 11 12 // NOALI // NIL // -not aligned- <==> looking on 
+0 <==> 13 // NOALI // NIL // -not aligned- <==> . 
+</alignment>
+</sentence>
+
+<sentence id="200" status="">
+<alignment>
+0 <==> 16 // NOALI // NIL // -not aligned- <==> . 
+11 12 13 <==> 0 // NOALI // NIL // onto the street <==> -not aligned- 
+0 <==> 4 // NOALI // NIL // -not aligned- <==> parked 
+1 2 <==> 1 2 3 // SPE2 // 4 // A car <==> A silver car 
+14 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 11 12 13 14 15 // NOALI // NIL // -not aligned- <==> in front of the hills 
+8 9 10 <==> 8 9 10 // EQUI // 5 // of the road <==> of the road 
+3 4 5 <==> 0 // NOALI // NIL // is pulling off <==> -not aligned- 
+6 7 <==> 5 6 7 // EQUI // 5 // the side <==> on the side 
+</alignment>
+</sentence>
+
+<sentence id="201" status="">
+<alignment>
+4 5 <==> 4 // EQUI // 5 // is lying <==> lies 
+1 2 3 <==> 1 2 3 // EQUI // 5 // The black dog <==> A black dog 
+9 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 8 // NOALI // NIL // -not aligned- <==> . 
+6 7 8 <==> 5 6 7 // EQUI // 5 // in the grass <==> on the grass 
+</alignment>
+</sentence>
+
+<sentence id="202" status="">
+<alignment>
+1 2 3 4 <==> 1 2 3 // SPE1 // 4 // Large white cruise ship <==> Large cruise ship 
+5 <==> 4 // EQUI // 5 // floating <==> floating 
+6 7 <==> 5 6 7 // EQUI // 5 // on water <==> on the water 
+0 <==> 8 // NOALI // NIL // -not aligned- <==> . 
+8 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="203" status="">
+<alignment>
+0 <==> 13 // NOALI // NIL // -not aligned- <==> and 
+9 <==> 0 // ALIC // NIL // driving <==> -not aligned- 
+12 <==> 0 // NOALI // NIL // and <==> -not aligned- 
+14 15 16 <==> 16 17 18 19 // SPE2 // 4 // with a motorcycle <==> with a classic motorcycle 
+10 11 <==> 9 10 11 12 // SPE2 // 4 // a car <==> in a classic car 
+1 2 3 4 5 <==> 1 2 3 4 5 // EQUI // 5 // A black and white photo <==> A black and white photo 
+0 <==> 20 // NOALI // NIL // -not aligned- <==> . 
+6 7 8 <==> 6 7 8 // EQUI // 5 // of a man <==> of a man 
+13 <==> 14 15 // SPE2 // 3 // someone <==> a man 
+17 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="204" status="">
+<alignment>
+5 6 7 8 <==> 8 9 10 // EQUI // 5 // on the gloved hand <==> 's gloved hand 
+9 10 11 <==> 5 6 7 // EQUI // 5 // of a person <==> on a person 
+12 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+4 <==> 3 4 // EQUI // 5 // perches <==> is perched 
+1 2 3 <==> 1 2 // SPE1 // 4 // A blue bird <==> A bird 
+0 <==> 11 // NOALI // NIL // -not aligned- <==> . 
+</alignment>
+</sentence>
+
+<sentence id="205" status="">
+<alignment>
+3 4 <==> 3 // EQUI // 5 // riding on <==> riding 
+10 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 7 // NOALI // NIL // -not aligned- <==> . 
+5 6 7 8 9 <==> 4 5 6 // SPE1 // 4 // a brown and white horse <==> a brown horse 
+1 2 <==> 1 2 // EQUI // 5 // A girl <==> A girl 
+</alignment>
+</sentence>
+
+<sentence id="206" status="">
+<alignment>
+3 4 5 6 <==> 3 // REL // 3 // in a riding hat <==> riding 
+1 2 <==> 1 2 // EQUI // 5 // A girl <==> A girl 
+10 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+7 8 9 <==> 4 5 6 // SPE2 // 4 // on a horse <==> a tan horse 
+0 <==> 7 // NOALI // NIL // -not aligned- <==> . 
+</alignment>
+</sentence>
+
+<sentence id="207" status="">
+<alignment>
+8 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+3 4 <==> 6 7 // EQUI // 5 // is sitting <==> is perched 
+0 <==> 10 // NOALI // NIL // -not aligned- <==> . 
+1 2 <==> 1 2 3 4 5 // SPE2 // 3 // The bird <==> A red and brown bird 
+5 6 7 <==> 8 9 // SIMI // 4 // on the branch <==> on branches 
+</alignment>
+</sentence>
+
+<sentence id="208" status="">
+<alignment>
+11 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 9 10 11 // NOALI // NIL // -not aligned- <==> in a pen 
+7 8 9 10 <==> 5 6 7 8 // SIMI // 4 // at a black sheep <==> at a brown sheep 
+0 <==> 12 // NOALI // NIL // -not aligned- <==> . 
+6 <==> 4 // EQUI // 5 // looks <==> looking 
+1 2 3 4 5 <==> 1 2 3 // SPE1 // 4 // A black and tan dog <==> A black dog 
+</alignment>
+</sentence>
+
+<sentence id="209" status="">
+<alignment>
+0 <==> 10 11 // ALIC // NIL // -not aligned- <==> behind him 
+7 <==> 6 // EQUI // 5 // jumping <==> jumping 
+0 <==> 12 // NOALI // NIL // -not aligned- <==> . 
+1 2 <==> 1 2 // EQUI // 5 // a man <==> A man 
+10 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+8 9 <==> 7 8 9 // REL // 2 // very high <==> with the sky 
+3 4 5 6 <==> 3 4 5 // SPE1 // 4 // on a dirt bike <==> on a motorbike 
+</alignment>
+</sentence>
+
+<sentence id="210" status="">
+<alignment>
+1 2 <==> 1 2 // EQUI // 5 // The man <==> A man 
+0 <==> 4 5 // NOALI // NIL // -not aligned- <==> looking at 
+5 6 7 8 <==> 9 10 11 12 // EQUI // 5 // at a messy table <==> on a messy table 
+10 <==> 0 // NOALI // NIL // using <==> -not aligned- 
+11 12 <==> 6 7 8 // EQUI // 5 // a laptop <==> a laptop computer 
+13 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 13 // NOALI // NIL // -not aligned- <==> . 
+3 4 <==> 3 // EQUI // 5 // is sitting <==> sits 
+9 <==> 0 // NOALI // NIL // and <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="211" status="">
+<alignment>
+0 <==> 5 // NOALI // NIL // -not aligned- <==> . 
+1 2 <==> 1 // SPE1 // 4 // Four children <==> Children 
+4 5 6 <==> 3 4 // SPE2 // 2 // at barn animals <==> a sheep 
+7 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+3 <==> 2 // EQUI // 5 // looking <==> looking 
+</alignment>
+</sentence>
+
+<sentence id="212" status="">
+<alignment>
+5 6 <==> 5 // EQUI // 5 // is standing <==> standing 
+11 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 12 // NOALI // NIL // -not aligned- <==> . 
+7 8 9 10 <==> 6 7 8 9 10 11 // SPE2 // 3 // next to a car <==> next to a small red vehicle 
+1 2 3 4 <==> 1 2 3 4 // EQUI // 5 // A scantily clad woman <==> A scantily clad woman 
+</alignment>
+</sentence>
+
+<sentence id="213" status="">
+<alignment>
+1 2 3 4 5 <==> 1 2 3 4 // SIMI // 3 // A red and blue plane <==> A WWII fighter plane 
+6 <==> 0 // NOALI // NIL // flying <==> -not aligned- 
+12 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+11 <==> 9 // EQUI // 5 // down <==> down 
+7 8 9 10 <==> 5 6 7 8 // EQUI // 5 // with its landing gears <==> with its landing gear 
+0 <==> 10 // NOALI // NIL // -not aligned- <==> . 
+</alignment>
+</sentence>
+
+<sentence id="214" status="">
+<alignment>
+11 12 13 <==> 9 10 11 12 // SPE2 // 4 // in a restaurant <==> in an Italian restaurant 
+14 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+1 2 3 4 5 <==> 1 2 // SPE1 // 4 // Four women and two men <==> A group 
+7 8 9 10 <==> 6 7 8 // SPE1 // 4 // at a long table <==> at a table 
+0 <==> 13 // NOALI // NIL // -not aligned- <==> . 
+6 <==> 5 // EQUI // 5 // sit <==> sit 
+0 <==> 3 4 // ALIC // NIL // -not aligned- <==> of people 
+</alignment>
+</sentence>
+
+<sentence id="215" status="">
+<alignment>
+7 8 9 10 <==> 8 9 10 // EQUI // 5 // with a blue halter <==> a blue halter 
+0 <==> 11 // NOALI // NIL // -not aligned- <==> . 
+11 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 7 // ALIC // NIL // -not aligned- <==> wearing 
+1 2 <==> 1 2 3 // EQUI // 5 // Close up <==> A close up 
+3 4 5 6 <==> 4 5 6 // SPE1 // 4 // of a brown horse <==> of a horse 
+</alignment>
+</sentence>
+
+<sentence id="216" status="">
+<alignment>
+11 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+7 8 9 10 <==> 6 7 8 // SPE2 // 4 // in a rural area <==> in a field 
+0 <==> 9 // NOALI // NIL // -not aligned- <==> . 
+1 2 3 4 <==> 1 2 3 4 // EQUI // 5 // A yellow school bus <==> A yellow school bus 
+5 6 <==> 5 // EQUI // 5 // is parked <==> parked 
+</alignment>
+</sentence>
+
+<sentence id="217" status="">
+<alignment>
+0 <==> 6 // NOALI // NIL // -not aligned- <==> . 
+9 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+3 <==> 0 // NOALI // NIL // standing <==> -not aligned- 
+4 5 6 <==> 0 // NOALI // NIL // on a table <==> -not aligned- 
+1 2 <==> 1 2 // SPE2 // 4 // A sheep <==> Woolly sheep 
+7 8 <==> 3 4 5 // SPE2 // 4 // at auction <==> at auction house 
+</alignment>
+</sentence>
+
+<sentence id="218" status="">
+<alignment>
+7 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+1 2 <==> 1 2 // EQUI // 5 // a train <==> The train 
+0 <==> 7 // NOALI // NIL // -not aligned- <==> , 
+0 <==> 8 9 10 // NOALI // NIL // -not aligned- <==> between two rows 
+4 5 6 <==> 5 6 // EQUI // 5 // on his tracks <==> the track 
+3 <==> 3 4 // SPE2 // 3 // rides <==> comes down 
+0 <==> 13 // NOALI // NIL // -not aligned- <==> . 
+0 <==> 11 12 // NOALI // NIL // -not aligned- <==> of trees 
+</alignment>
+</sentence>
+
+<sentence id="219" status="">
+<alignment>
+7 8 9 10 <==> 6 7 8 9 // EQUI // 5 // on a city street <==> on a city street 
+11 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+1 2 3 4 5 6 <==> 1 2 3 4 // SPE1 // 4 // A double decker red United bus <==> A double decker bus 
+0 <==> 5 // NOALI // NIL // -not aligned- <==> drives 
+0 <==> 10 // NOALI // NIL // -not aligned- <==> . 
+</alignment>
+</sentence>
+
+<sentence id="220" status="">
+<alignment>
+4 5 6 7 <==> 5 6 7 // SPE2 // 4 // on a carpeted floor <==> on white carpeting 
+1 2 3 <==> 1 2 // EQUI // 5 // A tan puppy <==> Tan puppy 
+8 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 3 4 // NOALI // NIL // -not aligned- <==> lying down 
+0 <==> 8 // NOALI // NIL // -not aligned- <==> . 
+</alignment>
+</sentence>
+
+<sentence id="221" status="">
+<alignment>
+1 2 3 <==> 1 2 // SPE1 // 4 // A young girl <==> A woman 
+8 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+4 <==> 3 4 // EQUI // 5 // riding <==> in riding 
+5 6 7 <==> 5 6 7 // EQUI // 5 // a brown horse <==> a brown horse 
+0 <==> 8 // NOALI // NIL // -not aligned- <==> . 
+</alignment>
+</sentence>
+
+<sentence id="222" status="">
+<alignment>
+5 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 6 // NOALI // NIL // -not aligned- <==> . 
+2 3 4 <==> 3 4 5 // EQUI // 5 // in a station <==> in a station 
+1 <==> 1 2 // EQUI // 5 // Train <==> a train 
+</alignment>
+</sentence>
+
+<sentence id="223" status="">
+<alignment>
+4 <==> 3 // EQUI // 5 // standing <==> standing 
+8 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 7 // NOALI // NIL // -not aligned- <==> . 
+1 2 3 <==> 1 2 // EQUI // 5 // A blue bird <==> Blue bird 
+5 6 7 <==> 4 5 6 // EQUI // 5 // on a lawn <==> on green grass 
+</alignment>
+</sentence>
+
+<sentence id="224" status="">
+<alignment>
+7 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+5 6 <==> 5 6 7 8 // SPE2 // 4 // a horse <==> on the brown horse 
+1 2 3 <==> 1 2 // SPE1 // 4 // A woman equestrian <==> The woman 
+4 <==> 3 4 // EQUI // 5 // riding <==> is riding 
+0 <==> 9 // NOALI // NIL // -not aligned- <==> . 
+</alignment>
+</sentence>
+
+<sentence id="225" status="">
+<alignment>
+2 3 <==> 5 // SIMI // 4 // going down <==> traveling 
+1 <==> 1 2 3 4 // SPE2 // 4 // Train <==> A black steam train 
+6 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+4 5 <==> 6 7 8 9 // EQUI // 5 // the tracks <==> on the railroad tracks 
+0 <==> 10 // NOALI // NIL // -not aligned- <==> . 
+</alignment>
+</sentence>
+
+<sentence id="226" status="">
+<alignment>
+1 2 3 4 <==> 1 2 3 // SPE1 // 4 // A large cruise ship <==> A cruise ship 
+5 6 <==> 5 6 7 // SPE1 // 3 // in harbor <==> at a coast 
+0 <==> 4 // NOALI // NIL // -not aligned- <==> docked 
+7 8 9 <==> 0 // NOALI // NIL // with trees behind <==> -not aligned- 
+0 <==> 8 // NOALI // NIL // -not aligned- <==> . 
+10 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="227" status="">
+<alignment>
+4 5 6 <==> 4 5 6 // SIMI // 3 // a road intersection <==> a paved street 
+3 <==> 3 // EQUI // 5 // crossing <==> cross 
+1 2 <==> 1 2 // EQUI // 5 // Two cows <==> Two cows 
+7 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 7 // NOALI // NIL // -not aligned- <==> . 
+</alignment>
+</sentence>
+
+<sentence id="228" status="">
+<alignment>
+9 10 11 <==> 17 18 19 // SIMI // 4 // in a plain <==> in a field 
+8 <==> 8 // EQUI // 5 // stands <==> standing 
+0 <==> 15 16 // ALIC // NIL // -not aligned- <==> of trees 
+1 2 3 4 5 6 7 <==> 1 2 3 4 5 6 7 // EQUI // 5 // A black cow and a brown cow <==> A black cow and a brown cow 
+18 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 20 // NOALI // NIL // -not aligned- <==> . 
+12 13 14 15 16 17 <==> 9 10 11 12 13 14 // SPE1 // 3 // in front of an uprooted tree <==> in front of a small copse 
+</alignment>
+</sentence>
+
+<sentence id="229" status="">
+<alignment>
+6 7 8 <==> 6 7 8 9 // SPE2 // 4 // at a table <==> at a restaurant table 
+9 <==> 0 // NOALI // NIL // outside <==> -not aligned- 
+3 4 <==> 3 4 // EQUI // 5 // of people <==> of people 
+0 <==> 10 // NOALI // NIL // -not aligned- <==> . 
+5 <==> 5 // REL // 3 // eat <==> sitting 
+10 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+1 2 <==> 1 2 // EQUI // 5 // A group <==> A group 
+</alignment>
+</sentence>
+
+<sentence id="230" status="">
+<alignment>
+10 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+5 <==> 4 // EQUI // 5 // sitting <==> sitting 
+0 <==> 7 8 // ALIC // NIL // -not aligned- <==> of restaurant 
+0 <==> 9 // NOALI // NIL // -not aligned- <==> . 
+6 7 8 9 <==> 5 6 // EQUI // 5 // at a restaurant table <==> at table 
+1 2 <==> 1 // EQUI // 5 // A group <==> Group 
+3 4 <==> 2 3 // EQUI // 5 // of people <==> of people 
+</alignment>
+</sentence>
+
+<sentence id="231" status="">
+<alignment>
+9 10 <==> 5 6 7 // EQUI // 5 // the window <==> at a window 
+7 8 <==> 3 4 // SIMI // 4 // looking out <==> are looking 
+4 5 6 <==> 0 // NOALI // NIL // on a couch <==> -not aligned- 
+3 <==> 0 // NOALI // NIL // sitting <==> -not aligned- 
+1 2 <==> 1 2 // EQUI // 5 // Two cats <==> Two cats 
+11 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 8 // NOALI // NIL // -not aligned- <==> . 
+</alignment>
+</sentence>
+
+<sentence id="232" status="">
+<alignment>
+6 <==> 7 // EQUI // 5 // cutting <==> cuts 
+7 8 <==> 8 9 // SPE2 // 3 // into food <==> a cake 
+2 3 4 5 <==> 3 4 5 6 // EQUI // 5 // in blue shift dress <==> in a blue dress 
+1 <==> 1 2 // EQUI // 5 // Woman <==> A woman 
+9 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 10 // NOALI // NIL // -not aligned- <==> . 
+</alignment>
+</sentence>
+
+<sentence id="233" status="">
+<alignment>
+0 <==> 10 // NOALI // NIL // -not aligned- <==> . 
+5 6 7 8 9 10 <==> 4 5 6 7 8 9 // EQUI // 5 // atop a red an yellow motorcycle <==> on a red and yellow motorcycle 
+15 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+11 12 13 14 <==> 0 // NOALI // NIL // with a side car <==> -not aligned- 
+1 2 3 <==> 1 2 // SPE1 // 3 // Two brunette girls <==> A couple 
+4 <==> 3 // REL // 4 // sit <==> posing 
+</alignment>
+</sentence>
+
+<sentence id="234" status="">
+<alignment>
+1 2 <==> 1 2 // EQUI // 5 // A man <==> A man 
+0 <==> 3 // NOALI // NIL // -not aligned- <==> is 
+7 8 9 10 11 <==> 8 9 10 11 // SPE1 // 4 // of a red tandem bicycle <==> of a tandem bicycle 
+3 4 5 6 <==> 5 6 7 // SPE1 // 4 // on the back seat <==> on the back 
+0 <==> 4 // NOALI // NIL // -not aligned- <==> alone 
+0 <==> 12 // NOALI // NIL // -not aligned- <==> . 
+12 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="235" status="">
+<alignment>
+1 2 <==> 1 2 // EQUI // 5 // A computer <==> A computer 
+6 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+3 4 5 <==> 4 5 6 // EQUI // 5 // on a desk <==> on a desk 
+0 <==> 7 // NOALI // NIL // -not aligned- <==> . 
+0 <==> 3 // NOALI // NIL // -not aligned- <==> operating 
+</alignment>
+</sentence>
+
+<sentence id="236" status="">
+<alignment>
+10 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+1 2 3 <==> 1 2 3 // SPE1 // 4 // Home office space <==> Small office space 
+0 <==> 8 // NOALI // NIL // -not aligned- <==> . 
+4 5 6 7 8 9 <==> 4 5 6 7 // SPE1 // 3 // with bright green walls and artwork <==> with bright green walls 
+</alignment>
+</sentence>
+
+<sentence id="237" status="">
+<alignment>
+3 4 5 <==> 4 5 // SPE1 // 4 // on a beach <==> on shore 
+6 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+1 2 <==> 1 2 3 // EQUI // 5 // Yellow boat <==> A yellow boat 
+0 <==> 6 // NOALI // NIL // -not aligned- <==> . 
+</alignment>
+</sentence>
+
+<sentence id="238" status="">
+<alignment>
+3 4 <==> 0 // ALIC // NIL // with papers <==> -not aligned- 
+0 <==> 13 // NOALI // NIL // -not aligned- <==> . 
+6 7 8 9 10 11 <==> 8 9 10 11 12 // SPE1 // 4 // on the blue clothed dining table <==> with a blue table cloth 
+12 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+1 2 <==> 1 2 3 4 5 6 7 // SPE2 // 3 // A kitchendiner <==> A small kitchen and a cluttered table 
+5 <==> 0 // NOALI // NIL // laying <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="239" status="">
+<alignment>
+4 5 <==> 3 4 // SIMI // 2 // is sitting <==> is standing 
+6 7 8 9 <==> 5 6 7 8 // EQUI // 5 // on the window ledge <==> on the window sill 
+14 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+10 <==> 9 // EQUI // 5 // looking <==> looking 
+0 <==> 13 // NOALI // NIL // -not aligned- <==> . 
+1 2 3 <==> 1 2 // SPE1 // 4 // A gray cat <==> The cat 
+11 12 13 <==> 10 11 12 // EQUI // 5 // at the camera <==> at the camera 
+</alignment>
+</sentence>
+
+<sentence id="240" status="">
+<alignment>
+7 8 <==> 6 7 // EQUI // 5 // taking of <==> taking off 
+12 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 10 // NOALI // NIL // -not aligned- <==> . 
+1 2 3 4 5 6 <==> 1 2 3 4 5 // SIMI // 4 // A green and white cargo plane <==> White and green commercial airliner 
+9 10 11 <==> 8 9 // SPE2 // 4 // from an airport <==> of runway 
+</alignment>
+</sentence>
+
+<sentence id="241" status="">
+<alignment>
+6 7 8 9 10 11 12 <==> 6 7 8 9 10 11 // EQUI // 5 // inside and black and white furry enclosure <==> inside a cow-schemed , fur-covered dome 
+3 <==> 4 5 // SIMI // 4 // are <==> are sitting 
+1 2 <==> 1 2 3 // SPE2 // 4 // Two cats <==> Two baby kittens 
+4 5 <==> 0 // NOALI // NIL // close together <==> -not aligned- 
+0 <==> 12 // NOALI // NIL // -not aligned- <==> . 
+13 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="242" status="">
+<alignment>
+1 2 3 <==> 1 2 3 // SIMI // 3 // A close-up view <==> A side view 
+0 <==> 9 // NOALI // NIL // -not aligned- <==> . 
+9 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+4 5 6 <==> 4 5 6 // EQUI // 5 // of a horse <==> of a horse 
+7 8 <==> 7 8 // EQUI // 5 // 's head <==> 's head 
+</alignment>
+</sentence>
+
+<sentence id="243" status="">
+<alignment>
+1 2 3 4 5 6 <==> 1 2 3 // SIMI // 3 // An old fashioned wooden sailing ship <==> A wooden yacht 
+7 8 9 <==> 4 5 6 // EQUI // 5 // in the ocean <==> on the ocean 
+0 <==> 7 // NOALI // NIL // -not aligned- <==> . 
+10 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="244" status="">
+<alignment>
+0 <==> 4 // NOALI // NIL // -not aligned- <==> is 
+1 2 3 <==> 1 2 3 // EQUI // 5 // A white plane <==> A white airplane 
+4 5 6 <==> 5 6 7 // EQUI // 5 // on the runway <==> on a runway 
+0 <==> 8 // NOALI // NIL // -not aligned- <==> . 
+7 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="245" status="">
+<alignment>
+0 <==> 9 // NOALI // NIL // -not aligned- <==> . 
+1 2 3 <==> 1 2 3 4 5 // SPE2 // 4 // Elegant dining room <==> An elegant pink dining room 
+7 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+4 5 6 <==> 6 7 8 // EQUI // 5 // with wood furniture <==> with wooden furniture 
+</alignment>
+</sentence>
+
+<sentence id="246" status="">
+<alignment>
+0 <==> 10 // NOALI // NIL // -not aligned- <==> . 
+0 <==> 7 8 9 // NOALI // NIL // -not aligned- <==> through the air 
+7 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+3 <==> 6 // EQUI // 5 // jumping <==> jumping 
+1 2 <==> 1 2 // EQUI // 5 // A man <==> A man 
+4 5 6 <==> 3 4 5 // SPE1 // 4 // his dirt bike <==> on a bike 
+</alignment>
+</sentence>
+
+<sentence id="247" status="">
+<alignment>
+4 5 6 <==> 4 5 6 // EQUI // 5 // with green eyes <==> with green eyes 
+11 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+8 9 10 <==> 8 9 10 // EQUI // 5 // at the camera <==> into the camera 
+0 <==> 11 // NOALI // NIL // -not aligned- <==> . 
+1 2 3 <==> 1 2 3 // EQUI // 5 // A gray cat <==> A gray cat 
+7 <==> 7 // EQUI // 5 // looks <==> looking 
+</alignment>
+</sentence>
+
+<sentence id="248" status="">
+<alignment>
+6 7 <==> 5 // EQUI // 5 // is sitting <==> sitting 
+0 <==> 11 // NOALI // NIL // -not aligned- <==> . 
+14 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+1 2 3 4 5 <==> 1 2 3 4 // EQUI // 5 // A black and white cat <==> Black and white cat 
+12 13 <==> 9 10 // EQUI // 5 // looking up <==> looking up 
+8 9 10 11 <==> 6 7 8 // SIMI // 4 // on a brown chair <==> on wood chair 
+</alignment>
+</sentence>
+
+<sentence id="249" status="">
+<alignment>
+9 10 11 <==> 0 // ALIC // NIL // and a woman <==> -not aligned- 
+1 2 <==> 1 2 3 4 // EQUI // 5 // A man <==> A man and woman 
+20 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+12 13 14 15 <==> 0 // NOALI // NIL // in a red turtleneck <==> -not aligned- 
+3 4 <==> 0 // NOALI // NIL // in white <==> -not aligned- 
+0 <==> 6 7 8 // NOALI // NIL // -not aligned- <==> on a field 
+0 <==> 5 // NOALI // NIL // -not aligned- <==> posing 
+0 <==> 12 13 // ALIC // NIL // -not aligned- <==> of wine 
+16 17 18 19 <==> 0 // NOALI // NIL // with a white vest <==> -not aligned- 
+5 6 7 8 <==> 9 10 11 // EQUI // 5 // with a wine bottle <==> with a bottle 
+0 <==> 14 // NOALI // NIL // -not aligned- <==> . 
+</alignment>
+</sentence>
+
+<sentence id="250" status="">
+<alignment>
+1 <==> 1 2 // EQUI // 5 // Boy <==> A boy 
+3 4 <==> 4 5 6 // REL // 4 // a sheep <==> a sheep hay 
+5 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 7 // NOALI // NIL // -not aligned- <==> . 
+2 <==> 3 // EQUI // 5 // feeding <==> feeding 
+</alignment>
+</sentence>
+
+<sentence id="251" status="">
+<alignment>
+0 <==> 7 // NOALI // NIL // -not aligned- <==> . 
+4 5 <==> 3 // EQUI // 5 // is standing <==> stands 
+6 7 8 9 <==> 4 5 6 // SPE1 // 4 // on the green hill <==> on a hillside 
+1 2 3 <==> 1 2 // SPE1 // 4 // The white sheep <==> A sheep 
+10 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="252" status="">
+<alignment>
+6 7 8 9 10 <==> 6 7 8 9 10 // EQUI // 5 // of a dilapidated wooden fence <==> of an old wooden fence 
+0 <==> 15 // NOALI // NIL // -not aligned- <==> . 
+0 <==> 11 12 13 14 // NOALI // NIL // -not aligned- <==> near a dirty street 
+11 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+1 2 3 4 5 <==> 1 2 3 4 5 // EQUI // 5 // A black and white photo <==> A black and white photo 
+</alignment>
+</sentence>
+
+<sentence id="253" status="">
+<alignment>
+4 <==> 6 // SIMI // 2 // taxing <==> sitting 
+5 6 7 <==> 7 8 9 // SPE1 // 4 // along a runway <==> on the tarmac 
+1 2 3 <==> 1 2 3 4 5 // SPE2 // 4 // An AeroMexico jet <==> A silver AreoMexico Jet Liner 
+8 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 10 // NOALI // NIL // -not aligned- <==> . 
+</alignment>
+</sentence>
+
+<sentence id="254" status="">
+<alignment>
+0 <==> 9 10 // NOALI // NIL // -not aligned- <==> with food 
+3 4 <==> 3 4 // EQUI // 5 // of people <==> of people 
+1 2 <==> 1 2 // EQUI // 5 // A group <==> A group 
+0 <==> 13 // NOALI // NIL // -not aligned- <==> . 
+0 <==> 11 12 // NOALI // NIL // -not aligned- <==> on it 
+12 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+9 10 11 <==> 0 // NOALI // NIL // on a porch <==> -not aligned- 
+5 <==> 5 // EQUI // 5 // sitting <==> sitting 
+6 7 8 <==> 6 7 8 // EQUI // 5 // around a table <==> around a table 
+</alignment>
+</sentence>
+
+<sentence id="255" status="">
+<alignment>
+3 4 <==> 4 // EQUI // 5 // is parked <==> parked 
+1 2 <==> 1 2 3 // SPE2 // 4 // A bicycle <==> A green bike 
+5 6 7 <==> 5 6 7 8 // EQUI // 5 // outside a bookstore <==> outside a book store 
+8 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 9 // NOALI // NIL // -not aligned- <==> . 
+</alignment>
+</sentence>
+
+<sentence id="256" status="">
+<alignment>
+6 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+5 <==> 6 7 8 // EQUI // 5 // window <==> of a window 
+0 <==> 9 // NOALI // NIL // -not aligned- <==> . 
+3 4 <==> 4 5 // EQUI // 5 // looking out <==> looking out 
+1 2 <==> 1 2 3 // SIMI // 4 // Domestic cat <==> A white cat 
+</alignment>
+</sentence>
+
+<sentence id="257" status="">
+<alignment>
+0 <==> 13 14 15 // NOALI // NIL // -not aligned- <==> towards the camera 
+0 <==> 16 // NOALI // NIL // -not aligned- <==> . 
+0 <==> 12 // NOALI // NIL // -not aligned- <==> looking 
+4 5 6 7 <==> 4 5 6 7 // EQUI // 5 // in a living room <==> in a living room 
+8 9 10 11 <==> 8 9 10 11 // EQUI // 5 // with a black dog <==> with a black dog 
+12 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+1 2 <==> 1 2 // EQUI // 5 // Two women <==> Two women 
+3 <==> 3 // EQUI // 5 // stand <==> standing 
+</alignment>
+</sentence>
+
+<sentence id="258" status="">
+<alignment>
+4 5 6 <==> 4 5 6 7 // EQUI // 5 // a red canoe <==> in a red canoe 
+1 2 <==> 1 2 // EQUI // 5 // Two people <==> Two people 
+13 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 10 11 12 // NOALI // NIL // -not aligned- <==> in the background 
+3 <==> 3 // EQUI // 5 // paddling <==> paddling 
+7 8 <==> 0 // NOALI // NIL // are reflected <==> -not aligned- 
+0 <==> 8 9 // NOALI // NIL // -not aligned- <==> with trees 
+0 <==> 13 // NOALI // NIL // -not aligned- <==> . 
+9 10 11 12 <==> 0 // NOALI // NIL // in the still water <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="259" status="">
+<alignment>
+5 <==> 7 // SPE1 // 4 // push <==> walking 
+1 2 3 4 <==> 1 2 3 4 5 6 // SPE2 // 4 // A woman and child <==> A women and a young girl 
+10 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+7 8 9 <==> 9 10 11 // EQUI // 5 // down the sidewalk <==> along the sidewalk 
+6 <==> 8 // EQUI // 5 // strollers <==> pushchairs 
+0 <==> 12 // NOALI // NIL // -not aligned- <==> . 
+</alignment>
+</sentence>
+
+<sentence id="260" status="">
+<alignment>
+6 7 8 <==> 6 7 8 // EQUI // 5 // around a table <==> around a table 
+0 <==> 9 10 11 // NOALI // NIL // -not aligned- <==> on a porch 
+0 <==> 12 // NOALI // NIL // -not aligned- <==> . 
+3 4 <==> 3 4 // EQUI // 5 // of people <==> of people 
+10 <==> 0 // NOALI // NIL // food <==> -not aligned- 
+5 <==> 5 // EQUI // 5 // sitting <==> sitting 
+11 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+1 2 <==> 1 2 // EQUI // 5 // A group <==> A group 
+9 <==> 0 // NOALI // NIL // containing <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="261" status="">
+<alignment>
+0 <==> 7 8 9 // NOALI // NIL // -not aligned- <==> on its side 
+7 8 9 <==> 10 11 12 13 // SPE2 // 4 // on a blanket <==> on a purple blanket 
+1 2 3 4 5 <==> 1 2 3 4 5 // EQUI // 5 // A black and white cat <==> A black and white cat 
+10 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 14 // NOALI // NIL // -not aligned- <==> . 
+6 <==> 6 // SPE2 // 4 // lying <==> sleeping 
+</alignment>
+</sentence>
+
+<sentence id="262" status="">
+<alignment>
+0 <==> 13 // NOALI // NIL // -not aligned- <==> . 
+1 2 3 4 5 <==> 1 2 3 4 5 // EQUI // 5 // A red and gray train <==> A red and gray train 
+0 <==> 10 11 12 // NOALI // NIL // -not aligned- <==> amongst the trees 
+11 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+6 7 <==> 6 // EQUI // 5 // is going <==> travels 
+8 9 10 <==> 7 8 9 // EQUI // 5 // through a tunnel <==> through a tunnel 
+</alignment>
+</sentence>
+
+<sentence id="263" status="">
+<alignment>
+0 <==> 14 // NOALI // NIL // -not aligned- <==> . 
+2 3 4 5 <==> 1 2 3 // EQUI // 5 // of a living room <==> A living room 
+1 <==> 0 // NOALI // NIL // View <==> -not aligned- 
+10 11 12 <==> 11 12 13 // EQUI // 5 // in the background <==> in the background 
+6 7 8 9 <==> 4 5 6 7 8 9 10 // SPE2 // 2 // with a dining room <==> with large sofas and a dining table 
+13 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="264" status="">
+<alignment>
+4 5 6 <==> 4 5 // SPE1 // 4 // a bike helmet <==> a helmet 
+0 <==> 13 // NOALI // NIL // -not aligned- <==> . 
+1 2 <==> 1 2 // EQUI // 5 // A person <==> A person 
+3 <==> 3 // EQUI // 5 // wearing <==> wearing 
+0 <==> 9 10 11 12 // NOALI // NIL // -not aligned- <==> near a white structure 
+0 <==> 7 8 // NOALI // NIL // -not aligned- <==> a bike 
+0 <==> 6 // NOALI // NIL // -not aligned- <==> rides 
+7 <==> 0 // NOALI // NIL // talks <==> -not aligned- 
+12 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+8 9 10 11 <==> 0 // NOALI // NIL // on a cell phone <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="265" status="">
+<alignment>
+5 6 7 <==> 5 6 7 8 // SPE2 // 4 // by a shop <==> outside a book store 
+1 2 <==> 1 2 3 // SPE2 // 4 // A bicycle <==> A green bike 
+0 <==> 9 // NOALI // NIL // -not aligned- <==> . 
+8 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+3 4 <==> 4 // EQUI // 5 // is parked <==> parked 
+</alignment>
+</sentence>
+
+<sentence id="266" status="">
+<alignment>
+0 <==> 9 // NOALI // NIL // -not aligned- <==> . 
+5 <==> 5 // EQUI // 5 // driving <==> driving 
+9 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+1 2 3 4 <==> 1 2 3 4 // EQUI // 5 // Red double decker bus <==> Red double decker bus 
+6 7 8 <==> 6 7 8 // SIMI // 4 // through the streets <==> down a street 
+</alignment>
+</sentence>
+
+<sentence id="267" status="">
+<alignment>
+9 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+4 <==> 4 // EQUI // 5 // laying <==> lying 
+0 <==> 9 // NOALI // NIL // -not aligned- <==> . 
+5 6 7 8 <==> 5 6 7 8 // SIMI // 4 // on a brown table <==> on a wooden table 
+1 2 3 <==> 1 2 3 // EQUI // 5 // A gray cat <==> A gray cat 
+</alignment>
+</sentence>
+
+<sentence id="268" status="">
+<alignment>
+1 2 <==> 1 2 // EQUI // 5 // A close-up <==> A close-up 
+7 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 6 // NOALI // NIL // -not aligned- <==> . 
+3 4 5 6 <==> 3 4 5 // SPE1 // 4 // of a brown horse <==> of a horse 
+</alignment>
+</sentence>
+
+<sentence id="269" status="">
+<alignment>
+0 <==> 12 // NOALI // NIL // -not aligned- <==> . 
+1 2 3 4 5 <==> 1 2 3 4 // EQUI // 5 // A black and white image <==> Black and white picture 
+9 <==> 8 // EQUI // 5 // laying <==> laying 
+10 11 12 <==> 9 10 11 // EQUI // 5 // on a rug <==> on a rug 
+13 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+6 7 8 <==> 5 6 7 // EQUI // 5 // of a cat <==> of a cat 
+</alignment>
+</sentence>
+
+<sentence id="270" status="">
+<alignment>
+1 2 <==> 1 // EQUI // 5 // A pile <==> Pile 
+13 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 9 // NOALI // NIL // -not aligned- <==> . 
+8 9 10 <==> 5 6 // EQUI // 5 // with a chair <==> with chair 
+3 4 5 6 7 <==> 2 3 4 // SPE2 // 4 // of used wooden building materials <==> of wooden debris 
+11 12 <==> 7 8 // EQUI // 5 // on top <==> on top 
+</alignment>
+</sentence>
+
+<sentence id="271" status="">
+<alignment>
+3 4 5 6 7 8 <==> 4 5 6 7 // SPE1 // 2 // with multiple desks and green walls <==> with bright green walls 
+9 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+1 2 <==> 1 2 3 // SPE2 // 4 // An office <==> Small office space 
+0 <==> 8 // NOALI // NIL // -not aligned- <==> . 
+</alignment>
+</sentence>
+
+<sentence id="272" status="">
+<alignment>
+4 5 6 <==> 3 4 5 // EQUI // 5 // on a flowerpot <==> on a flowerpot 
+0 <==> 10 // NOALI // NIL // -not aligned- <==> . 
+1 2 <==> 1 // EQUI // 5 // A bird <==> Bird 
+3 <==> 2 // EQUI // 5 // perched <==> perched 
+0 <==> 6 7 8 9 // NOALI // NIL // -not aligned- <==> beside a stucco wall 
+7 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="273" status="">
+<alignment>
+8 9 <==> 0 // ALIC // NIL // of horse <==> -not aligned- 
+6 7 <==> 6 7 8 // EQUI // 5 // on top <==> on a horse 
+0 <==> 9 // NOALI // NIL // -not aligned- <==> . 
+1 2 <==> 1 2 // SIMI // 4 // Young woman <==> Young girl 
+10 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+3 4 5 <==> 3 4 5 // EQUI // 5 // in riding gear <==> in riding gear 
+</alignment>
+</sentence>
+
+<sentence id="274" status="">
+<alignment>
+0 <==> 9 // NOALI // NIL // -not aligned- <==> . 
+1 2 3 <==> 1 2 3 // EQUI // 5 // A small bird <==> A small bird 
+4 5 6 7 <==> 5 6 7 8 // SIMI // 3 // on a tiny branch <==> on an icy branch 
+8 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 4 // NOALI // NIL // -not aligned- <==> perched 
+</alignment>
+</sentence>
+
+<sentence id="275" status="">
+<alignment>
+0 <==> 5 6 7 8 // NOALI // NIL // -not aligned- <==> next to a car 
+9 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+7 8 <==> 3 4 // EQUI // 5 // a wheelie <==> a wheelie 
+6 <==> 2 // EQUI // 5 // performing <==> performing 
+0 <==> 9 // NOALI // NIL // -not aligned- <==> . 
+3 4 5 <==> 0 // ALIC // NIL // on a motorcycle <==> -not aligned- 
+1 2 <==> 1 // EQUI // 5 // A man <==> Motorcyclist 
+</alignment>
+</sentence>
+
+<sentence id="276" status="">
+<alignment>
+4 <==> 0 // NOALI // NIL // takes <==> -not aligned- 
+11 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+7 8 9 10 <==> 5 6 7 8 // EQUI // 5 // on the brown horse <==> on a brown horse 
+1 2 3 <==> 1 2 3 4 // SPE2 // 4 // The young rider <==> A young female rider 
+0 <==> 9 // NOALI // NIL // -not aligned- <==> . 
+5 6 <==> 0 // NOALI // NIL // a ride <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="277" status="">
+<alignment>
+8 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 11 // NOALI // NIL // -not aligned- <==> . 
+6 7 <==> 7 8 9 10 // SPE2 // 3 // to wood <==> against a wooden box 
+4 5 <==> 4 5 6 // EQUI // 5 // with nose <==> with its nose 
+1 2 3 <==> 1 2 3 // EQUI // 5 // Little white lamb <==> A white lamb 
+</alignment>
+</sentence>
+
+<sentence id="278" status="">
+<alignment>
+4 <==> 4 5 // EQUI // 5 // riding <==> is riding 
+5 6 7 8 9 <==> 6 7 8 9 10 // EQUI // 5 // a white and gray horse <==> a white and gray horse 
+10 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+1 2 3 <==> 1 2 3 // SIMI // 4 // A young girl <==> a little girl 
+0 <==> 11 // NOALI // NIL // -not aligned- <==> . 
+</alignment>
+</sentence>
+
+<sentence id="279" status="">
+<alignment>
+7 8 9 <==> 7 8 9 // EQUI // 5 // in the water <==> on the water 
+3 4 <==> 4 // EQUI // 5 // is flapping <==> flapping 
+10 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+1 2 <==> 1 2 3 // SPE2 // 3 // A bird <==> A black swan 
+5 6 <==> 5 6 // EQUI // 5 // its wings <==> its wings 
+0 <==> 10 // NOALI // NIL // -not aligned- <==> . 
+</alignment>
+</sentence>
+
+<sentence id="280" status="">
+<alignment>
+8 9 <==> 0 // ALIC // NIL // of horse <==> -not aligned- 
+0 <==> 9 // NOALI // NIL // -not aligned- <==> . 
+10 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+1 2 <==> 1 2 // SPE1 // 4 // Young woman <==> The woman 
+6 7 <==> 5 6 7 8 // SPE2 // 4 // on top <==> on the brown horse 
+3 4 5 <==> 3 4 // REL // 3 // in riding gear <==> is riding 
+</alignment>
+</sentence>
+
+<sentence id="281" status="">
+<alignment>
+3 <==> 3 // EQUI // 5 // rowing <==> row 
+7 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 4 5 // NOALI // NIL // -not aligned- <==> a canoe 
+4 5 6 <==> 6 7 // SPE1 // 4 // down a river <==> in water 
+1 2 <==> 1 2 // EQUI // 5 // Four people <==> Four people 
+0 <==> 8 // NOALI // NIL // -not aligned- <==> . 
+</alignment>
+</sentence>
+
+<sentence id="282" status="">
+<alignment>
+1 2 <==> 1 // EQUI // 5 // A kitchen <==> Kitchen 
+0 <==> 7 // NOALI // NIL // -not aligned- <==> . 
+8 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+3 4 5 6 7 <==> 2 3 4 5 6 // SPE2 // 4 // with wooden cabinets and furniture <==> with wooden table and cabinets 
+</alignment>
+</sentence>
+
+<sentence id="283" status="">
+<alignment>
+0 <==> 5 // NOALI // NIL // -not aligned- <==> fruit 
+0 <==> 10 // NOALI // NIL // -not aligned- <==> . 
+8 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+4 5 6 7 <==> 6 7 8 9 // EQUI // 5 // from a bird feeder <==> on a bird feeder 
+1 2 <==> 1 2 3 // SPE2 // 4 // A bird <==> A yellow bird 
+3 <==> 4 // EQUI // 5 // eating <==> eating 
+</alignment>
+</sentence>
+
+<sentence id="284" status="">
+<alignment>
+3 <==> 3 // EQUI // 5 // talking <==> talking 
+9 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+4 5 6 7 8 <==> 4 5 6 7 8 9 // SPE2 // 4 // in front of a plane <==> in front of a small plane 
+0 <==> 10 // NOALI // NIL // -not aligned- <==> . 
+1 2 <==> 1 2 // EQUI // 5 // Two men <==> Two men 
+</alignment>
+</sentence>
+
+<sentence id="285" status="">
+<alignment>
+12 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+5 <==> 4 // EQUI // 5 // wearing <==> wearing 
+1 2 3 4 <==> 1 2 3 // SPE1 // 4 // A young blonde girl <==> A young girl 
+0 <==> 8 9 10 // NOALI // NIL // -not aligned- <==> with a bicycle 
+0 <==> 11 12 13 // NOALI // NIL // -not aligned- <==> in the background 
+6 7 8 9 10 11 <==> 5 6 7 // SPE1 // 3 // a smile and a bicycle helmet <==> a bike helmet 
+0 <==> 14 // NOALI // NIL // -not aligned- <==> . 
+</alignment>
+</sentence>
+
+<sentence id="286" status="">
+<alignment>
+4 5 6 7 <==> 4 5 6 7 // EQUI // 5 // at the train station <==> at a train station 
+0 <==> 8 // NOALI // NIL // -not aligned- <==> . 
+8 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+1 2 <==> 1 2 // EQUI // 5 // The train <==> A train 
+3 <==> 3 // EQUI // 5 // sits <==> parked 
+</alignment>
+</sentence>
+
+<sentence id="287" status="">
+<alignment>
+0 <==> 7 // NOALI // NIL // -not aligned- <==> . 
+4 <==> 2 // EQUI // 5 // eating <==> eating 
+1 2 3 <==> 1 // SPE1 // 4 // A small bird <==> Bird 
+5 6 7 <==> 3 4 5 6 // EQUI // 5 // from the feeder <==> from a bird feeder 
+8 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="288" status="">
+<alignment>
+1 2 3 <==> 1 2 // SIMI // 4 // Two brown horses <==> Brown horse 
+8 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 9 // NOALI // NIL // -not aligned- <==> . 
+0 <==> 6 7 8 // ALIC // NIL // -not aligned- <==> of grassy field 
+5 6 7 <==> 4 5 // SPE2 // 4 // in grassy field <==> in middle 
+4 <==> 3 // EQUI // 5 // standing <==> standing 
+</alignment>
+</sentence>
+
+<sentence id="289" status="">
+<alignment>
+4 5 <==> 7 // EQUI // 5 // is perched <==> perched 
+0 <==> 11 // NOALI // NIL // -not aligned- <==> . 
+9 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+1 2 3 <==> 1 2 3 4 5 6 // SPE2 // 3 // A red bird <==> A small red and gray bird 
+6 7 8 <==> 8 9 10 // EQUI // 5 // in a tree <==> in a tree 
+</alignment>
+</sentence>
+
+<sentence id="290" status="">
+<alignment>
+3 4 <==> 5 6 7 // EQUI // 5 // on couch <==> on a sofa 
+1 <==> 1 2 3 // SPE2 // 4 // Boy <==> A small boy 
+9 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 11 // NOALI // NIL // -not aligned- <==> . 
+2 <==> 4 // EQUI // 5 // lying <==> laying 
+5 6 7 8 <==> 8 9 10 // SPE1 // 3 // with small white dog <==> with a dog 
+</alignment>
+</sentence>
+
+<sentence id="291" status="">
+<alignment>
+5 <==> 5 // EQUI // 5 // traveling <==> traveling 
+10 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+6 7 8 9 <==> 6 7 8 9 // EQUI // 5 // on the railroad tracks <==> on the railroad tracks 
+1 2 3 4 <==> 1 2 3 4 // SIMI // 4 // A green steam engine <==> A black steam train 
+0 <==> 10 // NOALI // NIL // -not aligned- <==> . 
+</alignment>
+</sentence>
+
+<sentence id="292" status="">
+<alignment>
+1 2 <==> 1 2 // EQUI // 5 // The man <==> A man 
+7 8 9 10 11 <==> 7 8 9 10 11 12 // SPE2 // 4 // in front of the train <==> in front of a silver train 
+3 <==> 3 // REL // 4 // poses <==> stands 
+12 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+4 5 6 <==> 0 // NOALI // NIL // for a photo <==> -not aligned- 
+0 <==> 13 // NOALI // NIL // -not aligned- <==> . 
+0 <==> 4 5 6 // NOALI // NIL // -not aligned- <==> on a platform 
+</alignment>
+</sentence>
+
+<sentence id="293" status="">
+<alignment>
+0 <==> 14 // NOALI // NIL // -not aligned- <==> . 
+10 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+1 2 3 4 5 <==> 1 2 3 // REL // 3 // A kitchen sink and countertop <==> A small kitchen 
+8 9 <==> 7 8 9 10 11 12 13 // SPE2 // 3 // on shelves <==> on the shelves and on the counter 
+6 7 <==> 4 5 // SPE1 // 3 // with bowls <==> with items 
+0 <==> 6 // NOALI // NIL // -not aligned- <==> stacked 
+</alignment>
+</sentence>
+
+<sentence id="294" status="">
+<alignment>
+0 <==> 12 // NOALI // NIL // -not aligned- <==> . 
+4 5 <==> 4 5 6 // SPE2 // 4 // a bicycle <==> a mountain bike 
+3 <==> 3 // EQUI // 5 // riding <==> riding 
+1 2 <==> 1 2 // EQUI // 5 // A woman <==> A women 
+6 7 8 9 10 <==> 7 8 9 10 11 // EQUI // 5 // on a large concrete area <==> on a large concrete area 
+11 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="295" status="">
+<alignment>
+11 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+1 2 <==> 1 2 // EQUI // 5 // A man <==> A man 
+5 6 7 8 9 10 <==> 4 5 6 7 8 // SPE2 // 4 // next to a yellow sports car <==> next to a yellow Corvette 
+0 <==> 9 // NOALI // NIL // -not aligned- <==> . 
+3 4 <==> 3 // EQUI // 5 // is standing <==> stands 
+</alignment>
+</sentence>
+
+<sentence id="296" status="">
+<alignment>
+3 4 5 6 <==> 4 5 6 // EQUI // 5 // with a white horse <==> a white horse 
+7 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 3 // NOALI // NIL // -not aligned- <==> leading 
+1 2 <==> 1 2 // EQUI // 5 // A woman <==> A woman 
+0 <==> 7 // NOALI // NIL // -not aligned- <==> . 
+</alignment>
+</sentence>
+
+<sentence id="297" status="">
+<alignment>
+7 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+1 2 <==> 1 2 // SPE1 // 4 // Older gentleman <==> A man 
+4 5 6 <==> 4 5 6 7 // EQUI // 5 // at red motorcycle <==> at a red motorcycle 
+0 <==> 8 // NOALI // NIL // -not aligned- <==> . 
+3 <==> 3 // EQUI // 5 // looking <==> looking 
+</alignment>
+</sentence>
+
+<sentence id="298" status="">
+<alignment>
+4 5 6 7 8 <==> 7 8 9 10 11 12 // SPE2 // 4 // in front of a train <==> in front of a silver train 
+3 <==> 3 // EQUI // 5 // stands <==> stands 
+1 2 <==> 1 2 // EQUI // 5 // A man <==> A man 
+0 <==> 4 5 6 // NOALI // NIL // -not aligned- <==> on a platform 
+9 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 13 // NOALI // NIL // -not aligned- <==> . 
+</alignment>
+</sentence>
+
+<sentence id="299" status="">
+<alignment>
+7 8 9 10 <==> 8 9 10 // EQUI // 5 // near a small plane <==> a small airplane 
+0 <==> 11 // NOALI // NIL // -not aligned- <==> is 
+1 2 <==> 1 2 // EQUI // 5 // A boat <==> A boat 
+0 <==> 15 // NOALI // NIL // -not aligned- <==> . 
+4 5 6 <==> 4 5 6 // EQUI // 5 // on the water <==> in the water 
+0 <==> 7 // NOALI // NIL // -not aligned- <==> and 
+3 <==> 3 // EQUI // 5 // is <==> is 
+0 <==> 12 13 14 // NOALI // NIL // -not aligned- <==> on the dock 
+11 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="300" status="">
+<alignment>
+9 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+5 <==> 6 // REL // 4 // sitting <==> pose 
+0 <==> 11 // NOALI // NIL // -not aligned- <==> . 
+6 7 8 <==> 7 8 9 10 // SPE2 // 4 // around a table <==> around a dining table 
+1 <==> 1 2 // EQUI // 5 // Group <==> A group 
+2 3 4 <==> 3 4 5 // EQUI // 5 // of elderly people <==> of elderly people 
+</alignment>
+</sentence>
+
+<sentence id="301" status="">
+<alignment>
+1 2 3 4 5 <==> 1 2 3 4 // EQUI // 5 // The brown and white cows <==> Brown and white cows 
+8 9 10 <==> 7 8 9 // EQUI // 5 // in the trough <==> from a trough 
+0 <==> 10 // NOALI // NIL // -not aligned- <==> . 
+11 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+6 7 <==> 5 6 // EQUI // 5 // are eating <==> are eating 
+</alignment>
+</sentence>
+
+<sentence id="302" status="">
+<alignment>
+10 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+5 6 7 8 9 <==> 5 6 7 8 // SIMI // 2 // towards a wooden telephone pole <==> above the telephone wires 
+1 2 3 <==> 1 2 3 // EQUI // 5 // Two green birds <==> Two green birds 
+0 <==> 9 // NOALI // NIL // -not aligned- <==> . 
+4 <==> 4 // EQUI // 5 // fly <==> flying 
+</alignment>
+</sentence>
+
+<sentence id="303" status="">
+<alignment>
+7 <==> 3 4 // EQUI // 5 // stands <==> is standing 
+0 <==> 14 // NOALI // NIL // -not aligned- <==> . 
+4 5 6 <==> 0 // NOALI // NIL // with outstretched arms <==> -not aligned- 
+17 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+8 9 10 11 12 13 14 15 16 <==> 5 6 7 8 9 10 // SIMI // 3 // in front of a `` Going Places '' bus <==> in front of the open door 
+0 <==> 11 12 13 // ALIC // NIL // -not aligned- <==> of the bus 
+1 2 3 <==> 1 2 // SIMI // 4 // A young woman <==> TThe girl 
+</alignment>
+</sentence>
+
+<sentence id="304" status="">
+<alignment>
+9 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+4 <==> 3 4 // EQUI // 5 // perched <==> is perched 
+0 <==> 11 // NOALI // NIL // -not aligned- <==> . 
+5 6 7 8 <==> 8 9 10 // EQUI // 5 // on a gloved hand <==> 's gloved hand 
+1 2 3 <==> 1 2 // SPE1 // 4 // A blue bird <==> A bird 
+0 <==> 5 6 7 // NOALI // NIL // -not aligned- <==> on a person 
+</alignment>
+</sentence>
+
+<sentence id="305" status="">
+<alignment>
+0 <==> 10 // NOALI // NIL // -not aligned- <==> . 
+1 2 <==> 1 2 // EQUI // 5 // A baby <==> A baby 
+0 <==> 3 4 5 // NOALI // NIL // -not aligned- <==> in a highchair 
+4 5 6 <==> 7 8 9 // EQUI // 5 // a ketchup packet <==> a ketchup packet 
+7 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+3 <==> 6 // EQUI // 5 // holds <==> holds 
+</alignment>
+</sentence>
+
+<sentence id="306" status="">
+<alignment>
+5 6 7 <==> 4 5 6 // SPE2 // 4 // on the sofa <==> on the back 
+0 <==> 14 // NOALI // NIL // -not aligned- <==> . 
+3 <==> 3 // EQUI // 5 // sitting <==> sit 
+8 9 <==> 10 11 // EQUI // 5 // looking out <==> looking out 
+4 <==> 0 // NOALI // NIL // together <==> -not aligned- 
+10 11 <==> 12 13 // EQUI // 5 // the window <==> the window 
+12 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 7 8 9 // ALIC // NIL // -not aligned- <==> of a couch 
+1 2 <==> 1 2 // EQUI // 5 // Two cats <==> Two cats 
+</alignment>
+</sentence>
+
+<sentence id="307" status="">
+<alignment>
+5 <==> 2 // EQUI // 5 // standing <==> standing 
+6 7 8 <==> 3 4 5 // EQUI // 5 // in a field <==> in a field 
+1 2 3 4 <==> 1 // SPE1 // 4 // A dark brown horse <==> Horse 
+0 <==> 6 // NOALI // NIL // -not aligned- <==> . 
+9 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="308" status="">
+<alignment>
+5 6 7 <==> 5 6 7 // EQUI // 5 // on a sidewalk <==> on the sidewalk 
+4 <==> 4 // EQUI // 5 // parked <==> parked 
+1 2 3 <==> 1 2 3 // SPE1 // 4 // A blue scooter <==> A blue moped 
+0 <==> 8 // NOALI // NIL // -not aligned- <==> . 
+8 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="309" status="">
+<alignment>
+0 <==> 6 // NOALI // NIL // -not aligned- <==> lying 
+0 <==> 7 8 9 // NOALI // NIL // -not aligned- <==> on a blanket 
+7 8 9 10 <==> 0 // NOALI // NIL // with a wool basket <==> -not aligned- 
+11 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 10 // NOALI // NIL // -not aligned- <==> . 
+6 <==> 0 // NOALI // NIL // playing <==> -not aligned- 
+1 2 3 4 5 <==> 1 2 3 4 5 // EQUI // 5 // A black and white cat <==> A black and white cat 
+</alignment>
+</sentence>
+
+<sentence id="310" status="">
+<alignment>
+0 <==> 8 9 10 11 // NOALI // NIL // -not aligned- <==> while on a lake 
+12 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+7 8 <==> 0 // NOALI // NIL // is sitting <==> -not aligned- 
+0 <==> 12 // NOALI // NIL // -not aligned- <==> . 
+0 <==> 1 2 // NOALI // NIL // -not aligned- <==> A man 
+0 <==> 4 5 6 7 // NOALI // NIL // -not aligned- <==> on a small boat 
+5 6 <==> 0 // NOALI // NIL // a candle <==> -not aligned- 
+4 <==> 0 // NOALI // NIL // holding <==> -not aligned- 
+9 10 11 <==> 0 // NOALI // NIL // on a table <==> -not aligned- 
+1 2 3 <==> 0 // NOALI // NIL // A buddha statue <==> -not aligned- 
+0 <==> 3 // NOALI // NIL // -not aligned- <==> fishing 
+</alignment>
+</sentence>
+
+<sentence id="311" status="">
+<alignment>
+1 2 <==> 1 2 3 // SPE2 // 3 // Three people <==> Two elderly women 
+3 <==> 4 // EQUI // 5 // sitting <==> sit 
+0 <==> 9 10 11 // NOALI // NIL // -not aligned- <==> with a man 
+4 5 6 <==> 5 6 7 8 // EQUI // 5 // at dinner table <==> at a dinner table 
+8 9 <==> 0 // NOALI // NIL // at camera <==> -not aligned- 
+10 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 12 // NOALI // NIL // -not aligned- <==> . 
+7 <==> 0 // NOALI // NIL // smiling <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="312" status="">
+<alignment>
+10 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+6 <==> 4 // SIMI // 2 // traveling <==> is 
+0 <==> 8 // NOALI // NIL // -not aligned- <==> . 
+7 8 9 <==> 5 6 7 // EQUI // 5 // on the street <==> on the street 
+1 2 3 4 5 <==> 1 2 3 // SPE1 // 4 // A white and red bus <==> The red bus 
+</alignment>
+</sentence>
+
+<sentence id="313" status="">
+<alignment>
+0 <==> 5 6 7 8 // NOALI // NIL // -not aligned- <==> a small white boat 
+7 8 9 <==> 0 // NOALI // NIL // by a tree <==> -not aligned- 
+0 <==> 1 2 3 // NOALI // NIL // -not aligned- <==> A large boat 
+10 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 9 // NOALI // NIL // -not aligned- <==> . 
+4 5 6 <==> 0 // NOALI // NIL // in a field <==> -not aligned- 
+0 <==> 4 // NOALI // NIL // -not aligned- <==> pulling 
+3 <==> 0 // NOALI // NIL // standing <==> -not aligned- 
+1 2 <==> 0 // NOALI // NIL // Two goats <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="314" status="">
+<alignment>
+10 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+7 8 9 <==> 5 6 7 // EQUI // 5 // in the water <==> in the water 
+0 <==> 8 // NOALI // NIL // -not aligned- <==> . 
+1 2 3 4 <==> 1 2 // SPE1 // 2 // A large black bird <==> The birds 
+5 6 <==> 3 4 // SIMI // 2 // is sitting <==> are swimming 
+</alignment>
+</sentence>
+
+<sentence id="315" status="">
+<alignment>
+3 4 <==> 4 5 // SIMI // 2 // is sitting <==> is standing 
+5 6 7 8 <==> 0 // NOALI // NIL // on the red motorcycle <==> -not aligned- 
+0 <==> 10 // NOALI // NIL // -not aligned- <==> . 
+1 2 <==> 0 // NOALI // NIL // The woman <==> -not aligned- 
+0 <==> 6 7 8 9 // NOALI // NIL // -not aligned- <==> on the green hill 
+9 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 1 2 3 // NOALI // NIL // -not aligned- <==> The white sheep 
+</alignment>
+</sentence>
+
+<sentence id="316" status="">
+<alignment>
+5 <==> 0 // NOALI // NIL // floating <==> -not aligned- 
+9 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+3 4 <==> 1 2 3 // SPE2 // 4 // on boat <==> A wooden yacht 
+0 <==> 7 // NOALI // NIL // -not aligned- <==> . 
+1 2 <==> 0 // NOALI // NIL // Two men <==> -not aligned- 
+6 7 8 <==> 4 5 6 // SPE2 // 4 // on the water <==> on the ocean 
+</alignment>
+</sentence>
+
+<sentence id="317" status="">
+<alignment>
+11 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+1 2 3 4 <==> 1 2 3 4 5 6 // SIMI // 3 // The television and desk <==> A television and a laptop computer 
+0 <==> 7 // NOALI // NIL // -not aligned- <==> are 
+5 6 7 <==> 8 9 10 11 12 // EQUI // 5 // of hotel room <==> on in a hotel room 
+10 <==> 0 // NOALI // NIL // lighting <==> -not aligned- 
+8 9 <==> 0 // NOALI // NIL // with lamp <==> -not aligned- 
+0 <==> 13 // NOALI // NIL // -not aligned- <==> . 
+</alignment>
+</sentence>
+
+<sentence id="318" status="">
+<alignment>
+0 <==> 6 // NOALI // NIL // -not aligned- <==> sits 
+0 <==> 4 5 // NOALI // NIL // -not aligned- <==> a helmet 
+7 8 <==> 0 // NOALI // NIL // is cutting <==> -not aligned- 
+0 <==> 14 // NOALI // NIL // -not aligned- <==> . 
+1 2 <==> 1 2 // SPE1 // 4 // A woman <==> A person 
+0 <==> 7 8 9 // NOALI // NIL // -not aligned- <==> on a bicycle 
+15 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+4 5 6 <==> 0 // NOALI // NIL // a navy dress <==> -not aligned- 
+0 <==> 10 11 12 13 // NOALI // NIL // -not aligned- <==> on a sunny day 
+9 10 <==> 0 // NOALI // NIL // a cake <==> -not aligned- 
+3 <==> 3 // EQUI // 5 // wearing <==> wearing 
+11 12 13 14 <==> 0 // NOALI // NIL // on a white table <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="319" status="">
+<alignment>
+0 <==> 7 8 9 10 11 // NOALI // NIL // -not aligned- <==> with a computer and papers 
+0 <==> 12 13 // NOALI // NIL // -not aligned- <==> on it 
+4 5 6 7 8 9 <==> 0 // NOALI // NIL // of a white and purple motorcycle <==> -not aligned- 
+0 <==> 14 // NOALI // NIL // -not aligned- <==> . 
+10 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+1 2 3 <==> 1 2 3 // EQUI // 5 // A close-up picture <==> A close-up picture 
+0 <==> 4 5 6 // NOALI // NIL // -not aligned- <==> of a desk 
+</alignment>
+</sentence>
+
+<sentence id="320" status="">
+<alignment>
+0 <==> 7 // NOALI // NIL // -not aligned- <==> . 
+7 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+1 2 <==> 1 2 // SIMI // 4 // Two women <==> A woman 
+4 5 6 <==> 4 5 6 // EQUI // 5 // with a baby <==> with a baby 
+3 <==> 3 // EQUI // 5 // posing <==> poses 
+</alignment>
+</sentence>
+
+<sentence id="321" status="">
+<alignment>
+3 4 5 6 <==> 4 5 6 7 // EQUI // 5 // inside a train station <==> at the train station 
+0 <==> 3 // NOALI // NIL // -not aligned- <==> sits 
+7 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 8 // NOALI // NIL // -not aligned- <==> . 
+1 2 <==> 1 2 // SIMI // 4 // Two trains <==> The train 
+</alignment>
+</sentence>
+
+<sentence id="322" status="">
+<alignment>
+1 2 3 4 5 <==> 1 2 3 4 // SPE1 // 4 // A man and two women <==> A man and women 
+7 8 9 <==> 6 7 8 // EQUI // 5 // at the camera <==> at the camera 
+16 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 14 // NOALI // NIL // -not aligned- <==> . 
+10 11 <==> 9 10 // SIMI // 2 // while sitting <==> while standing 
+0 <==> 11 12 13 // NOALI // NIL // -not aligned- <==> in a kitchen 
+12 13 14 15 <==> 0 // NOALI // NIL // on a blue sofa <==> -not aligned- 
+6 <==> 5 // EQUI // 5 // smiling <==> smiling 
+</alignment>
+</sentence>
+
+<sentence id="323" status="">
+<alignment>
+10 11 12 13 <==> 7 8 9 10 // SIMI // 3 // in a bright room <==> in a living room 
+14 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 11 // NOALI // NIL // -not aligned- <==> . 
+1 2 3 4 5 6 7 8 9 <==> 1 2 3 4 5 6 // SIMI // 1 // A television , upholstered chair , and coffee stable <==> A leather couch and wooden table 
+</alignment>
+</sentence>
+
+<sentence id="324" status="">
+<alignment>
+10 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 5 6 // NOALI // NIL // -not aligned- <==> tending to 
+1 2 <==> 7 // SIMI // 2 // Tan cow <==> sheep 
+0 <==> 1 // NOALI // NIL // -not aligned- <==> Person 
+6 7 8 9 <==> 2 3 4 // EQUI // 5 // on a grassy field <==> in grassy field 
+3 4 5 <==> 0 // NOALI // NIL // with ear tags <==> -not aligned- 
+0 <==> 8 // NOALI // NIL // -not aligned- <==> . 
+</alignment>
+</sentence>
+
+<sentence id="325" status="">
+<alignment>
+7 8 <==> 0 // NOALI // NIL // 's head <==> -not aligned- 
+0 <==> 8 // NOALI // NIL // -not aligned- <==> . 
+3 4 5 6 <==> 0 // NOALI // NIL // of a brown horse <==> -not aligned- 
+0 <==> 3 4 5 6 7 // NOALI // NIL // -not aligned- <==> of a yellow school bus 
+9 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+1 2 <==> 1 2 // EQUI // 5 // A close-up <==> A close-up 
+</alignment>
+</sentence>
+
+<sentence id="326" status="">
+<alignment>
+1 2 3 <==> 2 3 4 // SPE1 // 4 // A bay foal <==> of young horse 
+4 5 <==> 5 // EQUI // 5 // is walking <==> walking 
+14 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+6 7 8 9 <==> 6 7 8 9 10 // SPE1 // 4 // next to its mother <==> next to a larger horse 
+0 <==> 1 // NOALI // NIL // -not aligned- <==> Close-up 
+0 <==> 11 // NOALI // NIL // -not aligned- <==> . 
+10 11 12 13 <==> 0 // NOALI // NIL // in a grassy field <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="327" status="">
+<alignment>
+1 2 3 <==> 1 2 3 // EQUI // 5 // A small child <==> A small child 
+4 <==> 0 // NOALI // NIL // smiling <==> -not aligned- 
+0 <==> 12 // NOALI // NIL // -not aligned- <==> . 
+0 <==> 4 // NOALI // NIL // -not aligned- <==> sits 
+0 <==> 5 6 7 8 // NOALI // NIL // -not aligned- <==> on a cement wall 
+5 6 7 <==> 0 // NOALI // NIL // at the camera <==> -not aligned- 
+0 <==> 9 10 11 // NOALI // NIL // -not aligned- <==> near white flower 
+8 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="328" status="">
+<alignment>
+12 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+4 5 6 7 8 <==> 7 8 9 10 11 12 // REL // 1 // in front of a building <==> in front of a dining room 
+0 <==> 13 // NOALI // NIL // -not aligned- <==> . 
+1 2 <==> 1 2 3 4 5 // SPE2 // 2 // A woman <==> Two women and a baby 
+9 10 11 <==> 0 // NOALI // NIL // in the snow <==> -not aligned- 
+3 <==> 6 // REL // 3 // stands <==> pose 
+</alignment>
+</sentence>
+
+<sentence id="329" status="">
+<alignment>
+0 <==> 1 2 // NOALI // NIL // -not aligned- <==> A woman 
+7 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+5 6 <==> 8 9 10 // EQUI // 5 // on table <==> on the table 
+4 <==> 7 // EQUI // 5 // sitting <==> sitting 
+1 2 3 <==> 3 4 5 6 // SIMI // 3 // Young baby girl <==> with a smiling baby 
+0 <==> 11 // NOALI // NIL // -not aligned- <==> . 
+</alignment>
+</sentence>
+
+<sentence id="330" status="">
+<alignment>
+1 2 3 4 5 <==> 1 2 3 4 // SIMI // 4 // A black and white cow <==> Black and white cows 
+0 <==> 8 // NOALI // NIL // -not aligned- <==> . 
+6 7 8 <==> 5 6 7 // SIMI // 3 // in a pen <==> behind a fence 
+9 10 <==> 0 // NOALI // NIL // with hay <==> -not aligned- 
+11 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="331" status="">
+<alignment>
+0 <==> 1 2 // NOALI // NIL // -not aligned- <==> A cat 
+0 <==> 4 5 // NOALI // NIL // -not aligned- <==> on sand 
+10 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 3 // NOALI // NIL // -not aligned- <==> sitting 
+7 8 9 <==> 8 9 10 // EQUI // 5 // for the camera <==> at the camera 
+1 2 3 4 <==> 0 // NOALI // NIL // A man and woman <==> -not aligned- 
+0 <==> 6 7 // NOALI // NIL // -not aligned- <==> looking up 
+5 6 <==> 0 // NOALI // NIL // are posing <==> -not aligned- 
+0 <==> 11 // NOALI // NIL // -not aligned- <==> . 
+</alignment>
+</sentence>
+
+<sentence id="332" status="">
+<alignment>
+7 <==> 9 // SIMI // 2 // standing <==> sitting 
+11 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+8 9 10 <==> 0 // NOALI // NIL // in a field <==> -not aligned- 
+0 <==> 13 // NOALI // NIL // -not aligned- <==> . 
+0 <==> 10 11 12 // NOALI // NIL // -not aligned- <==> on a sofa 
+1 2 3 4 5 6 <==> 6 7 8 // SIMI // 2 // A black and white horned cow <==> of a cat 
+0 <==> 1 2 3 4 5 // NOALI // NIL // -not aligned- <==> A black and white photo 
+</alignment>
+</sentence>
+
+<sentence id="333" status="">
+<alignment>
+10 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 12 // NOALI // NIL // -not aligned- <==> . 
+0 <==> 9 10 11 // NOALI // NIL // -not aligned- <==> on a porch 
+6 7 8 9 <==> 6 7 8 // SPE1 // 4 // at a restaurant table <==> around a table 
+3 4 <==> 3 4 // EQUI // 5 // of people <==> of people 
+1 2 <==> 1 2 // EQUI // 5 // A group <==> A group 
+5 <==> 5 // EQUI // 5 // sitting <==> sitting 
+</alignment>
+</sentence>
+
+<sentence id="334" status="">
+<alignment>
+1 2 3 4 <==> 0 // NOALI // NIL // A yellow school bus <==> -not aligned- 
+0 <==> 8 // NOALI // NIL // -not aligned- <==> . 
+6 7 8 <==> 4 5 6 7 // SPE2 // 4 // in a field <==> in a green field 
+9 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 1 2 3 // NOALI // NIL // -not aligned- <==> A brown horse 
+5 <==> 0 // NOALI // NIL // parked <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="335" status="">
+<alignment>
+3 4 <==> 3 // SIMI // 4 // is sitting <==> sitting 
+5 6 7 <==> 0 // NOALI // NIL // on a bag <==> -not aligned- 
+0 <==> 4 5 6 7 // NOALI // NIL // -not aligned- <==> on a long branch 
+8 9 10 <==> 0 // NOALI // NIL // of cat food <==> -not aligned- 
+1 2 <==> 1 2 // SIMI // 1 // The cat <==> Two eagles 
+11 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 8 // NOALI // NIL // -not aligned- <==> . 
+</alignment>
+</sentence>
+
+<sentence id="336" status="">
+<alignment>
+12 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+6 7 8 <==> 6 // SPE1 // 4 // is looking up <==> looking 
+9 10 11 <==> 7 8 9 // EQUI // 5 // at the camera <==> at the camera 
+0 <==> 10 // NOALI // NIL // -not aligned- <==> . 
+1 2 3 4 5 <==> 1 2 3 4 5 // SIMI // 3 // The black and white cat <==> A black and white dog 
+</alignment>
+</sentence>
+
+<sentence id="337" status="">
+<alignment>
+1 2 3 4 5 <==> 0 // NOALI // NIL // A black and white photo <==> -not aligned- 
+9 <==> 5 // EQUI // 5 // sitting <==> sitting 
+0 <==> 3 4 // ALIC // NIL // -not aligned- <==> of water 
+21 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+6 7 8 <==> 1 2 // SPE2 // 4 // of a bottle <==> A bottle 
+0 <==> 18 // NOALI // NIL // -not aligned- <==> . 
+10 11 12 13 <==> 6 7 8 // REL // 3 // atop a rock carving <==> on a stone 
+14 15 16 17 18 <==> 0 // NOALI // NIL // in front of a line <==> -not aligned- 
+0 <==> 15 16 17 // NOALI // NIL // -not aligned- <==> in the background 
+0 <==> 9 10 11 12 13 14 // NOALI // NIL // -not aligned- <==> with other stones and a wall 
+19 20 <==> 0 // NOALI // NIL // of bushes <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="338" status="">
+<alignment>
+8 9 10 <==> 7 8 9 // SPE1 // 4 // of the yard <==> in the field 
+5 6 7 <==> 0 // NOALI // NIL // in the cold <==> -not aligned- 
+4 <==> 6 // SIMI // 2 // sits <==> standing 
+0 <==> 10 // NOALI // NIL // -not aligned- <==> . 
+11 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+1 2 3 <==> 1 2 3 4 5 // SIMI // 4 // A lone cow <==> a black and white cow 
+</alignment>
+</sentence>
+
+<sentence id="339" status="">
+<alignment>
+9 10 11 <==> 0 // NOALI // NIL // an open box <==> -not aligned- 
+12 13 14 <==> 0 // NOALI // NIL // of Corn Flakes <==> -not aligned- 
+7 8 <==> 0 // NOALI // NIL // holds up <==> -not aligned- 
+0 <==> 10 11 12 13 14 // NOALI // NIL // -not aligned- <==> next to a blue motorcycle 
+0 <==> 8 9 // NOALI // NIL // -not aligned- <==> is standing 
+1 2 <==> 1 2 // EQUI // 5 // A girl <==> A girl 
+16 17 <==> 0 // NOALI // NIL // a carton <==> -not aligned- 
+0 <==> 15 // NOALI // NIL // -not aligned- <==> . 
+3 4 5 6 <==> 0 // NOALI // NIL // in a black desktop <==> -not aligned- 
+15 <==> 0 // NOALI // NIL // and <==> -not aligned- 
+20 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+18 19 <==> 0 // NOALI // NIL // of milk <==> -not aligned- 
+0 <==> 3 // NOALI // NIL // -not aligned- <==> wearing 
+0 <==> 4 5 6 7 // NOALI // NIL // -not aligned- <==> black shorts and boots 
+</alignment>
+</sentence>
+
+<sentence id="340" status="">
+<alignment>
+13 14 15 <==> 11 12 13 // EQUI // 5 // in the background <==> in the background 
+0 <==> 7 8 9 10 // NOALI // NIL // -not aligned- <==> with a ferris wheel 
+1 2 3 4 5 <==> 0 // NOALI // NIL // A black and white bird <==> -not aligned- 
+16 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 14 // NOALI // NIL // -not aligned- <==> . 
+6 7 8 <==> 0 // NOALI // NIL // on a body <==> -not aligned- 
+0 <==> 1 2 // NOALI // NIL // -not aligned- <==> A bus 
+9 10 <==> 0 // NOALI // NIL // of water <==> -not aligned- 
+0 <==> 4 5 6 // NOALI // NIL // -not aligned- <==> on a road 
+0 <==> 3 // NOALI // NIL // -not aligned- <==> is 
+11 12 <==> 0 // NOALI // NIL // with grass <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="341" status="">
+<alignment>
+4 <==> 4 // EQUI // 5 // standing <==> stands 
+9 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+1 2 3 <==> 1 2 3 // SIMI // 4 // Two brown horses <==> A brown horse 
+0 <==> 8 // NOALI // NIL // -not aligned- <==> . 
+5 6 7 8 <==> 5 6 7 // SIMI // 4 // in a green meadow <==> in tall grass 
+</alignment>
+</sentence>
+
+<sentence id="342" status="">
+<alignment>
+12 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 7 // NOALI // NIL // -not aligned- <==> . 
+9 10 11 <==> 4 5 6 // EQUI // 5 // in the snow <==> on the snow 
+8 <==> 3 // SIMI // 2 // sitting <==> stand 
+1 2 3 4 5 6 7 <==> 1 2 // SPE1 // 4 // A red bird and four other birds <==> Five birds 
+</alignment>
+</sentence>
+
+<sentence id="343" status="">
+<alignment>
+6 7 8 9 <==> 0 // NOALI // NIL // with a newborn baby <==> -not aligned- 
+0 <==> 11 // NOALI // NIL // -not aligned- <==> . 
+10 11 12 13 <==> 7 8 9 10 // EQUI // 5 // at the dinner table <==> around a dining table 
+14 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 3 4 5 // ALIC // NIL // -not aligned- <==> of elderly people 
+5 <==> 6 // EQUI // 5 // poses <==> pose 
+1 2 3 4 <==> 1 2 // SPE1 // 3 // An older Asian couple <==> A group 
+</alignment>
+</sentence>
+
+<sentence id="344" status="">
+<alignment>
+0 <==> 5 // NOALI // NIL // -not aligned- <==> covered 
+0 <==> 10 // NOALI // NIL // -not aligned- <==> stands 
+20 21 22 <==> 0 // NOALI // NIL // in a vase <==> -not aligned- 
+6 <==> 0 // NOALI // NIL // sitting <==> -not aligned- 
+0 <==> 11 12 13 // NOALI // NIL // -not aligned- <==> in a pasture 
+7 8 9 10 11 12 13 14 15 <==> 0 // NOALI // NIL // in front of a brick wall and a window <==> -not aligned- 
+0 <==> 17 // NOALI // NIL // -not aligned- <==> . 
+1 2 3 4 5 <==> 0 // NOALI // NIL // A black and white chair <==> -not aligned- 
+16 17 18 19 <==> 0 // NOALI // NIL // with a bamboo plant <==> -not aligned- 
+0 <==> 1 2 3 4 // NOALI // NIL // -not aligned- <==> A black headed sheep 
+0 <==> 14 15 16 // NOALI // NIL // -not aligned- <==> with other sheep 
+23 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 6 7 8 9 // NOALI // NIL // -not aligned- <==> in thick white wool 
+</alignment>
+</sentence>
+
+<sentence id="345" status="">
+<alignment>
+4 5 6 <==> 0 // NOALI // NIL // on the coach <==> -not aligned- 
+10 11 <==> 0 // NOALI // NIL // behind it <==> -not aligned- 
+12 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+7 8 9 <==> 5 6 7 8 9 // SPE2 // 1 // with a pillow <==> on an animal print blanket 
+1 2 <==> 1 2 // EQUI // 5 // A cat <==> The cat 
+3 <==> 3 4 // SPE1 // 4 // sleeping <==> is laying 
+0 <==> 10 // NOALI // NIL // -not aligned- <==> . 
+</alignment>
+</sentence>
+
+<sentence id="346" status="">
+<alignment>
+7 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+2 <==> 2 // EQUI // 5 // driving <==> driving 
+1 <==> 1 // SPE1 // 4 // Cars <==> Vehicles 
+3 4 5 6 <==> 3 4 5 6 7 // SIMI // 3 // near a model building <==> infant of an ornate building 
+0 <==> 8 // NOALI // NIL // -not aligned- <==> . 
+</alignment>
+</sentence>
+
+<sentence id="347" status="">
+<alignment>
+9 10 11 12 <==> 0 // NOALI // NIL // in a dirt riding-ring <==> -not aligned- 
+4 5 <==> 0 // NOALI // NIL // is riding <==> -not aligned- 
+13 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 3 4 // NOALI // NIL // -not aligned- <==> is staring 
+0 <==> 8 9 10 11 // NOALI // NIL // -not aligned- <==> with a white mane 
+1 2 3 <==> 1 2 // SPE1 // 3 // A young woman <==> A man 
+6 7 8 <==> 5 6 7 // SPE1 // 4 // a Bay hose <==> at a horse 
+0 <==> 12 // NOALI // NIL // -not aligned- <==> . 
+</alignment>
+</sentence>
+
+<sentence id="348" status="">
+<alignment>
+0 <==> 1 // NOALI // NIL // -not aligned- <==> Road 
+1 2 <==> 0 // NOALI // NIL // A building <==> -not aligned- 
+3 4 5 6 <==> 0 // NOALI // NIL // with a temporary sign <==> -not aligned- 
+0 <==> 10 11 12 // NOALI // NIL // -not aligned- <==> of a bus 
+10 11 12 13 <==> 0 // NOALI // NIL // to its parking lot <==> -not aligned- 
+14 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 6 7 8 9 // NOALI // NIL // -not aligned- <==> of the tail lights 
+7 8 9 <==> 0 // NOALI // NIL // over the entrance <==> -not aligned- 
+0 <==> 2 3 4 5 // NOALI // NIL // -not aligned- <==> with the rear image 
+0 <==> 13 // NOALI // NIL // -not aligned- <==> . 
+</alignment>
+</sentence>
+
+<sentence id="349" status="">
+<alignment>
+7 8 9 10 11 12 13 <==> 0 // NOALI // NIL // with wine , beer , and lemons <==> -not aligned- 
+14 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 11 12 13 // NOALI // NIL // -not aligned- <==> in a restaurant 
+1 2 <==> 1 2 3 4 5 // SPE2 // 2 // A woman <==> Four women and two men 
+0 <==> 14 // NOALI // NIL // -not aligned- <==> . 
+0 <==> 6 // NOALI // NIL // -not aligned- <==> sit 
+3 4 5 6 <==> 7 8 9 10 // SPE2 // 4 // at the dining table <==> at a long table 
+</alignment>
+</sentence>
+
+<sentence id="350" status="">
+<alignment>
+0 <==> 7 // NOALI // NIL // -not aligned- <==> . 
+1 2 <==> 1 2 // SIMI // 3 // A man <==> A woman 
+4 5 6 <==> 4 5 6 // EQUI // 5 // a white horse <==> a white horse 
+7 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+3 <==> 3 // SIMI // 4 // riding <==> leading 
+</alignment>
+</sentence>
+
+<sentence id="351" status="">
+<alignment>
+5 6 7 8 <==> 0 // NOALI // NIL // on an office chair <==> -not aligned- 
+4 <==> 4 // EQUI // 5 // laying <==> laying 
+0 <==> 5 6 7 // NOALI // NIL // -not aligned- <==> on a sheet 
+0 <==> 8 // NOALI // NIL // -not aligned- <==> . 
+9 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+1 2 3 <==> 1 2 3 // EQUI // 5 // A white cat <==> A white cat 
+</alignment>
+</sentence>
+
+<sentence id="352" status="">
+<alignment>
+0 <==> 4 5 6 7 8 // NOALI // NIL // -not aligned- <==> in front of tour bus 
+1 2 <==> 1 2 // SIMI // 3 // Two men <==> Two women 
+3 <==> 3 // EQUI // 5 // standing <==> standing 
+4 5 <==> 0 // NOALI // NIL // on beach <==> -not aligned- 
+6 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 9 // NOALI // NIL // -not aligned- <==> . 
+</alignment>
+</sentence>
+
+<sentence id="353" status="">
+<alignment>
+0 <==> 3 4 5 6 7 8 9 10 // NOALI // NIL // -not aligned- <==> with tan walls and a washer and dryer 
+0 <==> 11 // NOALI // NIL // -not aligned- <==> . 
+6 7 8 9 <==> 0 // NOALI // NIL // near a laundry closet <==> -not aligned- 
+0 <==> 1 2 // NOALI // NIL // -not aligned- <==> A room 
+1 2 3 <==> 0 // NOALI // NIL // A small desk <==> -not aligned- 
+10 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+4 5 <==> 0 // NOALI // NIL // with chair <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="354" status="">
+<alignment>
+1 2 <==> 1 2 // SIMI // 3 // A woman <==> A man 
+4 5 6 <==> 6 7 8 9 // EQUI // 5 // a white horse <==> on a white horse 
+0 <==> 3 4 5 // NOALI // NIL // -not aligned- <==> in a tux 
+7 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+3 <==> 0 // NOALI // NIL // leading <==> -not aligned- 
+0 <==> 10 // NOALI // NIL // -not aligned- <==> . 
+</alignment>
+</sentence>
+
+<sentence id="355" status="">
+<alignment>
+4 5 6 <==> 6 7 // EQUI // 5 // a brown horse <==> brown horse 
+3 <==> 5 // EQUI // 5 // riding <==> riding 
+0 <==> 8 // NOALI // NIL // -not aligned- <==> . 
+1 2 <==> 1 // SPE1 // 3 // A woman <==> Person 
+0 <==> 2 3 4 // NOALI // NIL // -not aligned- <==> dressed in blue 
+7 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="356" status="">
+<alignment>
+0 <==> 8 // NOALI // NIL // -not aligned- <==> . 
+1 2 3 <==> 1 2 3 // EQUI // 5 // A passenger train <==> A passenger train 
+10 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+4 <==> 0 // NOALI // NIL // waiting <==> -not aligned- 
+5 6 7 8 9 <==> 0 // NOALI // NIL // at the city train station <==> -not aligned- 
+0 <==> 4 5 6 7 // NOALI // NIL // -not aligned- <==> with a yellow engine 
+</alignment>
+</sentence>
+
+<sentence id="357" status="">
+<alignment>
+4 5 <==> 0 // NOALI // NIL // moves down <==> -not aligned- 
+6 7 <==> 5 6 7 // EQUI // 5 // the tracks <==> on train tracks 
+0 <==> 8 // NOALI // NIL // -not aligned- <==> . 
+1 2 3 <==> 1 2 3 // SIMI // 4 // A black train <==> A long train 
+8 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 4 // NOALI // NIL // -not aligned- <==> is 
+</alignment>
+</sentence>
+
+<sentence id="358" status="">
+<alignment>
+6 7 8 9 <==> 7 8 9 10 // EQUI // 5 // in a living room <==> in a living room 
+10 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 11 // NOALI // NIL // -not aligned- <==> . 
+1 2 3 4 5 <==> 1 2 3 4 5 6 // SIMI // 1 // Blue couch and twin bed <==> A leather couch and wooden table 
+</alignment>
+</sentence>
+
+<sentence id="359" status="">
+<alignment>
+5 6 7 8 9 10 <==> 0 // NOALI // NIL // with a purse and throw blanket <==> -not aligned- 
+1 2 3 4 <==> 1 2 // REL // 2 // A white leather couch <==> A television 
+11 12 <==> 0 // NOALI // NIL // on it <==> -not aligned- 
+0 <==> 7 // NOALI // NIL // -not aligned- <==> . 
+0 <==> 6 // NOALI // NIL // -not aligned- <==> on 
+0 <==> 3 4 5 // NOALI // NIL // -not aligned- <==> with a show 
+13 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="360" status="">
+<alignment>
+7 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+1 2 <==> 1 2 // SIMI // 2 // Two buses <==> Yellow scooter 
+0 <==> 8 // NOALI // NIL // -not aligned- <==> . 
+4 5 6 <==> 4 5 6 7 // SPE2 // 4 // on a street <==> in an alley way 
+3 <==> 3 // EQUI // 5 // parked <==> parked 
+</alignment>
+</sentence>
+
+<sentence id="361" status="">
+<alignment>
+0 <==> 6 7 8 9 // NOALI // NIL // -not aligned- <==> on the railroad tracks 
+7 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 1 2 3 // NOALI // NIL // -not aligned- <==> The brown train 
+3 <==> 4 5 // SIMI // 4 // sitting <==> is sitting 
+4 5 6 <==> 0 // NOALI // NIL // on a rock <==> -not aligned- 
+1 2 <==> 0 // NOALI // NIL // Two animals <==> -not aligned- 
+0 <==> 10 // NOALI // NIL // -not aligned- <==> . 
+</alignment>
+</sentence>
+
+<sentence id="362" status="">
+<alignment>
+9 <==> 0 // NOALI // NIL // and <==> -not aligned- 
+0 <==> 14 // NOALI // NIL // -not aligned- <==> . 
+16 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+1 2 <==> 1 2 // SIMI // 3 // A woman <==> A man 
+13 <==> 11 // EQUI // 5 // up <==> up 
+11 12 <==> 9 10 // EQUI // 5 // a baby <==> a baby 
+14 15 <==> 12 13 // SIMI // 3 // above her <==> above him 
+10 <==> 8 // EQUI // 5 // holding <==> holding 
+6 7 8 <==> 5 6 7 // EQUI // 5 // on the floor <==> on the floor 
+3 4 5 <==> 3 4 // EQUI // 5 // is laying down <==> is laying 
+</alignment>
+</sentence>
+
+<sentence id="363" status="">
+<alignment>
+6 <==> 6 // SPE1 // 4 // sleeping <==> laying 
+0 <==> 10 11 12 // NOALI // NIL // -not aligned- <==> in the sun 
+7 8 9 <==> 0 // NOALI // NIL // on its side <==> -not aligned- 
+1 2 3 4 5 <==> 1 2 3 4 5 // EQUI // 5 // A black and white cat <==> A black and white cat 
+0 <==> 7 8 9 // NOALI // NIL // -not aligned- <==> on the ground 
+14 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 13 // NOALI // NIL // -not aligned- <==> . 
+10 11 12 13 <==> 0 // NOALI // NIL // on a purple blanket <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="364" status="">
+<alignment>
+7 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+3 4 5 6 <==> 0 // NOALI // NIL // in a clothing store <==> -not aligned- 
+1 2 <==> 1 2 // EQUI // 5 // Two women <==> Two women 
+0 <==> 6 // NOALI // NIL // -not aligned- <==> . 
+0 <==> 3 4 5 // NOALI // NIL // -not aligned- <==> in a sailboat 
+</alignment>
+</sentence>
+
+<sentence id="365" status="">
+<alignment>
+0 <==> 3 4 // ALIC // NIL // -not aligned- <==> of birds 
+0 <==> 5 // NOALI // NIL // -not aligned- <==> flying 
+0 <==> 9 10 // NOALI // NIL // -not aligned- <==> of water 
+11 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+6 <==> 0 // NOALI // NIL // eats <==> -not aligned- 
+7 8 9 10 <==> 0 // NOALI // NIL // from a bird feeder <==> -not aligned- 
+0 <==> 11 // NOALI // NIL // -not aligned- <==> . 
+1 2 3 4 5 <==> 1 2 // SPE1 // 2 // A yellow and black bird <==> A flock 
+0 <==> 6 7 8 // NOALI // NIL // -not aligned- <==> over a body 
+</alignment>
+</sentence>
+
+<sentence id="366" status="">
+<alignment>
+5 <==> 0 // NOALI // NIL // parked <==> -not aligned- 
+0 <==> 8 // NOALI // NIL // -not aligned- <==> tied 
+0 <==> 1 2 3 // NOALI // NIL // -not aligned- <==> A small dog 
+6 7 8 <==> 0 // NOALI // NIL // in the grass <==> -not aligned- 
+0 <==> 12 // NOALI // NIL // -not aligned- <==> . 
+0 <==> 5 6 7 // NOALI // NIL // -not aligned- <==> a pink shirt 
+0 <==> 9 10 11 // NOALI // NIL // -not aligned- <==> to a railing 
+9 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+1 2 3 4 <==> 0 // NOALI // NIL // A small camouflaged airplane <==> -not aligned- 
+0 <==> 4 // NOALI // NIL // -not aligned- <==> wearing 
+</alignment>
+</sentence>
+
+<sentence id="367" status="">
+<alignment>
+0 <==> 8 9 10 11 12 // NOALI // NIL // -not aligned- <==> in front of the mountain 
+10 11 12 <==> 0 // NOALI // NIL // of the bicycle <==> -not aligned- 
+0 <==> 3 // NOALI // NIL // -not aligned- <==> are 
+0 <==> 1 2 // NOALI // NIL // -not aligned- <==> The boats 
+13 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+1 2 3 <==> 0 // NOALI // NIL // An elderly woman <==> -not aligned- 
+0 <==> 4 5 6 // NOALI // NIL // -not aligned- <==> on the water 
+0 <==> 7 // NOALI // NIL // -not aligned- <==> located 
+0 <==> 13 // NOALI // NIL // -not aligned- <==> . 
+4 <==> 0 // NOALI // NIL // catches <==> -not aligned- 
+5 6 <==> 0 // NOALI // NIL // a ride <==> -not aligned- 
+7 8 9 <==> 0 // NOALI // NIL // on the back <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="368" status="">
+<alignment>
+5 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 1 2 3 // NOALI // NIL // -not aligned- <==> A large dog 
+3 4 <==> 9 10 11 // EQUI // 5 // in afield <==> in a field 
+1 <==> 5 6 7 8 // EQUI // 5 // sheep <==> next to a sheep 
+2 <==> 4 // EQUI // 5 // standing <==> stands 
+0 <==> 12 // NOALI // NIL // -not aligned- <==> . 
+</alignment>
+</sentence>
+
+<sentence id="369" status="">
+<alignment>
+6 7 8 9 10 <==> 0 // NOALI // NIL // of an empty train station <==> -not aligned- 
+0 <==> 6 7 8 // NOALI // NIL // -not aligned- <==> of a cat 
+0 <==> 9 // NOALI // NIL // -not aligned- <==> sitting 
+11 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 10 11 12 // NOALI // NIL // -not aligned- <==> on a sofa 
+1 2 3 4 5 <==> 1 2 3 4 5 // EQUI // 5 // A black and white photo <==> A black and white photo 
+0 <==> 13 // NOALI // NIL // -not aligned- <==> . 
+</alignment>
+</sentence>
+
+<sentence id="370" status="">
+<alignment>
+0 <==> 4 5 6 // NOALI // NIL // -not aligned- <==> on green grass 
+4 5 <==> 0 // NOALI // NIL // on concrete <==> -not aligned- 
+3 <==> 3 // EQUI // 5 // standing <==> standing 
+0 <==> 7 // NOALI // NIL // -not aligned- <==> . 
+1 2 <==> 1 2 // SIMI // 4 // Black bird <==> Blue bird 
+6 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="371" status="">
+<alignment>
+1 2 <==> 1 // EQUI // 5 // Several people <==> People 
+0 <==> 8 // NOALI // NIL // -not aligned- <==> . 
+3 4 <==> 3 // EQUI // 5 // on motorcycles <==> mopeds 
+0 <==> 2 // NOALI // NIL // -not aligned- <==> ride 
+9 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+5 6 7 8 <==> 4 5 6 7 // SPE1 // 4 // in a market square <==> in an urban setting 
+</alignment>
+</sentence>
+
+<sentence id="372" status="">
+<alignment>
+4 5 <==> 0 // NOALI // NIL // on back <==> -not aligned- 
+1 2 <==> 1 2 3 // SPE2 // 4 // Domestic cat <==> Tan domestic cat 
+0 <==> 4 5 6 // NOALI // NIL // -not aligned- <==> under black tarp 
+0 <==> 7 // NOALI // NIL // -not aligned- <==> . 
+6 7 8 <==> 0 // NOALI // NIL // of cat litter <==> -not aligned- 
+3 <==> 0 // NOALI // NIL // laying <==> -not aligned- 
+9 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+</alignment>
+</sentence>
+
+<sentence id="373" status="">
+<alignment>
+1 2 3 4 <==> 0 // NOALI // NIL // Black and white cow <==> -not aligned- 
+0 <==> 1 2 3 4 5 // NOALI // NIL // -not aligned- <==> A black and white photo 
+9 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 10 11 12 13 // NOALI // NIL // -not aligned- <==> next to a bus 
+5 <==> 9 // EQUI // 5 // standing <==> standing 
+0 <==> 6 7 8 // NOALI // NIL // -not aligned- <==> of a man 
+6 7 8 <==> 0 // NOALI // NIL // in grassy field <==> -not aligned- 
+0 <==> 14 // NOALI // NIL // -not aligned- <==> . 
+</alignment>
+</sentence>
+
+<sentence id="374" status="">
+<alignment>
+0 <==> 14 // NOALI // NIL // -not aligned- <==> . 
+9 10 <==> 9 10 // EQUI // 5 // looking up <==> looking up 
+14 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 4 5 // NOALI // NIL // -not aligned- <==> is wearing 
+0 <==> 6 7 // NOALI // NIL // -not aligned- <==> a sweater 
+11 12 13 <==> 11 12 13 // EQUI // 5 // at the camera <==> at the camera 
+0 <==> 8 // NOALI // NIL // -not aligned- <==> and 
+4 <==> 0 // NOALI // NIL // laying <==> -not aligned- 
+5 6 7 8 <==> 0 // NOALI // NIL // on a wooden beam <==> -not aligned- 
+1 2 3 <==> 1 2 3 // SIMI // 2 // A small cat <==> The small dog 
+</alignment>
+</sentence>
+
+<sentence id="375" status="">
+<alignment>
+0 <==> 6 7 8 9 // NOALI // NIL // -not aligned- <==> in a bathroom sink 
+4 <==> 0 // NOALI // NIL // closely <==> -not aligned- 
+3 <==> 10 // EQUI // 5 // look <==> looking 
+8 <==> 0 // NOALI // NIL // . <==> -not aligned- 
+0 <==> 14 // NOALI // NIL // -not aligned- <==> . 
+5 6 7 <==> 11 12 13 // EQUI // 5 // at the camera <==> at the camera 
+1 2 <==> 1 2 3 4 5 // SIMI // 2 // Tan cows <==> A white and gray cat 
+</alignment>
+</sentence>
+
