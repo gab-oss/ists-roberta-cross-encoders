@@ -81,9 +81,12 @@ samples = []
 with open(os.path.join(train_path, train_file), 'r', encoding='utf8') as fIn:
     reader = csv.DictReader(fIn, delimiter='\t', quoting=csv.QUOTE_NONE)
     for row in reader:
-        score = float(row['y_type']) / 5.0
-        samples.append(InputExample(texts=[row['x1'], row['x2']], label=score))
-        #samples.append(InputExample(texts=[row['x2'], row['x1']], label=label2int[row['y_score']]))
+        score = row['score']
+        if score == 'NIL':
+            score = 0
+        score = float(score) / 5.0
+        samples.append(InputExample(texts=[row['chunk1'], row['chunk2']], label=score))
+        #samples.append(InputExample(texts=[row['chunk2'], row['chunk1']], label=label2int[row['score']]))
 
 
 split = 0.8
@@ -95,8 +98,8 @@ test_samples = []
 with open(os.path.join(test_path, test_file), 'r', encoding='utf8') as fIn:
     reader = csv.DictReader(fIn, delimiter='\t', quoting=csv.QUOTE_NONE)
     for row in reader:
-        #test_samples.append(InputExample(texts=[row['x1'], row['x2']], label=label2int[row['y_score']]))
-        test_samples.append([row['x1'], row['x2']])
+        #test_samples.append(InputExample(texts=[row['chunk1'], row['chunk2']], label=label2int[row['score']]))
+        test_samples.append([row['chunk1'], row['chunk2']])
 
 #Configuration
 train_batch_size = 16
@@ -112,6 +115,7 @@ evaluator = CECorrelationEvaluator.from_input_examples(dev_samples, name='Scorin
 # Configure the training
 warmup_steps = math.ceil(len(train_dataloader) * num_epochs * 0.1) #10% of train data for warm-up
 logger.info("Warmup-steps: {}".format(warmup_steps))
+
 
 
 # Train the model
@@ -144,7 +148,7 @@ for p in predictions:
     pred_cont_int_scores.append(round(p * 5))
     
 
-result = 'results/' + data_name + + '_epochs_' + str(num_epochs) + '_scoring.tsv'
+result = 'results/' + data_name + '_epochs_' + str(num_epochs) + '_scoring.tsv'
 if os.path.exists(os.path.join(test_path, result)):
   os.remove(os.path.join(test_path, result))
 
@@ -157,8 +161,7 @@ with open(os.path.join(test_path, test_file), 'r', encoding='utf8') as fIn, open
             print(res_line)
             result.write(res_line)
         else:
-            res_line = line[:-1] + '\t' + str(pred_scores[lines_count - 1]) + '\t' + str(pred_cont_scores[lines_count - 1]) 
-            + '\t' + str(pred_cont_int_scores[lines_count - 1]) + '\n'
+            res_line = line[:-1] + '\t' + str(pred_scores[lines_count - 1]) + '\t' + str(pred_cont_scores[lines_count - 1]) + '\t' + str(pred_cont_int_scores[lines_count - 1]) + '\n'
             lines_count += 1
             print(res_line)
             result.write(res_line)

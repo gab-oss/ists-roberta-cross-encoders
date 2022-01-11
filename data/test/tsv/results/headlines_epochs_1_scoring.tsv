@@ -1,0 +1,2043 @@
+sentence_id	chunks_ids	type	score	chunk1	chunk2	pred_scores	pred_cont_scores	pred_cont_scores
+1	0 <==> 2	NOALI_FACT	NIL	-not aligned-	says 	0.004466993	0.022334964014589787	0
+1	0 <==> 1	NOALI	NIL	-not aligned-	Official 	0.004367341	0.02183670410886407	0
+1	3 <==> 5	EQUI	5	caused	caused 	0.9748839	4.874419569969177	5
+1	4 5 <==> 6 7	EQUI	5	mall collapse	mall collapse 	0.9719321	4.859660565853119	5
+1	1 2 <==> 3 4	EQUI	5	Kenyan forces	Kenyan forces 	0.95138	4.756900072097778	5
+2	4 5 <==> 5 6	EQUI	5	death toll	death toll 	0.975216	4.876079857349396	5
+2	7 <==> 8 9	SIMI	4	500	to 580 	0.6410659	3.205329477787018	3
+2	1 2 3 <==> 1 2 3	EQUI	5	Bangladesh building disaster	Bangladesh building collapse 	0.91469395	4.573469758033752	5
+2	0 <==> 4	NOALI	NIL	-not aligned-	: 	0.0042981775	0.021490887738764286	0
+2	6 <==> 7	SPE2	4	passes	climbs 	0.8752702	4.376350939273834	4
+3	6 7 <==> 6 7	EQUI	5	to hospital	in hospital 	0.9528425	4.764212369918823	5
+3	0 <==> 3	NOALI	NIL	-not aligned-	: 	0.0042981775	0.021490887738764286	0
+3	1 2 <==> 1 2	EQUI	5	South Africa	South Africa 	0.9667841	4.83392059803009	5
+3	5 <==> 5	REL	3	taken	remains 	0.75382733	3.769136667251587	4
+3	3 4 <==> 4	EQUI	5	's Mandela	Mandela 	0.96343786	4.817189276218414	5
+4	3 <==> 3	EQUI	5	drag	drag 	0.97462714	4.873135685920715	5
+4	1 2 <==> 1 2	EQUI	5	Weak earnings	Weak earnings 	0.96729225	4.836461246013641	5
+4	0 <==> 6 7 8	NOALI	NIL	-not aligned-	on Wall Street 	0.0046608537	0.02330426825210452	0
+4	4 <==> 4	EQUI	5	stocks	stocks 	0.9728391	4.8641955852508545	5
+4	5 <==> 5	EQUI	5	lower	lower 	0.97439665	4.871983230113983	5
+5	1 2 3 <==> 1 2 3	EQUI	5	Liquid ammonia leak	Liquid ammonia leak 	0.95971566	4.798578321933746	5
+5	5 <==> 5 6 7	SPE1	4	15	at least 15 	0.93483937	4.674196839332581	5
+5	4 <==> 4	EQUI	5	kills	kills 	0.97505873	4.875293672084808	5
+5	6 7 <==> 8 9	EQUI	5	in Shanghai	in Shanghai 	0.9724367	4.862183630466461	5
+6	0 <==> 2 3	NOALI	NIL	-not aligned-	shrugs off 	0.0045087268	0.022543633822351694	0
+6	3 4 5 <==> 0	NOALI	NIL	in NYC mayor	-not aligned- 	0.0044986936	0.02249346813187003	0
+6	8 9 10 11 <==> 4 5 6 7	SPE2	4	amid new sexting scandal	latest online sex scandal 	0.6985977	3.492988646030426	3
+6	6 7 <==> 0	NOALI	NIL	's race	-not aligned- 	0.0044701835	0.02235091757029295	0
+6	1 <==> 1	EQUI	5	Weiner	Weiner 	0.96817625	4.8408812284469604	5
+6	2 <==> 0	NOALI	NIL	stays	-not aligned- 	0.004379157	0.02189578488469124	0
+7	6 7 <==> 6 7	SIMI	2	to opposition	to rebels 	0.8932808	4.466404020786285	4
+7	1 2 3 4 <==> 1 2 3 4	EQUI	5	Syria military police chief	Syria military police chief 	0.94299126	4.714956283569336	5
+7	5 <==> 5	EQUI	5	defects	defects 	0.9740801	4.870400428771973	5
+8	3 4 5 6 <==> 5 6 7 8	EQUI	5	in Belgian coach crash	in Belgian bus crash 	0.95985645	4.799282252788544	5
+8	1 <==> 0	ALIC	NIL	Five	-not aligned- 	0.0043643853	0.021821926347911358	0
+8	0 <==> 1	NOALI	NIL	-not aligned-	Teenagers 	0.004493311	0.02246655523777008	0
+8	2 <==> 2 3 4	EQUI	5	killed	among 5 dead 	0.954558	4.77279007434845	5
+9	3 <==> 0	NOALI	NIL	`	-not aligned- 	0.0043349415	0.021674707531929016	0
+9	1 2 <==> 1 2	EQUI	5	Swiss tourist	Swiss tourist 	0.9649514	4.824756979942322	5
+9	0 <==> 9	NOALI	NIL	-not aligned-	police 	0.00435	0.021750000305473804	0
+9	5 <==> 0	NOALI	NIL	'	-not aligned- 	0.004316036	0.02158018061891198	0
+9	0 <==> 8	NOALI_FACT	NIL	-not aligned-	say 	0.0043332996	0.02166649792343378	0
+9	6 7 <==> 5 6	EQUI	5	in India	in India 	0.9645086	4.82254296541214	5
+9	4 <==> 3 4	EQUI	5	gang-raped	gang raped 	0.9711936	4.8559680581092834	5
+9	0 <==> 7	NOALI	NIL	-not aligned-	, 	0.0043400717	0.021700358483940363	0
+10	0 <==> 1	ALIC	NIL	-not aligned-	Israel 	0.004383847	0.021919235587120056	0
+10	4 5 <==> 4 5	EQUI	5	inside Syria	into Syria 	0.9583673	4.791836440563202	5
+10	0 <==> 3	ALIC	NIL	-not aligned-	airstrike 	0.0044839275	0.02241963753476739	0
+10	1 2 <==> 0	ALIC	NIL	Israel planes	-not aligned- 	0.0044719786	0.022359893191605806	0
+10	3 <==> 2	EQUI	5	strike	launches 	0.92349046	4.617452323436737	5
+11	7 8 <==> 7 8 9 10	EQUI	5	at BoE	at Bank of England 	0.9255339	4.627669453620911	5
+11	3 4 <==> 3 4	EQUI	5	high bar	high bar 	0.97284317	4.864215850830078	5
+11	5 6 <==> 5 6	EQUI	5	to change	to changes 	0.96768916	4.838445782661438	5
+11	1 <==> 1	EQUI	5	Carney	Carney 	0.9689014	4.8445069789886475	5
+11	2 <==> 2	EQUI	5	sets	sets 	0.9745481	4.8727405071258545	5
+12	2 <==> 2	EQUI	5	kill	kill 	0.9762557	4.881278574466705	5
+12	6 7 8 <==> 6 7	SPE1	4	in northern Pakistan	in Pakistan 	0.9372443	4.686221480369568	5
+12	1 <==> 1	EQUI	5	Gunmen	Gunmen 	0.9742842	4.871420860290527	5
+12	3 4 5 <==> 3 4 5	SPE2	4	10 foreign tourists	11 foreign climbers 	0.90701497	4.535074830055237	5
+13	1 2 <==> 1 2	EQUI	5	Matt Smith	Matt Smith 	0.9674488	4.837243854999542	5
+13	3 4 <==> 3	EQUI	5	to leave	quits 	0.7753436	3.876717984676361	4
+13	5 6 <==> 5 6 7	EQUI	5	Doctor Who	's Doctor Who 	0.9478868	4.739434123039246	5
+13	0 <==> 4	NOALI	NIL	-not aligned-	BBC 	0.00436452	0.021822599228471518	0
+13	7 8 9 <==> 0	NOALI	NIL	after 4 years	-not aligned- 	0.004531999	0.02265999559313059	0
+14	8 <==> 8	SIMI	3	Monday	Thursday 	0.8209788	4.1048941016197205	4
+14	6 7 <==> 6 7	EQUI	5	against USD	against USD 	0.9669366	4.834682941436768	5
+14	1 2 <==> 1 2	EQUI	5	China Yuan	China yuan 	0.9692677	4.846338629722595	5
+14	3 <==> 3	EQUI	5	Strengthens	strengthens 	0.9730074	4.865036904811859	5
+14	4 5 <==> 4 5	SIMI	4	to 6.168	to 6.1696 	0.8045939	4.022969603538513	4
+15	1 2 3 4 <==> 1 2 3 4 5	EQUI	5	Ex-first lady Barbara Bush	Former first lady Barbara Bush 	0.9267376	4.633688032627106	5
+15	5 <==> 6	EQUI	5	leaves	leaves 	0.9738767	4.8693835735321045	5
+15	6 7 <==> 7	SPE1	4	Texas hospital	hospital 	0.94602716	4.730135798454285	5
+16	2 <==> 2	EQUI	5	killed	killed 	0.97456217	4.8728108406066895	5
+16	1 <==> 1	EQUI	5	11	Eleven 	0.8906732	4.4533661007881165	4
+16	3 4 5 6 7 <==> 3 4 5 6 7	EQUI	5	in Chinese police station attack	in China police station attack 	0.9661825	4.830912351608276	5
+17	0 <==> 9	NOALI	NIL	-not aligned-	, 	0.0043400717	0.021700358483940363	0
+17	4 5 <==> 4 5 6	SPE2	3	in Russia	in Russian city 	0.9431502	4.715751111507416	5
+17	8 <==> 11	EQUI	5	killed	killed 	0.97456217	4.8728108406066895	5
+17	1 2 <==> 1 2	EQUI	5	Boeing airliner	Boeing airliner 	0.9594033	4.797016382217407	5
+17	7 <==> 10	EQUI	5	50	50 	0.9667692	4.833846092224121	5
+17	0 <==> 7 8	ALIC	NIL	-not aligned-	of Kazan 	0.004425715	0.022128575947135687	0
+17	3 <==> 3	EQUI	5	crashes	crashes 	0.97634023	4.881701171398163	5
+17	6 <==> 0	NOALI	NIL	,	-not aligned- 	0.004336292	0.02168145962059498	0
+18	9 <==> 0	NOALI	NIL	,	-not aligned- 	0.004336292	0.02168145962059498	0
+18	10 <==> 11	EQUI	5	succeeding	succeeding 	0.965751	4.828754961490631	5
+18	5 6 7 8 <==> 6 7 8 9	EQUI	5	as New York mayor	as New York mayor 	0.9746951	4.873475432395935	5
+18	3 4 <==> 4 5	EQUI	5	sworn in	sworn in 	0.9666835	4.833417534828186	5
+18	0 <==> 10	NOALI	NIL	-not aligned-	, 	0.0043400717	0.021700358483940363	0
+18	11 <==> 12 13	EQUI	5	Bloomberg	Michael Bloomberg 	0.91169226	4.558461308479309	5
+18	1 2 <==> 1 2 3	EQUI	5	De Blasio	Bill De Blasio 	0.95946926	4.797346293926239	5
+19	8 9 <==> 0	NOALI	NIL	in Russia	-not aligned- 	0.0043808515	0.021904257591813803	0
+19	5 <==> 6	EQUI	5	released	freed 	0.8532708	4.266354143619537	4
+19	6 7 <==> 7 8	EQUI	5	from jail	from jail 	0.96956676	4.847833812236786	5
+19	1 2 3 4 <==> 1 2 3 4 5	EQUI	5	Pussy Riot member Alyokhina	Pussy Riot member Maria Alyokhina 	0.9050524	4.525262117385864	5
+20	5 6 7 8 <==> 4 5 6 7	EQUI	5	at San Francisco airport	at San Francisco airport 	0.9658911	4.829455614089966	5
+20	1 2 <==> 1	SPE1	4	Asiana jet	Plane 	0.66647786	3.3323892951011658	3
+20	3 4 <==> 2 3	EQUI	5	crash lands	crash lands 	0.97584766	4.879238307476044	5
+21	8 9 <==> 7 8	EQUI	5	as firefighters	fire crews 	0.9269279	4.634639620780945	5
+21	0 <==> 3	NOALI	NIL	-not aligned-	grows 	0.00436567	0.021828350145369768	0
+21	10 <==> 9 10	SIMI	4	labor	making progress 	0.8680313	4.340156614780426	4
+21	5 6 7 <==> 0	NOALI	NIL	on the lines	-not aligned- 	0.0044658775	0.022329387720674276	0
+21	14 15 16 17 <==> 0	NOALI	NIL	-LRB- + video -RRB-	-not aligned- 	0.0049019316	0.024509658105671406	0
+21	0 <==> 5	NOALI	NIL	-not aligned-	officials 	0.0043888786	0.021944392938166857	0
+21	4 <==> 0	NOALI	NIL	1,900	-not aligned- 	0.00447692	0.02238459885120392	0
+21	11 12 13 <==> 0	NOALI	NIL	to limit damage	-not aligned- 	0.004371066	0.02185533056035638	0
+21	1 2 <==> 1 2	EQUI	5	California wildfire	California wildfire 	0.97156674	4.857833683490753	5
+21	3 <==> 0	NOALI	NIL	:	-not aligned- 	0.0043214164	0.02160708187147975	0
+21	0 <==> 6	NOALI_FACT	NIL	-not aligned-	say 	0.0043332996	0.02166649792343378	0
+21	0 <==> 4	NOALI	NIL	-not aligned-	but 	0.004346206	0.021731029264628887	0
+22	5 6 <==> 0	NOALI	NIL	to treatment	-not aligned- 	0.004327005	0.02163502387702465	0
+22	0 <==> 5	NOALI	NIL	-not aligned-	stops 	0.0043781963	0.02189098158851266	0
+22	0 <==> 3 4	NOALI	NIL	-not aligned-	after he 	0.004464167	0.02232083585113287	0
+22	2 <==> 2	EQUI	5	hospitalized	hospitalised 	0.97294664	4.8647332191467285	5
+22	0 <==> 6	NOALI	NIL	-not aligned-	talking 	0.004334386	0.021671929862350225	0
+22	4 <==> 0	NOALI	NIL	responding	-not aligned- 	0.004332516	0.021662579383701086	0
+22	3 <==> 0	NOALI	NIL	,	-not aligned- 	0.004336292	0.02168145962059498	0
+22	1 <==> 1	EQUI	5	Mandela	Mandela 	0.9691919	4.845959544181824	5
+23	3 4 <==> 3	EQUI	5	break into	storm 	0.87555027	4.377751350402832	4
+23	1 2 <==> 1 2	EQUI	5	Thai protesters	Thai protesters 	0.9604285	4.802142381668091	5
+23	5 6 <==> 4 5	EQUI	5	army headquarters	army headquarters 	0.9667714	4.8338571190834045	5
+24	6 <==> 0	ALIC	NIL	president	-not aligned- 	0.0043027266	0.021513632964342833	0
+24	7 8 <==> 5 6 7 8	SPE2	4	's call	to Morsi dialogue call 	0.8294797	4.147398471832275	4
+24	5 <==> 3	SPE1	3	rejects	mulls 	0.90813947	4.540697336196899	5
+24	1 <==> 0	ALIC	NIL	Egypt	-not aligned- 	0.0044070138	0.022035068832337856	0
+24	0 <==> 4	ALIC	NIL	-not aligned-	response 	0.004328583	0.02164291450753808	0
+24	9 10 <==> 0	ALIC	NIL	for dialogue	-not aligned- 	0.0043270746	0.02163537312299013	0
+24	2 3 4 <==> 1 2	SPE1	4	's main opposition	Egypt opposition 	0.8457364	4.228681921958923	4
+25	4 5 <==> 5 6	EQUI	5	6.8 %	6.8 % 	0.9663305	4.831652641296387	5
+25	2 3 <==> 3 4	EQUI	5	starts up	Starts Up 	0.9716375	4.858187437057495	5
+25	6 7 <==> 0	ALIC	NIL	in May	-not aligned- 	0.0044367	0.022183500695973635	0
+25	1 <==> 1 2	EQUI	5	Housing	May Housing 	0.9563594	4.781796932220459	5
+26	1 <==> 0	NOALI_FACT	NIL	-RRB-	-not aligned- 	0.004715052	0.02357525983825326	0
+26	2 <==> 1	EQUI	5	Cuba	Cuba 	0.97118944	4.855947196483612	5
+26	6 7 <==> 7 8	EQUI	5	CELAC presidency	CELAC Presidency 	0.97071517	4.853575825691223	5
+26	5 <==> 4 5 6	EQUI	5	assumes	to Take Over 	0.8621326	4.310663044452667	4
+26	3 4 <==> 2 3	EQUI	5	's Castro	's Castro 	0.9705648	4.852823913097382	5
+27	3 <==> 7	EQUI	5	trapped	trapped 	0.9736289	4.868144392967224	5
+27	0 <==> 6	NOALI	NIL	-not aligned-	still 	0.004327044	0.02163521945476532	0
+27	0 <==> 3 4	NOALI	NIL	-not aligned-	to find 	0.0043324647	0.021662323269993067	0
+27	4 5 6 7 <==> 8 9 10 11	EQUI	5	in India building collapse	in India building collapse 	0.9631816	4.815908074378967	5
+27	0 <==> 2	NOALI	NIL	-not aligned-	race 	0.004372833	0.021864164154976606	0
+27	2 <==> 0	NOALI	NIL	feared	-not aligned- 	0.004282857	0.021414284128695726	0
+27	0 <==> 1	NOALI	NIL	-not aligned-	Rescuers 	0.004616846	0.023084229324012995	0
+27	1 <==> 5	SPE2	3	Dozens	20 	0.8122368	4.061183929443359	4
+28	0 <==> 7	ALIC	NIL	-not aligned-	pope 	0.0043728473	0.02186423633247614	0
+28	2 <==> 2	EQUI	5	enter	enter 	0.9720291	4.860145449638367	5
+28	1 <==> 1	EQUI	5	Cardinals	Cardinals 	0.97204393	4.860219657421112	5
+28	4 5 6 <==> 5 6	SPE1	4	for historic vote	to elect 	0.729423	3.647114932537079	4
+28	3 <==> 3 4	SPE2	4	Vatican	Sistine Chapel 	0.8872337	4.436168372631073	4
+29	2 <==> 2 3	EQUI	5	stopped	pulled over 	0.8602567	4.301283359527588	4
+29	7 <==> 0	NOALI	NIL	,	-not aligned- 	0.004336292	0.02168145962059498	0
+29	9 10 <==> 10	EQUI	5	with warning	warning 	0.95379466	4.768973290920258	5
+29	3 4 <==> 6 7	EQUI	5	for speeding	for speeding 	0.97038203	4.851910173892975	5
+29	8 <==> 0	NOALI	NIL	released	-not aligned- 	0.004349938	0.021749690640717745	0
+29	5 6 <==> 4 5	EQUI	5	in Texas	in Texas 	0.96792877	4.839643836021423	5
+29	1 <==> 1	EQUI	5	Zimmerman	Zimmerman 	0.97050136	4.8525068163871765	5
+29	0 <==> 9	ALIC	NIL	-not aligned-	given 	0.0043563265	0.02178163267672062	0
+29	0 <==> 8	NOALI	NIL	-not aligned-	, 	0.0043400717	0.021700358483940363	0
+30	2 <==> 2	EQUI	5	unveils	unveils 	0.96507484	4.825374186038971	5
+30	3 4 5 6 7 <==> 3 4 5 6	EQUI	5	$ 30 billion oil link	$ 25bn oil link 	0.9533053	4.766526520252228	5
+30	1 <==> 1	EQUI	5	Russia	Russia 	0.9742964	4.871481955051422	5
+30	8 9 <==> 7 8	EQUI	5	to Pacific	to Pacific 	0.96735036	4.836751818656921	5
+31	5 <==> 0	NOALI	NIL	:	-not aligned- 	0.0043214164	0.02160708187147975	0
+31	6 <==> 0	NOALI_FACT	NIL	CENC	-not aligned- 	0.004374716	0.02187357982620597	0
+31	1 2 <==> 1 2	SIMI	4	7.2-magnitude quake	7.7-magnitude earthquake 	0.91529477	4.576473832130432	5
+31	3 <==> 3	EQUI	5	hits	hits 	0.9754063	4.877031445503235	5
+31	4 <==> 4 5	SPE2	4	Pakistan	SW Pakistan 	0.9012492	4.506245851516724	5
+32	0 <==> 4 5	ALIC	NIL	-not aligned-	in fly-by 	0.004642637	0.023213184904307127	0
+32	1 <==> 1	EQUI	5	Asteroid	Asteroid 	0.96724105	4.836205244064331	5
+32	3 4 5 6 <==> 3	SPE1	3	between Earth and satellites	Earth 	0.82062584	4.103129208087921	4
+32	2 <==> 2	SIMI	4	zips	passes 	0.8968907	4.484453499317169	4
+33	0 <==> 2	NOALI	NIL	-not aligned-	: 	0.0042981775	0.021490887738764286	0
+33	2 <==> 4	EQUI	5	declared	declared 	0.9731708	4.86585408449173	5
+33	0 <==> 1	NOALI	NIL	-not aligned-	Zimbabwe 	0.004548363	0.022741814609616995	0
+33	1 <==> 3	EQUI	5	Mugabe	Mugabe 	0.97535646	4.876782298088074	5
+33	4 5 6 <==> 6 7 8	EQUI	5	of disputed elections	in disputed vote 	0.9470198	4.7350990772247314	5
+33	3 <==> 5	EQUI	5	winner	winner 	0.97297364	4.864868223667145	5
+34	3 <==> 3	EQUI	5	bans	bans 	0.976917	4.88458514213562	5
+34	1 2 <==> 1 2	EQUI	5	Egyptian court	Egypt court 	0.9569232	4.784615933895111	5
+34	4 5 <==> 4 5 6 7 8	SPE2	4	Muslim Brotherhood	Muslim Brotherhood ` activities ' 	0.8227902	4.113951027393341	4
+35	16 17 <==> 19 20	EQUI	5	in Iraq	in Iraq 	0.9685818	4.842908978462219	5
+35	2 3 4 <==> 2 3 4	EQUI	5	by the Spokesperson	by the spokesperson 	0.95112544	4.7556272149086	5
+35	0 <==> 13	NOALI	NIL	-not aligned-	, 	0.0043400717	0.021700358483940363	0
+35	5 6 7 8 9 <==> 5 6 7 8 9 10 11 12	SPE2	4	of High Representative Catherine Ashton	of the EU High Representative , Catherine Ashton 	0.9243376	4.6216881275177	5
+35	10 11 12 13 <==> 14 15 16	SIMI	4	on the latest spate	on the resumption 	0.65808696	3.290434777736664	3
+35	1 <==> 1	EQUI	5	Statement	Statement 	0.9728976	4.864487946033478	5
+35	14 15 <==> 17 18	SPE2	4	of attacks	of executions 	0.90743387	4.537169337272644	5
+36	5 6 7 <==> 5 6	SPE1	4	agains NSA leaker	against Snowden 	0.6724305	3.362152576446533	3
+36	1 <==> 1	EQUI	5	U.S.	US 	0.9554688	4.7773438692092896	5
+36	2 <==> 2	EQUI	5	files	files 	0.9738042	4.869020879268646	5
+36	3 4 <==> 3 4	EQUI	5	espionage charges	espionage charges 	0.97280335	4.864016771316528	5
+36	0 <==> 7 8	ALIC	NIL	-not aligned-	over leaks 	0.004394725	0.0219736248254776	0
+37	1 2 <==> 1 2	EQUI	5	Chinese general	Chinese general 	0.9691468	4.845733940601349	5
+37	0 <==> 8 9	ALIC	NIL	-not aligned-	' jail 	0.0043551	0.021775499917566776	0
+37	6 7 8 <==> 6 7	EQUI	5	10 years jail	10 years 	0.96005046	4.800252318382263	5
+37	5 <==> 5	EQUI	5	gets	gets 	0.97490114	4.874505698680878	5
+37	9 10 <==> 10 11	SPE2	4	for rape	for gang-rape 	0.9616184	4.80809211730957	5
+37	3 4 <==> 3 4	EQUI	5	's son	's son 	0.97329897	4.866494834423065	5
+38	1 2 <==> 1 2	EQUI	5	Moderate earthquake	Moderate earthquake 	0.96381056	4.819052815437317	5
+38	3 <==> 3	EQUI	5	jolts	hits 	0.8714837	4.357418417930603	4
+38	4 5 <==> 4 5	SIMI	3	NW Pakistan	southern Pakistan 	0.8287484	4.143742024898529	4
+39	3 4 <==> 3 4	EQUI	5	Egypt Crackdown	Egypt crackdown 	0.9663934	4.831967055797577	5
+39	2 <==> 2	EQUI	5	Backs	backs 	0.9524194	4.762097001075745	5
+39	1 <==> 1	EQUI	5	Iraq	Iraq 	0.96507627	4.825381338596344	5
+39	5 6 7 <==> 5 6 7 8	EQUI	5	on Morsi Supporters	on Mohamed Morsi supporters 	0.9547458	4.773729145526886	5
+40	7 <==> 0	ALIC	NIL	ways	-not aligned- 	0.004371664	0.021858320105820894	0
+40	6 <==> 5 6	EQUI	5	part	to divorce 	0.872874	4.364370107650757	4
+40	1 2 3 4 5 <==> 1 2 3 4	EQUI	5	Hrithik Roshan , wife Sussanne	Hrithik Roshan , Sussanne 	0.9341176	4.6705880761146545	5
+41	1 2 <==> 1 2	EQUI	5	Death toll	Death toll 	0.9742888	4.87144410610199	5
+41	4 5 6 7 <==> 6 7 8 9	SIMI	1	in Russia plane crash	in Italy coach crash 	0.90236384	4.5118191838264465	5
+41	0 <==> 4 5	NOALI	NIL	-not aligned-	to 39 	0.004314448	0.021572241093963385	0
+41	3 <==> 3	EQUI	5	rises	rises 	0.9749926	4.874962866306305	5
+42	5 6 <==> 4 5	SIMI	2	in Iraq	in Syria 	0.79953635	3.997681736946106	4
+42	4 <==> 0	NOALI	NIL	funeral	-not aligned- 	0.0043759374	0.02187968697398901	0
+42	3 <==> 3	SIMI	4	hits	strikes 	0.88836616	4.441830813884735	4
+42	1 2 <==> 1 2	EQUI	5	Suicide bomber	Suicide bomber 	0.97333175	4.8666587471961975	5
+43	0 <==> 2	NOALI	NIL	-not aligned-	Wins 	0.004394583	0.021972914692014456	0
+43	2 <==> 0	NOALI	NIL	Vote	-not aligned- 	0.0043529957	0.021764978300780058	0
+43	3 4 5 <==> 3 4 5	SPE2	3	in Presidential Election	Mali Presidential Election 	0.9183371	4.59168553352356	5
+43	1 <==> 0	NOALI	NIL	Iranians	-not aligned- 	0.0044955746	0.022477873135358095	0
+43	0 <==> 1	NOALI	NIL	-not aligned-	Keita 	0.0043724054	0.021862026769667864	0
+44	6 7 <==> 7 8 9	SPE2	4	in Pak	in NW Pakistan 	0.86549556	4.327477812767029	4
+44	0 <==> 2	NOALI	NIL	-not aligned-	killed 	0.0043217773	0.021608886308968067	0
+44	8 <==> 0	NOALI	NIL	postponed	-not aligned- 	0.0045837597	0.022918798495084047	0
+44	1 <==> 0	NOALI	NIL	Protest	-not aligned- 	0.004338207	0.021691035944968462	0
+44	2 3 4 5 <==> 3 4 5 6	EQUI	5	against US drone strikes	in U.S. drone strike 	0.8961376	4.480687975883484	4
+44	0 <==> 1	NOALI	NIL	-not aligned-	6 	0.004300268	0.021501339506357908	0
+45	1 2 <==> 1 2	SIMI	4	Suicide bomber	Suicide bombers 	0.9695497	4.847748577594757	5
+45	4 <==> 0	ALIC	NIL	3	-not aligned- 	0.0042875665	0.02143783261999488	0
+45	5 6 7 <==> 4 5	EQUI	5	at US base	US base 	0.9632793	4.816396534442902	5
+45	8 9 <==> 6 7	EQUI	5	in Afghanistan	in Afghanistan 	0.9695795	4.847897589206696	5
+45	3 <==> 3	SPE1	4	kills	attack 	0.9325282	4.662640988826752	5
+46	7 <==> 0	NOALI	NIL	disappoints	-not aligned- 	0.004708442	0.023542209528386593	0
+46	3 <==> 0	NOALI	NIL	misses	-not aligned- 	0.004421652	0.02210825914517045	0
+46	0 <==> 7	NOALI	NIL	-not aligned-	, 	0.0043400717	0.021700358483940363	0
+46	6 <==> 9 10 11	SPE2	2	iPhone	iPhone 4 imports 	0.81002444	4.0501222014427185	4
+46	0 <==> 8	NOALI	NIL	-not aligned-	bans 	0.0043918174	0.021959086880087852	0
+46	1 2 <==> 5 6	REL	3	Apple revenue	for Samsung 	0.54481864	2.724093198776245	3
+46	4 <==> 0	NOALI	NIL	again	-not aligned- 	0.0043403707	0.02170185325667262	0
+46	5 <==> 0	NOALI	NIL	,	-not aligned- 	0.004336292	0.02168145962059498	0
+46	0 <==> 1 2 3 4	NOALI	NIL	-not aligned-	U.S. trade agency rules 	0.0049063135	0.024531567469239235	0
+47	2 <==> 2	EQUI	5	killed	killed 	0.97456217	4.8728108406066895	5
+47	1 <==> 1	SIMI	3	23	10 	0.6624182	3.3120909333229065	3
+47	3 4 5 6 <==> 3 4 5 6	SPE1	4	in Iraq car bombings	in Iraq bomb attack 	0.9493813	4.7469064593315125	5
+48	3 <==> 5	EQUI	5	survives	survives 	0.97658736	4.882936775684357	5
+48	0 <==> 8	NOALI	NIL	-not aligned-	' 	0.004307438	0.02153719076886773	0
+48	4 5 <==> 6 7	EQUI	5	assassination attempt	assassination attempt 	0.9687089	4.843544363975525	5
+48	0 <==> 4	NOALI	NIL	-not aligned-	` 	0.0043451353	0.021725676488131285	0
+48	1 2 <==> 1 2 3	SIMI	2	Egypt minister	Syrian prime minister 	0.76452553	3.8226276636123657	4
+49	1 2 <==> 0	NOALI	NIL	2 dead	-not aligned- 	0.0044067167	0.022033583372831345	0
+49	6 7 8 <==> 1 2 3	SIMI	3	over Jamaat leader	Bangladesh Islamist leader 	0.67960304	3.3980152010917664	3
+49	9 10 <==> 4	EQUI	5	's execution	executed 	0.9655976	4.827988147735596	5
+49	3 4 5 <==> 0	ALIC	NIL	in Bangladesh clashes	-not aligned- 	0.0045151263	0.022575631737709045	0
+50	7 <==> 7	SIMI	3	540	1,000 	0.60963506	3.048175275325775	3
+50	9 <==> 0	NOALI	NIL	army	-not aligned- 	0.004394721	0.02197360387071967	0
+50	1 2 3 4 5 <==> 1 2 3 4 5	EQUI	5	Bangladesh building collapse death toll	Bangladesh building collapse death toll 	0.94787455	4.739372730255127	5
+50	8 <==> 0	NOALI	NIL	:	-not aligned- 	0.0043214164	0.02160708187147975	0
+50	6 <==> 6	SPE1	4	hits	passes 	0.8991359	4.495679438114166	4
+51	1 <==> 1 2 3	SPE2	3	China	China and Taiwan 	0.8463667	4.231833517551422	4
+51	2 3 <==> 4	SPE1	3	to resume	hold 	0.723376	3.616879880428314	4
+51	4 5 6 <==> 5 6	SPE1	2	US investment talks	historic talks 	0.892015	4.4600749015808105	4
+52	5 <==> 5	SPE1	1	soldiers	16 	0.7603644	3.801822066307068	4
+52	1 2 3 <==> 1 2 3	SIMI	2	Yemen suicide bombing	Female suicide bomber 	0.86146253	4.3073126673698425	4
+52	0 <==> 6 7 8	NOALI	NIL	-not aligned-	at Russian station 	0.0044372375	0.0221861875616014	0
+52	4 <==> 4	EQUI	5	kills	kills 	0.97505873	4.875293672084808	5
+53	3 4 <==> 3 4	EQUI	5	tear gas	tear gas 	0.969452	4.847260117530823	5
+53	8 9 <==> 7 8	SIMI	2	in Tunis	in Cairo 	0.8048564	4.024282097816467	4
+53	1 <==> 1	EQUI	5	Police	Police 	0.97361654	4.868082702159882	5
+53	5 6 <==> 0	NOALI	NIL	to disperse	-not aligned- 	0.004349199	0.021745995618402958	0
+53	7 <==> 5 6	EQUI	5	protesters	at protesters 	0.96765375	4.838268756866455	5
+53	2 <==> 2	EQUI	5	fire	fire 	0.97306484	4.8653241991996765	5
+54	0 <==> 1	NOALI	NIL	-not aligned-	Wrestling 	0.004475942	0.022379709407687187	0
+54	0 <==> 2 3	NOALI	NIL	-not aligned-	to feature 	0.0043270006	0.02163500292226672	0
+54	2 3 <==> 0	NOALI	NIL	to host	-not aligned- 	0.00443237	0.02216184977442026	0
+54	4 5 6 <==> 4 5 6 7	EQUI	5	2020 Olympic Games	in 2020 Tokyo Olympics 	0.9050473	4.525236487388611	5
+54	1 <==> 0	ALIC	NIL	Tokyo	-not aligned- 	0.004621893	0.023109465837478638	0
+55	3 <==> 3	OPPO	4	taken	released 	0.7419053	3.7095263600349426	4
+55	4 5 <==> 4 5	OPPO	4	to hospital	from hospital 	0.9429098	4.714548885822296	5
+55	1 2 <==> 1 2	EQUI	5	Nelson Mandela	Nelson Mandela 	0.9695672	4.847835898399353	5
+56	1 <==> 1	EQUI	5	Britain	Britain 	0.9728009	4.864004552364349	5
+56	3 4 <==> 4 5	EQUI	5	to deport	to deport 	0.97373235	4.8686617612838745	5
+56	0 <==> 3	NOALI	NIL	-not aligned-	bid 	0.0043374184	0.021687091793864965	0
+56	5 6 7 <==> 6 7 8 9	SPE2	4	of Abu Qatada	radical cleric Abu Qatada 	0.85827446	4.291372299194336	4
+56	0 <==> 2	NOALI	NIL	-not aligned-	loses 	0.0043915506	0.021957752760499716	0
+56	2 <==> 0	NOALI	NIL	set	-not aligned- 	0.0043407413	0.021703706588596106	0
+57	7 <==> 0	NOALI	NIL	Continue	-not aligned- 	0.004350475	0.021752375178039074	0
+57	8 <==> 5 6 7	SPE2	3	Protest	Thai protest day 	0.83280164	4.16400820016861	4
+57	0 <==> 4	NOALI	NIL	-not aligned-	rock 	0.0043384545	0.021692272275686264	0
+57	9 10 <==> 0	NOALI	NIL	in Bangkok	-not aligned- 	0.004407246	0.02203623065724969	0
+57	4 <==> 0	NOALI	NIL	Heard	-not aligned- 	0.004349715	0.021748575381934643	0
+57	0 <==> 8	NOALI	NIL	-not aligned-	ahead 	0.0043872576	0.021936288103461266	0
+57	1 2 3 <==> 1 2 3	SPE2	4	Shots , Explosions	Gunshots , explosions 	0.94187987	4.709399342536926	5
+57	5 6 <==> 0	ALIC	NIL	as Thais	-not aligned- 	0.004508688	0.02254344057291746	0
+57	0 <==> 9 10	NOALI	NIL	-not aligned-	of polls 	0.004354906	0.02177452901378274	0
+58	0 <==> 6 7	NOALI	NIL	-not aligned-	nuclear facilities 	0.0044110534	0.02205526689067483	0
+58	4 5 <==> 0	NOALI	NIL	Kaesong access	-not aligned- 	0.004459903	0.022299515549093485	0
+58	0 <==> 3	NOALI	NIL	-not aligned-	vows 	0.0043797824	0.02189891180023551	0
+58	3 <==> 0	NOALI	NIL	blocks	-not aligned- 	0.0043653427	0.02182671334594488	0
+58	0 <==> 4 5	NOALI	NIL	-not aligned-	to restart 	0.0043718363	0.021859181579202414	0
+58	1 2 <==> 1 2	EQUI	5	North Korea	North Korea 	0.96086633	4.804331660270691	5
+59	0 <==> 4	NOALI	NIL	-not aligned-	, 	0.0043400717	0.021700358483940363	0
+59	1 <==> 1	EQUI	5	Today	Today 	0.9668965	4.834482371807098	5
+59	5 6 <==> 5 6	SIMI	3	April 23	Jan. 21 	0.77722406	3.886120319366455	4
+59	4 <==> 0	NOALI	NIL	,	-not aligned- 	0.004336292	0.02168145962059498	0
+59	2 3 <==> 2 3	EQUI	5	in History	in History 	0.9739155	4.869577586650848	5
+60	0 <==> 4	NOALI	NIL	-not aligned-	Concerned 	0.0043645035	0.02182251773774624	0
+60	4 <==> 0	NOALI	NIL	warns	-not aligned- 	0.004406702	0.022033508867025375	0
+60	5 6 <==> 5 6 7	REL	2	of Talibanisation	About Israeli Airstrikes 	0.5539713	2.7698564529418945	3
+60	1 <==> 1 2 3	SPE2	2	Iran	Russia , China 	0.63810766	3.1905382871627808	3
+60	7 8 <==> 8 9	EQUI	5	in Syria	in Syria 	0.9722581	4.861290454864502	5
+60	2 3 <==> 0	NOALI	NIL	's Rouhani	-not aligned- 	0.0043581654	0.02179082715883851	0
+61	2 <==> 5	SPE1	3	kill	standoff 	0.90963054	4.548152685165405	5
+61	1 <==> 3 4	EQUI	5	Police	after police 	0.96266025	4.813301265239716	5
+61	3 <==> 6 7	EQUI	5	gunman	with gunman 	0.9545711	4.772855639457703	5
+61	4 <==> 0	NOALI	NIL	,	-not aligned- 	0.004336292	0.02168145962059498	0
+61	6 7 8 <==> 1 2	SPE2	3	3 more dead	4 dead 	0.96095395	4.80476975440979	5
+61	5 <==> 0	NOALI	NIL	find	-not aligned- 	0.004395169	0.021975846029818058	0
+61	9 10 11 <==> 9 10 11	SPE1	4	in Colo. home	in US home 	0.8791717	4.395858645439148	4
+61	0 <==> 8	NOALI	NIL	-not aligned-	barricaded 	0.0047356524	0.023678261786699295	0
+62	0 <==> 1	NOALI	NIL	-not aligned-	EU 	0.0043471656	0.021735827904194593	0
+62	1 <==> 6 7	EQUI	5	Fight	to fight 	0.96898276	4.8449137806892395	5
+62	2 3 4 <==> 4 5	REL	3	for Mali Town	Mali army 	0.56356853	2.817842662334442	3
+62	0 <==> 2 3	NOALI	NIL	-not aligned-	to train 	0.004380951	0.021904755849391222	0
+62	5 <==> 0	NOALI	NIL	Reflects	-not aligned- 	0.004421532	0.02210766077041626	0
+62	6 7 <==> 8 9 10	REL	3	Islamist Tactics	northern Islamist militants 	0.7029899	3.514949381351471	4
+63	0 <==> 2	NOALI	NIL	-not aligned-	Loads 	0.004413718	0.022068589460104704	0
+63	1 <==> 0	NOALI	NIL	Ships	-not aligned- 	0.004369031	0.021845155861228704	0
+63	0 <==> 1	ALIC	NIL	-not aligned-	Syria 	0.0044133915	0.02206695731729269	0
+63	0 <==> 5 6	NOALI	NIL	-not aligned-	into Bombs 	0.004360107	0.02180053386837244	0
+63	3 4 5 6 7 <==> 3 4	REL	3	for Syrian Chemical Weapons Transport	Chemical Weapons 	0.8499065	4.249532520771027	4
+63	0 <==> 7	NOALI	NIL	-not aligned-	, 	0.0043400717	0.021700358483940363	0
+63	0 <==> 8	NOALI	NIL	-not aligned-	Awaiting 	0.0046818624	0.0234093121252954	0
+63	2 <==> 0	NOALI	NIL	Train	-not aligned- 	0.004372137	0.021860685665160418	0
+63	0 <==> 9 10	NOALI	NIL	-not aligned-	Assad Order 	0.004426417	0.02213208470493555	0
+64	5 <==> 5	EQUI	5	wounded	wounded 	0.9693745	4.846872389316559	5
+64	2 <==> 2	EQUI	5	killed	killed 	0.97456217	4.8728108406066895	5
+64	6 7 <==> 6 7 8	SPE2	4	in attacks	in fresh attacks 	0.96492565	4.824628233909607	5
+64	8 9 <==> 9 10	EQUI	5	in Iraq	in Iraq 	0.9685818	4.842908978462219	5
+64	3 <==> 0	NOALI	NIL	,	-not aligned- 	0.004336292	0.02168145962059498	0
+64	1 <==> 1	SIMI	3	2	15 	0.651478	3.2573899626731873	3
+64	0 <==> 3	NOALI	NIL	-not aligned-	, 	0.0043400717	0.021700358483940363	0
+64	4 <==> 4	SIMI	2	11	90 	0.52318203	2.6159101724624634	3
+65	1 2 <==> 0	NOALI	NIL	Bangladesh court	-not aligned- 	0.0047596116	0.023798057809472084	0
+65	8 9 10 <==> 6 7 8	EQUI	5	for war crimes	on war crimes 	0.95124316	4.756215810775757	5
+65	0 <==> 4 5	NOALI	NIL	-not aligned-	Sri Lanka 	0.004472618	0.022363089956343174	0
+65	6 7 <==> 0	NOALI	NIL	to death	-not aligned- 	0.0044506565	0.022253282368183136	0
+65	0 <==> 3	NOALI	NIL	-not aligned-	pushes 	0.004398131	0.021990654058754444	0
+65	3 <==> 0	NOALI	NIL	sentences	-not aligned- 	0.0044292146	0.022146073170006275	0
+65	4 5 <==> 1 2	SIMI	1	first lawmaker	British PM 	0.71544826	3.57724130153656	4
+66	1 <==> 1	REL	2	Police	Politicians 	0.90381926	4.519096314907074	5
+66	3 4 5 6 <==> 2 3 4 5	SPE1	2	in Belfast flag protests	in flag violence talks 	0.66598934	3.3299466967582703	3
+66	2 <==> 0	NOALI	NIL	attacked	-not aligned- 	0.004549276	0.022746380418539047	0
+67	0 <==> 6 7	NOALI	NIL	-not aligned-	with US 	0.0044325003	0.022162501700222492	0
+67	3 <==> 3	EQUI	5	proposes	proposes 	0.97672266	4.883613288402557	5
+67	4 5 6 7 8 9 <==> 4 5	SPE1	2	` final ' N. Korea talks	high-level talks 	0.74002904	3.700145184993744	4
+67	1 2 <==> 1 2	OPPO	4	S. Korea	North Korea 	0.8743423	4.371711611747742	4
+67	10 11 <==> 0	NOALI	NIL	over Kaesong	-not aligned- 	0.0044825315	0.022412657272070646	0
+68	8 <==> 6 7	REL	3	Pakistani	in Pakistan 	0.884391	4.421955049037933	4
+68	3 4 5 <==> 3 4 5	SIMI	4	9 foreign tourists	11 Foreign Tourists 	0.9508467	4.754233360290527	5
+68	7 <==> 0	NOALI	NIL	1	-not aligned- 	0.004325571	0.021627855021506548	0
+68	2 <==> 2	EQUI	5	kill	Kill 	0.9761253	4.8806264996528625	5
+68	1 <==> 1	EQUI	5	Gunmen	Gunmen 	0.9742842	4.871420860290527	5
+68	6 <==> 0	NOALI	NIL	,	-not aligned- 	0.004336292	0.02168145962059498	0
+69	1 <==> 1	EQUI	5	Palestinians	Palestinians 	0.9703523	4.85176146030426	5
+69	2 <==> 0	NOALI	NIL	build	-not aligned- 	0.004363909	0.02181954449042678	0
+69	0 <==> 8 9	NOALI	NIL	-not aligned-	yet historic 	0.0043922593	0.021961296442896128	0
+69	3 4 5 6 7 <==> 0	NOALI	NIL	another West Bank tent protest	-not aligned- 	0.0047000963	0.023500481620430946	0
+69	0 <==> 2 3 4 5 6 7	NOALI	NIL	-not aligned-	' first ever UN vote symbolic 	0.0046890783	0.023445391561836004	0
+70	2 <==> 2	EQUI	5	die	Killed 	0.92687625	4.6343812346458435	5
+70	1 <==> 1	SIMI	2	32	1 	0.5784965	2.892482578754425	3
+70	3 4 5 <==> 3 4 5	EQUI	5	in Bangladesh protest	in Bangladesh Protest 	0.9705384	4.852691888809204	5
+71	0 <==> 6 7	NOALI	NIL	-not aligned-	to hardline 	0.0044021835	0.02201091730967164	0
+71	0 <==> 5	NOALI	NIL	-not aligned-	return 	0.004343842	0.021719210781157017	0
+71	1 2 3 <==> 0	NOALI	NIL	Ukrainian Prime Minister	-not aligned- 	0.004544308	0.022721539717167616	0
+71	0 <==> 1 2 3 4	NOALI	NIL	-not aligned-	Turkish Prime Minister signals 	0.0046726326	0.023363162763416767	0
+71	5 6 <==> 8 9	EQUI	5	amid protests	on protesters 	0.92150134	4.607506692409515	5
+71	4 <==> 0	NOALI	2	resigns	-not aligned- 	0.004613937	0.023069684393703938	0
+72	0 <==> 5 6 7	NOALI	NIL	-not aligned-	international tax game 	0.004457419	0.02228709403425455	0
+72	0 <==> 3 4	NOALI	NIL	-not aligned-	are playing 	0.0043653096	0.021826548036187887	0
+72	2 <==> 0	NOALI	NIL	launches	-not aligned- 	0.0044292044	0.02214602194726467	0
+72	1 <==> 1	EQUI	5	Google	Google 	0.96736956	4.83684778213501	5
+72	3 4 <==> 0	NOALI	NIL	internet-beaming balloons	-not aligned- 	0.0045054746	0.022527372930198908	0
+72	0 <==> 8	NOALI	NIL	-not aligned-	' 	0.004307438	0.02153719076886773	0
+72	0 <==> 2	NOALI	NIL	-not aligned-	` 	0.004345137	0.02172568580135703	0
+73	3 <==> 0	NOALI	NIL	progress	-not aligned- 	0.0043578614	0.02178930677473545	0
+73	4 5 6 <==> 3 4	SPE2	4	on gay rights	gay marriage 	0.9109587	4.554793536663055	5
+73	7 8 9 <==> 0	NOALI	NIL	in inaugural address	-not aligned- 	0.0044818334	0.022409167140722275	0
+73	0 <==> 2	NOALI	NIL	-not aligned-	protest 	0.004407296	0.0220364797860384	0
+73	0 <==> 1	NOALI	NIL	-not aligned-	Thousands 	0.0043326807	0.02166340360417962	0
+73	2 <==> 0	NOALI	NIL	lauds	-not aligned- 	0.004436557	0.022182785905897617	0
+73	1 <==> 0	NOALI	NIL	Obama	-not aligned- 	0.004334452	0.021672260481864214	0
+73	0 <==> 5 6	NOALI	NIL	-not aligned-	in France 	0.0044845254	0.022422627080231905	0
+74	0 <==> 3	NOALI	NIL	-not aligned-	wound 	0.0043798825	0.021899412386119366	0
+74	2 <==> 1 2	SPE2	4	strikes	Air strikes 	0.93065596	4.653279781341553	5
+74	6 <==> 0	NOALI	NIL	rise	-not aligned- 	0.0043484373	0.02174218650907278	0
+74	0 <==> 7 8	NOALI	NIL	-not aligned-	's Deraa 	0.004388174	0.021940870210528374	0
+74	1 <==> 0	NOALI	NIL	Israel	-not aligned- 	0.0044112145	0.022056072484701872	0
+74	3 <==> 5 6	EQUI	5	Syria	in Syria 	0.9530535	4.765267372131348	5
+74	0 <==> 4	NOALI	NIL	-not aligned-	civilians 	0.0044910274	0.022455137223005295	0
+74	4 5 <==> 0	NOALI	NIL	as tensions	-not aligned- 	0.0043560304	0.02178015187382698	0
+74	7 8 <==> 0	NOALI	NIL	on weapons	-not aligned- 	0.00435232	0.02176159992814064	0
+75	0 <==> 1 2	NOALI	NIL	-not aligned-	Two dead 	0.0044886405	0.022443202324211597	0
+75	1 2 3 4 5 <==> 6 7 8 9 10	EQUI	5	The San Francisco plane crash	in San Francisco air crash 	0.9481132	4.74056601524353	5
+75	6 7 8 <==> 0	NOALI	NIL	at a glance	-not aligned- 	0.004511737	0.02255868399515748	0
+75	0 <==> 3	NOALI	NIL	-not aligned-	, 	0.0043400717	0.021700358483940363	0
+75	0 <==> 4 5	NOALI	NIL	-not aligned-	181 hurt 	0.0043530557	0.02176527865231037	0
+76	5 6 <==> 0	NOALI	NIL	by Norovirus	-not aligned- 	0.004437109	0.022185544949024916	0
+76	1 2 3 <==> 1 2 3	SIMI	2	X'mas cruise passengers	Missing cruise passenger 	0.82037145	4.101857244968414	4
+76	0 <==> 5 6 7	NOALI	NIL	-not aligned-	a NSW ambo 	0.004477544	0.022387721110135317	0
+76	0 <==> 4	NOALI	NIL	-not aligned-	is 	0.0043215374	0.02160768723115325	0
+76	4 <==> 0	NOALI	NIL	hit	-not aligned- 	0.0043419	0.021709499415010214	0
+77	3 <==> 3	EQUI	5	close	close 	0.97300905	4.865045249462128	5
+77	1 2 <==> 1 2	EQUI	5	Chinese shares	Chinese shares 	0.9713904	4.856952130794525	5
+77	5 <==> 5	SIMI	3	Wednesday	Friday 	0.88419414	4.420970678329468	4
+77	4 <==> 4	OPPO	4	lower	higher 	0.97079694	4.853984713554382	5
+78	1 2 <==> 1 2	EQUI	5	Calif man	Calif. man 	0.96868336	4.843416810035706	5
+78	3 <==> 3	EQUI	5	pleads	pleads 	0.9757396	4.878697991371155	5
+78	6 7 8 9 <==> 6 7 8	SIMI	2	in girl kidnap case	in terrorism case 	0.8896052	4.448026120662689	4
+78	4 5 <==> 4 5	EQUI	5	not guilty	not guilty 	0.9641115	4.820557534694672	5
+79	5 <==> 5	EQUI	5	close	close 	0.97300905	4.865045249462128	5
+79	0 <==> 7	NOALI	NIL	-not aligned-	-- 	0.004354025	0.02177012385800481	0
+79	8 9 <==> 8 9	SIMI	2	Dec. 4	Jan. 24 	0.7624398	3.8121989369392395	4
+79	1 2 3 4 <==> 1 2 3 4	EQUI	5	China stock index futures	China stock index futures 	0.93573415	4.678670763969421	5
+79	7 <==> 0	NOALI	NIL	--	-not aligned- 	0.0043580867	0.021790433675050735	0
+79	6 <==> 6	OPPO	4	higher	lower 	0.96690124	4.8345062136650085	5
+80	5 6 7 <==> 4 5 6 7 8	SPE2	3	by Israeli fire	in an Israeli Air Strike 	0.6230712	3.115355968475342	3
+80	1 <==> 1 2	SPE2	4	Palestinians	Two Palestinians 	0.9136599	4.568299353122711	5
+80	4 <==> 0	NOALI	NIL	'	-not aligned- 	0.004316036	0.02158018061891198	0
+80	8 9 <==> 9 10	EQUI	5	in Gaza	on Gaza 	0.95775604	4.788780212402344	5
+80	2 <==> 0	NOALI	NIL	`	-not aligned- 	0.0043349415	0.021674707531929016	0
+80	3 <==> 3	SPE2	3	hit	Killed 	0.89879745	4.493987262248993	4
+81	2 <==> 2	EQUI	5	killed	killed 	0.97456217	4.8728108406066895	5
+81	0 <==> 3	NOALI	NIL	-not aligned-	, 	0.0043400717	0.021700358483940363	0
+81	4 <==> 4	SIMI	2	3	44 	0.72056377	3.6028188467025757	4
+81	3 <==> 0	NOALI	NIL	,	-not aligned- 	0.004336292	0.02168145962059498	0
+81	6 7 8 9 10 <==> 6 7 8 9	SIMI	2	in south China road accident	in Philippine road accident 	0.9323667	4.661833643913269	5
+81	1 <==> 1	SIMI	2	7	20 	0.69235516	3.461775779724121	3
+81	5 <==> 5	EQUI	5	injured	injured 	0.9751429	4.875714480876923	5
+82	4 <==> 0	NOALI	NIL	Kids	-not aligned- 	0.004319174	0.021595871075987816	0
+82	0 <==> 5 6 7	NOALI	NIL	-not aligned-	at finish line 	0.0045395563	0.022697781678289175	0
+82	1 <==> 1	SIMI	1	Books	Report 	0.8903019	4.451509416103363	4
+82	2 3 <==> 0	NOALI	NIL	To Help	-not aligned- 	0.0043127094	0.02156354719772935	0
+82	6 7 8 9 <==> 8 9 10	SPE1	4	About Boston Marathon News	of Boston Marathon 	0.81562656	4.078132808208466	4
+82	5 <==> 0	NOALI	NIL	Talk	-not aligned- 	0.0043091197	0.021545598283410072	0
+82	0 <==> 2 3 4	NOALI	NIL	-not aligned-	of two explosions 	0.00442756	0.022137800697237253	0
+83	6 <==> 0	ALIC	NIL	collapses	-not aligned- 	0.004408196	0.022040980402380228	0
+83	1 <==> 1	SIMI	2	Motorists	Cars 	0.9249214	4.624606966972351	5
+83	0 <==> 6 7	ALIC	NIL	-not aligned-	outside Tokyo 	0.0044095293	0.02204764634370804	0
+83	2 <==> 2	REL	3	killed	trapped 	0.91417444	4.570872187614441	5
+83	3 4 5 <==> 3 4 5	SPE2	4	after Japanese tunnel	in tunnel collapse 	0.6991962	3.4959810972213745	3
+84	5 6 <==> 0	NOALI	NIL	on Wednesday	-not aligned- 	0.004477795	0.02238897606730461	0
+84	0 <==> 4 5	NOALI	NIL	-not aligned-	in France 	0.0044845254	0.022422627080231905	0
+84	1 2 <==> 0	NOALI	NIL	Chinese shares	-not aligned- 	0.004624469	0.02312234602868557	0
+84	0 <==> 3	NOALI	NIL	-not aligned-	attacked 	0.004552296	0.02276147948578	0
+84	4 <==> 0	NOALI	NIL	lower	-not aligned- 	0.0043802066	0.021901032887399197	0
+84	0 <==> 1 2	NOALI	NIL	-not aligned-	Chinese students 	0.004407518	0.022037590388208628	0
+84	3 <==> 0	NOALI	NIL	close	-not aligned- 	0.0043245936	0.021622967906296253	0
+85	2 <==> 1 2	REL	3	Friends	Syria talks 	0.7702212	3.8511058688163757	4
+85	8 <==> 0	ALIC	NIL	talks	-not aligned- 	0.004349067	0.02174533437937498	0
+85	0 <==> 3	NOALI	NIL	-not aligned-	agree 	0.004332726	0.021663629449903965	0
+85	6 7 <==> 0	NOALI	NIL	in Doha	-not aligned- 	0.0044954256	0.022477128077298403	0
+85	1 <==> 0	NOALI	NIL	`	-not aligned- 	0.0043349415	0.021674707531929016	0
+85	3 4 <==> 0	ALIC	NIL	of Syria	-not aligned- 	0.0043957075	0.021978537552058697	0
+85	11 <==> 6 7	EQUI	5	rebels	to rebels 	0.9593163	4.796581566333771	5
+85	9 10 <==> 4 5	SIMI	3	on arming	military aid 	0.72889555	3.6444777250289917	4
+85	5 <==> 0	NOALI	NIL	'	-not aligned- 	0.004316036	0.02158018061891198	0
+86	9 <==> 0	NOALI	NIL	,	-not aligned- 	0.004336292	0.02168145962059498	0
+86	5 <==> 4	EQUI	5	police	police 	0.97342426	4.8671212792396545	5
+86	0 <==> 11	NOALI	NIL	-not aligned-	detained 	0.0043997974	0.021998987067490816	0
+86	0 <==> 9 10	NOALI	NIL	-not aligned-	5 people 	0.004345868	0.02172933891415596	0
+86	6 7 8 <==> 5 6 7	EQUI	5	at Jantar Mantar	at Jantar Mantar 	0.96442896	4.82214480638504	5
+86	0 <==> 8	NOALI	NIL	-not aligned-	, 	0.0043400717	0.021700358483940363	0
+86	1 2 <==> 1	SPE1	4	ABVP protesters	Protesters 	0.9383976	4.691987931728363	5
+86	11 <==> 0	NOALI	NIL	stones	-not aligned- 	0.0043580416	0.02179020782932639	0
+86	10 <==> 0	NOALI	NIL	throw	-not aligned- 	0.004351541	0.02175770467147231	0
+86	3 4 <==> 2 3	EQUI	5	clash with	clash with 	0.9745535	4.872767627239227	5
+87	3 <==> 3	EQUI	5	charged	charged 	0.9751789	4.875894486904144	5
+87	4 5 6 <==> 4 5	SPE1	4	with terrorism offences	with terrorism 	0.96131086	4.806554317474365	5
+87	1 2 <==> 1 2	SPE2	2	Two men	Saudi-born Nigerian 	0.46847752	2.3423875868320465	2
+87	0 <==> 6 7 8	NOALI	NIL	-not aligned-	in New York 	0.00459474	0.02297369996085763	0
+88	8 <==> 2 3	EQUI	5	killed	among dead 	0.96987915	4.849395751953125	5
+88	5 6 <==> 0	ALIC	NIL	mostly foreigners	-not aligned- 	0.0043606656	0.021803327836096287	0
+88	7 <==> 0	NOALI	NIL	,	-not aligned- 	0.004336292	0.02168145962059498	0
+88	1 2 3 <==> 1	SPE2	1	Up to 21	Briton 	0.5620187	2.8100934624671936	3
+88	4 <==> 0	NOALI	NIL	,	-not aligned- 	0.004336292	0.02168145962059498	0
+88	9 10 11 12 <==> 4 5 6 7	EQUI	5	in Kabul suicide attack	in Kabul suicide attack 	0.9710389	4.855194389820099	5
+89	4 5 <==> 4 5	SIMI	2	0.88 pc	0.44 pct 	0.67437184	3.3718591928482056	3
+89	6 <==> 6	EQUI	5	lower	lower 	0.97439665	4.871983230113983	5
+89	3 <==> 3	EQUI	5	close	close 	0.97300905	4.865045249462128	5
+89	1 2 <==> 1 2	SIMI	2	Tokyo shares	Singapore stocks 	0.67326105	3.3663052320480347	3
+90	1 2 3 <==> 1 2 3	SIMI	3	4.1 magnitude quake	7.2 magnitude earthquake 	0.90004206	4.500210285186768	5
+90	4 <==> 4	EQUI	5	strikes	strikes 	0.97538936	4.876946806907654	5
+90	5 6 <==> 5	SIMI	2	U. S	Philippines 	0.6180813	3.090406358242035	3
+91	1 2 <==> 1 2	SIMI	3	35 militants	12 militants 	0.8814348	4.407173991203308	4
+91	7 <==> 0	NOALI	NIL	:	-not aligned- 	0.0043214164	0.02160708187147975	0
+91	8 <==> 8	REL	3	official	ministry 	0.85486907	4.274345338344574	4
+91	3 <==> 3	EQUI	5	killed	killed 	0.97456217	4.8728108406066895	5
+91	4 5 6 <==> 4 5 6	EQUI	5	in Afghan raids	in Afghan raids 	0.97410494	4.870524704456329	5
+91	0 <==> 7	NOALI	NIL	-not aligned-	: 	0.0042981775	0.021490887738764286	0
+92	1 <==> 4 5	REL	2	Venezuela	Venezuelan officials 	0.80336016	4.016800820827484	4
+92	6 7 <==> 0	NOALI	NIL	of cancer	-not aligned- 	0.0044613983	0.02230699174106121	0
+92	0 <==> 6 7	NOALI	NIL	-not aligned-	for unity 	0.004347675	0.021738375071436167	0
+92	2 3 4 <==> 1 2	EQUI	5	's Hugo Chavez	Hugo Chavez 	0.9555299	4.777649641036987	5
+92	5 <==> 0	NOALI	NIL	dies	-not aligned- 	0.004354906	0.02177452901378274	0
+92	0 <==> 3	NOALI	NIL	-not aligned-	: 	0.0042981775	0.021490887738764286	0
+93	8 9 10 11 <==> 8 9 10 11	SIMI	3	November 25 , 2013	October 8 , 2013 	0.7670287	3.8351434469223022	4
+93	5 6 <==> 5 6	SIMI	4	for Monday	for Tuesday 	0.96187663	4.809383153915405	5
+93	7 <==> 0	NOALI	NIL	,	-not aligned- 	0.004336292	0.02168145962059498	0
+93	1 2 <==> 1 2	EQUI	5	The Note	The Note 	0.9709188	4.854593873023987	5
+93	3 4 <==> 3 4	EQUI	5	's Must-Reads	's Must-Reads 	0.95472175	4.77360874414444	5
+93	0 <==> 7	NOALI	NIL	-not aligned-	, 	0.0043400736	0.02170036779716611	0
+94	0 <==> 5 6	NOALI	NIL	-not aligned-	can overcome 	0.0043672724	0.021836361847817898	0
+94	0 <==> 4	NOALI	NIL	-not aligned-	confident 	0.004551546	0.022757730912417173	0
+94	6 7 8 <==> 7 8	SIMI	4	at political impasse	political crisis 	0.86545557	4.327277839183807	4
+94	1 2 <==> 0	NOALI	NIL	Lebanon businesses	-not aligned- 	0.004922062	0.024610310792922974	0
+94	4 5 <==> 0	NOALI	NIL	in protest	-not aligned- 	0.0044164676	0.022082338109612465	0
+94	3 <==> 0	NOALI	NIL	strike	-not aligned- 	0.0043339995	0.0216699973680079	0
+94	0 <==> 3	NOALI	NIL	-not aligned-	says 	0.004466993	0.022334964014589787	0
+94	0 <==> 1 2	NOALI	NIL	-not aligned-	Tunisia president 	0.004572191	0.02286095404997468	0
+95	4 <==> 1 2	EQUI	5	North	North Korea 	0.9521318	4.760659039020538	5
+95	6 <==> 4 5	SPE2	4	Missiles	short-range missiles 	0.83820647	4.191032350063324	4
+95	3 <==> 0	NOALI_FACT	NIL	Says	-not aligned- 	0.0043332996	0.02166649792343378	0
+95	1 2 <==> 0	NOALI	NIL	South Korea	-not aligned- 	0.0044867443	0.022433721460402012	0
+95	5 <==> 3	EQUI	5	Fired	launches 	0.8533376	4.2666879296302795	4
+96	4 <==> 2	SPE1	3	killed	attacks 	0.9351788	4.67589408159256	5
+96	5 6 <==> 5 6	EQUI	5	in Afghanistan	in Afghanistan 	0.9695795	4.847897589206696	5
+96	1 2 3 <==> 1	SPE1	3	38 Taliban militants	Taliban 	0.87383	4.369150102138519	4
+96	0 <==> 3 4	NOALI	NIL	-not aligned-	US base 	0.00437238	0.02186190104112029	0
+97	3 4 <==> 0	NOALI	NIL	to avoid	-not aligned- 	0.0043241954	0.021620977204293013	0
+97	0 <==> 4 5	NOALI	NIL	-not aligned-	to fostering 	0.004322767	0.021613833960145712	0
+97	0 <==> 2	NOALI	NIL	-not aligned-	is 	0.0043215374	0.02160768723115325	0
+97	0 <==> 1	NOALI	NIL	-not aligned-	Insurance 	0.004465867	0.022329334169626236	0
+97	2 <==> 0	NOALI	NIL	strives	-not aligned- 	0.0043551913	0.021775956265628338	0
+97	0 <==> 3	NOALI	NIL	-not aligned-	key 	0.0043265116	0.021632558200508356	0
+97	1 <==> 0	NOALI	NIL	China	-not aligned- 	0.0043852148	0.02192607382312417	0
+97	5 6 <==> 6 7	REL	2	economic traps	economic growth 	0.95575684	4.778784215450287	5
+98	3 <==> 3	EQUI	5	kills	dies 	0.8841104	4.420551955699921	4
+98	1 2 <==> 1 2	REL	3	Nato airstrike	Nato solider 	0.8344719	4.17235940694809	4
+98	4 5 6 <==> 4 5	REL	2	two Afghan kids	in Afghanistan 	0.8510734	4.255366921424866	4
+99	2 <==> 3	SIMI	3	pledges	support 	0.9200294	4.600147008895874	5
+99	3 4 <==> 4 5	SIMI	3	military aid	military operation 	0.88104486	4.405224323272705	4
+99	1 <==> 1 2	SIMI	4	France	Most French 	0.89668566	4.4834282994270325	4
+99	5 6 <==> 6 7	EQUI	5	in Mali	in Mali 	0.96911263	4.845563173294067	5
+100	6 <==> 0	NOALI	NIL	'	-not aligned- 	0.004316036	0.02158018061891198	0
+100	7 8 9 10 <==> 5 6 7 8 9	SPE2	3	in debt ceiling talks	to US debt ceiling deal 	0.85045385	4.252269268035889	4
+100	2 <==> 0	NOALI	NIL	cites	-not aligned- 	0.0043497463	0.02174873137846589	0
+100	3 <==> 0	NOALI	NIL	`	-not aligned- 	0.0043349415	0.021674707531929016	0
+100	0 <==> 3	NOALI	NIL	-not aligned-	appear 	0.004390608	0.02195304026827216	0
+100	1 <==> 1 2	SPE1	3	Reid	Senate leaders 	0.69361585	3.4680792689323425	3
+100	4 5 <==> 0	NOALI	NIL	tremendous progress	-not aligned- 	0.0044808653	0.02240432659164071	0
+100	0 <==> 4	NOALI	NIL	-not aligned-	close 	0.0043500043	0.021750021260231733	0
+101	5 <==> 4 5	SIMI	2	Sarangani	SW China 	0.5061769	2.5308844447135925	3
+101	1 2 3 <==> 1 2	SIMI	3	6.2 magnitude quake	4.3-magnitude earthquake 	0.8659266	4.329633116722107	4
+101	4 <==> 3	EQUI	5	jolts	jolts 	0.97211266	4.860563278198242	5
+102	0 <==> 4 5 6	NOALI	NIL	-not aligned-	to quickly handle 	0.004367679	0.021838394459336996	0
+102	3 <==> 0	NOALI	NIL	offer	-not aligned- 	0.0043464247	0.02173212356865406	0
+102	0 <==> 1	NOALI	NIL	-not aligned-	Japan 	0.0043832436	0.021916218101978302	0
+102	2 <==> 0	NOALI	NIL	renews	-not aligned- 	0.0044598947	0.022299473639577627	0
+102	4 5 <==> 0	NOALI	NIL	to cut	-not aligned- 	0.0043488354	0.02174417721107602	0
+102	9 10 11 12 <==> 0	NOALI	NIL	in big budget deal	-not aligned- 	0.004592937	0.022964684758335352	0
+102	6 7 8 <==> 0	NOALI	NIL	social safety net	-not aligned- 	0.004335244	0.021676220931112766	0
+102	0 <==> 2	NOALI	NIL	-not aligned-	urges 	0.004352915	0.021764575503766537	0
+102	14 <==> 0	NOALI	NIL	aide	-not aligned- 	0.0043181307	0.021590653341263533	0
+102	1 <==> 3	REL	3	Obama	U.S. 	0.6352434	3.1762170791625977	3
+102	0 <==> 7 8	NOALI	NIL	-not aligned-	budget deadlock 	0.0046960516	0.02348025795072317	0
+102	13 <==> 0	NOALI	NIL	:	-not aligned- 	0.0043214164	0.02160708187147975	0
+103	1 <==> 1	EQUI	5	US	US 	0.9734177	4.867088496685028	5
+103	5 6 7 <==> 2	EQUI	5	has been captured	captures 	0.943461	4.71730500459671	5
+103	0 <==> 7 8 9	NOALI	NIL	-not aligned-	in Somalia attack 	0.0044365698	0.022182848770171404	0
+103	3 4 <==> 3 4	EQUI	5	al-Qaeda leader	al-Qaeda leader 	0.9665468	4.832733869552612	5
+103	0 <==> 6	NOALI	NIL	-not aligned-	fails 	0.0044657867	0.02232893370091915	0
+103	2 <==> 0	NOALI	NIL	confirms	-not aligned- 	0.0044276696	0.02213834784924984	0
+103	0 <==> 5	NOALI	NIL	-not aligned-	but 	0.004346206	0.021731029264628887	0
+104	0 <==> 8	NOALI	NIL	-not aligned-	continue 	0.004354174	0.0217708689160645	0
+104	0 <==> 3	NOALI	NIL	-not aligned-	barred 	0.004403141	0.022015704307705164	0
+104	0 <==> 4 5	NOALI	NIL	-not aligned-	from Canada 	0.004389058	0.021945289336144924	0
+104	8 <==> 0	NOALI	NIL	resign	-not aligned- 	0.0044337166	0.02216858323663473	0
+104	0 <==> 6 7	NOALI	NIL	-not aligned-	as protests 	0.004371882	0.021859409753233194	0
+104	1 2 3 4 5 6 7 <==> 1 2	SPE1	3	Ukrainian Prime Minister Azarov and entire government	Ukrainian officials 	0.588049	2.940244972705841	3
+105	6 7 8 9 <==> 9 10 11 12	EQUI	5	of Trayvon Martin murder	of Trayvon Martin murder 	0.9689855	4.844927489757538	5
+105	0 <==> 4 5	NOALI	NIL	-not aligned-	for calm 	0.0043661636	0.0218308181501925	0
+105	1 2 <==> 6 7	EQUI	5	George Zimmerman	after Zimmerman 	0.95333874	4.766693711280823	5
+105	3 <==> 0	ALIC	NIL	found	-not aligned- 	0.0043272884	0.021636441815644503	0
+105	4 5 <==> 8	EQUI	5	not guilty	acquitted 	0.38010758	1.90053790807724	2
+105	0 <==> 1 2 3	NOALI	NIL	-not aligned-	Protests and appeals 	0.0048485147	0.02424257341772318	0
+106	0 <==> 5 6 7	NOALI	NIL	-not aligned-	as Venezuela Election 	0.0045935973	0.022967986296862364	0
+106	0 <==> 3 4	NOALI	NIL	-not aligned-	on Capriles 	0.004460892	0.022304460871964693	0
+106	3 4 5 <==> 0	NOALI	NIL	2012 Election Secrets	-not aligned- 	0.0045734867	0.022867433726787567	0
+106	2 <==> 0	NOALI	NIL	Reveal	-not aligned- 	0.0043304083	0.021652041468769312	0
+106	0 <==> 8	NOALI	NIL	-not aligned-	Set 	0.004332263	0.021661315113306046	0
+106	0 <==> 1 2	NOALI	NIL	-not aligned-	All Eyes 	0.004374303	0.02187151461839676	0
+106	1 <==> 0	NOALI	NIL	Insiders	-not aligned- 	0.004440373	0.022201864048838615	0
+107	0 <==> 5 6	NOALI	NIL	-not aligned-	to ease 	0.004321905	0.02160952426493168	0
+107	7 8 <==> 7	EQUI	5	of shutdown	shutdown 	0.95922655	4.796132743358612	5
+107	3 <==> 0	NOALI	NIL	`	-not aligned- 	0.0043349415	0.021674707531929016	0
+107	1 2 <==> 1	REL	4	US government	Obama 	0.7327862	3.663930892944336	4
+107	0 <==> 2	NOALI	NIL	-not aligned-	rejects 	0.0045283157	0.022641578689217567	0
+107	0 <==> 3 4	NOALI	NIL	-not aligned-	GOP offer 	0.0043941783	0.021970891393721104	0
+107	4 5 6 <==> 0	NOALI	NIL	on the edge	-not aligned- 	0.004508089	0.022540444042533636	0
+107	9 <==> 0	NOALI	NIL	'	-not aligned- 	0.004316036	0.02158018061891198	0
+108	0 <==> 2	NOALI	NIL	-not aligned-	arrests 	0.0047074184	0.02353709191083908	0
+108	5 6 <==> 0	NOALI	NIL	at airport	-not aligned- 	0.004448992	0.022244961000978947	0
+108	1 2 3 <==> 0	NOALI	NIL	Taiwan gang leader	-not aligned- 	0.0046201297	0.023100648541003466	0
+108	4 <==> 0	NOALI	NIL	nabbed	-not aligned- 	0.004568297	0.022841484751552343	0
+108	0 <==> 1	NOALI	NIL	-not aligned-	Zambia 	0.004699146	0.02349572954699397	0
+108	7 8 9 <==> 0	NOALI	NIL	after 17 years	-not aligned- 	0.0044846064	0.022423032205551863	0
+108	0 <==> 3 4	NOALI	NIL	-not aligned-	ex-leader Banda 	0.0045159236	0.0225796177983284	0
+108	0 <==> 5 6 7	NOALI	NIL	-not aligned-	over oil deal 	0.004504705	0.02252352423965931	0
+109	0 <==> 2	NOALI	NIL	-not aligned-	encourages 	0.004547594	0.02273797057569027	0
+109	0 <==> 7	NOALI	NIL	-not aligned-	ban 	0.00431711	0.02158554969355464	0
+109	0 <==> 8 9	NOALI	NIL	-not aligned-	on gays 	0.0044011762	0.022005881182849407	0
+109	4 <==> 0	NOALI	NIL	buffeted	-not aligned- 	0.0043823863	0.021911931689828634	0
+109	0 <==> 3 4	NOALI	NIL	-not aligned-	Boy Scouts 	0.004492409	0.022462045308202505	0
+109	1 2 3 <==> 1	REL	3	Obama economic tour	Obama 	0.90438056	4.521902799606323	5
+109	0 <==> 5 6	NOALI	NIL	-not aligned-	to end 	0.004294206	0.021471029613167048	0
+109	5 6 7 <==> 0	NOALI	NIL	by low expectations	-not aligned- 	0.0044752853	0.022376426495611668	0
+110	2 <==> 3	EQUI	5	Welcomes	welcomes 	0.9727299	4.863649606704712	5
+110	5 6 <==> 6 7	EQUI	5	on Syria	on Syria 	0.9712087	4.856043457984924	5
+110	1 <==> 1 2	SIMI	1	France	Arab League 	0.8070712	4.035356044769287	4
+110	3 4 <==> 4 5	EQUI	5	US-Russia Deal	US-Russian deal 	0.95759153	4.787957668304443	5
+111	7 8 <==> 3 4	EQUI	5	Syria strike	Syria strike 	0.9693338	4.846669137477875	5
+111	1 2 3 <==> 0	NOALI	NIL	In shock move	-not aligned- 	0.0044772215	0.022386107593774796	0
+111	9 10 <==> 5 6	EQUI	5	on hold	on hold 	0.97316045	4.865802228450775	5
+111	4 <==> 0	NOALI	NIL	,	-not aligned- 	0.004336292	0.02168145962059498	0
+111	6 <==> 2	EQUI	5	puts	puts 	0.9749776	4.874888062477112	5
+111	5 <==> 1	EQUI	5	Obama	Obama 	0.97585505	4.879275262355804	5
+112	3 4 <==> 0	NOALI	NIL	to cause	-not aligned- 	0.0043187994	0.021593996789306402	0
+112	9 10 <==> 5 6	EQUI	5	Australian Open	Australian Open 	0.96666557	4.833327829837799	5
+112	7 8 <==> 3 4	EQUI	5	to miss	to miss 	0.96567076	4.828353822231293	5
+112	5 6 <==> 1 2	SPE1	4	ailing Nadal	Rafa Nadal 	0.9584059	4.792029559612274	5
+112	1 2 <==> 0	NOALI	NIL	Stomach bug	-not aligned- 	0.0045550955	0.02277547726407647	0
+113	3 <==> 3	SPE2	3	considers	orders 	0.89033204	4.451660215854645	4
+113	4 <==> 5 6	EQUI	5	Mubarak	of Mubarak 	0.9574632	4.787316024303436	5
+113	5 6 <==> 4	EQUI	5	's release	release 	0.969627	4.8481351137161255	5
+113	1 2 <==> 1 2	EQUI	5	Egyptian court	Egypt court 	0.9569232	4.784615933895111	5
+114	0 <==> 5	ALIC_FACT	NIL	-not aligned-	Plans 	0.004457662	0.022288309410214424	0
+114	4 5 <==> 6 7 8	EQUI	5	to Marry	To Get Married 	0.89565086	4.478254318237305	4
+114	1 2 3 <==> 1 2 3 4	EQUI	5	Van der Sloot	Joran Van Der Sloots 	0.9096453	4.548226594924927	5
+114	6 7 <==> 9 10 11	SPE2	4	in Prison	In Peru Prison 	0.94246125	4.712306261062622	5
+115	9 10 <==> 9 10	EQUI	5	to fraud	to Fraud 	0.9728819	4.864409565925598	5
+115	8 <==> 8	EQUI	5	guilty	Guilty 	0.9749023	4.874511361122131	5
+115	6 7 <==> 6 7	EQUI	5	to plead	to Plead 	0.9669831	4.834915399551392	5
+115	1 2 3 4 5 <==> 1 2 3 4 5	EQUI	5	Jesse Jackson Jr. and wife	Jesse Jackson Jr. , Wife 	0.918101	4.590505063533783	5
+116	1 2 3 <==> 1 2	SPE1	4	BBC veteran Hall	Stuart Hall 	0.90535086	4.526754319667816	5
+116	5 6 7 <==> 4 5	EQUI	5	child sex abuse	Sex Assaults 	0.877561	4.387804865837097	4
+116	0 <==> 6 7	ALIC	NIL	-not aligned-	On Children 	0.004373761	0.021868804469704628	0
+116	4 <==> 3	EQUI	5	admits	Admits 	0.9767815	4.883907437324524	5
+117	6 7 <==> 6 7	SIMI	3	on Monday	on Thursday 	0.8694155	4.3470776081085205	4
+117	1 <==> 1	EQUI	5	Stocks	Stocks 	0.971245	4.856224954128265	5
+117	4 5 <==> 4 5	EQUI	5	at close	at close 	0.9731444	4.865722060203552	5
+117	2 3 <==> 2 3	EQUI	5	to watch	to watch 	0.97117436	4.855871796607971	5
+118	3 4 5 <==> 3 4 5	EQUI	5	of The Netherlands	of the Netherlands 	0.9579508	4.78975385427475	5
+118	6 7 <==> 6	EQUI	5	to abdicate	abdicates 	0.95433253	4.771662652492523	5
+118	8 9 <==> 7 8 9 10	EQUI	5	for son	in favor of son 	0.9159989	4.579994380474091	5
+118	1 2 <==> 1 2	EQUI	5	Queen Beatrix	Queen Beatrix 	0.9674836	4.837417900562286	5
+119	0 <==> 5	NOALI	NIL	-not aligned-	reports 	0.004348761	0.021743804682046175	0
+119	4 <==> 0	NOALI	NIL	,	-not aligned- 	0.004336292	0.02168145962059498	0
+119	5 6 <==> 6 7	SPE1	4	8-10 people	of people 	0.8893728	4.446864128112793	4
+119	0 <==> 4	NOALI	NIL	-not aligned-	; 	0.004365587	0.021827935706824064	0
+119	3 <==> 3	EQUI	5	collapses	collapses 	0.97555995	4.87779974937439	5
+119	1 2 <==> 1 2	EQUI	5	Philadelphia building	Philadelphia building 	0.9684616	4.842307865619659	5
+119	7 8 9 <==> 8	SIMI_FACT	4	may be trapped	trapped 	0.9073639	4.5368194580078125	5
+120	1 2 <==> 1 2	EQUI	5	U.S. Senate	U.S. Senate 	0.9677431	4.838715493679047	5
+120	5 6 7 <==> 6 7 8 9	REL	3	gun control debate	on gun control bill 	0.80478185	4.023909270763397	4
+120	0 <==> 4 5	NOALI	NIL	-not aligned-	to vote 	0.004381496	0.021907479967921972	0
+120	3 4 <==> 3	EQUI	5	sets off	set 	0.9459518	4.729759097099304	5
+121	1 2 3 4 <==> 1 2 3 4	EQUI	5	Red grapes and blueberries	Red grapes , blueberries 	0.9485179	4.742589592933655	5
+121	5 <==> 5	EQUI	5	boost	boost 	0.9745857	4.872928559780121	5
+121	10 <==> 0	NOALI_FACT	NIL	say	-not aligned- 	0.004353715	0.02176857553422451	0
+121	9 <==> 0	NOALI	NIL	scientists	-not aligned- 	0.0043548644	0.021774321794509888	0
+121	8 <==> 0	NOALI	NIL	,	-not aligned- 	0.004336292	0.02168145962059498	0
+121	6 7 <==> 6 7	EQUI	5	immune system	human immunity 	0.91443104	4.572155177593231	5
+122	2 3 <==> 1	SPE1	4	's McAfee	McAfee 	0.9511887	4.755943417549133	5
+122	11 12 13 <==> 6 7 8 9	EQUI	5	For $ 389M	for $ 389 million 	0.9532139	4.7660693526268005	5
+122	4 <==> 2 3	EQUI	5	Buys	to acquire 	0.8260363	4.13018137216568	4
+122	14 15 <==> 0	NOALI	NIL	In Cash	-not aligned- 	0.004436317	0.022181584499776363	0
+122	1 <==> 0	ALIC	NIL	Intel	-not aligned- 	0.0043588895	0.021794447675347328	0
+122	5 6 7 8 9 10 <==> 4 5	SPE1	3	Cloud-Based , Networked Firewall Specialist Stonesoft	firewall Stonesoft 	0.896238	4.4811901450157166	4
+123	4 <==> 4	EQUI	5	died	died 	0.96612483	4.830624163150787	5
+123	5 6 <==> 5 6	EQUI	5	from shot	from gunshot 	0.9680865	4.840432405471802	5
+123	1 2 3 <==> 1 2 3	EQUI_FACT	5	Alleged cop killer	Alleged cop killer 	0.96744764	4.837238192558289	5
+123	7 8 <==> 0	NOALI	NIL	to head	-not aligned- 	0.0043190657	0.021595328580588102	0
+124	2 <==> 2	EQUI	5	arrested	arrested 	0.9747795	4.873897433280945	5
+124	1 <==> 1	EQUI	5	Musharraf	Musharraf 	0.9725645	4.862822592258453	5
+124	3 4 5 6 <==> 3 4	REL	2	in Lal Masjid case	in Pakistan 	0.6361824	3.180912137031555	3
+125	1 2 <==> 1 2	EQUI	5	North Korea	North Korea 	0.96086633	4.804331660270691	5
+125	4 <==> 3	SPE1	4	test-fires	launches 	0.83447146	4.1723573207855225	4
+125	3 <==> 0	NOALI_FACT	NIL	reportedly	-not aligned- 	0.004338022	0.02169010927900672	0
+125	5 6 <==> 4 5	EQUI	5	short-range missiles	short-range missiles 	0.962588	4.812940061092377	5
+126	1 2 <==> 1 2	EQUI	5	Indian stocks	Indian stocks 	0.9652404	4.826202094554901	5
+126	4 <==> 4	SIMI	3	flat	lower 	0.88964397	4.448219835758209	4
+126	3 <==> 3	EQUI	5	open	open 	0.97405213	4.870260655879974	5
+127	6 7 <==> 0	NOALI	NIL	in US	-not aligned- 	0.004354678	0.021773390471935272	0
+127	1 2 3 <==> 1 2 3	EQUI	5	Israelis , Palestinians	Israelis , Palestinians 	0.9677644	4.838821887969971	5
+127	4 <==> 4	SPE1	4	resume	begin 	0.8777976	4.388988018035889	4
+127	5 <==> 5	EQUI	5	talks	talks 	0.9748917	4.874458611011505	5
+128	9 10 11 <==> 7 8 9	EQUI	5	in UK crash	in British crash 	0.96542513	4.827125668525696	5
+128	1 2 3 4 5 6 7 <==> 1 2 3 4 5	SPE1	4	Four U.S. Air Force helicopter crew members	US Air Force helicopter crew 	0.90036565	4.501828253269196	5
+128	8 <==> 6	EQUI	5	killed	killed 	0.97456217	4.8728108406066895	5
+129	2 <==> 2	EQUI	5	detains	detains 	0.97709036	4.885451793670654	5
+129	1 <==> 1	EQUI	5	Malaysia	Malaysia 	0.9595748	4.797874093055725	5
+129	5 6 <==> 5 6	EQUI	5	at airport	at airport 	0.96879905	4.843995273113251	5
+129	3 4 <==> 3 4	SIMI	4	Australian senator	Australian lawmaker 	0.9653449	4.826724529266357	5
+130	2 3 <==> 0	NOALI	NIL	shuts down	-not aligned- 	0.0044891154	0.022445577196776867	0
+130	9 <==> 0	NOALI	NIL	reaches	-not aligned- 	0.0043643937	0.021821968257427216	0
+130	4 <==> 0	NOALI	NIL	plants	-not aligned- 	0.0044024764	0.022012381814420223	0
+130	0 <==> 1 2	NOALI	NIL	-not aligned-	EU ministers 	0.0044527426	0.02226371318101883	0
+130	0 <==> 5	NOALI	NIL	-not aligned-	' 	0.004307438	0.02153719076886773	0
+130	0 <==> 3	NOALI	NIL	-not aligned-	` 	0.0043451353	0.021725676488131285	0
+130	1 <==> 0	NOALI	NIL	Britain	-not aligned- 	0.004326485	0.021632425487041473	0
+130	5 6 7 8 <==> 8 9	EQUI	5	as horse meat scandal	horsemeat scandal 	0.9558982	4.779491126537323	5
+130	0 <==> 4	NOALI	NIL	-not aligned-	determined 	0.0044384995	0.02219249727204442	0
+130	10 <==> 0	NOALI	NIL	France	-not aligned- 	0.0043519665	0.021759832743555307	0
+130	0 <==> 6 7	NOALI	NIL	-not aligned-	to resolve 	0.0043235384	0.021617691963911057	0
+131	4 5 6 7 <==> 5 6	SPE1	4	at Great Barrier Reef	near Australia 	0.6519018	3.2595089077949524	3
+131	2 <==> 3	EQUI	5	dumps	jettisons 	0.87035674	4.3517836928367615	4
+131	1 <==> 1 2	SPE2	4	U.S.	U.S. military 	0.73888934	3.6944466829299927	4
+131	3 <==> 4	EQUI	5	bombs	bombs 	0.9777052	4.888525903224945	5
+131	0 <==> 7 8 9 10	ALIC	NIL	-not aligned-	's Great Barrier Reef 	0.00441057	0.022052850108593702	0
+132	2 <==> 2	EQUI	5	invests	invests 	0.9758925	4.879462420940399	5
+132	6 7 8 9 <==> 6 7 8 9 10	SIMI	4	in Texas wind farm	in Texas wind farm project 	0.95126945	4.756347239017487	5
+132	3 4 5 <==> 3 4 5	EQUI	5	$ 200 million	200 million USD 	0.8864228	4.432114064693451	4
+132	1 <==> 1	EQUI	5	Google	Google 	0.96736956	4.83684778213501	5
+133	7 <==> 6	EQUI	5	dies	dies 	0.972062	4.860309958457947	5
+133	8 9 <==> 7 8	EQUI	5	at 91	at 91 	0.9692983	4.846491515636444	5
+133	1 2 3 4 5 6 <==> 1 2 3 4 5	EQUI	5	Preston and England legend Tom Finney	Former England great Tom Finney 	0.8680247	4.340123534202576	4
+134	4 <==> 4 5	SPE2	3	5	3 policemen 	0.7658416	3.829208016395569	4
+134	5 6 <==> 6 7	EQUI	5	in Afghanistan	in Afghanistan 	0.9695795	4.847897589206696	5
+134	3 <==> 3	EQUI	5	kill	kills 	0.9745865	4.872932434082031	5
+134	1 2 <==> 1 2	SIMI	4	Roadside bombs	Roadside bomb 	0.9692676	4.8463380336761475	5
+135	1 <==> 1	EQUI	5	Gunmen	Gunmen 	0.9742842	4.871420860290527	5
+135	2 <==> 2	EQUI	5	Kill	kill 	0.9768813	4.884406626224518	5
+135	3 4 5 <==> 3 4 5	SPE2	4	11 Foreign Tourists	11 foreign climbers 	0.92839247	4.641962349414825	5
+135	6 7 <==> 6 7	EQUI	5	in Pakistan	in Pakistan 	0.9679891	4.839945435523987	5
+136	1 2 <==> 1 2	EQUI	5	Demolition work	Demolition work 	0.969648	4.84824001789093	5
+136	3 <==> 3 4	EQUI	5	begins	to begin 	0.8079941	4.039970636367798	4
+136	4 5 6 7 <==> 5 6	SPE1	4	on Don Valley Stadium	at stadium 	0.8686963	4.343481361865997	4
+137	2 3 <==> 2 3 4 5 6	SPE2	4	of easyJet	of British no-frills airline easyJet 	0.8654434	4.3272170424461365	4
+137	4 5 6 <==> 7 8 9	EQUI	5	to step down	to step down 	0.97182155	4.859107732772827	5
+137	1 <==> 1	EQUI	5	Chairman	Chairman 	0.97091484	4.854574203491211	5
+138	1 2 <==> 1 2	SPE1	3	US Troops	NATO troops 	0.8121145	4.060572385787964	4
+138	3 <==> 3	EQUI	5	Killed	killed 	0.97514457	4.875722825527191	5
+138	4 5 6 7 <==> 4 5 6 7 8 9	EQUI	5	in Afghan Insider Attack	in Afghan ` insider attack ' 	0.93916684	4.695834219455719	5
+139	7 8 9 <==> 8 9 10	SPE2	4	in Barcelona win	in comeback win 	0.95889205	4.794460237026215	5
+139	3 4 5 6 <==> 5 6 7	SPE1	4	300th , 301st goals	300th Barcelona goal 	0.7679229	3.8396143913269043	4
+139	2 <==> 4	SIMI	4	nets	hits 	0.88823795	4.441189765930176	4
+139	1 <==> 3	EQUI	5	Messi	Messi 	0.97356814	4.8678407073020935	5
+139	0 <==> 2	NOALI	NIL	-not aligned-	: 	0.0042981775	0.021490887738764286	0
+139	0 <==> 1	NOALI	NIL	-not aligned-	Football 	0.0043598707	0.021799353417009115	0
+140	0 <==> 6	NOALI	NIL	-not aligned-	protests 	0.0044362242	0.022181121166795492	0
+140	5 <==> 0	ALIC	NIL	dead	-not aligned- 	0.004331142	0.021655710879713297	0
+140	4 <==> 4	EQUI	5	shot	slain 	0.82638764	4.131938219070435	4
+140	0 <==> 7	NOALI	NIL	-not aligned-	erupt 	0.004374855	0.021874275989830494	0
+140	0 <==> 5	NOALI	NIL	-not aligned-	; 	0.004365587	0.021827935706824064	0
+140	1 2 3 <==> 1 2 3	SPE2	4	Tunisian opposition politician	Tunisia opposition leader 	0.8093922	4.046961069107056	4
+141	1 2 3 <==> 1 2 3 4	EQUI	5	Whistleblower Edward Snowden	NSA whistleblower Edward Snowden 	0.93002325	4.650116264820099	5
+141	0 <==> 6 7	NOALI	NIL	-not aligned-	Hong Kong 	0.0045333635	0.022666817530989647	0
+141	5 6 <==> 10 11	EQUI	5	to Moscow	to Moscow 	0.9742322	4.871160984039307	5
+141	0 <==> 5	NOALI	NIL	-not aligned-	leaves 	0.0043407576	0.021703788079321384	0
+141	4 <==> 8 9	EQUI	5	flies	on flight 	0.85926104	4.296305179595947	4
+142	5 6 <==> 4 5 6	REL	4	in Afghanistan	in Afghan attack 	0.9427186	4.713593125343323	5
+142	4 <==> 3	EQUI	5	killed	killed 	0.97456217	4.8728108406066895	5
+142	1 2 3 <==> 1 2	SIMI	4	Two NATO soldiers	NATO soldier 	0.9198816	4.599407911300659	5
+143	3 <==> 3	SIMI	4	Bets	Pays 	0.93676084	4.683804214000702	5
+143	7 8 <==> 0	NOALI	NIL	on Reviving	-not aligned- 	0.004488474	0.022442371118813753	0
+143	9 10 <==> 7 8 9 10	EQUI	5	Washington Post	For The Washington Post 	0.90418714	4.5209357142448425	5
+143	1 2 <==> 1 2	EQUI	5	Jeff Bezos	Jeff Bezos 	0.9695608	4.847804009914398	5
+143	4 5 6 <==> 4 5 6	EQUI	5	$ 250 Million	$ 250 Million 	0.9639741	4.819870591163635	5
+144	3 4 <==> 6 7	EQUI	5	chilling message	chilling message 	0.9639426	4.819712936878204	5
+144	8 9 <==> 11 12	EQUI	5	's elite	's elite 	0.9674519	4.837259352207184	5
+144	0 <==> 2 3 4	ALIC	NIL	-not aligned-	of Kim uncle 	0.0043600923	0.021800461690872908	0
+144	5 6 7 <==> 8 9 10	EQUI	5	to North Korea	to North Korea 	0.9617848	4.808923900127411	5
+144	1 <==> 1	SPE2	4	Purge	Purge 	0.9707171	4.853585362434387	5
+144	2 <==> 5	EQUI	5	sends	sends 	0.97369385	4.86846923828125	5
+145	1 2 <==> 1 2	SIMI	4	Heavy rain	Fresh rain 	0.93543625	4.677181243896484	5
+145	4 <==> 0	ALIC	NIL	threat	-not aligned- 	0.0043235878	0.02161793876439333	0
+145	5 6 7 8 <==> 4 5	SPE1	3	of Christmas Day flooding	more flooding 	0.90259373	4.51296865940094	5
+145	3 <==> 3	SPE2	3	raises	brings 	0.8689637	4.344818592071533	4
+146	4 <==> 4	EQUI	5	begin	start 	0.9541363	4.77068156003952	5
+146	7 8 <==> 0	NOALI	NIL	of progress	-not aligned- 	0.0043648453	0.021824226714670658	0
+146	0 <==> 5 6	NOALI	NIL	-not aligned-	in Geneva 	0.004454937	0.0222746841609478	0
+146	5 6 <==> 0	NOALI	NIL	amid hopes	-not aligned- 	0.004479339	0.022396694403141737	0
+146	1 2 3 <==> 1 2 3	EQUI	5	Iran nuke talks	Iran nuclear talks 	0.9280796	4.640398025512695	5
+147	2 3 <==> 2 3	EQUI	5	's Bezos	's Bezos 	0.97115177	4.855758845806122	5
+147	6 7 8 <==> 5 6	EQUI	5	the Washington Post	Washington Post 	0.9502544	4.751271903514862	5
+147	1 <==> 1	EQUI	5	Amazon	Amazon 	0.97195923	4.859796166419983	5
+147	9 10 11 12 <==> 7 8 9	EQUI	5	for $ 250 million	for $ 250-M 	0.9406569	4.703284502029419	5
+147	4 5 <==> 4	EQUI	5	to buy	buys 	0.961179	4.805895090103149	5
+148	7 8 <==> 0	NOALI	NIL	of season	-not aligned- 	0.004450986	0.022254930809140205	0
+148	0 <==> 4 5	NOALI	NIL	-not aligned-	From Football 	0.0043846928	0.02192346379160881	0
+148	5 6 <==> 0	NOALI	NIL	at end	-not aligned- 	0.0043645697	0.021822848357260227	0
+148	1 2 <==> 1 2	EQUI	5	David Beckham	David Beckham 	0.9705607	4.852803647518158	5
+148	3 4 <==> 3	EQUI	5	to retire	Retires 	0.95148593	4.757429659366608	5
+149	0 <==> 8 9	NOALI	NIL	-not aligned-	in south 	0.004443175	0.022215875796973705	0
+149	0 <==> 4	NOALI	NIL	-not aligned-	, 	0.0043400717	0.021700358483940363	0
+149	1 <==> 1	EQUI	5	Libya	Libya 	0.9653045	4.826522469520569	5
+149	2 <==> 0	ALIC	NIL	abruptly	-not aligned- 	0.0045925467	0.022962733637541533	0
+149	3 <==> 2	SPE1	4	closes	closes 	0.97802633	4.890131652355194	5
+149	4 5 <==> 3	EQUI	5	its borders	borders 	0.959367	4.796834886074066	5
+149	6 7 8 <==> 0	NOALI	NIL	with four countries	-not aligned- 	0.004437235	0.022186175920069218	0
+149	0 <==> 5	NOALI	NIL	-not aligned-	declares 	0.0044320733	0.022160366643220186	0
+149	0 <==> 6 7	NOALI	NIL	-not aligned-	martial law 	0.0044225752	0.022112876176834106	0
+150	3 4 <==> 3 4	EQUI	5	central Russia	central Russia 	0.97389406	4.869470298290253	5
+150	10 <==> 7	EQUI	5	hurt	hurt 	0.9756855	4.8784273862838745	5
+150	2 <==> 2	EQUI	5	hits	hits 	0.9754063	4.877031445503235	5
+150	5 <==> 0	NOALI	NIL	,	-not aligned- 	0.004336292	0.02168145962059498	0
+150	6 7 8 9 <==> 6	SPE2	3	more than 500 people	400 	0.6887414	3.4437069296836853	3
+150	0 <==> 5	NOALI	NIL	-not aligned-	, 	0.0043400717	0.021700358483940363	0
+150	1 <==> 1	EQUI	5	Meteorite	Meteorite 	0.9696173	4.8480865359306335	5
+151	1 <==> 1	SPE1	3	123	Many 	0.6535473	3.2677364349365234	3
+151	2 <==> 2	EQUI	5	killed	killed 	0.97456217	4.8728108406066895	5
+151	3 4 <==> 3 4 5 6	SPE2	3	in fighting	in Syrian air strike 	0.69767874	3.488393723964691	3
+151	5 6 7 <==> 0	ALIC	NIL	in northern Syria	-not aligned- 	0.00452272	0.022613599430769682	0
+152	3 <==> 2	EQUI	5	freezes	freezes 	0.97310346	4.865517318248749	5
+152	1 <==> 1	EQUI	5	Egypt	Egypt 	0.9698831	4.849415421485901	5
+152	2 <==> 0	NOALI	NIL	`	-not aligned- 	0.0043349415	0.021674707531929016	0
+152	4 5 6 <==> 3 4 5	SIMI	4	Muslim Brotherhood assets	Muslim Brotherhood funds 	0.8041523	4.020761549472809	4
+152	7 <==> 0	NOALI	NIL	'	-not aligned- 	0.004316036	0.02158018061891198	0
+153	5 6 7 8 <==> 5 6 7	SPE1	4	as new Australian PM	As Australia PM 	0.94564277	4.728213846683502	5
+153	1 2 <==> 1 2	EQUI	5	Tony Abbott	Tony Abbott 	0.96575594	4.828779697418213	5
+153	3 4 <==> 3 4	EQUI	5	sworn in	Sworn In 	0.96540934	4.827046692371368	5
+154	4 5 6 7 <==> 3 4 5	SPE1	4	amid Chavez health crisis	amid Chavez crisis 	0.9615664	4.807831943035126	5
+154	3 <==> 2	EQUI	5	meets	meets 	0.975652	4.878259897232056	5
+154	1 2 <==> 1	SPE1	4	Venezuela assembly	Assembly 	0.9298512	4.649255871772766	5
+155	4 5 <==> 4 5 6 7 8 9	REL	3	in Egypt	in face of Egypt govt threat 	0.61251664	3.0625832080841064	3
+155	3 <==> 3	SIMI	3	protest	defiant 	0.8228465	4.114232361316681	4
+155	1 2 <==> 1 2	EQUI	5	Morsi supporters	Morsi backers 	0.9662936	4.831467866897583	5
+156	1 2 <==> 1 2	EQUI	5	Eurozone jobless	EU jobless 	0.913747	4.568735063076019	5
+156	4 5 6 <==> 4 5	SPE1	4	fresh record high	fresh record 	0.9590872	4.795435965061188	5
+156	3 <==> 3	EQUI	5	hits	hits 	0.9754063	4.877031445503235	5
+157	10 <==> 0	NOALI	NIL	Out	-not aligned- 	0.0043135164	0.02156758215278387	0
+157	6 7 8 <==> 4	REL	3	Try to Get	run 	0.7983047	3.9915233850479126	4
+157	5 <==> 0	ALIC	NIL	Cypriots	-not aligned- 	0.0044705886	0.02235294319689274	0
+157	1 <==> 0	NOALI	NIL	Facing	-not aligned- 	0.0043458426	0.021729213185608387	0
+157	11 12 <==> 5 6 7	EQUI	5	of Banks	on Cyprus banks 	0.8703388	4.3516939878463745	4
+157	4 <==> 0	NOALI	NIL	,	-not aligned- 	0.004336292	0.02168145962059498	0
+157	9 <==> 0	ALIC	NIL	Cash	-not aligned- 	0.004336607	0.021683035884052515	0
+157	2 3 <==> 1 2	SPE1	3	Bailout Tax	Bailout terms 	0.91876507	4.593825340270996	5
+157	0 <==> 3	NOALI	NIL	-not aligned-	prompt 	0.004386287	0.02193143591284752	0
+158	3 <==> 6	EQUI	5	deserves	deserves 	0.9757882	4.8789408802986145	5
+158	0 <==> 3	NOALI	NIL	-not aligned-	: 	0.0042981775	0.021490887738764286	0
+158	6 7 <==> 1 2	EQUI	5	David Cameron	David Cameron 	0.96525127	4.826256334781647	5
+158	8 <==> 0	ALIC	NIL	says	-not aligned- 	0.004355183	0.02177591435611248	0
+158	1 2 <==> 4 5	EQUI	5	Andy Murray	Andy Murray 	0.9665365	4.8326826095581055	5
+158	4 <==> 7 8	EQUI	5	knighthood	a knighthood 	0.95375323	4.768766164779663	5
+158	5 <==> 0	NOALI	NIL	,	-not aligned- 	0.004336292	0.02168145962059498	0
+159	3 <==> 3	EQUI	5	killed	dead 	0.9717935	4.858967363834381	5
+159	0 <==> 10 11 12	NOALI	NIL	-not aligned-	in east Afghanistan 	0.0044936035	0.022468017414212227	0
+159	4 5 6 <==> 4 5 6	SPE1	3	in suicide attack	in new blast 	0.69150776	3.4575387835502625	3
+159	1 2 <==> 1 2	EQUI	5	Three Afghans	Three Afghans 	0.9697982	4.8489910364151	5
+159	0 <==> 7 8 9	NOALI	NIL	-not aligned-	at US base 	0.004395027	0.021975135896354914	0
+160	0 <==> 1 2	NOALI	NIL	-not aligned-	South Africa 	0.0044601597	0.022300798445940018	0
+160	1 2 <==> 4	EQUI	5	Nelson Mandela	Mandela 	0.9512287	4.756143391132355	5
+160	3 4 <==> 5 6	EQUI	5	in Hospital	in hospital 	0.97178507	4.8589253425598145	5
+160	5 6 <==> 7 8	EQUI	5	for Tests	for tests 	0.97453034	4.872651696205139	5
+160	0 <==> 3	NOALI	NIL	-not aligned-	: 	0.0042981775	0.021490887738764286	0
+161	0 <==> 5	ALIC	NIL	-not aligned-	has 	0.0043399297	0.02169964835047722	0
+161	1 2 <==> 1 2	EQUI	5	Vinnie Jones	Vinnie Jones 	0.9620479	4.810239374637604	5
+161	0 <==> 4	ALIC	NIL	-not aligned-	he 	0.004338718	0.021693590097129345	0
+161	4 5 6 <==> 6 7	SPE2	4	cancer battle new	skin cancer 	0.82961637	4.148081839084625	4
+161	3 <==> 3	EQUI	5	reveals	reveals 	0.9750207	4.875103533267975	5
+162	0 <==> 2	NOALI	NIL	-not aligned-	: 	0.0042981775	0.021490887738764286	0
+162	3 4 <==> 3 4 5	SPE2	4	US drones	US drone strikes 	0.9261563	4.630781412124634	5
+162	7 8 <==> 8 9	EQUI	5	's sovereignty	's sovereignty 	0.9718431	4.859215617179871	5
+162	2 <==> 0	ALIC	NIL	says	-not aligned- 	0.004355183	0.02177591435611248	0
+162	6 <==> 7	EQUI	5	Pakistan	Pakistan 	0.9701993	4.850996434688568	5
+162	1 <==> 1	EQUI	5	UN	UN 	0.96976656	4.848832786083221	5
+162	5 <==> 6	EQUI	5	violate	violate 	0.97563404	4.878170192241669	5
+163	1 2 <==> 0	NOALI	NIL	The e-mails	-not aligned- 	0.0047841775	0.023920887615531683	0
+163	8 9 <==> 6 7	EQUI	5	about meeting	about meeting 	0.973356	4.866780042648315	5
+163	3 <==> 0	NOALI	NIL	-	-not aligned- 	0.004361771	0.02180885523557663	0
+163	7 <==> 4 5	SPE2	4	trader	rogue trader 	0.95102704	4.755135178565979	5
+163	4 5 <==> 1 2	EQUI	5	Oil firm	Oil firm 	0.9677491	4.838745594024658	5
+163	6 <==> 3	EQUI	5	asked	asked 	0.9717026	4.858512878417969	5
+163	10 11 <==> 8 9	EQUI	5	with minister	with minister 	0.96954274	4.8477137088775635	5
+164	3 <==> 3	EQUI	5	Admits	admits 	0.97474617	4.873730838298798	5
+164	1 2 <==> 1 2	EQUI	5	South Africa	South Africa 	0.9667841	4.83392059803009	5
+164	4 <==> 4 5 6 7	SIMI_FACT	4	Mistake	possible ` mistake ' 	0.8753747	4.3768733739852905	4
+164	5 6 7 8 9 10 <==> 8 9 10	SIMI	3	Over ` Schizophrenic ' Mandela Signer	over deaf signer 	0.8595826	4.297913014888763	4
+164	0 <==> 11 12 13	ALIC	NIL	-not aligned-	at Mandela memorial 	0.004392103	0.02196051413193345	0
+165	3 <==> 2	EQUI	5	tumble	fall 	0.87165374	4.358268678188324	4
+165	7 8 <==> 6 7 8	SPE2	4	of shutdown	of government shutdown 	0.95875055	4.793752729892731	5
+165	1 2 <==> 1	SPE1	4	US stocks	Stocks 	0.9225682	4.612841010093689	5
+165	4 5 6 <==> 3 4 5	EQUI	5	on third day	on third day 	0.96313065	4.8156532645225525	5
+166	1 <==> 0	ALIC	NIL	NATO	-not aligned- 	0.0043850425	0.02192521234974265	0
+166	3 4 <==> 1 2	SPE1	4	3 troops	NATO troops 	0.865976	4.329879879951477	4
+166	6 7 8 <==> 4 5 6 7 8 9	SPE2	4	in Afghanistan attack	in Afghan ` insider attack ' 	0.914312	4.571560025215149	5
+166	5 <==> 3	EQUI	5	killed	killed 	0.97456217	4.8728108406066895	5
+166	2 <==> 0	NOALI	NIL	:	-not aligned- 	0.0043214164	0.02160708187147975	0
+167	6 7 <==> 11 12	EQUI	5	Peace Conference	peace conference 	0.97064215	4.853210747241974	5
+167	3 <==> 4	SPE2	4	Agrees	agree 	0.96538913	4.826945662498474	5
+167	0 <==> 5 6 7 8	ALIC	NIL	-not aligned-	` in principle ' 	0.004579304	0.02289651893079281	0
+167	1 2 <==> 1 2 3	SPE2_POL	3	Syria Regime	Syria , opposition 	0.71558094	3.57790470123291	4
+167	4 5 <==> 9 10	EQUI	5	to Attend	to attend 	0.9715305	4.857652485370636	5
+168	3 4 5 6 7 <==> 1 2 3 4 5	SPE2	4	as Boeing 777 jet crash	Asiana Air Boeing 777 crash 	0.8611075	4.305537641048431	4
+168	1 <==> 0	NOALI	NIL	Dozens	-not aligned- 	0.004299094	0.021495469845831394	0
+168	2 <==> 0	NOALI	NIL	injured	-not aligned- 	0.0044008004	0.02200400223955512	0
+168	8 <==> 6	EQUI	5	lands	lands 	0.9734258	4.867129027843475	5
+168	9 10 11 12 <==> 7 8 9 10	EQUI	5	at San Francisco airport	at San Francisco airport 	0.9658911	4.829455614089966	5
+169	1 2 3 4 <==> 1 2 3 4	EQUI	5	Delhi gang rape victim	Delhi gang rape victim 	0.956683	4.783414900302887	5
+169	5 <==> 5	REL	2	dies	flown 	0.83207554	4.160377681255341	4
+169	6 7 8 <==> 6 7 8	EQUI	5	in Singapore hospital	to Singapore hospital 	0.94676405	4.733820259571075	5
+170	3 4 <==> 2 3	EQUI	5	to Review	to review 	0.97481877	4.87409383058548	5
+170	5 6 7 8 <==> 4 5 6 7	EQUI	5	Syria Chemical Arms Accord	Syria chemical arms accord 	0.9470929	4.735464453697205	5
+170	1 2 <==> 1	EQUI	5	Ban Ki-moon	Ban 	0.94369334	4.718466699123383	5
+171	4 5 6 <==> 5 6 7	REL	3	Syria chemical arms	Syria chemical mission 	0.8905658	4.45282906293869	4
+171	0 <==> 3 4	NOALI	NIL	-not aligned-	to help 	0.0043242853	0.021621426567435265	0
+171	3 <==> 0	NOALI	NIL	orders	-not aligned- 	0.004328295	0.0216414756141603	0
+171	1 2 <==> 1	REL	2	UN resolution	Germany 	0.5000631	2.5003156065940857	3
+171	0 <==> 2	NOALI	NIL	-not aligned-	ready 	0.004375038	0.021875191014260054	0
+171	7 <==> 0	NOALI	NIL	destroyed	-not aligned- 	0.004352816	0.021764079574495554	0
+172	5 6 <==> 0	NOALI	NIL	into sea	-not aligned- 	0.0044302936	0.022151467856019735	0
+172	0 <==> 4 5	NOALI	NIL	-not aligned-	to Nepal 	0.004350306	0.02175153000280261	0
+172	2 3 <==> 0	NOALI	NIL	after man	-not aligned- 	0.0043606265	0.021803132258355618	0
+172	0 <==> 3	NOALI	NIL	-not aligned-	visit 	0.0044128755	0.022064377553761005	0
+172	0 <==> 1	NOALI	NIL	-not aligned-	Lara 	0.0043892283	0.021946141496300697	0
+172	0 <==> 2	NOALI	NIL	-not aligned-	plans 	0.004395895	0.021979475859552622	0
+172	1 <==> 0	NOALI	NIL	Search	-not aligned- 	0.004337194	0.021685969550162554	0
+172	4 <==> 0	NOALI	NIL	swept	-not aligned- 	0.004415709	0.022078545298427343	0
+173	3 <==> 3	OPPO	4	acquitted	convicted 	0.83237875	4.161893725395203	4
+173	1 2 <==> 1 2	EQUI	5	NATO protesters	NATO protesters 	0.96640277	4.832013845443726	5
+173	4 5 6 <==> 4 5 6	SIMI	3	of terrorism charges	on non-terrorism charges 	0.8560276	4.28013801574707	4
+174	1 <==> 0	NOALI	NIL	Taliban	-not aligned- 	0.00439605	0.021980248857289553	0
+174	6 7 <==> 9	EQUI	5	in Pakistan	Pakistan 	0.9330307	4.665153622627258	5
+174	0 <==> 8	NOALI	NIL	-not aligned-	hits 	0.0043987324	0.021993662230670452	0
+174	0 <==> 1 2 3 4	NOALI	NIL	-not aligned-	At least 33 dead 	0.004660336	0.02330167917534709	0
+174	0 <==> 5 6 7	NOALI	NIL	-not aligned-	as big quake 	0.004541912	0.022709560580551624	0
+174	2 3 <==> 0	NOALI	NIL	on agenda	-not aligned- 	0.0044477377	0.02223868854343891	0
+174	4 5 <==> 0	NOALI	NIL	for US	-not aligned- 	0.004295907	0.021479534916579723	0
+175	4 5 6 <==> 5 6 7 8	SPE2	4	over Syria action	on Syria military action 	0.9058751	4.529375433921814	5
+175	2 <==> 0	NOALI	NIL	holds	-not aligned- 	0.004367498	0.02183749107643962	0
+175	1 <==> 1	SIMI	2	Obama	Cameron 	0.75695246	3.7847623229026794	4
+175	3 <==> 0	NOALI	NIL	talks	-not aligned- 	0.004349067	0.02174533437937498	0
+175	0 <==> 3 4	NOALI	NIL	-not aligned-	parliamentary vote 	0.004639718	0.023198591079562902	0
+175	0 <==> 2	NOALI	NIL	-not aligned-	loses 	0.0043915506	0.021957752760499716	0
+176	6 <==> 4 5	EQUI	5	talks	to talks 	0.9676877	4.838438630104065	5
+176	1 2 <==> 1 2	EQUI	5	Syria opposition	Syria opposition 	0.9681884	4.840942025184631	5
+176	4 5 <==> 0	NOALI	NIL	to quit	-not aligned- 	0.004391125	0.02195562468841672	0
+176	3 <==> 0	NOALI	NIL	threatens	-not aligned- 	0.0043953797	0.021976898424327374	0
+176	0 <==> 3	NOALI	NIL	-not aligned-	agrees 	0.0043874034	0.021937016863375902	0
+177	3 <==> 3	SIMI	3	storm	topple 	0.88127667	4.4063833355903625	4
+177	6 7 <==> 0	ALIC	NIL	of Kyiv	-not aligned- 	0.004480504	0.022402519825845957	0
+177	1 2 <==> 1 2	SIMI	4	Anti-government protesters	Ukraine protesters 	0.8679084	4.339542090892792	4
+177	4 5 <==> 4 5	REL	3	the streets	Lenin statue 	0.8341326	4.170663058757782	4
+178	6 7 8 <==> 6 7 8	SPE2	4	in northwest Pakistan	in North Waziristan 	0.6123694	3.0618470907211304	3
+178	5 <==> 5	SIMI	2	three	seven 	0.84637916	4.231895804405212	4
+178	4 <==> 4	EQUI	5	kills	kills 	0.97505873	4.875293672084808	5
+178	1 2 3 <==> 1 2 3	EQUI	5	US drone strike	US drone strike 	0.96481097	4.824054837226868	5
+179	2 <==> 2	REL	4	Sentenced	jailed 	0.83199453	4.159972667694092	4
+179	6 7 <==> 0	NOALI	NIL	for Leaking	-not aligned- 	0.0044448376	0.02222418785095215	0
+179	3 4 5 <==> 3 4 5	SIMI	2	to 35 Years	for 10 years 	0.5993186	2.9965931177139282	3
+179	0 <==> 8 9 10	NOALI	NIL	-not aligned-	fake bomb detectors 	0.0044305963	0.022152981255203485	0
+179	1 <==> 0	NOALI	NIL	Manning	-not aligned- 	0.0043957825	0.02197891240939498	0
+179	0 <==> 6 7	NOALI	NIL	-not aligned-	for selling 	0.0043630926	0.021815462969243526	0
+179	0 <==> 1	NOALI	NIL	-not aligned-	Briton 	0.0043750755	0.021875377278774977	0
+179	8 9 <==> 0	NOALI	NIL	Government Secrets	-not aligned- 	0.004318524	0.021592620760202408	0
+180	7 8 <==> 7 8	SPE2	4	's south	's Volgograd 	0.6658356	3.3291780948638916	3
+180	3 <==> 3	EQUI	5	kills	kills 	0.97505873	4.875293672084808	5
+180	4 <==> 4	SIMI	4	13	16 	0.88320965	4.416048228740692	4
+180	1 2 <==> 1 2	EQUI	5	Suicide bomber	Suicide bomber 	0.97333175	4.8666587471961975	5
+180	5 6 <==> 5 6	EQUI	5	in Russia	in Russia 	0.9725353	4.862676560878754	5
+181	1 2 3 4 5 <==> 1 2 3	EQUI	5	Bangladesh building collapse death toll	Bangladesh building-collapse toll 	0.9160194	4.580096900463104	5
+181	7 <==> 5	SIMI	3	540	600 	0.6797245	3.3986225724220276	3
+181	8 <==> 0	NOALI	NIL	:	-not aligned- 	0.0043214164	0.02160708187147975	0
+181	6 <==> 4	SIMI	4	hits	tops 	0.87839353	4.3919676542282104	4
+181	9 <==> 0	NOALI	NIL	army	-not aligned- 	0.0043947184	0.02197359222918749	0
+182	10 <==> 0	NOALI	NIL	but	-not aligned- 	0.004318082	0.021590408869087696	0
+182	1 2 <==> 1 2	EQUI	5	Nelson Mandela	Nelson Mandela 	0.9695672	4.847835898399353	5
+182	0 <==> 6	NOALI	NIL	-not aligned-	unstable 	0.0044938126	0.022469062823802233	0
+182	11 <==> 0	NOALI	NIL	Nehru	-not aligned- 	0.0044166795	0.02208339748904109	0
+182	6 7 <==> 0	NOALI	NIL	was not	-not aligned- 	0.004540526	0.02270262921229005	0
+182	3 4 5 <==> 0	NOALI	NIL	's real hero	-not aligned- 	0.0044228	0.022114000748842955	0
+182	9 <==> 0	NOALI	NIL	,	-not aligned- 	0.004336292	0.02168145962059498	0
+182	8 <==> 0	NOALI	NIL	Gandhi	-not aligned- 	0.0044208644	0.022104321978986263	0
+182	0 <==> 3 4	NOALI	NIL	-not aligned-	's health 	0.004382037	0.02191018546000123	0
+182	0 <==> 7	NOALI	NIL	-not aligned-	' 	0.004307438	0.02153719076886773	0
+182	0 <==> 5	NOALI	NIL	-not aligned-	` 	0.0043451353	0.021725676488131285	0
+183	1 2 3 <==> 1 2 3	EQUI	5	Hushen 300 Index	Hushen 300 Index 	0.9515821	4.757910370826721	5
+183	7 8 <==> 7 8	SIMI	2	Oct. 14	March 12 	0.6695812	3.3479058742523193	3
+183	5 <==> 5	OPPO	5	higher	lower 	0.96690124	4.8345062136650085	5
+183	6 <==> 0	NOALI	NIL	--	-not aligned- 	0.0043580867	0.021790433675050735	0
+183	4 <==> 4	EQUI	5	closes	closes 	0.97802633	4.890131652355194	5
+183	0 <==> 6	NOALI	NIL	-not aligned-	-- 	0.004354025	0.02177012385800481	0
+184	5 6 7 <==> 6 7 8	EQUI	5	for first time	for first time 	0.96517724	4.8258861899375916	5
+184	1 <==> 0	NOALI	NIL	Soccer-France	-not aligned- 	0.0046899156	0.0234495778568089	0
+184	0 <==> 1 2	NOALI	NIL	-not aligned-	NRA official 	0.004520097	0.02260048408061266	0
+184	0 <==> 9 10 11	NOALI	NIL	-not aligned-	since controversial remarks 	0.0045719324	0.0228596618399024	0
+184	2 3 <==> 0	NOALI	NIL	to host	-not aligned- 	0.00443237	0.02216184977442026	0
+184	0 <==> 3 4	NOALI	NIL	-not aligned-	to face 	0.0043339375	0.02166968770325184	0
+184	4 <==> 0	NOALI	NIL	Australia	-not aligned- 	0.004383679	0.021918395068496466	0
+184	8 9 <==> 0	NOALI	NIL	in October	-not aligned- 	0.0043845735	0.021922867745161057	0
+184	0 <==> 5	NOALI	NIL	-not aligned-	questions 	0.004497833	0.022489165421575308	0
+185	0 <==> 3 4	NOALI	NIL	-not aligned-	Moderate candidate 	0.0045589954	0.022794976830482483	0
+185	0 <==> 2	NOALI	NIL	-not aligned-	: 	0.0042981775	0.021490887738764286	0
+185	3 4 5 6 <==> 0	NOALI	NIL	in the Central Mediterranean	-not aligned- 	0.0045674164	0.02283708192408085	0
+185	0 <==> 5	NOALI	NIL	-not aligned-	wins 	0.0043613715	0.02180685754865408	0
+185	1 2 <==> 0	NOALI	NIL	Moderate tremor	-not aligned- 	0.004709157	0.023545785807073116	0
+185	0 <==> 6 7	NOALI	NIL	-not aligned-	presidential vote 	0.00464141	0.023207049816846848	0
+185	0 <==> 1	NOALI	NIL	-not aligned-	Iran 	0.00443128	0.022156399209052324	0
+186	1 <==> 1	EQUI	5	Malaysia	Malaysia 	0.9595748	4.797874093055725	5
+186	5 6 <==> 5	SIMI	4	hangs on	wins 	0.8565842	4.282920956611633	4
+186	7 8 <==> 6	REL	4	to power	majority 	0.8803543	4.401771426200867	4
+186	2 3 4 <==> 2 3 4	SPE1	4	's long-ruling coalition	's ruling coalition 	0.90207136	4.510356783866882	5
+187	1 2 <==> 3 4	EQUI	5	19 hurt	19 hurt 	0.97241443	4.862072169780731	5
+187	3 4 5 6 <==> 8 9 10	SPE2	4	in New Orleans shooting	's Day shooting 	0.8149977	4.07498836517334	4
+187	0 <==> 1	NOALI_FACT	NIL	-not aligned-	Police 	0.004355706	0.021778529044240713	0
+187	0 <==> 2	NOALI	NIL	-not aligned-	: 	0.0042981775	0.021490887738764286	0
+187	0 <==> 5 6 7	ALIC	NIL	-not aligned-	in NOLA Mother 	0.004843051	0.02421525539830327	0
+188	5 6 <==> 3	SPE1	4	as date	date 	0.93170244	4.65851217508316	5
+188	3 4 <==> 0	ALIC	NIL	May 5	-not aligned- 	0.0044031055	0.022015527356415987	0
+188	1 <==> 1	EQUI	5	Malaysia	Malaysia 	0.9595748	4.797874093055725	5
+188	2 <==> 2	EQUI	5	sets	sets 	0.9745481	4.8727405071258545	5
+188	7 8 9 10 <==> 4 5 6	SIMI	3	for closely contested election	for landmark elections 	0.7197649	3.598824441432953	4
+189	2 <==> 0	NOALI	NIL	kill	-not aligned- 	0.004309437	0.021547183860093355	0
+189	4 <==> 0	NOALI	NIL	,	-not aligned- 	0.004336292	0.02168145962059498	0
+189	3 <==> 0	NOALI	NIL	two	-not aligned- 	0.0043451805	0.02172590233385563	0
+189	7 8 9 <==> 4 5 6	SPE1	4	from Calgary homes	From Canada Homes 	0.8284843	4.14242148399353	4
+189	1 <==> 1	EQUI	5	Floods	Flooding 	0.97107184	4.855359196662903	5
+189	6 <==> 3	EQUI	5	75,000	75,000 	0.95578635	4.778931736946106	5
+189	5 <==> 2	EQUI	5	forces	Forces 	0.86242944	4.3121472001075745	4
+190	7 8 <==> 7 8	EQUI	5	Moscow vote	Moscow vote 	0.97330564	4.866528213024139	5
+190	0 <==> 12	NOALI	NIL	-not aligned-	foul 	0.0044538905	0.022269452456384897	0
+190	0 <==> 9	NOALI	NIL	-not aligned-	, 	0.0043400736	0.02170036779716611	0
+190	4 5 <==> 4 5	EQUI	5	Putin ally	Putin ally 	0.9729778	4.864889085292816	5
+190	0 <==> 11	NOALI	NIL	-not aligned-	cries 	0.0043873116	0.021936558187007904	0
+190	6 <==> 6	EQUI	5	wins	wins 	0.9747936	4.873968064785004	5
+190	0 <==> 10	NOALI	NIL	-not aligned-	Navalny 	0.0044188714	0.022094356827437878	0
+190	3 <==> 3	SIMI	4	suggest	shows 	0.91734827	4.586741328239441	5
+190	1 2 <==> 1 2	EQUI	5	Exit polls	Exit polls 	0.9718456	4.859228134155273	5
+191	7 8 9 <==> 8 9 10	EQUI	5	over South Africa	over South Africa 	0.9706478	4.853239059448242	5
+191	2 <==> 3 4	SIMI	4	smashes	sets up 	0.82908016	4.145400822162628	4
+191	1 <==> 1 2	SPE2	4	Dhawan	Dhawan ton 	0.92196697	4.609834849834442	5
+191	4 5 6 <==> 0	ALIC	NIL	to big win	-not aligned- 	0.0044199415	0.022099707275629044	0
+191	3 <==> 5 6 7	EQUI	5	India	India Trophy win 	0.8249922	4.124960899353027	4
+192	5 6 <==> 4 5	SIMI	4	3 militants	4 militants 	0.96487355	4.8243677616119385	5
+192	4 <==> 3	EQUI	5	kills	kills 	0.97505873	4.875293672084808	5
+192	7 8 <==> 6 7	EQUI	5	in Pakistan	in Pakistan 	0.9679891	4.839945435523987	5
+192	1 2 3 <==> 1 2	SPE1_FACT	4	Suspected US drone	U.S. drone 	0.90918845	4.54594224691391	5
+193	4 5 <==> 7 8	EQUI	5	with prayer	for Prayers 	0.9449997	4.724998474121094	5
+193	3 <==> 5 6	REL	4	papacy	of Vatican 	0.6375688	3.1878438591957092	3
+193	2 <==> 0	NOALI	NIL	begins	-not aligned- 	0.00432855	0.021642749197781086	0
+193	1 <==> 1 2	SPE2	4	Francis	Pope Francis 	0.9585215	4.792607426643372	5
+193	0 <==> 3 4	NOALI	NIL	-not aligned-	Slips Out 	0.0045503345	0.0227516726590693	0
+194	7 8 <==> 8 9	EQUI	5	's Sinai	's Sinai 	0.9690268	4.845134019851685	5
+194	10 <==> 0	NOALI_FACT	NIL	sources	-not aligned- 	0.004356093	0.021780463866889477	0
+194	9 <==> 0	NOALI	NIL	-	-not aligned- 	0.004361771	0.02180885523557663	0
+194	2 <==> 2	EQUI	5	released	release 	0.9515102	4.757550954818726	5
+194	1 <==> 3 4	SPE2	4	Britons	two Britons 	0.9479825	4.739912450313568	5
+194	5 6 <==> 6 7	EQUI	5	in Egypt	in Egypt 	0.96902376	4.845118820667267	5
+194	3 4 <==> 5	SIMI	4	after kidnapping	seized 	0.83710057	4.185502827167511	4
+194	0 <==> 1	NOALI	NIL	-not aligned-	Bedouin 	0.004456386	0.022281929850578308	0
+195	3 4 <==> 9 10 11	SIMI	4	European backlash	by European countries 	0.781201	3.906005024909973	4
+195	1 <==> 1	EQUI	5	Israel	Israel 	0.9716142	4.858070909976959	5
+195	2 <==> 2	SIMI	4	faces	called 	0.8459792	4.229896068572998	4
+195	0 <==> 3 4	ALIC	NIL	-not aligned-	to account 	0.0043177023	0.021588511299341917	0
+195	5 6 7 <==> 5 6 7 8	SPE2	4	over settlement plan	over latest settlement plans 	0.95013714	4.750685691833496	5
+196	5 6 7 <==> 6 7 8	EQUI	5	's abuse claims	's abuse claims 	0.9740069	4.870034456253052	5
+196	1 <==> 1	EQUI	5	Allen	Allen 	0.96633154	4.831657707691193	5
+196	0 <==> 3	NOALI	NIL	-not aligned-	self 	0.0043033436	0.021516717970371246	0
+196	8 9 <==> 0	NOALI	NIL	in letter	-not aligned- 	0.0043995846	0.021997923031449318	0
+196	2 <==> 2	SIMI	3	responds	defends 	0.87431735	4.371586740016937	4
+196	3 4 <==> 4 5	EQUI	5	to Farrow	against Farrow 	0.9292601	4.646300375461578	5
+197	4 <==> 0	NOALI	NIL	arrives	-not aligned- 	0.0043985276	0.021992637775838375	0
+197	2 3 <==> 3 4	EQUI	5	's father	's father 	0.9686534	4.8432669043540955	5
+197	5 6 <==> 5 6	EQUI	5	in Moscow	in Moscow 	0.9736043	4.868021607398987	5
+197	1 <==> 1 2	EQUI	5	Snowden	Edward Snowden 	0.9447682	4.723840951919556	5
+198	0 <==> 4 5 6	NOALI	NIL	-not aligned-	as user base 	0.0044847406	0.022423702757805586	0
+198	6 7 8 <==> 0	NOALI	NIL	as mobile ads	-not aligned- 	0.0044969027	0.022484513465315104	0
+198	3 <==> 3	EQUI	5	jump	jump 	0.97190994	4.859549701213837	5
+198	1 2 <==> 1 2	EQUI	5	Facebook earnings	Facebook profits 	0.8839001	4.419500529766083	4
+198	4 5 <==> 0	NOALI	NIL	63 %	-not aligned- 	0.0043657823	0.021828911267220974	0
+198	9 <==> 7	SIMI	2	accelerate	expands 	0.7567992	3.783996105194092	4
+199	1 2 3 <==> 1 2 3	EQUI	5	Rogers , Videotron	Rogers , Videotron 	0.96219915	4.8109957575798035	5
+199	5 <==> 4	EQUI	5	reach	reach 	0.97161645	4.8580822348594666	5
+199	4 <==> 0	NOALI	NIL	extend	-not aligned- 	0.0044152373	0.02207618672400713	0
+199	6 7 8 <==> 5 6 7 8	SPE2	4	with network-sharing deal	network-sharing , spectrum deal 	0.93273455	4.663672745227814	5
+200	1 2 3 <==> 0	ALIC	NIL	Bangladesh Islamist execution	-not aligned- 	0.0050555086	0.025277542881667614	0
+200	4 <==> 2	EQUI	5	upheld	executes 	0.87631464	4.38157320022583	4
+200	0 <==> 3 4	ALIC	NIL	-not aligned-	opposition leader 	0.004441429	0.022207144647836685	0
+200	0 <==> 1	ALIC	NIL	-not aligned-	Bangladesh 	0.0047296775	0.023648387286812067	0
+201	0 <==> 1	ALIC	NIL	-not aligned-	Italy 	0.0043864	0.02193199936300516	0
+201	0 <==> 2 3 4	NOALI	NIL	-not aligned-	to swear in 	0.004393963	0.021969815716147423	0
+201	3 4 5 6 <==> 5 6 7	SPE2	4	on new Italian government	new coalition government 	0.8434686	4.217343032360077	4
+201	1 <==> 0	NOALI	NIL	Deal	-not aligned- 	0.004331971	0.021659855265170336	0
+201	2 <==> 0	NOALI	NIL	reached	-not aligned- 	0.004336008	0.02168003935366869	0
+202	5 <==> 5	EQUI	5	declared	Named 	0.7326464	3.6632320284843445	4
+202	6 7 <==> 6 7 8	EQUI	5	tallest building	Tallest US Building 	0.9327983	4.663991630077362	5
+202	8 9 <==> 0	ALIC	NIL	in U.S.	-not aligned- 	0.0044827377	0.022413688711822033	0
+202	1 2 3 4 <==> 1 2 3 4	SPE1	4	New World Trade Center	One World Trade Center 	0.9243801	4.6219006180763245	5
+203	0 <==> 6 7 8	NOALI	NIL	-not aligned-	in Hacking Case 	0.004541772	0.022708859760314226	0
+203	1 2 <==> 1 2	EQUI	5	Piers Morgan	Piers Morgan 	0.9652592	4.826295971870422	5
+203	4 5 <==> 4 5	EQUI	5	by police	by Police 	0.972764	4.8638200759887695	5
+203	3 <==> 3	EQUI	5	questioned	Interviewed 	0.8653532	4.326766133308411	4
+204	0 <==> 1	NOALI	NIL	-not aligned-	Egypt 	0.004428826	0.022144129034131765	0
+204	0 <==> 2	NOALI	NIL	-not aligned-	: 	0.0042981775	0.021490887738764286	0
+204	1 2 <==> 3 4	EQUI	5	Egypt Crackdown	Egypt crackdown 	0.9663934	4.831967055797577	5
+204	4 <==> 6 7	SPE2	3	Condemnation	global outrage 	0.82424384	4.121219217777252	4
+204	3 <==> 5	EQUI	5	Draws	sparks 	0.9207926	4.6039628982543945	5
+205	4 5 6 <==> 4 5 6 7 8	SPE2	4	reach wealth-sharing deal	reach ` wealth deal ' 	0.9264018	4.632008969783783	5
+205	1 2 3 <==> 1 2 3	EQUI	5	Philippines , rebels	Philippines and rebels 	0.95924765	4.7962382435798645	5
+206	4 5 6 7 <==> 6 7 8 9	EQUI	5	from four NA seats	from four NA seats 	0.9634302	4.817151129245758	5
+206	0 <==> 5	NOALI	NIL	-not aligned-	elections 	0.004559709	0.022798546124249697	0
+206	2 3 <==> 3 4	EQUI	5	to contest	to contest 	0.9750234	4.875116944313049	5
+206	1 <==> 1 2	SPE2	4	Imran	Imran Khan 	0.9242915	4.621457457542419	5
+207	1 2 3 <==> 1 2	SPE1	4	Pro-Pak Taliban warlord	Taliban commander 	0.77571315	3.878565728664398	4
+207	5 6 7 8 <==> 4 5 6 7	EQUI	5	in US drone strike	in US drone strike 	0.96849334	4.842466711997986	5
+207	4 <==> 3	EQUI	5	killed	killed 	0.97456217	4.8728108406066895	5
+208	1 2 <==> 1 2	EQUI	5	Car bomb	Car bomb 	0.9741495	4.870747625827789	5
+208	5 6 7 <==> 3 4 5	SPE1	4	in northwest Syria	in northern Syria 	0.94126886	4.706344306468964	5
+208	3 <==> 6	EQUI	5	kills	kills 	0.97505873	4.875293672084808	5
+208	4 <==> 7	EQUI	5	20	20 	0.96944493	4.847224652767181	5
+209	1 2 <==> 4 5	SPE2	3	Five foreigners	amid 5 	0.74633443	3.731672167778015	4
+209	6 7 8 <==> 8 9 10	EQUI	5	for drug smuggling	for drug smuggling 	0.9709089	4.854544401168823	5
+209	9 10 <==> 1	EQUI	5	in Egypt	Egypt 	0.94163215	4.708160758018494	5
+209	0 <==> 3	ALIC	NIL	-not aligned-	Pakistani 	0.004441509	0.02220754511654377	0
+209	3 <==> 2	EQUI	5	sentenced	sentences 	0.9701085	4.8505425453186035	5
+209	4 5 <==> 6 7	EQUI	5	to death	to death 	0.97214276	4.8607137799263	5
+210	2 <==> 2	EQUI	5	votes	vote 	0.9739241	4.869620501995087	5
+210	1 <==> 1	EQUI	5	Egypt	Egyptians 	0.91961336	4.598066806793213	5
+210	3 4 5 <==> 3 4 5	SPE2	4	on new constitution	on divisive constitution 	0.9461432	4.730716049671173	5
+211	2 3 <==> 4 5	EQUI	5	who battled	who battled 	0.96889395	4.844469726085663	5
+211	1 <==> 1 2 3	SPE2	3	Man	Former plant chief 	0.6433786	3.2168930768966675	3
+211	6 <==> 8	EQUI	5	dies	dies 	0.972062	4.860309958457947	5
+211	4 5 <==> 6 7	EQUI	5	Fukushima disaster	Fukushima disaster 	0.96396184	4.819809198379517	5
+211	7 8 <==> 9 10	EQUI	5	of cancer	of cancer 	0.97126234	4.856311678886414	5
+212	1 2 <==> 1 2	SIMI	4	Nigeria lawmaker	Nigerian MP 	0.68096346	3.404817283153534	3
+212	4 5 6 <==> 6 7 8	SPE2	3	over alleged bribery	$ 3m bribe 	0.81156653	4.057832658290863	4
+212	3 <==> 3	EQUI	5	charged	charged 	0.9751789	4.875894486904144	5
+212	0 <==> 4 5	ALIC	NIL	-not aligned-	with accepting 	0.004399601	0.021998004522174597	0
+213	0 <==> 4	ALIC	NIL	-not aligned-	statement 	0.004338994	0.021694970782846212	0
+213	3 4 <==> 2 3	EQUI	5	to speak	to deliver 	0.84234315	4.211715757846832	4
+213	5 6 <==> 5 6	EQUI	5	on Syria	on Syria 	0.9712087	4.856043457984924	5
+213	2 <==> 0	NOALI	NIL	set	-not aligned- 	0.0043407413	0.021703706588596106	0
+213	7 8 9 <==> 7 8 9	EQUI	5	from White House	at White House 	0.95806617	4.7903308272361755	5
+213	10 11 12 13 <==> 10 11 12	SPE1	4	at 1:15 p.m. EDT	at 1:15 PM 	0.93539214	4.676960706710815	5
+213	1 <==> 1	EQUI	5	Obama	Obama 	0.97585505	4.879275262355804	5
+214	1 2 3 4 <==> 1 2 3 4	SPE1	4	New World Trade Centre	One World Trade Center 	0.9198361	4.599180519580841	5
+214	7 8 <==> 0	ALIC	NIL	in US	-not aligned- 	0.004354678	0.021773390471935272	0
+214	0 <==> 5	NOALI	NIL	-not aligned-	Named 	0.004365548	0.021827740129083395	0
+214	5 6 <==> 6 7 8	EQUI	5	tallest building	Tallest US Building 	0.9327983	4.663991630077362	5
+215	5 6 7 <==> 5 6 7	EQUI	5	shattered Pak region	shattered Pakistan region 	0.9610921	4.805460572242737	5
+215	1 2 3 <==> 1 2 3	EQUI	5	Strong new quake	Powerful new earthquake 	0.90365815	4.518290758132935	5
+215	4 <==> 4	EQUI	5	hits	hits 	0.9754063	4.877031445503235	5
+216	1 2 3 4 <==> 1 2 3 4 5	EQUI	5	Fashion designer Lilly Pulitzer	Designer , Socialite Lilly Pulitzer 	0.86918277	4.345913827419281	4
+216	5 <==> 6	EQUI	5	dies	Dies 	0.9620479	4.810239374637604	5
+216	0 <==> 7 8	NOALI	NIL	-not aligned-	at 81 	0.0043865205	0.021932602394372225	0
+217	0 <==> 7 8 9	ALIC	NIL	-not aligned-	with fuel truck 	0.0044361083	0.022180541418492794	0
+217	3 4 5 6 <==> 6	SPE2	4	in Indonesia train accident	collides 	0.7166139	3.5830694437026978	4
+217	0 <==> 3 4 5	ALIC	NIL	-not aligned-	as Indonesia train 	0.0044733337	0.022366668563336134	0
+217	1 2 <==> 1 2	SIMI	4	Four dead	Five dead 	0.9690225	4.845112562179565	5
+218	1 2 3 <==> 1 2 3	EQUI	5	Miss New York	Miss New York 	0.9734019	4.867009520530701	5
+218	5 6 7 <==> 6 7	EQUI	5	Miss America crown	Miss America 	0.95429	4.771449863910675	5
+218	4 <==> 4 5	EQUI	5	wins	is crowned 	0.8466211	4.233105480670929	4
+219	1 <==> 1 2	SPE2	4	Austrian	Austrian man 	0.92054117	4.6027058362960815	5
+219	2 <==> 3	SPE2	2	found	charged 	0.8307713	4.153856635093689	4
+219	7 8 9 <==> 10 11 12	SPE1	4	in home museum	at his home 	0.82522535	4.126126766204834	4
+219	3 <==> 8 9	REL	3	hoarding	are found 	0.69417053	3.4708526730537415	3
+219	4 5 6 <==> 4 5 6 7	EQUI	5	56 stolen skulls	after 56 human skulls 	0.9498496	4.749248027801514	5
+220	1 <==> 1	EQUI	5	Thousands	Thousands 	0.9731496	4.8657479882240295	5
+220	3 4 <==> 3 4	EQUI	5	gay marriage	gay marriage 	0.97014636	4.850731790065765	5
+220	2 <==> 2	EQUI	5	protest	protest 	0.9747508	4.87375408411026	5
+220	0 <==> 5 6	NOALI	NIL	-not aligned-	in France 	0.0044845254	0.022422627080231905	0
+221	0 <==> 6	ALIC	NIL	-not aligned-	operation 	0.0043644435	0.021822217386215925	0
+221	8 <==> 5	EQUI	5	Opens	begins 	0.8387687	4.193843603134155	4
+221	2 3 4 5 6 7 <==> 1 2 3 4	SPE1	4	's 1st Pilot Free Trade Zone	Shanghai Free Trade Zone 	0.8479359	4.239679574966431	4
+221	1 <==> 0	ALIC	NIL	China	-not aligned- 	0.0043852148	0.02192607382312417	0
+222	8 <==> 5	SPE1	4	kills	Hits 	0.88553643	4.427682161331177	4
+222	9 <==> 0	NOALI	NIL	17	-not aligned- 	0.004327042	0.021635210141539574	0
+222	1 2 3 <==> 1 2 3 4	EQUI	5	Gas cylinder blast	Deadly Gas Cylinder Blast 	0.85075986	4.253799319267273	4
+222	4 5 6 7 <==> 6 7 8	EQUI	5	on Pakistan school bus	Pakistan School Bus 	0.9318458	4.6592289209365845	5
+223	1 <==> 1	EQUI	5	Protests	Protests 	0.97644925	4.882246255874634	5
+223	4 5 <==> 5 6	SIMI	4	despite concession	despite concessions 	0.9742828	4.871414005756378	5
+223	3 <==> 3 4	EQUI	5	Brazil	across Brazil 	0.9257065	4.628532528877258	5
+223	2 <==> 2	REL	2	sweep	planned 	0.8971292	4.485645890235901	4
+224	4 <==> 4	SIMI	4	Start	set 	0.85849	4.292449951171875	4
+224	6 7 8 <==> 7 8 9	EQUI	5	Joint Factory Zone	joint factory zone 	0.9526263	4.7631314396858215	5
+224	5 <==> 5 6	EQUI	5	Leaving	to leave 	0.9583326	4.7916629910469055	5
+224	1 2 3 <==> 1 2 3	EQUI	5	South Korean Workers	South Korean workers 	0.9575828	4.7879138588905334	5
+225	1 <==> 2 3	EQUI	5	Guatemala	in Guatemala 	0.9465963	4.732981622219086	5
+225	3 4 5 6 <==> 5 6 7	EQUI	5	software guru John McAfee	software guru McAfee 	0.9612493	4.8062464594841	5
+225	0 <==> 9	NOALI	NIL	-not aligned-	deportation 	0.0046366057	0.023183028679341078	0
+225	2 <==> 1	EQUI	5	arrests	Held 	0.6850773	3.4253865480422974	3
+225	0 <==> 8	NOALI	NIL	-not aligned-	fights 	0.004325908	0.021629540715366602	0
+225	0 <==> 4	NOALI	NIL	-not aligned-	, 	0.0043400736	0.02170036779716611	0
+226	1 <==> 1	EQUI	5	Obama	Obama 	0.97585505	4.879275262355804	5
+226	2 <==> 2	EQUI	5	travels	visits 	0.91719747	4.585987329483032	5
+226	3 4 5 <==> 3 4 5	EQUI	5	to tornado-ravaged Oklahoma	tornado hit Oklahoma 	0.87846667	4.3923333287239075	4
+227	0 <==> 7 8	ALIC	NIL	-not aligned-	after clashes 	0.004446471	0.022232355549931526	0
+227	3 4 5 6 7 <==> 3 4 5 6	EQUI	5	in Central African Republic fighting	in Central African Republic 	0.9670934	4.835467040538788	5
+227	1 2 <==> 1 2	SPE2	3	Dozens dead	98 dead 	0.9460037	4.730018377304077	5
+228	4 <==> 1 2	SIMI	4	Fitch	Moody 's 	0.56622624	2.8311312198638916	3
+228	6 7 8 <==> 4 5 6	EQUI	5	Greek credit rating	Greek credit rating 	0.9292584	4.64629203081131	5
+228	2 <==> 0	NOALI	NIL	Ticker	-not aligned- 	0.004332954	0.02166477032005787	0
+228	1 <==> 0	NOALI	NIL	-LRB-	-not aligned- 	0.00446553	0.02232765080407262	0
+228	3 <==> 0	NOALI	NIL	-RRB-	-not aligned- 	0.004715052	0.02357525983825326	0
+228	5 <==> 3	EQUI	5	upgrades	upgrades 	0.9724345	4.862172603607178	5
+229	0 <==> 3	NOALI	NIL	-not aligned-	Nishikori 	0.004681056	0.023405279498547316	0
+229	3 4 5 6 <==> 6 7 8 9	EQUI	5	into Australian Open quarter-finals	to Australian Open quarterfinals 	0.96731424	4.836571216583252	5
+229	1 <==> 1	EQUI	5	Ferrer	Ferrer 	0.97367686	4.868384301662445	5
+229	0 <==> 2	NOALI	NIL	-not aligned-	beats 	0.004404274	0.022021369077265263	0
+229	2 <==> 4 5	SIMI	4	cruises	to advance 	0.80452174	4.022608697414398	4
+230	4 5 <==> 4 5	EQUI	5	sworn in	sworn in 	0.9666835	4.833417534828186	5
+230	1 2 3 <==> 1 2 3	EQUI	5	Top judge Mansour	Justice Adly Mansour 	0.85988295	4.299414753913879	4
+230	6 7 8 9 <==> 6 7 8 9	EQUI	5	as Egypt interim president	as Egypt interim president 	0.96774197	4.838709831237793	5
+231	0 <==> 1	ALIC	NIL	-not aligned-	Kenya 	0.004502471	0.022512355353683233	0
+231	0 <==> 2	NOALI	NIL	-not aligned-	: 	0.0042981775	0.021490887738764286	0
+231	4 5 6 7 8 <==> 3	SPE1	1	key Al-Shabaab recruiter , financier	Pair 	0.5542449	2.7712243795394897	3
+231	3 <==> 4	EQUI	5	arrest	Arrested 	0.9624299	4.812149405479431	5
+231	1 2 <==> 5 6 7	SPE2	4	Kenyan police	By Anti-Terror Police 	0.7446958	3.72347891330719	4
+232	8 9 <==> 8	EQUI	5	two people	2 	0.75656676	3.7828338146209717	4
+232	3 4 5 6 <==> 3 4 5 6	SPE2	4	at Greek shopping mall	at Athens shopping mall 	0.9643363	4.821681380271912	5
+232	10 <==> 9	EQUI	5	injured	wounded 	0.7901335	3.950667381286621	4
+232	1 <==> 1	EQUI	5	Bomb	Bomb 	0.9760482	4.880240857601166	5
+232	7 <==> 0	NOALI	NIL	,	-not aligned- 	0.004336292	0.02168145962059498	0
+232	0 <==> 7	NOALI	NIL	-not aligned-	, 	0.0043400736	0.02170036779716611	0
+232	2 <==> 2	EQUI	5	explodes	explodes 	0.9779979	4.889989495277405	5
+233	1 2 <==> 1 2	EQUI	5	Three dead	3 dead 	0.97077245	4.853862226009369	5
+233	3 <==> 0	NOALI	NIL	,	-not aligned- 	0.004336292	0.02168145962059498	0
+233	7 8 9 10 <==> 3 4 5 6	EQUI	5	in Maryland mall shooting	in Maryland mall shooting 	0.9652065	4.826032519340515	5
+233	5 <==> 0	NOALI	NIL	gunman	-not aligned- 	0.0043435534	0.021717767231166363	0
+233	4 <==> 0	NOALI	NIL	including	-not aligned- 	0.004360562	0.021802810952067375	0
+233	6 <==> 0	NOALI	NIL	,	-not aligned- 	0.004336292	0.02168145962059498	0
+234	2 <==> 2	EQUI	5	killed	killed 	0.97456217	4.8728108406066895	5
+234	0 <==> 5	NOALI	NIL	-not aligned-	â 	0.0043717306	0.02185865305364132	0
+234	1 <==> 1	SIMI	4	7	6 	0.9198695	4.599347412586212	5
+234	0 <==> 3 4	NOALI	NIL	-not aligned-	in Mexico 	0.00446297	0.02231484977528453	0
+234	3 4 5 6 <==> 0	NOALI	NIL	in monster truck crash	-not aligned- 	0.004578295	0.022891475819051266	0
+235	2 <==> 2	REL	3	Vies	Wins 	0.926963	4.6348148584365845	5
+235	3 4 <==> 0	NOALI	NIL	3rd Term	-not aligned- 	0.004423073	0.022115365136414766	0
+235	0 <==> 3	NOALI	NIL	-not aligned-	Big 	0.0043353494	0.021676747128367424	0
+235	7 8 9 <==> 4 5 6	EQUI	5	in Germany Elections	in Germany Election 	0.96897	4.84485000371933	5
+235	1 <==> 1	EQUI	5	Merkel	Merkel 	0.9720305	4.86015260219574	5
+235	5 6 <==> 0	NOALI	NIL	in Office	-not aligned- 	0.0043315412	0.02165770623832941	0
+236	9 10 11 <==> 7 8 9	EQUI	5	for banned substance	for banned substance 	0.96966904	4.848345220088959	5
+236	1 2 3 4 5 6 <==> 1 2 3 4	SIMI	3	Sprinters Tyson Gay and Asafa Powell	US sprinter Tyson Gay 	0.8890741	4.445370435714722	4
+236	7 <==> 5	EQUI	5	test	tests 	0.9751408	4.875704050064087	5
+236	8 <==> 6	EQUI	5	positive	positive 	0.97059256	4.852962791919708	5
+237	1 2 <==> 1 2	EQUI	5	Egypt court	Egypt court 	0.9703564	4.851782023906708	5
+237	4 <==> 5	EQUI	5	release	freed 	0.8665962	4.332981109619141	4
+237	5 6 <==> 4	EQUI	5	of Mubarak	Mubarak 	0.94880456	4.744022786617279	5
+237	3 <==> 3	EQUI	5	orders	orders 	0.9744261	4.872130453586578	5
+238	4 5 6 7 <==> 5 6 7	EQUI	5	higher car insurance premiums	insurance premium rise 	0.88243407	4.412170350551605	4
+238	1 <==> 1 2	EQUI	5	Women	Women drivers 	0.938173	4.690864980220795	5
+238	2 3 <==> 3 4	EQUI	5	to face	to face 	0.95348936	4.76744681596756	5
+239	8 9 10 <==> 9 10 11	EQUI	5	since Rowhani election	since Rohani election 	0.9610439	4.80521947145462	5
+239	1 2 3 4 <==> 1 2 3	EQUI	5	Iran , atomic agency	IAEA , Iran 	0.78547966	3.9273983240127563	4
+239	0 <==> 4 5	NOALI	NIL	-not aligned-	to hold 	0.004302343	0.021511714439839125	0
+239	5 6 7 <==> 6 7 8	SPE2	4	in first talks	first nuclear talks 	0.9348954	4.674476981163025	5
+240	4 <==> 4 5	EQUI	5	Hit	shot at 	0.87420964	4.371048212051392	4
+240	1 2 3 <==> 1 2 3	EQUI	5	US Military Aircraft	US military aircraft 	0.9519501	4.7597503662109375	5
+240	8 <==> 0	NOALI	NIL	,	-not aligned- 	0.004336292	0.02168145962059498	0
+240	0 <==> 6 7 8	NOALI	NIL	-not aligned-	during evacuation mission 	0.004395134	0.02197566907852888	0
+240	10 <==> 0	NOALI	NIL	Wounded	-not aligned- 	0.004422233	0.02211116487160325	0
+240	5 6 7 <==> 9 10 11	EQUI	5	in S. Sudan	in South Sudan 	0.94395703	4.719785153865814	5
+240	9 <==> 0	NOALI	NIL	4	-not aligned- 	0.004300174	0.021500869188457727	0
+241	9 10 <==> 11 12 13	SPE2	4	for rape	for gang rape 	0.96003264	4.800163209438324	5
+241	3 4 <==> 1	EQUI	5	's son	Son 	0.95609814	4.780490696430206	5
+241	1 2 <==> 2 3 4 5	REL	2	Chinese general	of Chinese army singers 	0.5172275	2.586137354373932	3
+241	5 <==> 6	EQUI	5	gets	gets 	0.97490114	4.874505698680878	5
+241	0 <==> 9 10	ALIC	NIL	-not aligned-	' jail 	0.0043551	0.021775499917566776	0
+241	6 7 8 <==> 7 8	EQUI	5	10 years jail	10 years 	0.96005046	4.800252318382263	5
+242	1 2 <==> 0	ALIC	NIL	In Pakistan	-not aligned- 	0.004372669	0.021863344591110945	0
+242	8 9 10 <==> 6 7 8	EQUI	5	the other Taliban	the other Taleban 	0.92112094	4.605604708194733	5
+242	4 <==> 1 2	EQUI	5	army	Pak army 	0.7428271	3.7141355872154236	4
+242	6 7 <==> 4 5	EQUI	5	on fighting	on fighting 	0.97334856	4.866742789745331	5
+242	3 <==> 0	NOALI	NIL	,	-not aligned- 	0.004336292	0.02168145962059498	0
+242	5 <==> 3	EQUI	5	adamant	adamant 	0.9736838	4.868418872356415	5
+243	3 <==> 3	EQUI	5	Slams	slams 	0.978017	4.890084862709045	5
+243	1 2 <==> 1 2	EQUI	5	Israeli Minister	Israeli minister 	0.965496	4.8274800181388855	5
+243	5 6 7 <==> 5 6 7	EQUI	5	's Boycott Warning	's boycott warning 	0.9304644	4.652321934700012	5
+243	4 <==> 4	EQUI	5	Kerry	Kerry 	0.9733392	4.866696000099182	5
+244	1 <==> 0	ALIC	NIL	Myanmar	-not aligned- 	0.004507064	0.022535319440066814	0
+244	6 7 <==> 4 5	EQUI	5	party unity	party unity 	0.9755106	4.8775529861450195	5
+244	2 3 4 <==> 1 2	SPE1	4	's Suu Kyi	Suu Kyi 	0.952264	4.761320054531097	5
+244	5 <==> 3	EQUI	5	urges	urges 	0.97325057	4.866252839565277	5
+244	8 9 <==> 6 7	EQUI	5	amid squabbles	amid squabbles 	0.9716277	4.858138561248779	5
+245	0 <==> 3	NOALI	NIL	-not aligned-	, 	0.0043400717	0.021700358483940363	0
+245	4 5 <==> 4 5	EQUI	5	defense contractors	defense firms 	0.9572839	4.786419570446014	5
+245	7 <==> 0	ALIC	NIL	harm	-not aligned- 	0.004317565	0.021587824448943138	0
+245	1 2 <==> 1 2	EQUI	5	White House	White House 	0.9712592	4.856295883655548	5
+245	8 9 10 11 <==> 7 8 9	SPE1	4	of automatic spending cuts	automatic spending cuts 	0.9668033	4.834016561508179	5
+245	6 <==> 6	EQUI	5	discuss	discuss 	0.975778	4.8788899183273315	5
+245	3 <==> 0	NOALI	NIL	,	-not aligned- 	0.004336292	0.02168145962059498	0
+246	1 2 3 <==> 2 3 4 5	SPE2	4	Former Zambian president	's ex-President Rupiah Banda 	0.80865824	4.043291211128235	4
+246	0 <==> 1	ALIC	NIL	-not aligned-	Zambia 	0.004699146	0.02349572954699397	0
+246	4 <==> 6	EQUI	5	arrested	arrested 	0.9747795	4.873897433280945	5
+247	4 5 <==> 0	NOALI	NIL	after string	-not aligned- 	0.0044450234	0.022225116845220327	0
+247	3 <==> 3	SIMI	4	rally	up 	0.87710047	4.385502338409424	4
+247	6 7 8 <==> 4 5 6 7 8	SPE2	3	of upbeat data	on Strong US Jobs Data 	0.7328485	3.6642426252365112	4
+247	1 2 <==> 1 2	EQUI	5	Asian shares	Asian Markets 	0.86682516	4.334125816822052	4
+248	1 <==> 0	ALIC	NIL	Faction	-not aligned- 	0.0043041264	0.021520631853491068	0
+248	2 <==> 3	REL	3	Names	becomes 	0.9481998	4.7409990429878235	5
+248	5 6 7 <==> 4 5 6	EQUI	5	APGA National Leader	APGA national leader 	0.955686	4.778429865837097	5
+248	3 4 <==> 1 2	EQUI	5	Bianca Ojukwu	Bianca Ojukwu 	0.9382344	4.691171944141388	5
+249	6 <==> 6	EQUI	5	kills	kills 	0.97505873	4.875293672084808	5
+249	7 8 <==> 7 8 9	SPE1	3	47 people	at least 75 	0.6169585	3.0847924947738647	3
+249	1 2 <==> 1 2	EQUI	5	Strong earthquake	Strong earthquake 	0.96642226	4.832111299037933	5
+249	3 4 5 <==> 3 4 5	EQUI	5	in western China	in western China 	0.96473634	4.823681712150574	5
+250	2 <==> 2	EQUI	5	thanks	thanks 	0.9738548	4.869273900985718	5
+250	1 <==> 1	EQUI	5	Snowden	Snowden 	0.96798754	4.839937686920166	5
+250	3 <==> 3	EQUI	5	Russia	Russia 	0.9742964	4.871481955051422	5
+250	4 5 <==> 4 5	EQUI	5	for asylum	for granting 	0.93649477	4.682473838329315	5
+250	0 <==> 6	ALIC	NIL	-not aligned-	asylum 	0.004465547	0.022327734623104334	0
+251	3 <==> 3	EQUI	5	take	seize 	0.90928304	4.546415209770203	5
+251	1 2 <==> 1 2	EQUI	5	French forces	French forces 	0.97091043	4.854552149772644	5
+251	4 5 6 <==> 4 5	SPE1	4	key Mali town	key town 	0.9628884	4.8144420981407166	5
+252	4 <==> 2	EQUI	5	leaves	leaves 	0.9738767	4.8693835735321045	5
+252	1 <==> 0	ALIC	NIL	Pakistan	-not aligned- 	0.0043704645	0.02185232238844037	0
+252	5 <==> 3 4	SPE2	4	hospital	British hospital 	0.92446524	4.622326195240021	5
+252	8 <==> 0	NOALI	NIL	surgery	-not aligned- 	0.004425986	0.022129931021481752	0
+252	2 3 <==> 1	EQUI	5	's Malala	Malala 	0.9644108	4.822053909301758	5
+252	6 7 <==> 0	NOALI	NIL	to await	-not aligned- 	0.004358546	0.021792729385197163	0
+253	7 8 9 <==> 0	ALIC	NIL	at essex hotel	-not aligned- 	0.0045976504	0.022988251876085997	0
+253	1 <==> 1 2 3	SPE2	4	two	Man and woman 	0.773691	3.8684549927711487	4
+253	2 <==> 4	EQUI	5	found	found 	0.974039	4.870195090770721	5
+253	3 <==> 5	EQUI	5	dead	dead 	0.9726408	4.863204061985016	5
+253	4 5 6 <==> 6 7 8 9 10	EQUI	5	in swimming pool	in Essex hotel swimming pool 	0.9320108	4.6600541472435	5
+254	3 4 5 <==> 3 4 5	EQUI	5	US drone strike	US drone strike 	0.96481097	4.824054837226868	5
+254	1 <==> 1	EQUI	5	Pakistan	Pakistan 	0.9701993	4.850996434688568	5
+254	2 <==> 2	EQUI	5	condemns	condemns 	0.97453916	4.872695803642273	5
+254	6 7 8 <==> 6 7	SPE1	4	in Shawal Area	in Miranshah 	0.7217019	3.608509600162506	4
+255	6 <==> 4	EQUI	5	charges	charges 	0.97507054	4.875352680683136	5
+255	2 3 <==> 1	EQUI	5	's Ahmadinejad	Ahmadinejad 	0.9200874	4.600436985492706	5
+255	1 <==> 0	ALIC	NIL	Iran	-not aligned- 	0.0044690208	0.022345103789120913	0
+255	4 5 <==> 2 3	EQUI	5	may face	may face 	0.9683202	4.841600954532623	5
+255	10 11 <==> 0	NOALI	NIL	with aide	-not aligned- 	0.004403812	0.022019059397280216	0
+255	7 8 9 <==> 5 6 7	EQUI	5	over election appearance	over election appearance 	0.9721825	4.860912561416626	5
+256	0 <==> 5	NOALI	NIL	-not aligned-	, 	0.0043400717	0.021700358483940363	0
+256	5 <==> 4	EQUI	5	up	higher 	0.90079826	4.5039913058280945	5
+256	6 <==> 0	NOALI	NIL	ahead	-not aligned- 	0.0044229343	0.022114671301096678	0
+256	7 8 9 <==> 0	NOALI	NIL	of jobs report	-not aligned- 	0.0044601317	0.022300658747553825	0
+256	1 2 3 <==> 1 2	SPE1	4	US stock futures	Stock futures 	0.9166896	4.583447873592377	5
+256	0 <==> 6 7	NOALI	NIL	-not aligned-	all eyes 	0.0044767875	0.02238393761217594	0
+256	0 <==> 8 9	NOALI	NIL	-not aligned-	on Fed 	0.0044042864	0.02202143194153905	0
+256	4 <==> 3	EQUI	5	edge	edge 	0.96929127	4.846456348896027	5
+257	3 <==> 3 4	SPE2	4	sanctions	diamond sanctions 	0.96108824	4.805441200733185	5
+257	1 <==> 1	EQUI	5	EU	EU 	0.9730243	4.86512154340744	5
+257	4 5 <==> 5 6	EQUI	5	against Zimbabwe	against Zimbabwe 	0.9713576	4.856787919998169	5
+257	2 <==> 2	SPE1	4	renews	lifts 	0.85490584	4.274529218673706	4
+258	2 3 <==> 2 3	EQUI	5	reach agreement	reach agreement 	0.9742475	4.871237576007843	5
+258	4 5 <==> 4 5 6	SPE2	4	on Syria	on Syria weapons 	0.93886787	4.694339334964752	5
+258	1 <==> 1	EQUI	5	US-Russia	US-Russia 	0.96956563	4.847828149795532	5
+259	1 <==> 1	EQUI	5	Obama	Obama 	0.97585505	4.879275262355804	5
+259	3 4 <==> 3	EQUI	5	Moscow meeting	meeting 	0.96026313	4.801315665245056	5
+259	2 <==> 2	EQUI	5	cancels	canceled 	0.9413601	4.706800580024719	5
+259	5 6 <==> 4 5	EQUI	5	with Putin	with Putin 	0.97535366	4.8767682909965515	5
+260	6 <==> 0	NOALI	NIL	'	-not aligned- 	0.004316036	0.02158018061891198	0
+260	2 <==> 0	NOALI	NIL	`	-not aligned- 	0.0043349415	0.021674707531929016	0
+260	4 5 <==> 6 7	EQUI	5	legal action	legal action 	0.97720736	4.886036813259125	5
+260	3 <==> 5	EQUI	5	threatens	threatens 	0.9759932	4.879966080188751	5
+260	7 8 9 <==> 8 9 10	SIMI	4	after affair allegations	over affair claims 	0.9155907	4.577953517436981	5
+260	1 <==> 1 2 3 4	EQUI	5	Hollande	FranÃ § ois Hollande 	0.8448915	4.2244574427604675	4
+261	4 5 <==> 1 2	EQUI	5	Sri Lanka	Sri Lanka 	0.95979154	4.798957705497742	5
+261	8 9 10 11 <==> 4 5 6 7	EQUI	5	over war crime allegations	over war crime allegations 	0.96183264	4.809163212776184	5
+261	1 2 <==> 0	NOALI	NIL	David Cameron	-not aligned- 	0.0043547363	0.02177368151023984	0
+261	3 <==> 3	EQUI	5	puts	warned 	0.79884	3.9941999316215515	4
+261	6 7 <==> 0	ALIC	NIL	on notice	-not aligned- 	0.0044459477	0.022229738533496857	0
+262	3 <==> 2	EQUI	5	prays	prays 	0.97761494	4.888074696063995	5
+262	4 5 <==> 3 4	EQUI	5	for metro	for metro 	0.97227037	4.861351847648621	5
+262	1 2 <==> 1	EQUI	5	Indonesian capital	Jakarta 	0.7212544	3.606272041797638	4
+262	6 7 <==> 5 6	EQUI	5	to ease	to ease 	0.97123766	4.8561882972717285	5
+262	8 9 <==> 7 8	EQUI	5	traffic chaos	traffic chaos 	0.9721142	4.860571026802063	5
+263	3 <==> 3	SPE1	3	Wounds	rocks 	0.86341476	4.317073822021484	4
+263	5 6 7 <==> 4 5	EQUI	5	in Hezbollah Stronghold	Hezbollah stronghold 	0.9434833	4.71741646528244	5
+263	4 <==> 0	ALIC	NIL	15	-not aligned- 	0.0043063588	0.021531793754547834	0
+263	1 2 <==> 1 2	EQUI	5	Car Bomb	Car bomb 	0.97242254	4.8621127009391785	5
+263	8 9 <==> 6 7	EQUI	5	in Lebanon	in Lebanon 	0.97305703	4.865285158157349	5
+264	9 10 11 <==> 1 2 3 4 5	EQUI	5	after Hakimullah Mehsud	Pakistani Taliban chief Hakimullah Mehsud 	0.8586082	4.293040931224823	4
+264	4 5 6 7 8 <==> 0	ALIC	NIL	as new Pakistani Taliban leader	-not aligned- 	0.0045907376	0.02295368816703558	0
+264	13 14 15 <==> 7 8 9	EQUI	5	in drone strike	in drone strike 	0.96810293	4.840514659881592	5
+264	1 2 <==> 0	NOALI	NIL	Khan Said	-not aligned- 	0.0044490537	0.02224526833742857	0
+264	12 <==> 6	EQUI	5	killed	killed 	0.97456217	4.8728108406066895	5
+264	3 <==> 0	NOALI	NIL	named	-not aligned- 	0.00431661	0.021583049092441797	0
+265	2 <==> 2	EQUI	5	releases	releases 	0.9732867	4.8664334416389465	5
+265	1 <==> 1	EQUI	5	Pakistan	Pakistan 	0.9701993	4.850996434688568	5
+265	3 4 5 6 <==> 3 4 5 6	SPE1	3	top Afghan Taliban prisoner	seven Afghan Taliban fighters 	0.7317915	3.6589574813842773	4
+266	0 <==> 5 6 7	NOALI	NIL	-not aligned-	at US embassy 	0.004472518	0.022362589370459318	0
+266	4 <==> 4	SPE2	1	9	guard 	0.79152006	3.9576002955436707	4
+266	3 <==> 3	EQUI	5	kills	kills 	0.97505873	4.875293672084808	5
+266	5 6 7 8 <==> 0	NOALI	NIL	at Pakistan political rally	-not aligned- 	0.0044789515	0.022394757252186537	0
+266	0 <==> 8 9	NOALI	NIL	-not aligned-	in Turkey 	0.004437987	0.022189936134964228	0
+266	1 2 <==> 1 2	EQUI	5	Suicide bomber	Suicide bomber 	0.97333175	4.8666587471961975	5
+267	2 <==> 0	NOALI	NIL	take	-not aligned- 	0.004334485	0.021672425791621208	0
+267	3 4 <==> 0	NOALI	NIL	a ride	-not aligned- 	0.0044114995	0.022057497408241034	0
+267	5 6 <==> 0	NOALI	NIL	on airwaves	-not aligned- 	0.0046590706	0.023295353166759014	0
+267	0 <==> 4 5	NOALI	NIL	-not aligned-	off Taiwan 	0.0043628565	0.0218142825178802	0
+267	0 <==> 3	NOALI	NIL	-not aligned-	hits 	0.0043987324	0.021993662230670452	0
+267	1 <==> 0	NOALI	NIL	Students	-not aligned- 	0.0043676584	0.02183829201385379	0
+267	0 <==> 1 2	NOALI	NIL	-not aligned-	5.5-magnitude quake 	0.004625587	0.023127933964133263	0
+268	5 <==> 5	EQUI	5	higher	higher 	0.9731068	4.865534007549286	5
+268	1 <==> 1	EQUI	5	Stocks	Stocks 	0.971245	4.856224954128265	5
+268	2 <==> 2	EQUI	5	close	close 	0.97300905	4.865045249462128	5
+268	3 4 <==> 3 4	SIMI	2	0.39 %	2.47 % 	0.8362267	4.181133508682251	4
+269	3 4 <==> 3 4 5	SIMI	1	one soldier	6 polio workers 	0.49565578	2.478278875350952	2
+269	6 <==> 0	NOALI	NIL	injure	-not aligned- 	0.0043892055	0.021946027409285307	0
+269	2 <==> 2	EQUI	5	kill	kill 	0.9762557	4.881278574466705	5
+269	5 <==> 0	NOALI	NIL	,	-not aligned- 	0.004336292	0.02168145962059498	0
+269	9 10 <==> 6 7	EQUI	5	in Pakistan	in Pakistan 	0.9679891	4.839945435523987	5
+269	7 8 <==> 0	NOALI	NIL	two others	-not aligned- 	0.004390714	0.021953571122139692	0
+269	1 <==> 1	EQUI	5	Gunmen	Gunmen 	0.9742842	4.871420860290527	5
+270	7 <==> 0	NOALI	NIL	begins	-not aligned- 	0.00432855	0.021642749197781086	0
+270	0 <==> 7 8	NOALI	NIL	-not aligned-	Could Prove 	0.0044189193	0.02209459664300084	0
+270	2 3 <==> 2 3	EQUI	5	of Syria	of Syria 	0.9731251	4.865625500679016	5
+270	4 5 6 <==> 4 5 6	EQUI	5	's chemical weapons	's Chemical Weapons 	0.9572292	4.786145985126495	5
+270	0 <==> 9	NOALI	NIL	-not aligned-	Difficult 	0.004413871	0.022069355472922325	0
+270	1 <==> 1	EQUI	5	Destruction	Destruction 	0.9748669	4.874334633350372	5
+271	2 <==> 0	NOALI	NIL	coming	-not aligned- 	0.00436096	0.02180479932576418	0
+271	4 5 <==> 0	NOALI	NIL	to listen	-not aligned- 	0.004328727	0.02164363395422697	0
+271	3 <==> 0	NOALI	NIL	`	-not aligned- 	0.0043349415	0.021674707531929016	0
+271	1 <==> 1	SIMI	3	Obama	Kerry 	0.8282647	4.141323566436768	4
+271	6 <==> 0	NOALI	NIL	'	-not aligned- 	0.004316036	0.02158018061891198	0
+271	0 <==> 3 4	NOALI	NIL	-not aligned-	Arab Plan 	0.004463093	0.022315464448183775	0
+271	7 8 9 10 <==> 5 6 7	REL	4	to Israel , Palestinians	for Israeli-Palestinian Talks 	0.7587045	3.7935224175453186	4
+271	0 <==> 2	NOALI	NIL	-not aligned-	Welcomes 	0.004509018	0.02254508901387453	0
+272	0 <==> 4	NOALI	NIL	-not aligned-	Work 	0.004362985	0.021814925130456686	0
+272	5 6 <==> 5 6 7 8 9 10 11	REL	3	chemical weapons	on ` Concrete ' Chemical Weapons Plan 	0.6785057	3.3925285935401917	3
+272	1 <==> 1 2 3	SPE2	3	Syria	Russia , Syria 	0.93921244	4.696062207221985	5
+272	2 <==> 0	NOALI	NIL	`	-not aligned- 	0.0043349415	0.021674707531929016	0
+272	7 <==> 0	NOALI	NIL	and	-not aligned- 	0.0043715793	0.021857896354049444	0
+272	8 <==> 0	NOALI	NIL	sign	-not aligned- 	0.0043250453	0.021625226363539696	0
+272	10 <==> 0	NOALI	NIL	'	-not aligned- 	0.004316036	0.02158018061891198	0
+272	3 4 <==> 0	NOALI	NIL	to declare	-not aligned- 	0.004336774	0.021683869417756796	0
+272	9 <==> 0	NOALI	NIL	convention	-not aligned- 	0.0043753805	0.02187690231949091	0
+273	1 2 3 4 5 <==> 2 3 4 5	SIMI	2	Italian Prime Minister Mario Monti	Palestinian Prime Minister Fayyad 	0.7718035	3.859017491340637	4
+273	6 <==> 6	EQUI	5	Resigns	resigns 	0.97474664	4.873733222484589	5
+273	0 <==> 7	NOALI	NIL	-not aligned-	' 	0.004307438	0.02153719076886773	0
+273	0 <==> 1	NOALI	NIL	-not aligned-	` 	0.0043451353	0.021725676488131285	0
+274	0 <==> 1	NOALI	NIL	-not aligned-	Oh 	0.0043324134	0.021662067156285048	0
+274	0 <==> 7	NOALI	NIL	-not aligned-	â 	0.0043717306	0.02185865305364132	0
+274	5 6 <==> 0	NOALI	NIL	for Christmas	-not aligned- 	0.004379579	0.021897894330322742	0
+274	0 <==> 3 4	NOALI	NIL	-not aligned-	little town 	0.0044309795	0.022154897451400757	0
+274	1 <==> 0	NOALI	NIL	Crowds	-not aligned- 	0.0044160276	0.022080137860029936	0
+274	3 4 <==> 5 6	EQUI	5	in Bethlehem	of Bethlehem 	0.9564436	4.782218039035797	5
+274	0 <==> 2	NOALI	NIL	-not aligned-	, 	0.0043400717	0.021700358483940363	0
+274	2 <==> 0	NOALI	NIL	Gather	-not aligned- 	0.004382478	0.021912390366196632	0
+275	1 2 <==> 1 2	SIMI	4	Israeli soldier	Israeli soldiers 	0.9669202	4.834600985050201	5
+275	6 7 <==> 6 7 8	SPE1	4	in Hebron	in West Bank 	0.776403	3.88201504945755	4
+275	3 <==> 3	SIMI	2	hits	kill 	0.9423152	4.7115761041641235	5
+275	4 5 <==> 4 5	SIMI	3	Palestinian child	Palestinian woman 	0.8610611	4.305305480957031	4
+276	0 <==> 8	ALIC	NIL	-not aligned-	Hundreds 	0.0043412526	0.021706263069063425	0
+276	3 <==> 12 13	SIMI	3	attack	drive back 	0.8593939	4.296969473361969	4
+276	0 <==> 1 2	ALIC	NIL	-not aligned-	A battle 	0.004371627	0.02185813384130597	0
+276	1 2 <==> 9 10 11	SPE2	4	French forces	of French troops 	0.9594744	4.797371923923492	5
+276	4 <==> 14 15	SIMI	4	al-Qaeda	al-Qaida-linked rebels 	0.55261296	2.7630648016929626	3
+276	0 <==> 5 6	ALIC	NIL	-not aligned-	north Mali 	0.0044110827	0.02205541357398033	0
+276	0 <==> 3 4	NOALI	NIL	-not aligned-	to retake 	0.004323315	0.021616574376821518	0
+276	5 6 7 <==> 0	ALIC	NIL	's Mali allies	-not aligned- 	0.0044527086	0.022263543214648962	0
+276	0 <==> 7	NOALI	NIL	-not aligned-	: 	0.0042981775	0.021490887738764286	0
+277	2 <==> 2	SIMI	4	Mounts	mulls 	0.9131092	4.565545916557312	5
+277	1 <==> 1	EQUI	5	Algeria	Algeria 	0.96165335	4.808266758918762	5
+277	5 6 <==> 0	NOALI	NIL	to Rescue	-not aligned- 	0.004322112	0.02161056036129594	0
+277	3 4 <==> 3 4	SPE2	4	Military Operation	international force 	0.8909971	4.454985558986664	4
+277	7 8 9 <==> 5 6	SPE1	4	Al Qaeda Hostages	for hostages 	0.91065955	4.553297758102417	5
+278	5 6 <==> 0	NOALI	NIL	at entrance	-not aligned- 	0.004396227	0.021981135942041874	0
+278	0 <==> 2	NOALI	NIL	-not aligned-	Charged 	0.0044503734	0.02225186675786972	0
+278	1 <==> 1	EQUI	5	Man	Man 	0.9748514	4.874257147312164	5
+278	7 8 9 <==> 0	ALIC	NIL	to Buckingham Palace	-not aligned- 	0.004361858	0.021809290628880262	0
+278	4 <==> 3 4 5 6	EQUI	5	arrested	After Buckingham Palace Arrest 	0.78485656	3.9242827892303467	4
+278	2 3 <==> 0	NOALI	NIL	with knife	-not aligned- 	0.0043153064	0.021576532162725925	0
+279	2 <==> 0	NOALI	NIL	blasts	-not aligned- 	0.0043847174	0.021923587191849947	0
+279	0 <==> 3	NOALI	NIL	-not aligned-	cabinet 	0.0046159606	0.023079803213477135	0
+279	0 <==> 2	NOALI	NIL	-not aligned-	urges 	0.004352915	0.021764575503766537	0
+279	4 5 6 <==> 6 7 8	SPE2	4	over prisoner release	Palestinian prisoners release 	0.9366765	4.683382511138916	5
+279	0 <==> 4 5	NOALI	NIL	-not aligned-	to approve 	0.004308375	0.021541875321418047	0
+279	3 <==> 1	SIMI	2	Netanyahu	Yacimovich 	0.78260297	3.913014829158783	4
+279	1 <==> 0	NOALI	NIL	Almagor	-not aligned- 	0.004408711	0.02204355550929904	0
+280	5 <==> 0	NOALI	NIL	ground	-not aligned- 	0.0043702135	0.021851067431271076	0
+280	6 7 <==> 0	NOALI	NIL	after killings	-not aligned- 	0.0043427655	0.02171382773667574	0
+280	1 <==> 1	EQUI	5	Egypt	Egypt 	0.9698831	4.849415421485901	5
+280	0 <==> 6 7	NOALI	NIL	-not aligned-	Behind Morsi 	0.004475156	0.02237577922642231	0
+280	0 <==> 2	NOALI	NIL	-not aligned-	: 	0.00429818	0.02149089938029647	0
+280	2 3 <==> 3 4	SPE2	4	's Brotherhood	Muslim Brotherhood 	0.95858216	4.792910814285278	5
+280	4 <==> 5	EQUI	5	stands	Stands 	0.9496537	4.74826842546463	5
+281	1 2 3 <==> 1 2 3	SIMI	2	4 NATO Troops	Eight NATO Troops 	0.91366804	4.568340182304382	5
+281	5 6 <==> 5 6	EQUI	5	in Afghanistan	In Afghanistan 	0.96282434	4.814121723175049	5
+281	4 <==> 4	EQUI	5	Killed	Killed 	0.9762083	4.881041646003723	5
+282	1 2 3 <==> 1 2 3	SIMI	2	At least 45	At least 13 	0.8215176	4.107587933540344	4
+282	5 6 7 8 <==> 0	NOALI	NIL	in Spain train crash	-not aligned- 	0.004643631	0.023218155838549137	0
+282	0 <==> 11 12	NOALI	NIL	-not aligned-	's Diyala 	0.0044683972	0.022341986186802387	0
+282	0 <==> 5 6 7 8	NOALI	NIL	-not aligned-	in triple car bombings 	0.004610408	0.023052040487527847	0
+282	4 <==> 4	EQUI	5	killed	killed 	0.97456217	4.8728108406066895	5
+282	0 <==> 9 10	NOALI	NIL	-not aligned-	in Iraq 	0.004462288	0.022311441134661436	0
+283	1 <==> 0	NOALI	NIL	Hospital	-not aligned- 	0.0043978305	0.021989152301102877	0
+283	5 6 7 8 <==> 4 5 6 7	EQUI	5	in Venezuela prison riot	in Venezuela prison riot 	0.96075255	4.80376273393631	5
+283	2 <==> 0	NOALI	NIL	:	-not aligned- 	0.0043214164	0.02160708187147975	0
+283	4 <==> 3	EQUI	5	killed	killed 	0.97456217	4.8728108406066895	5
+283	3 <==> 1	SPE1	3	61	Dozens 	0.82980186	4.14900928735733	4
+283	0 <==> 2	NOALI_FACT	NIL	-not aligned-	reported 	0.004331167	0.021655834279954433	0
+284	0 <==> 6 7 8	NOALI	NIL	-not aligned-	for Mass March 	0.004404897	0.02202448435127735	0
+284	6 7 8 <==> 0	NOALI	NIL	as Its Leader	-not aligned- 	0.0044603287	0.02230164362117648	0
+284	4 5 <==> 0	NOALI	NIL	as Beleaguered	-not aligned- 	0.004903851	0.02451925538480282	0
+284	1 <==> 1	EQUI	5	Egypt	Egypt 	0.9698831	4.849415421485901	5
+284	2 3 <==> 2 3 4	SPE2	4	's Brotherhood	's Muslim Brotherhood 	0.957986	4.789929986000061	5
+284	0 <==> 5	NOALI	NIL	-not aligned-	Set 	0.004332263	0.021661315113306046	0
+285	0 <==> 1 2 3	NOALI	NIL	-not aligned-	Belarus , Latvia 	0.004730046	0.02365022897720337	0
+285	6 <==> 0	NOALI	NIL	commissioned	-not aligned- 	0.0046396805	0.023198402486741543	0
+285	1 <==> 0	NOALI	NIL	China	-not aligned- 	0.0043852148	0.02192607382312417	0
+285	2 3 4 5 <==> 0	NOALI	NIL	's new stealth frigate	-not aligned- 	0.004530326	0.022651629988104105	0
+285	0 <==> 7 8	NOALI	NIL	-not aligned-	border commission 	0.0044779484	0.022389742080122232	0
+285	0 <==> 4 5 6	NOALI	NIL	-not aligned-	to set up 	0.0044483584	0.022241792175918818	0
+286	6 7 8 <==> 5 6 7 8 9	SIMI	4	over sex claims	Over ` Sex Abuse ' 	0.83717865	4.18589323759079	4
+286	1 2 3 4 <==> 1 2 3	EQUI	5	TV weatherman Fred Talbot	Weatherman Fred Talbot 	0.9455431	4.72771555185318	5
+286	5 <==> 4	EQUI	5	arrested	Held 	0.66315424	3.315771222114563	3
+287	0 <==> 5	NOALI	NIL	-not aligned-	14 	0.00433381	0.021669049747288227	0
+287	6 <==> 7	SPE1	4	25	dozens 	0.9004877	4.502438604831696	5
+287	1 2 <==> 1 2 3	SIMI	4	Building collapses	India building collapse 	0.9354538	4.677268862724304	5
+287	0 <==> 6	NOALI	NIL	-not aligned-	; 	0.004365587	0.021827935706824064	0
+287	7 8 <==> 8	SPE1	4	feared trapped	trapped 	0.9469542	4.734770953655243	5
+287	5 <==> 0	NOALI	NIL	;	-not aligned- 	0.004363339	0.021816694643348455	0
+287	3 4 <==> 0	ALIC	NIL	in India	-not aligned- 	0.004402961	0.02201480558142066	0
+287	0 <==> 4	NOALI	NIL	-not aligned-	kills 	0.004363855	0.02181927440688014	0
+288	3 4 <==> 5 6	EQUI	5	as clashes	in clashes 	0.9685819	4.842909574508667	5
+288	6 7 8 <==> 7 8 9	SIMI	4	at Morsi rally	at Morsi rallies 	0.96988374	4.8494186997413635	5
+288	5 <==> 0	NOALI	NIL	erupt	-not aligned- 	0.004371654	0.02185826888307929	0
+288	9 10 <==> 10 11	SPE1	4	in Cairo	in Egypt 	0.9663598	4.83179897069931	5
+288	2 <==> 0	ALIC	NIL	die	-not aligned- 	0.0043378053	0.02168902661651373	0
+288	1 <==> 1 2 3 4	SPE2	3	Dozens	More than 70 dead 	0.77481467	3.874073326587677	4
+289	5 6 7 <==> 5 6 7	EQUI	5	to be questioned	to be questioned 	0.9712225	4.856112599372864	5
+289	0 <==> 8 9	NOALI	NIL	-not aligned-	by judge 	0.0043555093	0.021777546498924494	0
+289	1 2 3 4 <==> 1 2 3 4	SPE2	4	Spanish train crash driver	Spanish train driver Garzon 	0.8975656	4.487828016281128	4
+290	4 5 6 7 8 9 <==> 5 6	SPE1	4	in Afghan ` insider attack '	in Afghan 	0.84153503	4.2076751589775085	4
+290	3 <==> 3	SPE2	4	killed	shot 	0.9486464	4.7432321310043335	5
+290	0 <==> 7	NOALI	NIL	-not aligned-	â 	0.0043717306	0.02185865305364132	0
+290	1 2 <==> 1 2	EQUI	5	ISAF soldier	British soldier 	0.8268913	4.134456515312195	4
+290	0 <==> 4	ALIC	NIL	-not aligned-	dead 	0.0043278267	0.02163913333788514	0
+291	3 <==> 3	EQUI	5	gang-raped	gang-raped 	0.9747372	4.873686134815216	5
+291	4 5 <==> 4 5	EQUI	5	in India	in India 	0.9645086	4.82254296541214	5
+291	1 2 <==> 1 2	EQUI	5	Swiss tourist	Swiss tourist 	0.9649514	4.824756979942322	5
+292	3 4 <==> 5 6	EQUI	5	to shut	to shut 	0.9720799	4.86039936542511	5
+292	7 8 <==> 9 10	EQUI	5	at night	at night 	0.97399646	4.869982302188873	5
+292	0 <==> 3	ALIC	NIL	-not aligned-	rejects 	0.0045283157	0.022641578689217567	0
+292	1 2 <==> 4	SIMI	4	No plan	proposal 	0.87252784	4.3626391887664795	4
+292	5 6 <==> 7 8	EQUI	5	petrol pumps	petrol pumps 	0.9731977	4.865988492965698	5
+292	9 <==> 1 2	REL	4	Moily	India govt 	0.66611683	3.330584168434143	3
+293	5 6 7 8 <==> 7 8 9	SPE1	4	for Taliban peace talks	for Taliban talks 	0.96473575	4.823678731918335	5
+293	1 <==> 1 2	SPE1	4	Karzai	Afghan president 	0.68400013	3.420000672340393	3
+293	2 3 <==> 4	EQUI	5	to visit	visit 	0.9653376	4.826687872409821	5
+293	0 <==> 3	NOALI	NIL	-not aligned-	extends 	0.0043836995	0.021918497513979673	0
+293	4 <==> 5 6	EQUI	5	Pakistan	to Pakistan 	0.9411153	4.705576598644257	5
+294	1 <==> 1	EQUI	5	Three	Three 	0.9713966	4.856983125209808	5
+294	3 4 5 <==> 3 4	SPE1	4	after car crash	In Crash 	0.8706129	4.353064596652985	4
+294	6 7 8 9 <==> 5 6 7	SPE2	4	at Tian ` anmen	At Tiananmen Square 	0.94283205	4.714160263538361	5
+294	2 <==> 2	EQUI	5	die	Killed 	0.92687625	4.6343812346458435	5
+295	1 2 3 4 <==> 1 2	EQUI	5	` Whitey ' Bulger	Whitey Bulger 	0.9484004	4.742001891136169	5
+295	5 <==> 3	EQUI	5	given	gets 	0.8356273	4.178136587142944	4
+295	6 7 8 9 <==> 4	SPE1	3	two consecutive life terms	life 	0.87094074	4.354703724384308	4
+295	0 <==> 5 6 7 8	NOALI	NIL	-not aligned-	for racketeering , killings 	0.004590204	0.022951019927859306	0
+296	3 4 <==> 2 3 4	EQUI	5	GDP growth	's GDP growth 	0.9607012	4.803506135940552	5
+296	5 6 7 8 <==> 6 7 8 9	EQUI	5	to annual 1.1 pct	to annual 1.1 % 	0.92439795	4.621989727020264	5
+296	2 <==> 0	NOALI	NIL	revises	-not aligned- 	0.004344244	0.02172122010961175	0
+296	1 <==> 1	EQUI	5	Japan	Japan 	0.96719646	4.835982322692871	5
+296	0 <==> 5	NOALI	NIL	-not aligned-	downgraded 	0.004744997	0.023724983911961317	0
+296	9 10 <==> 0	NOALI	NIL	in Q3	-not aligned- 	0.004568722	0.022843610495328903	0
+297	6 7 <==> 0	NOALI	NIL	death toll	-not aligned- 	0.0044917995	0.022458997555077076	0
+297	5 <==> 0	NOALI	NIL	;	-not aligned- 	0.004363339	0.021816694643348455	0
+297	4 <==> 4	EQUI	5	ends	ends 	0.97299385	4.864969253540039	5
+297	1 2 3 <==> 1 2 3	EQUI	5	Algeria hostage crisis	Algeria hostage crisis 	0.9575555	4.787777364253998	5
+297	0 <==> 5 6	NOALI	NIL	-not aligned-	in bloodbath 	0.004439751	0.022198755759745836	0
+297	8 <==> 0	NOALI	NIL	unclear	-not aligned- 	0.004417032	0.02208516001701355	0
+298	6 7 <==> 7 8	EQUI	5	against USD	against USD 	0.9669366	4.834682941436768	5
+298	4 5 <==> 4 5 6	SPE1	3	to 6.2689	to new high 	0.5747274	2.873637080192566	3
+298	3 <==> 3	EQUI	5	strengthens	strengthens 	0.9739422	4.869711101055145	5
+298	1 2 <==> 1 2	EQUI	5	China yuan	China yuan 	0.97005546	4.850277304649353	5
+299	1 <==> 1	EQUI	5	Protests	Protests 	0.97644925	4.882246255874634	5
+299	3 4 5 6 <==> 3 4	SIMI	1	in tense Ukraine capital	in Brazil 	0.45566547	2.2783273458480835	2
+299	2 <==> 2	EQUI	5	continue	continue 	0.9705696	4.852848052978516	5
+300	2 <==> 2	SPE1	3	arrests	bans 	0.86704063	4.335203170776367	4
+300	1 <==> 1	EQUI	5	Egypt	Egypt 	0.9698831	4.849415421485901	5
+300	3 4 5 6 <==> 3 4 5	REL	4	Muslim Brotherhood Supreme Guide	Muslim Brotherhood group 	0.8660253	4.330126643180847	4
+301	2 <==> 2	EQUI	5	kill	kill 	0.9762557	4.881278574466705	5
+301	1 <==> 1	EQUI	5	Gunmen	Gunmen 	0.9742842	4.871420860290527	5
+301	5 6 7 <==> 5 6	SIMI	2	in northwest Pakistan	in Iraq 	0.5208533	2.604266405105591	3
+301	3 4 <==> 3 4	SPE2	1	nine people	3 policemen 	0.610101	3.0505049228668213	3
+302	4 5 6 <==> 4 5 6	SIMI	4	6 March 2013	12 March 2013 	0.88354236	4.417711794376373	4
+302	1 2 3 <==> 1 2 3	EQUI	5	Forex & Gold	Forex & Gold 	0.9630978	4.815489053726196	5
+303	5 <==> 0	NOALI	NIL	used	-not aligned- 	0.004363397	0.021816985681653023	0
+303	0 <==> 2	NOALI	NIL	-not aligned-	votes 	0.0043461896	0.02173094777390361	0
+303	6 7 <==> 6 7 8	EQUI	5	chemical weapons	's chemical weapons 	0.96609247	4.830462336540222	5
+303	1 <==> 1	REL	4	U.S.	UN 	0.6363734	3.181867003440857	3
+303	2 3 <==> 0	NOALI	NIL	has determined	-not aligned- 	0.0043718508	0.021859253756701946	0
+303	4 <==> 5	EQUI	5	Syria	Syria 	0.96869564	4.843478202819824	5
+303	0 <==> 3 4	NOALI	NIL	-not aligned-	to eliminate 	0.004322075	0.021610374096781015	0
+304	6 7 8 <==> 5 6 7 8	SPE2	4	after drone strike	in US drone strike 	0.901257	4.5062848925590515	5
+304	1 2 <==> 1 2 3	EQUI	5	Pakistani Taliban	Pakistani Taleban chief 	0.7220332	3.610166013240814	4
+304	3 <==> 0	NOALI	NIL	names	-not aligned- 	0.0043466142	0.02173307118937373	0
+304	0 <==> 4	NOALI	NIL	-not aligned-	killed 	0.0043217796	0.02160889795050025	0
+304	4 5 <==> 0	ALIC	NIL	new leader	-not aligned- 	0.004308559	0.02154279500246048	0
+305	4 5 6 7 <==> 4 5 6	REL	3	for National Unity Government	for political change 	0.6748649	3.3743244409561157	3
+305	1 2 <==> 1 2	EQUI	5	Syria envoy	Syria envoy 	0.96673936	4.833696782588959	5
+305	0 <==> 9	NOALI	NIL	-not aligned-	conflict 	0.004518173	0.022590865846723318	0
+305	3 <==> 3	EQUI	5	calls	calls 	0.9766682	4.883340895175934	5
+305	0 <==> 7 8	NOALI	NIL	-not aligned-	to end 	0.004294206	0.021471029613167048	0
+306	8 <==> 0	NOALI	NIL	Votes	-not aligned- 	0.0044445293	0.02222264651209116	0
+306	9 10 <==> 7 8	SPE2	4	In Election	Snap Elections 	0.8668269	4.334134459495544	4
+306	0 <==> 5	NOALI	NIL	-not aligned-	, 	0.0043400717	0.021700358483940363	0
+306	6 7 <==> 1 2	SIMI	2	As He	Bulgaria President 	0.6427215	3.213607370853424	3
+306	1 2 <==> 0	NOALI	NIL	Topless Women	-not aligned- 	0.0045027253	0.022513626608997583	0
+306	0 <==> 6	NOALI	NIL	-not aligned-	Opposes 	0.004413211	0.022066053934395313	0
+306	0 <==> 3	NOALI	NIL	-not aligned-	Backs 	0.0044169375	0.022084687370806932	0
+306	3 <==> 4	REL	4	Protest	Protesters 	0.973795	4.868974983692169	5
+306	4 5 <==> 0	ALIC	NIL	Against Berlusconi	-not aligned- 	0.0044773594	0.02238679677248001	0
+307	1 <==> 0	NOALI	NIL	Obama	-not aligned- 	0.004334452	0.021672260481864214	0
+307	4 5 6 7 <==> 6	EQUI	5	of icon Nelson Mandela	Mandela 	0.8754623	4.37731146812439	4
+307	0 <==> 1 2	NOALI	NIL	-not aligned-	South Africans 	0.004455637	0.022278185933828354	0
+307	3 <==> 0	NOALI	NIL	death	-not aligned- 	0.0043239654	0.021619827020913363	0
+307	2 <==> 3 4 5	SPE2	4	mourns	mourn , celebrate 	0.9325342	4.662671089172363	5
+308	0 <==> 4 5	NOALI	NIL	-not aligned-	in history 	0.004422313	0.022111565340310335	0
+308	0 <==> 1 2 3	NOALI	NIL	-not aligned-	For first time 	0.0045458353	0.022729176562279463	0
+308	0 <==> 6	NOALI	NIL	-not aligned-	, 	0.0043400717	0.021700358483940363	0
+308	1 <==> 0	NOALI	NIL	Goa	-not aligned- 	0.0043758587	0.021879293490201235	0
+308	4 5 6 <==> 0	NOALI	NIL	in Modis march	-not aligned- 	0.0044974084	0.022487042006105185	0
+308	7 8 <==> 11 12	SIMI	1	to Delhi	in Russia 	0.62586635	3.1293317675590515	3
+308	2 3 <==> 0	NOALI	NIL	first step	-not aligned- 	0.004356736	0.021783679258078337	0
+308	0 <==> 10	NOALI	NIL	-not aligned-	engineering 	0.004328628	0.021643140353262424	0
+308	0 <==> 8 9	NOALI	NIL	-not aligned-	to teach 	0.0043220874	0.021610436961054802	0
+308	0 <==> 7	NOALI	NIL	-not aligned-	Technion 	0.004363515	0.021817574743181467	0
+309	4 5 6 7 8 <==> 4 5 6 7	REL	4	of 1,004 Muslim Brotherhood supporters	of Brotherhood chief Badie 	0.598157	2.9907849431037903	3
+309	1 <==> 1	EQUI	5	Egypt	Egypt 	0.9698831	4.849415421485901	5
+309	2 <==> 2	SIMI_FACT	3	announces	orders 	0.82574165	4.128708243370056	4
+309	3 <==> 3	EQUI	5	arrest	arrest 	0.97596973	4.879848659038544	5
+310	0 <==> 4 5	NOALI	NIL	-not aligned-	to choose 	0.004337668	0.02168833976611495	0
+310	5 6 <==> 0	NOALI	NIL	to Send	-not aligned- 	0.004344217	0.02172108506783843	0
+310	0 <==> 6 7	NOALI	NIL	-not aligned-	interim PM 	0.0045280447	0.022640223614871502	0
+310	7 <==> 0	NOALI	NIL	Arms	-not aligned- 	0.0044738855	0.022369427606463432	0
+310	4 <==> 0	NOALI	NIL	EU	-not aligned- 	0.0043350654	0.021675326861441135	0
+310	1 2 <==> 1 2	EQUI	5	Syrian Opposition	Syrian opposition 	0.96825045	4.841252267360687	5
+310	8 9 <==> 0	NOALI	NIL	to Rebels	-not aligned- 	0.0043332977	0.021666488610208035	0
+310	0 <==> 3	NOALI	NIL	-not aligned-	meets 	0.004408918	0.022044589277356863	0
+310	3 <==> 0	NOALI	NIL	Urges	-not aligned- 	0.004396628	0.021983140613883734	0
+311	2 <==> 4	SPE1	2	Israeli	2 	0.6587355	3.293677568435669	3
+311	0 <==> 1 2	NOALI	NIL	-not aligned-	Israeli forces 	0.004404017	0.022020083852112293	0
+311	4 <==> 3	EQUI	5	arrested	detain 	0.81282526	4.0641263127326965	4
+311	3 <==> 0	NOALI	NIL	'	-not aligned- 	0.004316036	0.02158018061891198	0
+311	0 <==> 5 6 7 8	NOALI	NIL	-not aligned-	in Hebron arrest raid 	0.0047146	0.02357299905270338	0
+311	1 <==> 0	NOALI	NIL	`	-not aligned- 	0.0043349415	0.021674707531929016	0
+311	5 6 <==> 0	NOALI	NIL	in Yemen	-not aligned- 	0.0043770093	0.021885046735405922	0
+311	7 8 <==> 0	NOALI	NIL	Mossad spy	-not aligned- 	0.004488261	0.02244130475446582	0
+312	1 <==> 1	EQUI	5	Egypt	Egypt 	0.9698831	4.849415421485901	5
+312	0 <==> 5 6	NOALI	NIL	-not aligned-	swears in 	0.0044621457	0.022310728672891855	0
+312	2 3 4 <==> 2 3 4	EQUI	5	's interim president	's interim president 	0.9582413	4.791206419467926	5
+312	5 <==> 0	NOALI	NIL	appoints	-not aligned- 	0.0045489827	0.022744913585484028	0
+312	6 7 <==> 7 8	REL	3	2 advisors	new Cabinet 	0.46934265	2.3467132449150085	2
+313	2 <==> 0	NOALI	NIL	launches	-not aligned- 	0.0044292044	0.02214602194726467	0
+313	1 <==> 1 2	SIMI	3	China	China court 	0.8708485	4.354242384433746	4
+313	0 <==> 4 5	NOALI	NIL	-not aligned-	Bo Xilai 	0.004478624	0.02239312045276165	0
+313	3 4 5 <==> 0	NOALI	NIL	first air-to-air missile	-not aligned- 	0.004526805	0.022634025663137436	0
+313	0 <==> 3	NOALI	NIL	-not aligned-	sentences 	0.0045229215	0.022614607587456703	0
+313	0 <==> 9 10	NOALI	NIL	-not aligned-	for corruption 	0.0043830606	0.021915303077548742	0
+313	6 7 <==> 0	NOALI	NIL	from chopper	-not aligned- 	0.0045050043	0.022525021340698004	0
+313	0 <==> 6 7 8	NOALI	NIL	-not aligned-	to life imprisonment 	0.0045332815	0.022666407749056816	0
+314	4 5 6 7 <==> 8 9 10	SIMI	3	in New York ambush	after deadly ambush 	0.82692295	4.1346147656440735	4
+314	3 <==> 5 6 7	SPE1	3	killed	in guarded condition 	0.38285685	1.9142842292785645	2
+314	1 2 <==> 1 2 3 4	SPE2	4	Two firefighters	Two New York firefighters 	0.9328521	4.664260447025299	5
+315	1 2 <==> 1 2	SIMI	3	Car bombing	Suicide bomber 	0.8862622	4.4313108921051025	4
+315	3 <==> 3	EQUI	5	kills	kills 	0.97505873	4.875293672084808	5
+315	4 <==> 4	SIMI	3	17	10 	0.6721818	3.3609089255332947	3
+315	5 6 <==> 5 6	EQUI	5	in Pakistan	in Pakistan 	0.9679891	4.839945435523987	5
+316	0 <==> 5 6	NOALI	NIL	-not aligned-	stir up 	0.004472998	0.02236498985439539	0
+316	6 7 <==> 7 8	REL	2	in Krasnoyarsk	anti-Putin protests 	0.74188334	3.709416687488556	4
+316	5 <==> 0	NOALI	NIL	Reunited	-not aligned- 	0.0044154283	0.02207714132964611	0
+316	1 2 3 4 <==> 1 2 3 4	SPE2	4	2 Pussy Riot Members	Freed Pussy Riot pair 	0.56115615	2.80578076839447	3
+317	1 <==> 1 2	SPE2	4	Stocks	Singapore stocks 	0.8880196	4.4400981068611145	4
+317	3 4 <==> 4 5	SIMI	4	0.39 %	0.31 pct 	0.82523406	4.12617027759552	4
+317	2 <==> 3	EQUI	5	close	close 	0.97300905	4.865045249462128	5
+317	5 <==> 6	OPPO	4	higher	lower 	0.96690124	4.8345062136650085	5
+318	0 <==> 12	ALIC	NIL	-not aligned-	use 	0.00432124	0.0216061994433403	0
+318	12 <==> 0	NOALI	NIL	:	-not aligned- 	0.0043214164	0.02160708187147975	0
+318	13 <==> 0	NOALI	NIL	US	-not aligned- 	0.0043627196	0.02181359799578786	0
+318	4 <==> 0	NOALI	NIL	'	-not aligned- 	0.004316036	0.02158018061891198	0
+318	7 8 <==> 0	ALIC	NIL	Syrian rebels	-not aligned- 	0.0045706155	0.02285307738929987	0
+318	3 <==> 0	NOALI	NIL	alone	-not aligned- 	0.0043391506	0.02169575309380889	0
+318	2 <==> 0	NOALI	NIL	`	-not aligned- 	0.0043349415	0.021674707531929016	0
+318	5 6 <==> 0	NOALI	NIL	in blaming	-not aligned- 	0.0043686186	0.02184309298172593	0
+318	9 10 11 <==> 8 9 10 11	REL	4	for chemical attack	of Syria chemical arms 	0.60732275	3.0366137623786926	3
+318	0 <==> 6 7	NOALI	NIL	-not aligned-	its inquiry 	0.004350056	0.02175027970224619	0
+318	0 <==> 4 5	NOALI	NIL	-not aligned-	to consider 	0.0043110247	0.021555123385041952	0
+318	0 <==> 2	NOALI	NIL	-not aligned-	asks 	0.0043641473	0.021820736583322287	0
+318	1 <==> 1	EQUI	5	Russia	Russia 	0.9742964	4.871481955051422	5
+318	0 <==> 3	NOALI	NIL	-not aligned-	UN 	0.0043399623	0.021699811331927776	0
+319	3 4 <==> 4 5	SIMI	2	six dead	18 dead 	0.9515412	4.757705926895142	5
+319	2 <==> 3	EQUI	5	leave	leave 	0.973988	4.869939982891083	5
+319	1 <==> 1 2	REL	4	Floods	Heavy rains 	0.891709	4.45854514837265	4
+319	5 6 <==> 6 7	EQUI	5	in Philippines	in Philippines 	0.97029513	4.851475656032562	5
+320	8 9 <==> 8 9	EQUI	5	after collapsing	after collapse 	0.97388464	4.86942321062088	5
+320	10 11 <==> 0	NOALI	NIL	at game	-not aligned- 	0.004364688	0.021823439747095108	0
+320	7 <==> 5 6 7	REL	3	hospitalized	in stable condition 	0.2959508	1.479754000902176	1
+320	1 2 3 4 5 6 <==> 1 2 3 4	EQUI	5	Houston Texans head coach Gary Kubiak	Texans coach Gary Kubiak 	0.95138997	4.756949841976166	5
+321	0 <==> 4	NOALI	NIL	-not aligned-	tell 	0.0043191602	0.02159580122679472	0
+321	4 <==> 0	NOALI	NIL	south	-not aligned- 	0.004402984	0.02201491966843605	0
+321	3 <==> 5 6 7	REL	3	derails	of crash ordeal 	0.66858196	3.342909812927246	3
+321	5 6 <==> 0	NOALI	NIL	of Paris	-not aligned- 	0.004373441	0.021867204923182726	0
+321	1 2 <==> 1 2 3	REL	4	French train	French train passengers 	0.9023088	4.511544108390808	5
+322	0 <==> 1	NOALI	NIL	-not aligned-	Iran 	0.00443128	0.022156399209052324	0
+322	0 <==> 3 4	NOALI	NIL	-not aligned-	to trigger 	0.0042937924	0.0214689620770514	0
+322	4 <==> 0	NOALI	NIL	Presidency	-not aligned- 	0.0044136634	0.02206831704825163	0
+322	3 <==> 0	NOALI	NIL	Wins	-not aligned- 	0.0043998645	0.021999322343617678	0
+322	0 <==> 5 6 7	NOALI	NIL	-not aligned-	oil price war 	0.004613396	0.02306697890162468	0
+322	0 <==> 2	NOALI	NIL	-not aligned-	threatens 	0.004401452	0.022007259540259838	0
+322	5 6 7 8 <==> 0	NOALI	NIL	by a Large Margin	-not aligned- 	0.004576027	0.022880134638398886	0
+322	1 2 <==> 0	NOALI	NIL	Iran Moderate	-not aligned- 	0.0045407675	0.022703837603330612	0
+323	3 4 <==> 0	NOALI	NIL	nuclear talks	-not aligned- 	0.0043595023	0.021797511726617813	0
+323	7 8 <==> 0	NOALI	NIL	next month	-not aligned- 	0.0045417766	0.02270888304337859	0
+323	0 <==> 7 8 9	NOALI	NIL	-not aligned-	' communication systems 	0.004452787	0.0222639343701303	0
+323	0 <==> 4 5	NOALI	NIL	-not aligned-	of jamming 	0.004427136	0.022135679610073566	0
+323	1 <==> 1	EQUI	5	Iran	Iran 	0.9716708	4.858354032039642	5
+323	2 <==> 2	EQUI	5	says	says 	0.9775684	4.8878419399261475	5
+323	0 <==> 3	NOALI	NIL	-not aligned-	capable 	0.0043467176	0.021733588073402643	0
+323	0 <==> 6	NOALI	NIL	-not aligned-	foes 	0.0043713134	0.02185656689107418	0
+323	5 6 <==> 0	NOALI	NIL	to resume	-not aligned- 	0.0043325713	0.021662856452167034	0
+324	5 6 <==> 5 6	SIMI	1	in Belfast	in Tunisia 	0.72747195	3.6373597383499146	4
+324	1 2 <==> 2	SPE1	4	Brief clashes	clash 	0.8885615	4.44280743598938	4
+324	0 <==> 1	NOALI	NIL	-not aligned-	Mourners 	0.0045277462	0.02263873117044568	0
+324	3 4 <==> 3 4	EQUI	5	with police	with police 	0.97466046	4.8733022809028625	5
+325	1 2 <==> 0	ALIC	NIL	China quake	-not aligned- 	0.0045681796	0.022840898018330336	0
+325	6 <==> 5	EQUI	5	rises	rises 	0.9749926	4.874962866306305	5
+325	4 5 <==> 1 2 3 4	SIMI	1	Death toll	China flu death toll 	0.91862845	4.59314227104187	5
+325	0 <==> 6 7	NOALI	NIL	-not aligned-	to six 	0.0043156426	0.021578213199973106	0
+325	3 <==> 0	NOALI	NIL	:	-not aligned- 	0.0043214164	0.02160708187147975	0
+326	4 5 6 <==> 3 4 5 6	REL	3	of chemical weapons	over chemical weapons claims 	0.7677586	3.8387930393218994	4
+326	7 8 <==> 7 8	EQUI	5	in Syria	in Syria 	0.9722581	4.861290454864502	5
+326	3 <==> 0	ALIC	NIL	use	-not aligned- 	0.004350748	0.021753739565610886	0
+326	0 <==> 2	NOALI	NIL	-not aligned-	arise 	0.004346313	0.02173156477510929	0
+326	2 <==> 0	NOALI	NIL	condemns	-not aligned- 	0.0044951136	0.022475568111985922	0
+326	1 <==> 0	NOALI	NIL	RI	-not aligned- 	0.0043499568	0.021749783772975206	0
+326	0 <==> 1	NOALI	NIL	-not aligned-	Questions 	0.0043351767	0.021675883326679468	0
+327	6 7 8 <==> 1 2 3	REL	2	military modernization drive	Chinese vice premier 	0.60562766	3.028138279914856	3
+327	0 <==> 5 6	NOALI	NIL	-not aligned-	Australian Governor-General 	0.0045761834	0.022880916949361563	0
+327	5 <==> 0	NOALI	NIL	extends	-not aligned- 	0.0043372125	0.021686062682420015	0
+327	0 <==> 4	NOALI	NIL	-not aligned-	meets 	0.004408918	0.022044589277356863	0
+327	1 <==> 0	NOALI	NIL	China	-not aligned- 	0.0043852148	0.02192607382312417	0
+327	2 3 4 <==> 0	NOALI	NIL	's new carrier	-not aligned- 	0.004428834	0.022144170943647623	0
+328	4 <==> 0	NOALI	NIL	hints	-not aligned- 	0.004350777	0.02175388392060995	0
+328	5 6 <==> 0	NOALI	NIL	at joining	-not aligned- 	0.0044097384	0.022048691753298044	0
+328	0 <==> 4	NOALI	2	-not aligned-	hold 	0.004331126	0.021655629388988018	0
+328	0 <==> 5	NOALI	NIL	-not aligned-	talks 	0.004413483	0.02206741599366069	0
+328	11 <==> 0	NOALI_FACT	NIL	Report	-not aligned- 	0.004324245	0.021621224004775286	0
+328	0 <==> 6	NOALI	NIL	-not aligned-	linked 	0.0044130348	0.0220651738345623	0
+328	10 <==> 0	NOALI	NIL	:	-not aligned- 	0.0043214164	0.02160708187147975	0
+328	7 8 9 <==> 7 8 9 10	SIMI	3	Pacific trade pact	to regional trade pact 	0.9335122	4.667561054229736	5
+328	1 2 3 <==> 1 2 3	REL	2	New Japan govt	Japan , US 	0.48617718	2.4308858811855316	2
+329	0 <==> 1 2 3	NOALI	NIL	-not aligned-	Suspected US drone 	0.004611189	0.023055945057421923	0
+329	4 <==> 4	EQUI	5	dies	kills 	0.9062078	4.531038999557495	5
+329	0 <==> 7 8	NOALI	NIL	-not aligned-	in Yemen 	0.0044129845	0.022064922377467155	0
+329	1 2 3 <==> 5 6	SIMI_FACT	1	Suspected Saudi militant	6 militants 	0.64233947	3.2116973400115967	3
+329	5 6 7 <==> 0	NOALI	NIL	in Lebanese custody	-not aligned- 	0.0044964436	0.022482217755168676	0
+330	3 <==> 0	NOALI	NIL	:	-not aligned- 	0.0043214164	0.02160708187147975	0
+330	5 6 7 <==> 5 6 7	EQUI	5	of the Day	of the Day 	0.95941746	4.79708731174469	5
+330	8 <==> 0	NOALI	NIL	:	-not aligned- 	0.0043214164	0.02160708187147975	0
+330	0 <==> 3	NOALI	NIL	-not aligned-	: 	0.0042981775	0.021490887738764286	0
+330	1 2 <==> 1 2	EQUI	5	India Ink	India Ink 	0.96986985	4.8493492603302	5
+330	9 10 <==> 9 10	SIMI	2	January 27	March 20 	0.75828415	3.7914207577705383	4
+330	4 <==> 4	EQUI	5	Image	Image 	0.9706936	4.85346794128418	5
+330	0 <==> 8	NOALI	NIL	-not aligned-	: 	0.0042981775	0.021490887738764286	0
+331	0 <==> 1 2 3	NOALI	NIL	-not aligned-	At least 200 	0.0043685315	0.0218426575884223	0
+331	2 <==> 0	NOALI	NIL	images	-not aligned- 	0.0043649073	0.021824536379426718	0
+331	1 <==> 0	NOALI	NIL	Select	-not aligned- 	0.0043580495	0.021790247410535812	0
+331	3 4 5 6 <==> 5 6 7 8	EQUI	5	from Bangladesh building collapse	in Bangladesh building collapse 	0.9500909	4.750454425811768	5
+331	0 <==> 4	NOALI	NIL	-not aligned-	killed 	0.0043217796	0.02160889795050025	0
+332	5 6 7 <==> 5 6	REL	3	missile repair trade	Cuba missiles 	0.7126128	3.5630640387535095	4
+332	0 <==> 4	NOALI	NIL	-not aligned-	carrying 	0.004341368	0.021706840489059687	0
+332	8 9 <==> 0	ALIC	NIL	with Cuba	-not aligned- 	0.0044086166	0.022043082863092422	0
+332	1 2 3 <==> 1 2 3	SPE1	4	North Korean cargo	N Korean ship 	0.6910998	3.4554991126060486	3
+332	4 <==> 7	REL	2	reveals	seized 	0.77369344	3.8684672117233276	4
+333	0 <==> 1	NOALI	NIL	-not aligned-	Benedict 	0.0044479277	0.02223963849246502	0
+333	0 <==> 2	NOALI	NIL	-not aligned-	comes 	0.0043828236	0.021914117969572544	0
+333	0 <==> 4 5 6 7 8 9	NOALI	NIL	-not aligned-	to new house and new Pope 	0.0047081737	0.023540868423879147	0
+333	6 <==> 0	NOALI	NIL	ahead	-not aligned- 	0.0044229343	0.022114671301096678	0
+333	4 5 <==> 0	NOALI	NIL	on moving	-not aligned- 	0.004401991	0.02200995571911335	0
+333	2 3 <==> 0	NOALI	NIL	to vote	-not aligned- 	0.004407815	0.02203907584771514	0
+333	7 8 9 <==> 0	NOALI	NIL	on Hagel nod	-not aligned- 	0.0044865482	0.02243274124339223	0
+333	1 <==> 0	NOALI	NIL	Senate	-not aligned- 	0.00433927	0.021696349140256643	0
+333	0 <==> 3	NOALI	NIL	-not aligned-	home 	0.004358484	0.021792419720441103	0
+334	8 <==> 0	NOALI	NIL	goes	-not aligned- 	0.004368092	0.021840459667146206	0
+334	9 10 <==> 0	NOALI	NIL	on holiday	-not aligned- 	0.0044060806	0.022030402906239033	0
+334	6 7 <==> 1 2	REL	4	as Obama	John Boehner 	0.7606931	3.8034653663635254	4
+334	1 2 <==> 0	NOALI	NIL	No deal	-not aligned- 	0.0043280856	0.021640427876263857	0
+334	0 <==> 3	NOALI	NIL	-not aligned-	: 	0.0042981775	0.021490887738764286	0
+334	0 <==> 12 13	NOALI	NIL	-not aligned-	his undoing 	0.0045426865	0.022713432554155588	0
+334	0 <==> 7	NOALI	NIL	-not aligned-	, 	0.0043400717	0.021700358483940363	0
+334	0 <==> 4 5 6	NOALI	NIL	-not aligned-	from humble origin 	0.004533962	0.0226698094047606	0
+334	0 <==> 10 11	NOALI	NIL	-not aligned-	may be 	0.0043683527	0.021841763518750668	0
+334	3 4 5 <==> 8 9	EQUI	5	on fiscal cliff	fiscal cliff 	0.950948	4.754739999771118	5
+335	0 <==> 5	NOALI	NIL	-not aligned-	yet 	0.0043626656	0.02181332791224122	0
+335	0 <==> 9 10	NOALI	NIL	-not aligned-	with Iran 	0.004571377	0.02285688417032361	0
+335	2 <==> 0	NOALI	NIL	:	-not aligned- 	0.0043214164	0.02160708187147975	0
+335	0 <==> 3 4	NOALI	NIL	-not aligned-	No deal 	0.004364452	0.021822259295731783	0
+335	1 <==> 1	EQUI	5	Kerry	Kerry 	0.9733392	4.866696000099182	5
+335	8 9 <==> 0	NOALI	NIL	Could Work	-not aligned- 	0.00432492	0.021624600049108267	0
+335	0 <==> 6 7 8	NOALI	NIL	-not aligned-	in nuclear talks 	0.0045186556	0.022593277972191572	0
+335	3 4 5 6 7 <==> 0	NOALI	NIL	$ 4b Palestinian Economic Plan	-not aligned- 	0.004797755	0.023988774046301842	0
+335	0 <==> 2	NOALI	NIL	-not aligned-	: 	0.00429818	0.02149089938029647	0
+336	3 4 <==> 0	NOALI	NIL	army action	-not aligned- 	0.0044525713	0.022262856364250183	0
+336	0 <==> 4	NOALI	NIL	-not aligned-	evacuation 	0.004771444	0.023857220076024532	0
+336	0 <==> 5 6	NOALI	NIL	-not aligned-	at Princeton 	0.004394399	0.021971995010972023	0
+336	5 6 7 <==> 0	NOALI	NIL	against oil protesters	-not aligned- 	0.0044078003	0.02203900134190917	0
+336	1 <==> 0	NOALI	NIL	Libya	-not aligned- 	0.0045152507	0.0225762533955276	0
+336	2 <==> 0	NOALI	NIL	threatens	-not aligned- 	0.0043953797	0.021976898424327374	0
+336	0 <==> 3	NOALI	NIL	-not aligned-	forces 	0.0043441574	0.021720787044614553	0
+336	0 <==> 1 2	NOALI	NIL	-not aligned-	Bomb threat 	0.004415673	0.02207836601883173	0
+337	0 <==> 3 4	NOALI	NIL	-not aligned-	humanitarian aid 	0.004515885	0.022579424548894167	0
+337	3 <==> 5 6 7	REL	3	Syria	to Syrian refugees 	0.84518754	4.225937724113464	4
+337	5 6 <==> 8 9	EQUI	5	into Lebanon	in Lebanon 	0.96520555	4.826027750968933	5
+337	1 <==> 1	REL	3	Russians	Russia 	0.95883024	4.794151186943054	5
+337	2 <==> 0	NOALI	NIL	leaving	-not aligned- 	0.0044421037	0.02221051836386323	0
+337	4 <==> 0	NOALI	NIL	cross	-not aligned- 	0.004353058	0.021765290293842554	0
+337	0 <==> 2	NOALI	NIL	-not aligned-	delivers 	0.004420676	0.022103379014879465	0
+338	3 <==> 0	NOALI	NIL	condemns	-not aligned- 	0.0044951136	0.022475568111985922	0
+338	0 <==> 6 7	NOALI	NIL	-not aligned-	at Lampedusa 	0.0044569783	0.022284891456365585	0
+338	0 <==> 4 5	NOALI	NIL	-not aligned-	dead migrants 	0.0044254987	0.022127493284642696	0
+338	0 <==> 3	NOALI	NIL	-not aligned-	commemorates 	0.004506861	0.022534304298460484	0
+338	6 7 <==> 0	NOALI	NIL	to suffering	-not aligned- 	0.004335193	0.021675964817404747	0
+338	1 2 <==> 1 2	EQUI	5	Pope Francis	Pope Francis 	0.9724416	4.862208068370819	5
+338	4 5 <==> 0	NOALI	NIL	global indifference	-not aligned- 	0.004356568	0.021782841067761183	0
+339	8 9 10 <==> 5 6 7 8	SPE2	4	at Boston Marathon	in Boston Marathon attack 	0.8786892	4.393446147441864	4
+339	6 <==> 0	NOALI	NIL	wound	-not aligned- 	0.0042991512	0.02149575622752309	0
+339	1 <==> 1 2 3	SPE2	4	Bombs	Only two bombs 	0.9391322	4.6956610679626465	5
+339	7 <==> 0	NOALI	NIL	dozens	-not aligned- 	0.004291145	0.02145572565495968	0
+339	2 <==> 0	NOALI	NIL	kill	-not aligned- 	0.004309437	0.021547183860093355	0
+339	5 <==> 0	NOALI	NIL	,	-not aligned- 	0.004336292	0.02168145962059498	0
+339	3 4 <==> 0	NOALI	NIL	two people	-not aligned- 	0.004383995	0.021919975988566875	0
+339	0 <==> 4	NOALI	NIL	-not aligned-	found 	0.0043299375	0.02164968755096197	0
+340	0 <==> 3 4 5 6	NOALI	NIL	-not aligned-	for deeper economic ties 	0.0045380937	0.022690468467772007	0
+340	8 9 10 <==> 7 8 9	EQUI	5	with Sri Lanka	with Sri Lanka 	0.96672845	4.833642244338989	5
+340	5 6 7 <==> 0	NOALI	NIL	of Eco Partnership	-not aligned- 	0.0043360987	0.021680493373423815	0
+340	2 3 4 <==> 0	NOALI	NIL	for early conclusion	-not aligned- 	0.0044896803	0.02244840143248439	0
+340	1 <==> 0	NOALI	NIL	President	-not aligned- 	0.0043453043	0.021726521663367748	0
+340	0 <==> 1 2	NOALI	NIL	-not aligned-	Pakistan PM 	0.004455405	0.02227702410891652	0
+341	0 <==> 3 4 5	NOALI	NIL	-not aligned-	after heavy rains 	0.004813242	0.024066208861768246	0
+341	6 7 8 <==> 6 7	SIMI	2	off Florida coast	on island 	0.8114676	4.057337939739227	4
+341	1 2 <==> 1 2	SIMI	3	4 dead	8 dead 	0.9531227	4.765613377094269	5
+341	5 <==> 0	NOALI	NIL	capsizes	-not aligned- 	0.0043942425	0.021971212700009346	0
+341	0 <==> 8 9 10	ALIC	NIL	-not aligned-	of St Vincent 	0.004434582	0.02217290922999382	0
+341	3 4 <==> 0	NOALI	NIL	after boat	-not aligned- 	0.004356738	0.02178369089961052	0
+342	7 <==> 0	NOALI	NIL	:	-not aligned- 	0.0043214164	0.02160708187147975	0
+342	4 5 6 <==> 5 6 7	SIMI	1	Honshu , Japan	Santa Cruz Islands 	0.65565175	3.278258740901947	3
+342	0 <==> 8	NOALI	NIL	-not aligned-	: 	0.0042981775	0.021490887738764286	0
+342	8 <==> 9	EQUI	5	CENC	CENC 	0.97112155	4.855607748031616	5
+342	1 2 <==> 1 2 3	SIMI	4	6.3-magnitude quake	Magnitude-6 .0 quake 	0.78267044	3.9133521914482117	4
+342	3 <==> 4	EQUI	5	hits	jolts 	0.8961366	4.480682909488678	4
+343	0 <==> 3 4	NOALI	NIL	-not aligned-	on street 	0.004395355	0.021976775024086237	0
+343	0 <==> 1	NOALI	NIL	-not aligned-	Police 	0.004355706	0.021778529044240713	0
+343	0 <==> 2	NOALI	NIL	-not aligned-	converge 	0.0044697104	0.022348552010953426	0
+343	7 8 <==> 7 8 9 10	SPE1	4	Boston bomber	for Boston bomb suspect 	0.7786567	3.8932836055755615	4
+343	6 <==> 0	ALIC	NIL	arrested	-not aligned- 	0.004568557	0.022842783946543932	0
+343	3 <==> 0	NOALI	NIL	waiting	-not aligned- 	0.004369228	0.02184614073485136	0
+343	4 5 <==> 0	NOALI	NIL	to question	-not aligned- 	0.0043282704	0.021641352213919163	0
+343	1 2 <==> 0	NOALI	NIL	American investigators	-not aligned- 	0.0043583433	0.02179171657189727	0
+343	0 <==> 5 6	NOALI	NIL	-not aligned-	in search 	0.0043996093	0.021998046431690454	0
+344	3 <==> 0	NOALI	NIL	,	-not aligned- 	0.004336292	0.02168145962059498	0
+344	4 <==> 4	SIMI	2	five	39 	0.78323066	3.916153311729431	4
+344	0 <==> 3	NOALI	NIL	-not aligned-	, 	0.0043400717	0.021700358483940363	0
+344	5 <==> 5	EQUI	5	injured	injured 	0.9751429	4.875714480876923	5
+344	1 2 <==> 1 2	SIMI	2	10 dead	1 dead 	0.9425594	4.712797105312347	5
+344	6 7 8 9 10 <==> 6 7 8 9 10	SIMI	3	in SW China road accident	in E China road accident 	0.9531802	4.76590096950531	5
+345	3 4 <==> 3 4	EQUI	5	end up	end up 	0.97589236	4.879461824893951	5
+345	5 6 <==> 5 6	SIMI	2	0.26 percent	0.11 pct 	0.77125543	3.8562771677970886	4
+345	1 2 <==> 1 2	EQUI	5	Singapore stocks	Singapore stocks 	0.96634835	4.831741750240326	5
+346	2 3 4 <==> 2 3 4	EQUI	5	of the day	of the Day 	0.9552047	4.776023626327515	5
+346	1 <==> 1	SIMI	4	Pictures	Picture 	0.96632105	4.83160525560379	5
+346	6 7 8 <==> 0	NOALI	NIL	7 August 2013	-not aligned- 	0.004477846	0.022389229852706194	0
+346	5 <==> 0	NOALI	NIL	:	-not aligned- 	0.0043214164	0.02160708187147975	0
+347	4 5 <==> 2 3 4	REL	3	presidential elections	's interim president 	0.79568666	3.978433310985565	4
+347	0 <==> 5 6	NOALI	NIL	-not aligned-	swears in 	0.0044621457	0.022310728672891855	0
+347	1 <==> 1	EQUI	5	Egypt	Egypt 	0.9698831	4.849415421485901	5
+347	6 7 8 <==> 7 8	REL	2	before parliamentary polls	new Cabinet 	0.7166409	3.583204448223114	4
+347	2 3 <==> 0	NOALI	NIL	to hold	-not aligned- 	0.004345261	0.02172630513086915	0
+348	1 2 <==> 1 2	SIMI	3	Afghan legislators	Afghan president 	0.7489793	3.744896352291107	4
+348	3 <==> 3	EQUI	5	approve	approves 	0.9735102	4.867551028728485	5
+348	4 5 6 <==> 4 5 6	OPPO	5	new election law	new electon law 	0.95586836	4.779341816902161	5
+349	0 <==> 3	NOALI	NIL	-not aligned-	holds 	0.004355245	0.02177622402086854	0
+349	6 <==> 4 5	SIMI	3	Buried	state funeral 	0.86852306	4.342615306377411	4
+349	1 2 <==> 1 2	EQUI	5	South Africans	South Africa 	0.93764234	4.688211679458618	5
+349	3 <==> 0	ALIC	NIL	Mourn	-not aligned- 	0.004401352	0.022006758954375982	0
+349	4 5 <==> 6 7	EQUI	5	as Mandela	for Mandela 	0.94454443	4.722722172737122	5
+350	1 2 3 <==> 1 2 3	REL	3	Costa Concordia captain	Costa Concordia survivors 	0.89800483	4.490024149417877	4
+350	4 5 6 <==> 0	NOALI	NIL	to be tried	-not aligned- 	0.004427453	0.02213726518675685	0
+350	0 <==> 6 7 8	NOALI	NIL	-not aligned-	one year later 	0.004713146	0.023565730080008507	0
+350	0 <==> 4	NOALI	NIL	-not aligned-	detail 	0.0043776766	0.021888383198529482	0
+350	7 8 <==> 5	SPE1	4	for manslaughter	experience 	0.76045734	3.802286684513092	4
+351	6 <==> 0	NOALI	NIL	rises	-not aligned- 	0.0043651396	0.02182569820433855	0
+351	1 2 <==> 0	NOALI	NIL	Death toll	-not aligned- 	0.0045284643	0.022642321418970823	0
+351	3 4 5 <==> 5 6 7	EQUI	5	in Colorado floods	in Colorado flooding 	0.9681542	4.840770959854126	5
+351	0 <==> 3 4	NOALI	NIL	-not aligned-	to evacuate 	0.004318662	0.021593309938907623	0
+351	7 8 <==> 0	NOALI	NIL	to four	-not aligned- 	0.0043292097	0.02164604840800166	0
+351	0 <==> 1	NOALI	NIL	-not aligned-	Thousands 	0.0043326807	0.02166340360417962	0
+351	0 <==> 2	NOALI	NIL	-not aligned-	told 	0.0043104272	0.021552136167883873	0
+352	1 <==> 1	SIMI	4	17	15 	0.8893817	4.446908533573151	4
+352	6 7 8 <==> 6 7 8	SPE1	4	in bomb attacks	in fresh attacks 	0.95926154	4.796307682991028	5
+352	3 <==> 0	NOALI	NIL	,	-not aligned- 	0.004336292	0.02168145962059498	0
+352	2 <==> 2	EQUI	5	killed	killed 	0.97456217	4.8728108406066895	5
+352	4 <==> 4	SIMI	3	133	90 	0.59226924	2.961346209049225	3
+352	9 10 11 <==> 9 10	SPE1	4	in northern Iraq	in Iraq 	0.9451771	4.725885391235352	5
+352	0 <==> 3	NOALI	NIL	-not aligned-	, 	0.0043400717	0.021700358483940363	0
+352	5 <==> 5	EQUI	5	wounded	wounded 	0.9693745	4.846872389316559	5
+353	0 <==> 7 8 9 10	NOALI	NIL	-not aligned-	than usual euro nonsense 	0.004653188	0.02326593967154622	0
+353	4 5 <==> 0	NOALI	NIL	alarm markets	-not aligned- 	0.004462381	0.022311904467642307	0
+353	1 2 <==> 2 3	EQUI	5	Cyprus bailout	Cyprus bailout 	0.9731664	4.865832030773163	5
+353	0 <==> 5 6	NOALI	NIL	-not aligned-	nothing more 	0.0044364724	0.022182362154126167	0
+353	0 <==> 1	NOALI	NIL	-not aligned-	Why 	0.004318418	0.021592089906334877	0
+353	0 <==> 4	NOALI	NIL	-not aligned-	is 	0.0043215374	0.02160768723115325	0
+353	3 <==> 0	NOALI	NIL	remarks	-not aligned- 	0.0043753353	0.021876676473766565	0
+354	0 <==> 7	NOALI	NIL	-not aligned-	arrested 	0.004627989	0.023139945697039366	0
+354	2 3 <==> 0	NOALI	NIL	shuts down	-not aligned- 	0.0044891154	0.022445577196776867	0
+354	1 <==> 1	EQUI	5	Egypt	Egypt 	0.9698831	4.849415421485901	5
+354	0 <==> 2	NOALI	NIL	-not aligned-	: 	0.0042981775	0.021490887738764286	0
+354	4 5 6 <==> 3 4 5 6	REL	3	Muslim Brotherhood newspaper	Muslim Brotherhood deputy head 	0.71441144	3.5720571875572205	4
+355	9 10 11 <==> 10 11 12	SPE1	4	towards Oklahoma City	Oklahoma City area 	0.5924944	2.962472140789032	3
+355	0 <==> 6	NOALI	NIL	-not aligned-	killed 	0.0043217796	0.02160889795050025	0
+355	8 <==> 9	SIMI	3	heads	rake 	0.85820764	4.29103821516037	4
+355	1 2 3 4 5 6 7 <==> 7 8	SPE1	3	` Large and extremely dangerous ' tornado	as tornadoes 	0.7001362	3.500680923461914	4
+355	0 <==> 1 2 3	NOALI	NIL	-not aligned-	Mom and baby 	0.0045627602	0.0228138011880219	0
+355	0 <==> 4 5	NOALI	NIL	-not aligned-	among five 	0.00444299	0.022214949131011963	0
+356	7 8 9 10 11 <==> 0	NOALI	NIL	West Bank gov ' t	-not aligned- 	0.004668589	0.0233429460786283	0
+356	5 6 <==> 0	NOALI	NIL	to form	-not aligned- 	0.0043192054	0.021596027072519064	0
+356	3 <==> 0	NOALI	NIL	assigns	-not aligned- 	0.0044478984	0.022239491809159517	0
+356	0 <==> 3	NOALI	NIL	-not aligned-	wants 	0.004397348	0.021986740175634623	0
+356	0 <==> 4	NOALI	NIL	-not aligned-	Israelis 	0.004446076	0.02223038114607334	0
+356	0 <==> 5 6	NOALI	NIL	-not aligned-	to talk 	0.0043187705	0.021593852434307337	0
+356	4 <==> 0	NOALI	NIL	academic	-not aligned- 	0.0043816045	0.021908022463321686	0
+356	0 <==> 7	NOALI	NIL	-not aligned-	peace 	0.0043492857	0.021746428683400154	0
+356	1 2 <==> 1 2	EQUI	5	Palestinian president	Palestinian president 	0.9747355	4.873677492141724	5
+357	0 <==> 3 4	NOALI	NIL	-not aligned-	to Fallujah 	0.0044918098	0.02245904877781868	0
+357	3 4 5 6 <==> 0	NOALI	NIL	to Texas blast site	-not aligned- 	0.0044771237	0.022385618649423122	0
+357	1 <==> 1	EQUI	5	Residents	Residents 	0.9736872	4.868435859680176	5
+357	2 <==> 2	EQUI	5	return	return 	0.973559	4.86779510974884	5
+358	1 2 <==> 1 2	EQUI	5	Singapore stocks	Singapore stocks 	0.96634835	4.831741750240326	5
+358	4 5 <==> 4 5	SIMI	2	0.44 pct	0.5 pct 	0.8609228	4.304614067077637	4
+358	3 <==> 3	EQUI	5	close	close 	0.97300905	4.865045249462128	5
+358	6 <==> 6	OPPO	4	lower	higher 	0.97079694	4.853984713554382	5
+359	3 <==> 3	EQUI	5	close	close 	0.97300905	4.865045249462128	5
+359	5 6 <==> 5 6	SIMI	3	on Wednesday	on Friday 	0.9093328	4.54666405916214	5
+359	1 2 <==> 1 2	EQUI	5	Chinese shares	China stocks 	0.8542288	4.271143972873688	4
+359	4 <==> 4	EQUI	5	lower	lower 	0.97439665	4.871983230113983	5
+360	5 6 7 8 <==> 4 5 6	SPE1	4	in Bangladesh factory fire	in Bangladesh factory 	0.94205946	4.7102972865104675	5
+360	1 2 3 <==> 0	NOALI	NIL	Owners , others	-not aligned- 	0.004386183	0.021930914372205734	0
+360	0 <==> 3	NOALI	NIL	-not aligned-	found 	0.0043299375	0.02164968755096197	0
+360	4 <==> 0	NOALI	NIL	charged	-not aligned- 	0.0043134447	0.021567223593592644	0
+360	0 <==> 1 2	NOALI	NIL	-not aligned-	50 survivors 	0.004339534	0.02169766929000616	0
+361	0 <==> 3	NOALI	NIL	-not aligned-	rejects 	0.0045283157	0.022641578689217567	0
+361	3 4 5 <==> 0	NOALI	NIL	in three provinces	-not aligned- 	0.004463487	0.022317434195429087	0
+361	0 <==> 4 5 6 7	NOALI	NIL	-not aligned-	Hun Sen election win 	0.0045925165	0.022962582297623158	0
+361	2 <==> 0	NOALI	NIL	canceled	-not aligned- 	0.004634071	0.023170355707406998	0
+361	1 <==> 0	NOALI	NIL	Voting	-not aligned- 	0.0044739875	0.022369937505573034	0
+361	0 <==> 1 2	NOALI	NIL	-not aligned-	Cambodian opposition 	0.004696658	0.023483289405703545	0
+361	6 7 8 9 <==> 0	NOALI	NIL	in tense Thai election	-not aligned- 	0.0046392824	0.023196411784738302	0
+362	4 5 <==> 6 7 8	SPE2	4	Mubarak release	's release request 	0.69769317	3.4884658455848694	3
+362	1 2 <==> 1 2	EQUI	5	Egypt court	Egypt court 	0.9703564	4.851782023906708	5
+362	0 <==> 5	ALIC	NIL	-not aligned-	Mubarak 	0.0045754667	0.02287733368575573	0
+362	3 <==> 0	NOALI	NIL	orders	-not aligned- 	0.004328295	0.0216414756141603	0
+362	0 <==> 3 4	NOALI	NIL	-not aligned-	turns down 	0.0045622597	0.02281129825860262	0
+363	1 2 <==> 0	NOALI	NIL	Bomb blast	-not aligned- 	0.0043918467	0.021959233563393354	0
+363	5 6 7 <==> 5 6	SPE1	4	in southwest Pakistan	in Pakistan 	0.93833226	4.691661298274994	5
+363	0 <==> 1 2	NOALI	NIL	-not aligned-	Major quake 	0.00446631	0.02233155071735382	0
+363	4 <==> 4	SIMI	2	10	39 	0.58476025	2.9238012433052063	3
+363	3 <==> 3	EQUI	5	kills	kills 	0.97505873	4.875293672084808	5
+364	0 <==> 5	NOALI	NIL	-not aligned-	directs 	0.0043724673	0.021862336434423923	0
+364	0 <==> 2	NOALI	NIL	-not aligned-	Judge 	0.004337046	0.021685229148715734	0
+364	1 <==> 6	SPE1	4	Egyptians	voters 	0.9198032	4.599016010761261	5
+364	0 <==> 1	NOALI	NIL	-not aligned-	` 	0.0043451353	0.021725676488131285	0
+364	2 <==> 3 4	REL	4	vote	at polls 	0.9054255	4.52712744474411	5
+364	0 <==> 11	NOALI	NIL	-not aligned-	' 	0.004307438	0.02153719076886773	0
+364	3 4 5 <==> 7 8 9 10	REL	3	on Islamist-backed constitution	on Egypt constitution vote 	0.7553638	3.776819109916687	4
+365	3 <==> 2	EQUI	5	clash	clash 	0.9770558	4.885278940200806	5
+365	4 5 6 <==> 3 4 5	EQUI	5	with riot police	with riot police 	0.9732719	4.866359531879425	5
+365	1 2 <==> 1	SPE1	3	Morsi supporters	Protesters 	0.7280869	3.640434443950653	4
+365	7 8 <==> 6 7	SIMI	2	in Cairo	in Kiev 	0.85546505	4.27732527256012	4
+366	4 5 <==> 5 6 7	REL	2	Philippine stores	in S. Philippines 	0.6595482	3.297741115093231	3
+366	0 <==> 4	NOALI	NIL	-not aligned-	15 	0.0043324255	0.021662127692252398	0
+366	1 2 <==> 1 2	REL	3	Typhoon survivors	Typhoon Bopha 	0.79361534	3.968076705932617	4
+366	0 <==> 3	NOALI	NIL	-not aligned-	kills 	0.004363855	0.02181927440688014	0
+366	3 <==> 0	NOALI	NIL	raid	-not aligned- 	0.004382705	0.021913524251431227	0
+367	0 <==> 3	NOALI	NIL	-not aligned-	, 	0.0043400717	0.021700358483940363	0
+367	1 2 <==> 1 2	SIMI	3	Five dead	8 dead 	0.95107186	4.7553592920303345	5
+367	3 <==> 0	NOALI	NIL	,	-not aligned- 	0.004336292	0.02168145962059498	0
+367	4 5 <==> 4 5	SIMI	2	40 missing	11 missing 	0.9230696	4.615347981452942	5
+367	0 <==> 6 7 8 9	NOALI	NIL	-not aligned-	in SW China landslide 	0.0046047396	0.023023698013275862	0
+367	6 7 8 9 <==> 0	NOALI	NIL	in Canada train disaster	-not aligned- 	0.004585692	0.022928460966795683	0
+368	5 6 7 <==> 5 6 7	SPE2	4	in Bomb Blasts	In Baquba Blasts 	0.9128433	4.564216434955597	5
+368	8 9 <==> 0	ALIC	NIL	in Iraq	-not aligned- 	0.004433218	0.0221660896204412	0
+368	1 2 3 <==> 1 2 3	SIMI	3	At Least 66	At Least 47 	0.887456	4.437279999256134	4
+368	4 <==> 4	EQUI	5	Killed	Killed 	0.9762083	4.881041646003723	5
+369	5 <==> 5	EQUI	5	rises	rises 	0.9749926	4.874962866306305	5
+369	1 2 3 4 <==> 0	NOALI	NIL	Iran earthquake death toll	-not aligned- 	0.0047033387	0.023516693618148565	0
+369	0 <==> 1 2 3 4	NOALI	NIL	-not aligned-	Algeria hostage death toll 	0.0047130384	0.023565192241221666	0
+370	0 <==> 2 3	NOALI	NIL	-not aligned-	in trial 	0.0043483316	0.021741657983511686	0
+370	0 <==> 1	NOALI	NIL	-not aligned-	Testimony 	0.0043903706	0.021951852831989527	0
+370	7 8 <==> 0	NOALI	NIL	an election	-not aligned- 	0.004380914	0.0219045695848763	0
+370	1 2 <==> 0	NOALI	NIL	Maldives team	-not aligned- 	0.004518222	0.022591110318899155	0
+370	5 6 <==> 0	NOALI	NIL	to observe	-not aligned- 	0.004343034	0.021715168841183186	0
+370	0 <==> 8	NOALI	NIL	-not aligned-	begins 	0.004365471	0.021827355958521366	0
+370	3 4 <==> 0	NOALI	NIL	in India	-not aligned- 	0.004402961	0.02201480558142066	0
+370	0 <==> 4 5 6 7	NOALI	NIL	-not aligned-	of former FM Liberman 	0.0044666748	0.02233337378129363	0
+371	1 <==> 0	NOALI	NIL	China	-not aligned- 	0.0043852148	0.02192607382312417	0
+371	0 <==> 3 4	NOALI	NIL	-not aligned-	the reins 	0.004348716	0.02174357883632183	0
+371	0 <==> 2	NOALI	NIL	-not aligned-	takes 	0.004315274	0.021576369181275368	0
+371	0 <==> 1	NOALI	NIL	-not aligned-	Napthine 	0.004430012	0.02215005923062563	0
+371	2 <==> 0	NOALI	NIL	detains	-not aligned- 	0.004351244	0.0217562192119658	0
+371	0 <==> 9	NOALI	NIL	-not aligned-	crumbles 	0.004393642	0.02196820918470621	0
+371	5 6 7 <==> 0	NOALI	NIL	after fruit seller	-not aligned- 	0.004359554	0.02179777016863227	0
+371	0 <==> 5 6	NOALI	NIL	-not aligned-	after Baillieu 	0.0045105848	0.022552923765033484	0
+371	8 <==> 0	NOALI	NIL	dies	-not aligned- 	0.004354906	0.02177452901378274	0
+371	3 4 <==> 0	NOALI	NIL	city workers	-not aligned- 	0.0043911296	0.021955647971481085	0
+371	0 <==> 7 8	NOALI	NIL	-not aligned-	's leadership 	0.0043443036	0.021721518132835627	0
+372	3 4 <==> 2	EQUI	5	to release	releases 	0.9172242	4.586121141910553	5
+372	5 6 <==> 3 4 5 6	SPE2	4	Palestinian prisoners	26 more Palestinian prisoners 	0.9314935	4.657467603683472	5
+372	2 <==> 0	NOALI_FACT	NIL	agrees	-not aligned- 	0.004368996	0.021844978909939528	0
+372	1 <==> 1	EQUI	5	Israel	Israel 	0.9716142	4.858070909976959	5
+373	1 2 <==> 0	NOALI	NIL	Three dead	-not aligned- 	0.004424056	0.0221202801913023	0
+373	0 <==> 2	NOALI	NIL	-not aligned-	denies 	0.0043934397	0.021967198699712753	0
+373	3 4 5 6 <==> 4 5 6 7	SPE2	4	in US marathon bomb	in Boston marathon bombing 	0.9549208	4.774604141712189	5
+373	0 <==> 3	NOALI	NIL	-not aligned-	involvement 	0.0045275614	0.022637806832790375	0
+373	0 <==> 1	NOALI	NIL	-not aligned-	Taliban 	0.004414397	0.022071984130889177	0
+374	0 <==> 4	NOALI	NIL	-not aligned-	situation 	0.004528378	0.022641890682280064	0
+374	5 6 <==> 0	NOALI	NIL	opposition leaders	-not aligned- 	0.004385498	0.021927489433437586	0
+374	1 2 3 <==> 0	NOALI	NIL	US Senator McCain	-not aligned- 	0.0044290153	0.022145076654851437	0
+374	0 <==> 1 2	NOALI	NIL	-not aligned-	SFG meeting 	0.004463697	0.022318484261631966	0
+374	4 <==> 0	NOALI	NIL	meets	-not aligned- 	0.004360984	0.02180492039769888	0
+374	7 8 <==> 5 6	SIMI	2	in Ukraine	in Mali 	0.8185156	4.0925779938697815	4
+374	0 <==> 3	NOALI	NIL	-not aligned-	reviews 	0.004467519	0.022337595000863075	0
+375	7 8 <==> 9 10	SIMI	2	in Kyiv	in Bhutan 	0.6381489	3.1907445192337036	3
+375	1 <==> 1	EQUI	5	Tens	Tens 	0.9721319	4.860659539699554	5
+375	0 <==> 8	NOALI	NIL	-not aligned-	votes 	0.0043461896	0.02173094777390361	0
+375	0 <==> 6 7	NOALI	NIL	-not aligned-	to cast 	0.0043222946	0.02161147305741906	0
+375	4 5 <==> 0	NOALI	NIL	of Ukrainians	-not aligned- 	0.004383192	0.021915959659963846	0
+375	2 3 <==> 2 3	EQUI	5	of Thousands	of thousands 	0.9661329	4.830664396286011	5
+375	6 <==> 0	NOALI	NIL	Protest	-not aligned- 	0.004338207	0.021691035944968462	0
+375	0 <==> 4 5	NOALI	NIL	-not aligned-	line up 	0.004360835	0.021804175339639187	0
+376	2 <==> 0	NOALI	NIL	pledges	-not aligned- 	0.004397016	0.02198508009314537	0
+376	1 <==> 1	EQUI	5	Obama	Obama 	0.97585505	4.879275262355804	5
+376	3 4 <==> 5 6	SIMI	3	to reignite	to act 	0.7670983	3.8354915380477905	4
+376	0 <==> 4	NOALI	NIL	-not aligned-	Congress 	0.004360995	0.02180497394874692	0
+376	5 <==> 7 8	EQUI	5	economy	on economy 	0.9528423	4.764211475849152	5
+376	0 <==> 2 3	NOALI	NIL	-not aligned-	to press 	0.0043408917	0.021704458631575108	0
+377	5 6 <==> 0	NOALI	NIL	gear up	-not aligned- 	0.004429875	0.022149374708533287	0
+377	7 8 <==> 6 7	EQUI	5	for elections	for elections 	0.9750974	4.8754870891571045	5
+377	1 2 <==> 1 2	SIMI	2	Pak missions	Islamist parties 	0.63664067	3.183203339576721	3
+377	0 <==> 5	NOALI	NIL	-not aligned-	unite 	0.0044771703	0.022385851480066776	0
+377	3 4 <==> 3 4	SIMI	2	in UAE	in Egypt 	0.67787474	3.3893737196922302	3
+378	4 5 6 7 8 <==> 4 5 6 7 8	SIMI	2	in deadly LA boardwalk crash	in deadly LA driving attack 	0.88590425	4.429521262645721	4
+378	1 <==> 1	EQUI	5	Police	Police 	0.97361654	4.868082702159882	5
+378	2 <==> 2	SPE1	4	question	arrest 	0.8643872	4.321936070919037	4
+378	3 <==> 3	SPE2	3	man	suspect 	0.8223201	4.1116005182266235	4
