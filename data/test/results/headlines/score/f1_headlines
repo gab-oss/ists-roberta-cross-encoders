@@ -1,0 +1,60 @@
+score_epochs_0.wa
+ F1 Ali     1.0000
+ F1 Type    0.5793
+ F1 Score   0.8623
+ F1 Typ+Sco 0.7420
+score_epochs_10.wa
+ F1 Ali     1.0000
+ F1 Type    0.5793
+ F1 Score   0.9316
+ F1 Typ+Sco 0.7562
+score_epochs_12.wa
+ F1 Ali     1.0000
+ F1 Type    0.5793
+ F1 Score   0.9349
+ F1 Typ+Sco 0.7520
+score_epochs_14.wa
+ F1 Ali     1.0000
+ F1 Type    0.5793
+ F1 Score   0.9332
+ F1 Typ+Sco 0.7545
+score_epochs_16.wa
+ F1 Ali     1.0000
+ F1 Type    0.5793
+ F1 Score   0.9376
+ F1 Typ+Sco 0.7564
+score_epochs_18.wa
+ F1 Ali     1.0000
+ F1 Type    0.5793
+ F1 Score   0.9365
+ F1 Typ+Sco 0.7584
+score_epochs_20.wa
+ F1 Ali     1.0000
+ F1 Type    0.5793
+ F1 Score   0.9351
+ F1 Typ+Sco 0.7574
+score_epochs_22.wa
+ F1 Ali     1.0000
+ F1 Type    0.5793
+ F1 Score   0.9369
+ F1 Typ+Sco 0.7581
+score_epochs_2.wa
+ F1 Ali     1.0000
+ F1 Type    0.5793
+ F1 Score   0.9281
+ F1 Typ+Sco 0.7435
+score_epochs_4.wa
+ F1 Ali     1.0000
+ F1 Type    0.5793
+ F1 Score   0.9162
+ F1 Typ+Sco 0.7446
+score_epochs_6.wa
+ F1 Ali     1.0000
+ F1 Type    0.5793
+ F1 Score   0.9107
+ F1 Typ+Sco 0.7497
+score_epochs_8.wa
+ F1 Ali     1.0000
+ F1 Type    0.5793
+ F1 Score   0.9376
+ F1 Typ+Sco 0.7513

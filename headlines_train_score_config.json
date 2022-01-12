@@ -1,0 +1,9 @@
+{
+    "training_data": "data/train/tsv/train_headlines.tsv",
+    "data_name": "headlines",
+    "number_of_epochs": 24,
+    "model_save_path": "data/train/models/headlines/score/",
+    "batch_size": 16,
+    "warmup": 0.1,
+    "evaluation_steps": 5000
+}

@@ -18,7 +18,7 @@
 </sentence>
 <sentence id="3" status="">
 <alignment>
-6 7 <==> 6 7 // EQUI // 4 // to hospital <==> in hospital 
+6 7 <==> 6 7 // EQUI // 5 // to hospital <==> in hospital 
 0 <==> 3 // NOALI // 0 // -not aligned- <==> : 
 1 2 <==> 1 2 // EQUI // 5 // South Africa <==> South Africa 
 5 <==> 5 // EQUI // 5 // taken <==> remains 
@@ -54,7 +54,7 @@
 </sentence>
 <sentence id="7" status="">
 <alignment>
-6 7 <==> 6 7 // EQUI // 4 // to opposition <==> to rebels 
+6 7 <==> 6 7 // EQUI // 5 // to opposition <==> to rebels 
 1 2 3 4 <==> 1 2 3 4 // EQUI // 5 // Syria military police chief <==> Syria military police chief 
 5 <==> 5 // EQUI // 5 // defects <==> defects 
 </alignment>
@@ -64,7 +64,7 @@
 3 4 5 6 <==> 5 6 7 8 // EQUI // 5 // in Belgian coach crash <==> in Belgian bus crash 
 1 <==> 0 // NOALI // 0 // Five <==> -not aligned- 
 0 <==> 1 // NOALI // 0 // -not aligned- <==> Teenagers 
-2 <==> 2 3 4 // EQUI // 4 // killed <==> among 5 dead 
+2 <==> 2 3 4 // EQUI // 3 // killed <==> among 5 dead 
 </alignment>
 </sentence>
 <sentence id="9" status="">
@@ -100,7 +100,7 @@
 <sentence id="12" status="">
 <alignment>
 2 <==> 2 // EQUI // 5 // kill <==> kill 
-6 7 8 <==> 6 7 // EQUI // 5 // in northern Pakistan <==> in Pakistan 
+6 7 8 <==> 6 7 // EQUI // 4 // in northern Pakistan <==> in Pakistan 
 1 <==> 1 // EQUI // 5 // Gunmen <==> Gunmen 
 3 4 5 <==> 3 4 5 // EQUI // 5 // 10 foreign tourists <==> 11 foreign climbers 
 </alignment>
@@ -116,7 +116,7 @@
 </sentence>
 <sentence id="14" status="">
 <alignment>
-8 <==> 8 // EQUI // 5 // Monday <==> Thursday 
+8 <==> 8 // EQUI // 2 // Monday <==> Thursday 
 6 7 <==> 6 7 // EQUI // 5 // against USD <==> against USD 
 1 2 <==> 1 2 // EQUI // 5 // China Yuan <==> China yuan 
 3 <==> 3 // EQUI // 5 // Strengthens <==> strengthens 
@@ -171,7 +171,7 @@
 <sentence id="20" status="">
 <alignment>
 5 6 7 8 <==> 4 5 6 7 // EQUI // 5 // at San Francisco airport <==> at San Francisco airport 
-1 2 <==> 1 // EQUI // 5 // Asiana jet <==> Plane 
+1 2 <==> 1 // EQUI // 4 // Asiana jet <==> Plane 
 3 4 <==> 2 3 // EQUI // 5 // crash lands <==> crash lands 
 </alignment>
 </sentence>
@@ -179,7 +179,7 @@
 <alignment>
 8 9 <==> 7 8 // EQUI // 5 // as firefighters <==> fire crews 
 0 <==> 3 // NOALI // 0 // -not aligned- <==> grows 
-10 <==> 9 10 // EQUI // 5 // labor <==> making progress 
+10 <==> 9 10 // EQUI // 4 // labor <==> making progress 
 5 6 7 <==> 0 // NOALI // 0 // on the lines <==> -not aligned- 
 14 15 16 17 <==> 0 // NOALI // 0 // -LRB- + video -RRB- <==> -not aligned- 
 0 <==> 5 // NOALI // 0 // -not aligned- <==> officials 
@@ -218,7 +218,7 @@
 1 <==> 0 // NOALI // 0 // Egypt <==> -not aligned- 
 0 <==> 4 // NOALI // 0 // -not aligned- <==> response 
 9 10 <==> 0 // NOALI // 0 // for dialogue <==> -not aligned- 
-2 3 4 <==> 1 2 // EQUI // 4 // 's main opposition <==> Egypt opposition 
+2 3 4 <==> 1 2 // EQUI // 5 // 's main opposition <==> Egypt opposition 
 </alignment>
 </sentence>
 <sentence id="25" status="">
@@ -247,7 +247,7 @@
 0 <==> 2 // NOALI // 0 // -not aligned- <==> race 
 2 <==> 0 // NOALI // 0 // feared <==> -not aligned- 
 0 <==> 1 // NOALI // 0 // -not aligned- <==> Rescuers 
-1 <==> 5 // EQUI // 5 // Dozens <==> 20 
+1 <==> 5 // EQUI // 4 // Dozens <==> 20 
 </alignment>
 </sentence>
 <sentence id="28" status="">
@@ -256,12 +256,12 @@
 2 <==> 2 // EQUI // 5 // enter <==> enter 
 1 <==> 1 // EQUI // 5 // Cardinals <==> Cardinals 
 4 5 6 <==> 5 6 // EQUI // 4 // for historic vote <==> to elect 
-3 <==> 3 4 // EQUI // 5 // Vatican <==> Sistine Chapel 
+3 <==> 3 4 // EQUI // 3 // Vatican <==> Sistine Chapel 
 </alignment>
 </sentence>
 <sentence id="29" status="">
 <alignment>
-2 <==> 2 3 // EQUI // 5 // stopped <==> pulled over 
+2 <==> 2 3 // EQUI // 4 // stopped <==> pulled over 
 7 <==> 0 // NOALI // 0 // , <==> -not aligned- 
 9 10 <==> 10 // EQUI // 5 // with warning <==> warning 
 3 4 <==> 6 7 // EQUI // 5 // for speeding <==> for speeding 
@@ -275,7 +275,7 @@
 <sentence id="30" status="">
 <alignment>
 2 <==> 2 // EQUI // 5 // unveils <==> unveils 
-3 4 5 6 7 <==> 3 4 5 6 // EQUI // 5 // $ 30 billion oil link <==> $ 25bn oil link 
+3 4 5 6 7 <==> 3 4 5 6 // EQUI // 4 // $ 30 billion oil link <==> $ 25bn oil link 
 1 <==> 1 // EQUI // 5 // Russia <==> Russia 
 8 9 <==> 7 8 // EQUI // 5 // to Pacific <==> to Pacific 
 </alignment>
@@ -284,7 +284,7 @@
 <alignment>
 5 <==> 0 // NOALI // 0 // : <==> -not aligned- 
 6 <==> 0 // NOALI // 0 // CENC <==> -not aligned- 
-1 2 <==> 1 2 // EQUI // 5 // 7.2-magnitude quake <==> 7.7-magnitude earthquake 
+1 2 <==> 1 2 // EQUI // 4 // 7.2-magnitude quake <==> 7.7-magnitude earthquake 
 3 <==> 3 // EQUI // 5 // hits <==> hits 
 4 <==> 4 5 // EQUI // 5 // Pakistan <==> SW Pakistan 
 </alignment>
@@ -294,7 +294,7 @@
 0 <==> 4 5 // NOALI // 0 // -not aligned- <==> in fly-by 
 1 <==> 1 // EQUI // 5 // Asteroid <==> Asteroid 
 3 4 5 6 <==> 3 // EQUI // 5 // between Earth and satellites <==> Earth 
-2 <==> 2 // EQUI // 5 // zips <==> passes 
+2 <==> 2 // EQUI // 3 // zips <==> passes 
 </alignment>
 </sentence>
 <sentence id="33" status="">
@@ -311,16 +311,16 @@
 <alignment>
 3 <==> 3 // EQUI // 5 // bans <==> bans 
 1 2 <==> 1 2 // EQUI // 5 // Egyptian court <==> Egypt court 
-4 5 <==> 4 5 6 7 8 // EQUI // 4 // Muslim Brotherhood <==> Muslim Brotherhood ` activities ' 
+4 5 <==> 4 5 6 7 8 // EQUI // 5 // Muslim Brotherhood <==> Muslim Brotherhood ` activities ' 
 </alignment>
 </sentence>
 <sentence id="35" status="">
 <alignment>
 16 17 <==> 19 20 // EQUI // 5 // in Iraq <==> in Iraq 
-2 3 4 <==> 2 3 4 // EQUI // 4 // by the Spokesperson <==> by the spokesperson 
+2 3 4 <==> 2 3 4 // EQUI // 5 // by the Spokesperson <==> by the spokesperson 
 0 <==> 13 // NOALI // 0 // -not aligned- <==> , 
 5 6 7 8 9 <==> 5 6 7 8 9 10 11 12 // EQUI // 5 // of High Representative Catherine Ashton <==> of the EU High Representative , Catherine Ashton 
-10 11 12 13 <==> 14 15 16 // EQUI // 5 // on the latest spate <==> on the resumption 
+10 11 12 13 <==> 14 15 16 // EQUI // 4 // on the latest spate <==> on the resumption 
 1 <==> 1 // EQUI // 5 // Statement <==> Statement 
 14 15 <==> 17 18 // EQUI // 5 // of attacks <==> of executions 
 </alignment>
@@ -348,7 +348,7 @@
 <alignment>
 1 2 <==> 1 2 // EQUI // 5 // Moderate earthquake <==> Moderate earthquake 
 3 <==> 3 // EQUI // 5 // jolts <==> hits 
-4 5 <==> 4 5 // EQUI // 5 // NW Pakistan <==> southern Pakistan 
+4 5 <==> 4 5 // EQUI // 4 // NW Pakistan <==> southern Pakistan 
 </alignment>
 </sentence>
 <sentence id="39" status="">
@@ -369,14 +369,14 @@
 <sentence id="41" status="">
 <alignment>
 1 2 <==> 1 2 // EQUI // 5 // Death toll <==> Death toll 
-4 5 6 7 <==> 6 7 8 9 // EQUI // 5 // in Russia plane crash <==> in Italy coach crash 
+4 5 6 7 <==> 6 7 8 9 // EQUI // 4 // in Russia plane crash <==> in Italy coach crash 
 0 <==> 4 5 // NOALI // 0 // -not aligned- <==> to 39 
 3 <==> 3 // EQUI // 5 // rises <==> rises 
 </alignment>
 </sentence>
 <sentence id="42" status="">
 <alignment>
-5 6 <==> 4 5 // EQUI // 5 // in Iraq <==> in Syria 
+5 6 <==> 4 5 // EQUI // 3 // in Iraq <==> in Syria 
 4 <==> 0 // NOALI // 0 // funeral <==> -not aligned- 
 3 <==> 3 // EQUI // 5 // hits <==> strikes 
 1 2 <==> 1 2 // EQUI // 5 // Suicide bomber <==> Suicide bomber 
@@ -393,7 +393,7 @@
 </sentence>
 <sentence id="44" status="">
 <alignment>
-6 7 <==> 7 8 9 // EQUI // 5 // in Pak <==> in NW Pakistan 
+6 7 <==> 7 8 9 // EQUI // 4 // in Pak <==> in NW Pakistan 
 0 <==> 2 // NOALI // 0 // -not aligned- <==> killed 
 8 <==> 0 // NOALI // 0 // postponed <==> -not aligned- 
 1 <==> 0 // NOALI // 0 // Protest <==> -not aligned- 
@@ -415,9 +415,9 @@
 7 <==> 0 // NOALI // 0 // disappoints <==> -not aligned- 
 3 <==> 0 // NOALI // 0 // misses <==> -not aligned- 
 0 <==> 7 // NOALI // 0 // -not aligned- <==> , 
-6 <==> 9 10 11 // EQUI // 5 // iPhone <==> iPhone 4 imports 
+6 <==> 9 10 11 // EQUI // 3 // iPhone <==> iPhone 4 imports 
 0 <==> 8 // NOALI // 0 // -not aligned- <==> bans 
-1 2 <==> 5 6 // EQUI // 5 // Apple revenue <==> for Samsung 
+1 2 <==> 5 6 // EQUI // 4 // Apple revenue <==> for Samsung 
 4 <==> 0 // NOALI // 0 // again <==> -not aligned- 
 5 <==> 0 // NOALI // 0 // , <==> -not aligned- 
 0 <==> 1 2 3 4 // NOALI // 0 // -not aligned- <==> U.S. trade agency rules 
@@ -426,7 +426,7 @@
 <sentence id="47" status="">
 <alignment>
 2 <==> 2 // EQUI // 5 // killed <==> killed 
-1 <==> 1 // EQUI // 5 // 23 <==> 10 
+1 <==> 1 // EQUI // 2 // 23 <==> 10 
 3 4 5 6 <==> 3 4 5 6 // EQUI // 5 // in Iraq car bombings <==> in Iraq bomb attack 
 </alignment>
 </sentence>
@@ -436,20 +436,20 @@
 0 <==> 8 // NOALI // 0 // -not aligned- <==> ' 
 4 5 <==> 6 7 // EQUI // 5 // assassination attempt <==> assassination attempt 
 0 <==> 4 // NOALI // 0 // -not aligned- <==> ` 
-1 2 <==> 1 2 3 // EQUI // 5 // Egypt minister <==> Syrian prime minister 
+1 2 <==> 1 2 3 // EQUI // 3 // Egypt minister <==> Syrian prime minister 
 </alignment>
 </sentence>
 <sentence id="49" status="">
 <alignment>
 1 2 <==> 0 // NOALI // 0 // 2 dead <==> -not aligned- 
-6 7 8 <==> 1 2 3 // EQUI // 5 // over Jamaat leader <==> Bangladesh Islamist leader 
+6 7 8 <==> 1 2 3 // EQUI // 4 // over Jamaat leader <==> Bangladesh Islamist leader 
 9 10 <==> 4 // EQUI // 5 // 's execution <==> executed 
 3 4 5 <==> 0 // NOALI // 0 // in Bangladesh clashes <==> -not aligned- 
 </alignment>
 </sentence>
 <sentence id="50" status="">
 <alignment>
-7 <==> 7 // EQUI // 5 // 540 <==> 1,000 
+7 <==> 7 // EQUI // 3 // 540 <==> 1,000 
 9 <==> 0 // NOALI // 0 // army <==> -not aligned- 
 1 2 3 4 5 <==> 1 2 3 4 5 // EQUI // 5 // Bangladesh building collapse death toll <==> Bangladesh building collapse death toll 
 8 <==> 0 // NOALI // 0 // : <==> -not aligned- 
@@ -460,12 +460,12 @@
 <alignment>
 1 <==> 1 2 3 // EQUI // 5 // China <==> China and Taiwan 
 2 3 <==> 4 // EQUI // 5 // to resume <==> hold 
-4 5 6 <==> 5 6 // EQUI // 5 // US investment talks <==> historic talks 
+4 5 6 <==> 5 6 // EQUI // 4 // US investment talks <==> historic talks 
 </alignment>
 </sentence>
 <sentence id="52" status="">
 <alignment>
-5 <==> 5 // EQUI // 5 // soldiers <==> 16 
+5 <==> 5 // EQUI // 4 // soldiers <==> 16 
 1 2 3 <==> 1 2 3 // EQUI // 5 // Yemen suicide bombing <==> Female suicide bomber 
 0 <==> 6 7 8 // NOALI // 0 // -not aligned- <==> at Russian station 
 4 <==> 4 // EQUI // 5 // kills <==> kills 
@@ -474,7 +474,7 @@
 <sentence id="53" status="">
 <alignment>
 3 4 <==> 3 4 // EQUI // 5 // tear gas <==> tear gas 
-8 9 <==> 7 8 // EQUI // 5 // in Tunis <==> in Cairo 
+8 9 <==> 7 8 // EQUI // 4 // in Tunis <==> in Cairo 
 1 <==> 1 // EQUI // 5 // Police <==> Police 
 5 6 <==> 0 // NOALI // 0 // to disperse <==> -not aligned- 
 7 <==> 5 6 // EQUI // 5 // protesters <==> at protesters 
@@ -510,7 +510,7 @@
 <sentence id="57" status="">
 <alignment>
 7 <==> 0 // NOALI // 0 // Continue <==> -not aligned- 
-8 <==> 5 6 7 // EQUI // 5 // Protest <==> Thai protest day 
+8 <==> 5 6 7 // EQUI // 4 // Protest <==> Thai protest day 
 0 <==> 4 // NOALI // 0 // -not aligned- <==> rock 
 9 10 <==> 0 // NOALI // 0 // in Bangkok <==> -not aligned- 
 4 <==> 0 // NOALI // 0 // Heard <==> -not aligned- 
@@ -534,7 +534,7 @@
 <alignment>
 0 <==> 4 // NOALI // 0 // -not aligned- <==> , 
 1 <==> 1 // EQUI // 5 // Today <==> Today 
-5 6 <==> 5 6 // EQUI // 5 // April 23 <==> Jan. 21 
+5 6 <==> 5 6 // EQUI // 2 // April 23 <==> Jan. 21 
 4 <==> 0 // NOALI // 0 // , <==> -not aligned- 
 2 3 <==> 2 3 // EQUI // 5 // in History <==> in History 
 </alignment>
@@ -543,8 +543,8 @@
 <alignment>
 0 <==> 4 // NOALI // 0 // -not aligned- <==> Concerned 
 4 <==> 0 // NOALI // 0 // warns <==> -not aligned- 
-5 6 <==> 5 6 7 // EQUI // 5 // of Talibanisation <==> About Israeli Airstrikes 
-1 <==> 1 2 3 // EQUI // 5 // Iran <==> Russia , China 
+5 6 <==> 5 6 7 // EQUI // 4 // of Talibanisation <==> About Israeli Airstrikes 
+1 <==> 1 2 3 // EQUI // 2 // Iran <==> Russia , China 
 7 8 <==> 8 9 // EQUI // 5 // in Syria <==> in Syria 
 2 3 <==> 0 // NOALI // 0 // 's Rouhani <==> -not aligned- 
 </alignment>
@@ -555,9 +555,9 @@
 1 <==> 3 4 // EQUI // 5 // Police <==> after police 
 3 <==> 6 7 // EQUI // 5 // gunman <==> with gunman 
 4 <==> 0 // NOALI // 0 // , <==> -not aligned- 
-6 7 8 <==> 1 2 // EQUI // 5 // 3 more dead <==> 4 dead 
+6 7 8 <==> 1 2 // EQUI // 4 // 3 more dead <==> 4 dead 
 5 <==> 0 // NOALI // 0 // find <==> -not aligned- 
-9 10 11 <==> 9 10 11 // EQUI // 5 // in Colo. home <==> in US home 
+9 10 11 <==> 9 10 11 // EQUI // 4 // in Colo. home <==> in US home 
 0 <==> 8 // NOALI // 0 // -not aligned- <==> barricaded 
 </alignment>
 </sentence>
@@ -565,10 +565,10 @@
 <alignment>
 0 <==> 1 // NOALI // 0 // -not aligned- <==> EU 
 1 <==> 6 7 // EQUI // 5 // Fight <==> to fight 
-2 3 4 <==> 4 5 // EQUI // 5 // for Mali Town <==> Mali army 
+2 3 4 <==> 4 5 // EQUI // 4 // for Mali Town <==> Mali army 
 0 <==> 2 3 // NOALI // 0 // -not aligned- <==> to train 
 5 <==> 0 // NOALI // 0 // Reflects <==> -not aligned- 
-6 7 <==> 8 9 10 // EQUI // 5 // Islamist Tactics <==> northern Islamist militants 
+6 7 <==> 8 9 10 // EQUI // 4 // Islamist Tactics <==> northern Islamist militants 
 </alignment>
 </sentence>
 <sentence id="63" status="">
@@ -577,7 +577,7 @@
 1 <==> 0 // NOALI // 0 // Ships <==> -not aligned- 
 0 <==> 1 // NOALI // 0 // -not aligned- <==> Syria 
 0 <==> 5 6 // NOALI // 0 // -not aligned- <==> into Bombs 
-3 4 5 6 7 <==> 3 4 // EQUI // 5 // for Syrian Chemical Weapons Transport <==> Chemical Weapons 
+3 4 5 6 7 <==> 3 4 // EQUI // 4 // for Syrian Chemical Weapons Transport <==> Chemical Weapons 
 0 <==> 7 // NOALI // 0 // -not aligned- <==> , 
 0 <==> 8 // NOALI // 0 // -not aligned- <==> Awaiting 
 2 <==> 0 // NOALI // 0 // Train <==> -not aligned- 
@@ -591,9 +591,9 @@
 6 7 <==> 6 7 8 // EQUI // 5 // in attacks <==> in fresh attacks 
 8 9 <==> 9 10 // EQUI // 5 // in Iraq <==> in Iraq 
 3 <==> 0 // NOALI // 0 // , <==> -not aligned- 
-1 <==> 1 // EQUI // 5 // 2 <==> 15 
+1 <==> 1 // EQUI // 2 // 2 <==> 15 
 0 <==> 3 // NOALI // 0 // -not aligned- <==> , 
-4 <==> 4 // EQUI // 5 // 11 <==> 90 
+4 <==> 4 // EQUI // 2 // 11 <==> 90 
 </alignment>
 </sentence>
 <sentence id="65" status="">
@@ -604,13 +604,13 @@
 6 7 <==> 0 // NOALI // 0 // to death <==> -not aligned- 
 0 <==> 3 // NOALI // 0 // -not aligned- <==> pushes 
 3 <==> 0 // NOALI // 0 // sentences <==> -not aligned- 
-4 5 <==> 1 2 // EQUI // 5 // first lawmaker <==> British PM 
+4 5 <==> 1 2 // EQUI // 3 // first lawmaker <==> British PM 
 </alignment>
 </sentence>
 <sentence id="66" status="">
 <alignment>
-1 <==> 1 // EQUI // 5 // Police <==> Politicians 
-3 4 5 6 <==> 2 3 4 5 // EQUI // 5 // in Belfast flag protests <==> in flag violence talks 
+1 <==> 1 // EQUI // 4 // Police <==> Politicians 
+3 4 5 6 <==> 2 3 4 5 // EQUI // 4 // in Belfast flag protests <==> in flag violence talks 
 2 <==> 0 // NOALI // 0 // attacked <==> -not aligned- 
 </alignment>
 </sentence>
@@ -645,7 +645,7 @@
 <sentence id="70" status="">
 <alignment>
 2 <==> 2 // EQUI // 5 // die <==> Killed 
-1 <==> 1 // EQUI // 5 // 32 <==> 1 
+1 <==> 1 // EQUI // 2 // 32 <==> 1 
 3 4 5 <==> 3 4 5 // EQUI // 5 // in Bangladesh protest <==> in Bangladesh Protest 
 </alignment>
 </sentence>
@@ -707,7 +707,7 @@
 <sentence id="76" status="">
 <alignment>
 5 6 <==> 0 // NOALI // 0 // by Norovirus <==> -not aligned- 
-1 2 3 <==> 1 2 3 // EQUI // 5 // X'mas cruise passengers <==> Missing cruise passenger 
+1 2 3 <==> 1 2 3 // EQUI // 4 // X'mas cruise passengers <==> Missing cruise passenger 
 0 <==> 5 6 7 // NOALI // 0 // -not aligned- <==> a NSW ambo 
 0 <==> 4 // NOALI // 0 // -not aligned- <==> is 
 4 <==> 0 // NOALI // 0 // hit <==> -not aligned- 
@@ -717,8 +717,8 @@
 <alignment>
 3 <==> 3 // EQUI // 5 // close <==> close 
 1 2 <==> 1 2 // EQUI // 5 // Chinese shares <==> Chinese shares 
-5 <==> 5 // EQUI // 5 // Wednesday <==> Friday 
-4 <==> 4 // EQUI // 5 // lower <==> higher 
+5 <==> 5 // EQUI // 2 // Wednesday <==> Friday 
+4 <==> 4 // EQUI // 3 // lower <==> higher 
 </alignment>
 </sentence>
 <sentence id="78" status="">
@@ -733,16 +733,16 @@
 <alignment>
 5 <==> 5 // EQUI // 5 // close <==> close 
 0 <==> 7 // NOALI // 0 // -not aligned- <==> -- 
-8 9 <==> 8 9 // EQUI // 5 // Dec. 4 <==> Jan. 24 
+8 9 <==> 8 9 // EQUI // 2 // Dec. 4 <==> Jan. 24 
 1 2 3 4 <==> 1 2 3 4 // EQUI // 5 // China stock index futures <==> China stock index futures 
 7 <==> 0 // NOALI // 0 // -- <==> -not aligned- 
-6 <==> 6 // EQUI // 5 // higher <==> lower 
+6 <==> 6 // EQUI // 3 // higher <==> lower 
 </alignment>
 </sentence>
 <sentence id="80" status="">
 <alignment>
 5 6 7 <==> 4 5 6 7 8 // EQUI // 5 // by Israeli fire <==> in an Israeli Air Strike 
-1 <==> 1 2 // EQUI // 5 // Palestinians <==> Two Palestinians 
+1 <==> 1 2 // EQUI // 4 // Palestinians <==> Two Palestinians 
 4 <==> 0 // NOALI // 0 // ' <==> -not aligned- 
 8 9 <==> 9 10 // EQUI // 5 // in Gaza <==> on Gaza 
 2 <==> 0 // NOALI // 0 // ` <==> -not aligned- 
@@ -753,10 +753,10 @@
 <alignment>
 2 <==> 2 // EQUI // 5 // killed <==> killed 
 0 <==> 3 // NOALI // 0 // -not aligned- <==> , 
-4 <==> 4 // EQUI // 5 // 3 <==> 44 
+4 <==> 4 // EQUI // 3 // 3 <==> 44 
 3 <==> 0 // NOALI // 0 // , <==> -not aligned- 
-6 7 8 9 10 <==> 6 7 8 9 // EQUI // 5 // in south China road accident <==> in Philippine road accident 
-1 <==> 1 // EQUI // 5 // 7 <==> 20 
+6 7 8 9 10 <==> 6 7 8 9 // EQUI // 4 // in south China road accident <==> in Philippine road accident 
+1 <==> 1 // EQUI // 4 // 7 <==> 20 
 5 <==> 5 // EQUI // 5 // injured <==> injured 
 </alignment>
 </sentence>
@@ -764,7 +764,7 @@
 <alignment>
 4 <==> 0 // NOALI // 0 // Kids <==> -not aligned- 
 0 <==> 5 6 7 // NOALI // 0 // -not aligned- <==> at finish line 
-1 <==> 1 // EQUI // 5 // Books <==> Report 
+1 <==> 1 // EQUI // 4 // Books <==> Report 
 2 3 <==> 0 // NOALI // 0 // To Help <==> -not aligned- 
 6 7 8 9 <==> 8 9 10 // EQUI // 5 // About Boston Marathon News <==> of Boston Marathon 
 5 <==> 0 // NOALI // 0 // Talk <==> -not aligned- 
@@ -774,10 +774,10 @@
 <sentence id="83" status="">
 <alignment>
 6 <==> 0 // NOALI // 0 // collapses <==> -not aligned- 
-1 <==> 1 // EQUI // 5 // Motorists <==> Cars 
+1 <==> 1 // EQUI // 4 // Motorists <==> Cars 
 0 <==> 6 7 // NOALI // 0 // -not aligned- <==> outside Tokyo 
-2 <==> 2 // EQUI // 5 // killed <==> trapped 
-3 4 5 <==> 3 4 5 // EQUI // 5 // after Japanese tunnel <==> in tunnel collapse 
+2 <==> 2 // EQUI // 2 // killed <==> trapped 
+3 4 5 <==> 3 4 5 // EQUI // 4 // after Japanese tunnel <==> in tunnel collapse 
 </alignment>
 </sentence>
 <sentence id="84" status="">
@@ -800,7 +800,7 @@
 1 <==> 0 // NOALI // 0 // ` <==> -not aligned- 
 3 4 <==> 0 // NOALI // 0 // of Syria <==> -not aligned- 
 11 <==> 6 7 // EQUI // 5 // rebels <==> to rebels 
-9 10 <==> 4 5 // EQUI // 5 // on arming <==> military aid 
+9 10 <==> 4 5 // EQUI // 4 // on arming <==> military aid 
 5 <==> 0 // NOALI // 0 // ' <==> -not aligned- 
 </alignment>
 </sentence>
@@ -812,7 +812,7 @@
 0 <==> 9 10 // NOALI // 0 // -not aligned- <==> 5 people 
 6 7 8 <==> 5 6 7 // EQUI // 5 // at Jantar Mantar <==> at Jantar Mantar 
 0 <==> 8 // NOALI // 0 // -not aligned- <==> , 
-1 2 <==> 1 // EQUI // 5 // ABVP protesters <==> Protesters 
+1 2 <==> 1 // EQUI // 4 // ABVP protesters <==> Protesters 
 11 <==> 0 // NOALI // 0 // stones <==> -not aligned- 
 10 <==> 0 // NOALI // 0 // throw <==> -not aligned- 
 3 4 <==> 2 3 // EQUI // 5 // clash with <==> clash with 
@@ -822,7 +822,7 @@
 <alignment>
 3 <==> 3 // EQUI // 5 // charged <==> charged 
 4 5 6 <==> 4 5 // EQUI // 5 // with terrorism offences <==> with terrorism 
-1 2 <==> 1 2 // EQUI // 5 // Two men <==> Saudi-born Nigerian 
+1 2 <==> 1 2 // EQUI // 3 // Two men <==> Saudi-born Nigerian 
 0 <==> 6 7 8 // NOALI // 0 // -not aligned- <==> in New York 
 </alignment>
 </sentence>
@@ -831,29 +831,29 @@
 8 <==> 2 3 // EQUI // 5 // killed <==> among dead 
 5 6 <==> 0 // NOALI // 0 // mostly foreigners <==> -not aligned- 
 7 <==> 0 // NOALI // 0 // , <==> -not aligned- 
-1 2 3 <==> 1 // EQUI // 5 // Up to 21 <==> Briton 
+1 2 3 <==> 1 // EQUI // 4 // Up to 21 <==> Briton 
 4 <==> 0 // NOALI // 0 // , <==> -not aligned- 
 9 10 11 12 <==> 4 5 6 7 // EQUI // 5 // in Kabul suicide attack <==> in Kabul suicide attack 
 </alignment>
 </sentence>
 <sentence id="89" status="">
 <alignment>
-4 5 <==> 4 5 // EQUI // 4 // 0.88 pc <==> 0.44 pct 
+4 5 <==> 4 5 // EQUI // 3 // 0.88 pc <==> 0.44 pct 
 6 <==> 6 // EQUI // 5 // lower <==> lower 
 3 <==> 3 // EQUI // 5 // close <==> close 
-1 2 <==> 1 2 // EQUI // 5 // Tokyo shares <==> Singapore stocks 
+1 2 <==> 1 2 // EQUI // 2 // Tokyo shares <==> Singapore stocks 
 </alignment>
 </sentence>
 <sentence id="90" status="">
 <alignment>
-1 2 3 <==> 1 2 3 // EQUI // 5 // 4.1 magnitude quake <==> 7.2 magnitude earthquake 
+1 2 3 <==> 1 2 3 // EQUI // 3 // 4.1 magnitude quake <==> 7.2 magnitude earthquake 
 4 <==> 4 // EQUI // 5 // strikes <==> strikes 
-5 6 <==> 5 // EQUI // 5 // U. S <==> Philippines 
+5 6 <==> 5 // EQUI // 3 // U. S <==> Philippines 
 </alignment>
 </sentence>
 <sentence id="91" status="">
 <alignment>
-1 2 <==> 1 2 // EQUI // 5 // 35 militants <==> 12 militants 
+1 2 <==> 1 2 // EQUI // 3 // 35 militants <==> 12 militants 
 7 <==> 0 // NOALI // 0 // : <==> -not aligned- 
 8 <==> 8 // EQUI // 5 // official <==> ministry 
 3 <==> 3 // EQUI // 5 // killed <==> killed 
@@ -873,7 +873,7 @@
 </sentence>
 <sentence id="93" status="">
 <alignment>
-8 9 10 11 <==> 8 9 10 11 // EQUI // 5 // November 25 , 2013 <==> October 8 , 2013 
+8 9 10 11 <==> 8 9 10 11 // EQUI // 2 // November 25 , 2013 <==> October 8 , 2013 
 5 6 <==> 5 6 // EQUI // 5 // for Monday <==> for Tuesday 
 7 <==> 0 // NOALI // 0 // , <==> -not aligned- 
 1 2 <==> 1 2 // EQUI // 5 // The Note <==> The Note 
@@ -896,7 +896,7 @@
 <sentence id="95" status="">
 <alignment>
 4 <==> 1 2 // EQUI // 5 // North <==> North Korea 
-6 <==> 4 5 // EQUI // 5 // Missiles <==> short-range missiles 
+6 <==> 4 5 // EQUI // 4 // Missiles <==> short-range missiles 
 3 <==> 0 // NOALI // 0 // Says <==> -not aligned- 
 1 2 <==> 0 // NOALI // 0 // South Korea <==> -not aligned- 
 5 <==> 3 // EQUI // 5 // Fired <==> launches 
@@ -906,7 +906,7 @@
 <alignment>
 4 <==> 2 // EQUI // 5 // killed <==> attacks 
 5 6 <==> 5 6 // EQUI // 5 // in Afghanistan <==> in Afghanistan 
-1 2 3 <==> 1 // EQUI // 5 // 38 Taliban militants <==> Taliban 
+1 2 3 <==> 1 // EQUI // 4 // 38 Taliban militants <==> Taliban 
 0 <==> 3 4 // NOALI // 0 // -not aligned- <==> US base 
 </alignment>
 </sentence>
@@ -926,7 +926,7 @@
 <alignment>
 3 <==> 3 // EQUI // 5 // kills <==> dies 
 1 2 <==> 1 2 // EQUI // 5 // Nato airstrike <==> Nato solider 
-4 5 6 <==> 4 5 // EQUI // 5 // two Afghan kids <==> in Afghanistan 
+4 5 6 <==> 4 5 // EQUI // 4 // two Afghan kids <==> in Afghanistan 
 </alignment>
 </sentence>
 <sentence id="99" status="">
@@ -944,15 +944,15 @@
 2 <==> 0 // NOALI // 0 // cites <==> -not aligned- 
 3 <==> 0 // NOALI // 0 // ` <==> -not aligned- 
 0 <==> 3 // NOALI // 0 // -not aligned- <==> appear 
-1 <==> 1 2 // EQUI // 5 // Reid <==> Senate leaders 
+1 <==> 1 2 // EQUI // 4 // Reid <==> Senate leaders 
 4 5 <==> 0 // NOALI // 0 // tremendous progress <==> -not aligned- 
 0 <==> 4 // NOALI // 0 // -not aligned- <==> close 
 </alignment>
 </sentence>
 <sentence id="101" status="">
 <alignment>
-5 <==> 4 5 // EQUI // 5 // Sarangani <==> SW China 
-1 2 3 <==> 1 2 // EQUI // 5 // 6.2 magnitude quake <==> 4.3-magnitude earthquake 
+5 <==> 4 5 // EQUI // 2 // Sarangani <==> SW China 
+1 2 3 <==> 1 2 // EQUI // 3 // 6.2 magnitude quake <==> 4.3-magnitude earthquake 
 4 <==> 3 // EQUI // 5 // jolts <==> jolts 
 </alignment>
 </sentence>
@@ -990,7 +990,7 @@
 0 <==> 4 5 // NOALI // 0 // -not aligned- <==> from Canada 
 8 <==> 0 // NOALI // 0 // resign <==> -not aligned- 
 0 <==> 6 7 // NOALI // 0 // -not aligned- <==> as protests 
-1 2 3 4 5 6 7 <==> 1 2 // EQUI // 5 // Ukrainian Prime Minister Azarov and entire government <==> Ukrainian officials 
+1 2 3 4 5 6 7 <==> 1 2 // EQUI // 4 // Ukrainian Prime Minister Azarov and entire government <==> Ukrainian officials 
 </alignment>
 </sentence>
 <sentence id="105" status="">
@@ -999,7 +999,7 @@
 0 <==> 4 5 // NOALI // 0 // -not aligned- <==> for calm 
 1 2 <==> 6 7 // EQUI // 5 // George Zimmerman <==> after Zimmerman 
 3 <==> 0 // NOALI // 0 // found <==> -not aligned- 
-4 5 <==> 8 // EQUI // 4 // not guilty <==> acquitted 
+4 5 <==> 8 // EQUI // 5 // not guilty <==> acquitted 
 0 <==> 1 2 3 // NOALI // 0 // -not aligned- <==> Protests and appeals 
 </alignment>
 </sentence>
@@ -1054,7 +1054,7 @@
 <alignment>
 2 <==> 3 // EQUI // 5 // Welcomes <==> welcomes 
 5 6 <==> 6 7 // EQUI // 5 // on Syria <==> on Syria 
-1 <==> 1 2 // EQUI // 5 // France <==> Arab League 
+1 <==> 1 2 // EQUI // 2 // France <==> Arab League 
 3 4 <==> 4 5 // EQUI // 5 // US-Russia Deal <==> US-Russian deal 
 </alignment>
 </sentence>
@@ -1079,7 +1079,7 @@
 </sentence>
 <sentence id="113" status="">
 <alignment>
-3 <==> 3 // EQUI // 5 // considers <==> orders 
+3 <==> 3 // EQUI // 4 // considers <==> orders 
 4 <==> 5 6 // EQUI // 5 // Mubarak <==> of Mubarak 
 5 6 <==> 4 // EQUI // 5 // 's release <==> release 
 1 2 <==> 1 2 // EQUI // 5 // Egyptian court <==> Egypt court 
@@ -1103,7 +1103,7 @@
 </sentence>
 <sentence id="116" status="">
 <alignment>
-1 2 3 <==> 1 2 // EQUI // 5 // BBC veteran Hall <==> Stuart Hall 
+1 2 3 <==> 1 2 // EQUI // 4 // BBC veteran Hall <==> Stuart Hall 
 5 6 7 <==> 4 5 // EQUI // 5 // child sex abuse <==> Sex Assaults 
 0 <==> 6 7 // NOALI // 0 // -not aligned- <==> On Children 
 4 <==> 3 // EQUI // 5 // admits <==> Admits 
@@ -1111,7 +1111,7 @@
 </sentence>
 <sentence id="117" status="">
 <alignment>
-6 7 <==> 6 7 // EQUI // 5 // on Monday <==> on Thursday 
+6 7 <==> 6 7 // EQUI // 3 // on Monday <==> on Thursday 
 1 <==> 1 // EQUI // 5 // Stocks <==> Stocks 
 4 5 <==> 4 5 // EQUI // 5 // at close <==> at close 
 2 3 <==> 2 3 // EQUI // 5 // to watch <==> to watch 
@@ -1129,7 +1129,7 @@
 <alignment>
 0 <==> 5 // NOALI // 0 // -not aligned- <==> reports 
 4 <==> 0 // NOALI // 0 // , <==> -not aligned- 
-5 6 <==> 6 7 // EQUI // 5 // 8-10 people <==> of people 
+5 6 <==> 6 7 // EQUI // 4 // 8-10 people <==> of people 
 0 <==> 4 // NOALI // 0 // -not aligned- <==> ; 
 3 <==> 3 // EQUI // 5 // collapses <==> collapses 
 1 2 <==> 1 2 // EQUI // 5 // Philadelphia building <==> Philadelphia building 
@@ -1139,7 +1139,7 @@
 <sentence id="120" status="">
 <alignment>
 1 2 <==> 1 2 // EQUI // 5 // U.S. Senate <==> U.S. Senate 
-5 6 7 <==> 6 7 8 9 // EQUI // 5 // gun control debate <==> on gun control bill 
+5 6 7 <==> 6 7 8 9 // EQUI // 4 // gun control debate <==> on gun control bill 
 0 <==> 4 5 // NOALI // 0 // -not aligned- <==> to vote 
 3 4 <==> 3 // EQUI // 5 // sets off <==> set 
 </alignment>
@@ -1151,7 +1151,7 @@
 10 <==> 0 // NOALI // 0 // say <==> -not aligned- 
 9 <==> 0 // NOALI // 0 // scientists <==> -not aligned- 
 8 <==> 0 // NOALI // 0 // , <==> -not aligned- 
-6 7 <==> 6 7 // EQUI // 5 // immune system <==> human immunity 
+6 7 <==> 6 7 // EQUI // 4 // immune system <==> human immunity 
 </alignment>
 </sentence>
 <sentence id="122" status="">
@@ -1161,7 +1161,7 @@
 4 <==> 2 3 // EQUI // 5 // Buys <==> to acquire 
 14 15 <==> 0 // NOALI // 0 // In Cash <==> -not aligned- 
 1 <==> 0 // NOALI // 0 // Intel <==> -not aligned- 
-5 6 7 8 9 10 <==> 4 5 // EQUI // 5 // Cloud-Based , Networked Firewall Specialist Stonesoft <==> firewall Stonesoft 
+5 6 7 8 9 10 <==> 4 5 // EQUI // 4 // Cloud-Based , Networked Firewall Specialist Stonesoft <==> firewall Stonesoft 
 </alignment>
 </sentence>
 <sentence id="123" status="">
@@ -1176,7 +1176,7 @@
 <alignment>
 2 <==> 2 // EQUI // 5 // arrested <==> arrested 
 1 <==> 1 // EQUI // 5 // Musharraf <==> Musharraf 
-3 4 5 6 <==> 3 4 // EQUI // 5 // in Lal Masjid case <==> in Pakistan 
+3 4 5 6 <==> 3 4 // EQUI // 4 // in Lal Masjid case <==> in Pakistan 
 </alignment>
 </sentence>
 <sentence id="125" status="">
@@ -1190,7 +1190,7 @@
 <sentence id="126" status="">
 <alignment>
 1 2 <==> 1 2 // EQUI // 5 // Indian stocks <==> Indian stocks 
-4 <==> 4 // EQUI // 5 // flat <==> lower 
+4 <==> 4 // EQUI // 4 // flat <==> lower 
 3 <==> 3 // EQUI // 5 // open <==> open 
 </alignment>
 </sentence>
@@ -1205,7 +1205,7 @@
 <sentence id="128" status="">
 <alignment>
 9 10 11 <==> 7 8 9 // EQUI // 5 // in UK crash <==> in British crash 
-1 2 3 4 5 6 7 <==> 1 2 3 4 5 // EQUI // 5 // Four U.S. Air Force helicopter crew members <==> US Air Force helicopter crew 
+1 2 3 4 5 6 7 <==> 1 2 3 4 5 // EQUI // 4 // Four U.S. Air Force helicopter crew members <==> US Air Force helicopter crew 
 8 <==> 6 // EQUI // 5 // killed <==> killed 
 </alignment>
 </sentence>
@@ -1234,7 +1234,7 @@
 </sentence>
 <sentence id="131" status="">
 <alignment>
-4 5 6 7 <==> 5 6 // EQUI // 5 // at Great Barrier Reef <==> near Australia 
+4 5 6 7 <==> 5 6 // EQUI // 4 // at Great Barrier Reef <==> near Australia 
 2 <==> 3 // EQUI // 5 // dumps <==> jettisons 
 1 <==> 1 2 // EQUI // 5 // U.S. <==> U.S. military 
 3 <==> 4 // EQUI // 5 // bombs <==> bombs 
@@ -1258,7 +1258,7 @@
 </sentence>
 <sentence id="134" status="">
 <alignment>
-4 <==> 4 5 // EQUI // 5 // 5 <==> 3 policemen 
+4 <==> 4 5 // EQUI // 4 // 5 <==> 3 policemen 
 5 6 <==> 6 7 // EQUI // 5 // in Afghanistan <==> in Afghanistan 
 3 <==> 3 // EQUI // 5 // kill <==> kills 
 1 2 <==> 1 2 // EQUI // 5 // Roadside bombs <==> Roadside bomb 
@@ -1275,8 +1275,8 @@
 <sentence id="136" status="">
 <alignment>
 1 2 <==> 1 2 // EQUI // 5 // Demolition work <==> Demolition work 
-3 <==> 3 4 // EQUI // 4 // begins <==> to begin 
-4 5 6 7 <==> 5 6 // EQUI // 5 // on Don Valley Stadium <==> at stadium 
+3 <==> 3 4 // EQUI // 5 // begins <==> to begin 
+4 5 6 7 <==> 5 6 // EQUI // 4 // on Don Valley Stadium <==> at stadium 
 </alignment>
 </sentence>
 <sentence id="137" status="">
@@ -1288,7 +1288,7 @@
 </sentence>
 <sentence id="138" status="">
 <alignment>
-1 2 <==> 1 2 // EQUI // 5 // US Troops <==> NATO troops 
+1 2 <==> 1 2 // EQUI // 3 // US Troops <==> NATO troops 
 3 <==> 3 // EQUI // 5 // Killed <==> killed 
 4 5 6 7 <==> 4 5 6 7 8 9 // EQUI // 5 // in Afghan Insider Attack <==> in Afghan ` insider attack ' 
 </alignment>
@@ -1326,7 +1326,7 @@
 <alignment>
 5 6 <==> 4 5 6 // EQUI // 5 // in Afghanistan <==> in Afghan attack 
 4 <==> 3 // EQUI // 5 // killed <==> killed 
-1 2 3 <==> 1 2 // EQUI // 5 // Two NATO soldiers <==> NATO soldier 
+1 2 3 <==> 1 2 // EQUI // 4 // Two NATO soldiers <==> NATO soldier 
 </alignment>
 </sentence>
 <sentence id="143" status="">
@@ -1350,9 +1350,9 @@
 </sentence>
 <sentence id="145" status="">
 <alignment>
-1 2 <==> 1 2 // EQUI // 5 // Heavy rain <==> Fresh rain 
+1 2 <==> 1 2 // EQUI // 4 // Heavy rain <==> Fresh rain 
 4 <==> 0 // NOALI // 0 // threat <==> -not aligned- 
-5 6 7 8 <==> 4 5 // EQUI // 5 // of Christmas Day flooding <==> more flooding 
+5 6 7 8 <==> 4 5 // EQUI // 4 // of Christmas Day flooding <==> more flooding 
 3 <==> 3 // EQUI // 5 // raises <==> brings 
 </alignment>
 </sentence>
@@ -1402,14 +1402,14 @@
 10 <==> 7 // EQUI // 5 // hurt <==> hurt 
 2 <==> 2 // EQUI // 5 // hits <==> hits 
 5 <==> 0 // NOALI // 0 // , <==> -not aligned- 
-6 7 8 9 <==> 6 // EQUI // 5 // more than 500 people <==> 400 
+6 7 8 9 <==> 6 // EQUI // 4 // more than 500 people <==> 400 
 0 <==> 5 // NOALI // 0 // -not aligned- <==> , 
 1 <==> 1 // EQUI // 5 // Meteorite <==> Meteorite 
 </alignment>
 </sentence>
 <sentence id="151" status="">
 <alignment>
-1 <==> 1 // EQUI // 4 // 123 <==> Many 
+1 <==> 1 // EQUI // 3 // 123 <==> Many 
 2 <==> 2 // EQUI // 5 // killed <==> killed 
 3 4 <==> 3 4 5 6 // EQUI // 5 // in fighting <==> in Syrian air strike 
 5 6 7 <==> 0 // NOALI // 0 // in northern Syria <==> -not aligned- 
@@ -1480,7 +1480,7 @@
 <alignment>
 3 <==> 3 // EQUI // 5 // killed <==> dead 
 0 <==> 10 11 12 // NOALI // 0 // -not aligned- <==> in east Afghanistan 
-4 5 6 <==> 4 5 6 // EQUI // 5 // in suicide attack <==> in new blast 
+4 5 6 <==> 4 5 6 // EQUI // 4 // in suicide attack <==> in new blast 
 1 2 <==> 1 2 // EQUI // 5 // Three Afghans <==> Three Afghans 
 0 <==> 7 8 9 // NOALI // 0 // -not aligned- <==> at US base 
 </alignment>
@@ -1519,7 +1519,7 @@
 1 2 <==> 0 // NOALI // 0 // The e-mails <==> -not aligned- 
 8 9 <==> 6 7 // EQUI // 5 // about meeting <==> about meeting 
 3 <==> 0 // NOALI // 0 // - <==> -not aligned- 
-7 <==> 4 5 // EQUI // 5 // trader <==> rogue trader 
+7 <==> 4 5 // EQUI // 4 // trader <==> rogue trader 
 4 5 <==> 1 2 // EQUI // 5 // Oil firm <==> Oil firm 
 6 <==> 3 // EQUI // 5 // asked <==> asked 
 10 11 <==> 8 9 // EQUI // 5 // with minister <==> with minister 
@@ -1545,7 +1545,7 @@
 <sentence id="166" status="">
 <alignment>
 1 <==> 0 // NOALI // 0 // NATO <==> -not aligned- 
-3 4 <==> 1 2 // EQUI // 5 // 3 troops <==> NATO troops 
+3 4 <==> 1 2 // EQUI // 3 // 3 troops <==> NATO troops 
 6 7 8 <==> 4 5 6 7 8 9 // EQUI // 5 // in Afghanistan attack <==> in Afghan ` insider attack ' 
 5 <==> 3 // EQUI // 5 // killed <==> killed 
 2 <==> 0 // NOALI // 0 // : <==> -not aligned- 
@@ -1572,7 +1572,7 @@
 <sentence id="169" status="">
 <alignment>
 1 2 3 4 <==> 1 2 3 4 // EQUI // 5 // Delhi gang rape victim <==> Delhi gang rape victim 
-5 <==> 5 // EQUI // 5 // dies <==> flown 
+5 <==> 5 // EQUI // 3 // dies <==> flown 
 6 7 8 <==> 6 7 8 // EQUI // 5 // in Singapore hospital <==> to Singapore hospital 
 </alignment>
 </sentence>
@@ -1585,10 +1585,10 @@
 </sentence>
 <sentence id="171" status="">
 <alignment>
-4 5 6 <==> 5 6 7 // EQUI // 5 // Syria chemical arms <==> Syria chemical mission 
+4 5 6 <==> 5 6 7 // EQUI // 4 // Syria chemical arms <==> Syria chemical mission 
 0 <==> 3 4 // NOALI // 0 // -not aligned- <==> to help 
 3 <==> 0 // NOALI // 0 // orders <==> -not aligned- 
-1 2 <==> 1 // EQUI // 5 // UN resolution <==> Germany 
+1 2 <==> 1 // EQUI // 4 // UN resolution <==> Germany 
 0 <==> 2 // NOALI // 0 // -not aligned- <==> ready 
 7 <==> 0 // NOALI // 0 // destroyed <==> -not aligned- 
 </alignment>
@@ -1607,7 +1607,7 @@
 </sentence>
 <sentence id="173" status="">
 <alignment>
-3 <==> 3 // EQUI // 4 // acquitted <==> convicted 
+3 <==> 3 // EQUI // 5 // acquitted <==> convicted 
 1 2 <==> 1 2 // EQUI // 5 // NATO protesters <==> NATO protesters 
 4 5 6 <==> 4 5 6 // EQUI // 5 // of terrorism charges <==> on non-terrorism charges 
 </alignment>
@@ -1627,7 +1627,7 @@
 <alignment>
 4 5 6 <==> 5 6 7 8 // EQUI // 5 // over Syria action <==> on Syria military action 
 2 <==> 0 // NOALI // 0 // holds <==> -not aligned- 
-1 <==> 1 // EQUI // 5 // Obama <==> Cameron 
+1 <==> 1 // EQUI // 2 // Obama <==> Cameron 
 3 <==> 0 // NOALI // 0 // talks <==> -not aligned- 
 0 <==> 3 4 // NOALI // 0 // -not aligned- <==> parliamentary vote 
 0 <==> 2 // NOALI // 0 // -not aligned- <==> loses 
@@ -1644,16 +1644,16 @@
 </sentence>
 <sentence id="177" status="">
 <alignment>
-3 <==> 3 // EQUI // 5 // storm <==> topple 
+3 <==> 3 // EQUI // 4 // storm <==> topple 
 6 7 <==> 0 // NOALI // 0 // of Kyiv <==> -not aligned- 
 1 2 <==> 1 2 // EQUI // 5 // Anti-government protesters <==> Ukraine protesters 
-4 5 <==> 4 5 // EQUI // 5 // the streets <==> Lenin statue 
+4 5 <==> 4 5 // EQUI // 4 // the streets <==> Lenin statue 
 </alignment>
 </sentence>
 <sentence id="178" status="">
 <alignment>
-6 7 8 <==> 6 7 8 // EQUI // 5 // in northwest Pakistan <==> in North Waziristan 
-5 <==> 5 // EQUI // 5 // three <==> seven 
+6 7 8 <==> 6 7 8 // EQUI // 4 // in northwest Pakistan <==> in North Waziristan 
+5 <==> 5 // EQUI // 4 // three <==> seven 
 4 <==> 4 // EQUI // 5 // kills <==> kills 
 1 2 3 <==> 1 2 3 // EQUI // 5 // US drone strike <==> US drone strike 
 </alignment>
@@ -1662,7 +1662,7 @@
 <alignment>
 2 <==> 2 // EQUI // 5 // Sentenced <==> jailed 
 6 7 <==> 0 // NOALI // 0 // for Leaking <==> -not aligned- 
-3 4 5 <==> 3 4 5 // EQUI // 4 // to 35 Years <==> for 10 years 
+3 4 5 <==> 3 4 5 // EQUI // 2 // to 35 Years <==> for 10 years 
 0 <==> 8 9 10 // NOALI // 0 // -not aligned- <==> fake bomb detectors 
 1 <==> 0 // NOALI // 0 // Manning <==> -not aligned- 
 0 <==> 6 7 // NOALI // 0 // -not aligned- <==> for selling 
@@ -1672,9 +1672,9 @@
 </sentence>
 <sentence id="180" status="">
 <alignment>
-7 8 <==> 7 8 // EQUI // 5 // 's south <==> 's Volgograd 
+7 8 <==> 7 8 // EQUI // 4 // 's south <==> 's Volgograd 
 3 <==> 3 // EQUI // 5 // kills <==> kills 
-4 <==> 4 // EQUI // 5 // 13 <==> 16 
+4 <==> 4 // EQUI // 4 // 13 <==> 16 
 1 2 <==> 1 2 // EQUI // 5 // Suicide bomber <==> Suicide bomber 
 5 6 <==> 5 6 // EQUI // 5 // in Russia <==> in Russia 
 </alignment>
@@ -1682,7 +1682,7 @@
 <sentence id="181" status="">
 <alignment>
 1 2 3 4 5 <==> 1 2 3 // EQUI // 5 // Bangladesh building collapse death toll <==> Bangladesh building-collapse toll 
-7 <==> 5 // EQUI // 5 // 540 <==> 600 
+7 <==> 5 // EQUI // 3 // 540 <==> 600 
 8 <==> 0 // NOALI // 0 // : <==> -not aligned- 
 6 <==> 4 // EQUI // 5 // hits <==> tops 
 9 <==> 0 // NOALI // 0 // army <==> -not aligned- 
@@ -1706,8 +1706,8 @@
 <sentence id="183" status="">
 <alignment>
 1 2 3 <==> 1 2 3 // EQUI // 5 // Hushen 300 Index <==> Hushen 300 Index 
-7 8 <==> 7 8 // EQUI // 5 // Oct. 14 <==> March 12 
-5 <==> 5 // EQUI // 5 // higher <==> lower 
+7 8 <==> 7 8 // EQUI // 2 // Oct. 14 <==> March 12 
+5 <==> 5 // EQUI // 3 // higher <==> lower 
 6 <==> 0 // NOALI // 0 // -- <==> -not aligned- 
 4 <==> 4 // EQUI // 5 // closes <==> closes 
 0 <==> 6 // NOALI // 0 // -not aligned- <==> -- 
@@ -1741,14 +1741,14 @@
 <alignment>
 1 <==> 1 // EQUI // 5 // Malaysia <==> Malaysia 
 5 6 <==> 5 // EQUI // 5 // hangs on <==> wins 
-7 8 <==> 6 // EQUI // 5 // to power <==> majority 
+7 8 <==> 6 // EQUI // 4 // to power <==> majority 
 2 3 4 <==> 2 3 4 // EQUI // 5 // 's long-ruling coalition <==> 's ruling coalition 
 </alignment>
 </sentence>
 <sentence id="187" status="">
 <alignment>
 1 2 <==> 3 4 // EQUI // 5 // 19 hurt <==> 19 hurt 
-3 4 5 6 <==> 8 9 10 // EQUI // 5 // in New Orleans shooting <==> 's Day shooting 
+3 4 5 6 <==> 8 9 10 // EQUI // 4 // in New Orleans shooting <==> 's Day shooting 
 0 <==> 1 // NOALI // 0 // -not aligned- <==> Police 
 0 <==> 2 // NOALI // 0 // -not aligned- <==> : 
 0 <==> 5 6 7 // NOALI // 0 // -not aligned- <==> in NOLA Mother 
@@ -1756,11 +1756,11 @@
 </sentence>
 <sentence id="188" status="">
 <alignment>
-5 6 <==> 3 // EQUI // 4 // as date <==> date 
+5 6 <==> 3 // EQUI // 5 // as date <==> date 
 3 4 <==> 0 // NOALI // 0 // May 5 <==> -not aligned- 
 1 <==> 1 // EQUI // 5 // Malaysia <==> Malaysia 
 2 <==> 2 // EQUI // 5 // sets <==> sets 
-7 8 9 10 <==> 4 5 6 // EQUI // 5 // for closely contested election <==> for landmark elections 
+7 8 9 10 <==> 4 5 6 // EQUI // 3 // for closely contested election <==> for landmark elections 
 </alignment>
 </sentence>
 <sentence id="189" status="">
@@ -1783,7 +1783,7 @@
 0 <==> 11 // NOALI // 0 // -not aligned- <==> cries 
 6 <==> 6 // EQUI // 5 // wins <==> wins 
 0 <==> 10 // NOALI // 0 // -not aligned- <==> Navalny 
-3 <==> 3 // EQUI // 4 // suggest <==> shows 
+3 <==> 3 // EQUI // 5 // suggest <==> shows 
 1 2 <==> 1 2 // EQUI // 5 // Exit polls <==> Exit polls 
 </alignment>
 </sentence>
@@ -1827,11 +1827,11 @@
 </sentence>
 <sentence id="195" status="">
 <alignment>
-3 4 <==> 9 10 11 // EQUI // 5 // European backlash <==> by European countries 
+3 4 <==> 9 10 11 // EQUI // 4 // European backlash <==> by European countries 
 1 <==> 1 // EQUI // 5 // Israel <==> Israel 
-2 <==> 2 // EQUI // 5 // faces <==> called 
+2 <==> 2 // EQUI // 4 // faces <==> called 
 0 <==> 3 4 // NOALI // 0 // -not aligned- <==> to account 
-5 6 7 <==> 5 6 7 8 // EQUI // 5 // over settlement plan <==> over latest settlement plans 
+5 6 7 <==> 5 6 7 8 // EQUI // 4 // over settlement plan <==> over latest settlement plans 
 </alignment>
 </sentence>
 <sentence id="196" status="">
@@ -1859,7 +1859,7 @@
 3 <==> 3 // EQUI // 5 // jump <==> jump 
 1 2 <==> 1 2 // EQUI // 5 // Facebook earnings <==> Facebook profits 
 4 5 <==> 0 // NOALI // 0 // 63 % <==> -not aligned- 
-9 <==> 7 // EQUI // 5 // accelerate <==> expands 
+9 <==> 7 // EQUI // 4 // accelerate <==> expands 
 </alignment>
 </sentence>
 <sentence id="199" status="">
@@ -1892,7 +1892,7 @@
 5 <==> 5 // EQUI // 5 // declared <==> Named 
 6 7 <==> 6 7 8 // EQUI // 5 // tallest building <==> Tallest US Building 
 8 9 <==> 0 // NOALI // 0 // in U.S. <==> -not aligned- 
-1 2 3 4 <==> 1 2 3 4 // EQUI // 5 // New World Trade Center <==> One World Trade Center 
+1 2 3 4 <==> 1 2 3 4 // EQUI // 4 // New World Trade Center <==> One World Trade Center 
 </alignment>
 </sentence>
 <sentence id="203" status="">
@@ -1900,7 +1900,7 @@
 0 <==> 6 7 8 // NOALI // 0 // -not aligned- <==> in Hacking Case 
 1 2 <==> 1 2 // EQUI // 5 // Piers Morgan <==> Piers Morgan 
 4 5 <==> 4 5 // EQUI // 5 // by police <==> by Police 
-3 <==> 3 // EQUI // 4 // questioned <==> Interviewed 
+3 <==> 3 // EQUI // 5 // questioned <==> Interviewed 
 </alignment>
 </sentence>
 <sentence id="204" status="">
@@ -1908,7 +1908,7 @@
 0 <==> 1 // NOALI // 0 // -not aligned- <==> Egypt 
 0 <==> 2 // NOALI // 0 // -not aligned- <==> : 
 1 2 <==> 3 4 // EQUI // 5 // Egypt Crackdown <==> Egypt crackdown 
-4 <==> 6 7 // EQUI // 5 // Condemnation <==> global outrage 
+4 <==> 6 7 // EQUI // 4 // Condemnation <==> global outrage 
 3 <==> 5 // EQUI // 5 // Draws <==> sparks 
 </alignment>
 </sentence>
@@ -1928,7 +1928,7 @@
 </sentence>
 <sentence id="207" status="">
 <alignment>
-1 2 3 <==> 1 2 // EQUI // 5 // Pro-Pak Taliban warlord <==> Taliban commander 
+1 2 3 <==> 1 2 // EQUI // 4 // Pro-Pak Taliban warlord <==> Taliban commander 
 5 6 7 8 <==> 4 5 6 7 // EQUI // 5 // in US drone strike <==> in US drone strike 
 4 <==> 3 // EQUI // 5 // killed <==> killed 
 </alignment>
@@ -1936,7 +1936,7 @@
 <sentence id="208" status="">
 <alignment>
 1 2 <==> 1 2 // EQUI // 5 // Car bomb <==> Car bomb 
-5 6 7 <==> 3 4 5 // EQUI // 5 // in northwest Syria <==> in northern Syria 
+5 6 7 <==> 3 4 5 // EQUI // 4 // in northwest Syria <==> in northern Syria 
 3 <==> 6 // EQUI // 5 // kills <==> kills 
 4 <==> 7 // EQUI // 5 // 20 <==> 20 
 </alignment>
@@ -1955,13 +1955,13 @@
 <alignment>
 2 <==> 2 // EQUI // 5 // votes <==> vote 
 1 <==> 1 // EQUI // 5 // Egypt <==> Egyptians 
-3 4 5 <==> 3 4 5 // EQUI // 5 // on new constitution <==> on divisive constitution 
+3 4 5 <==> 3 4 5 // EQUI // 4 // on new constitution <==> on divisive constitution 
 </alignment>
 </sentence>
 <sentence id="211" status="">
 <alignment>
 2 3 <==> 4 5 // EQUI // 5 // who battled <==> who battled 
-1 <==> 1 2 3 // EQUI // 5 // Man <==> Former plant chief 
+1 <==> 1 2 3 // EQUI // 4 // Man <==> Former plant chief 
 6 <==> 8 // EQUI // 5 // dies <==> dies 
 4 5 <==> 6 7 // EQUI // 5 // Fukushima disaster <==> Fukushima disaster 
 7 8 <==> 9 10 // EQUI // 5 // of cancer <==> of cancer 
@@ -1970,7 +1970,7 @@
 <sentence id="212" status="">
 <alignment>
 1 2 <==> 1 2 // EQUI // 5 // Nigeria lawmaker <==> Nigerian MP 
-4 5 6 <==> 6 7 8 // EQUI // 5 // over alleged bribery <==> $ 3m bribe 
+4 5 6 <==> 6 7 8 // EQUI // 4 // over alleged bribery <==> $ 3m bribe 
 3 <==> 3 // EQUI // 5 // charged <==> charged 
 0 <==> 4 5 // NOALI // 0 // -not aligned- <==> with accepting 
 </alignment>
@@ -1978,7 +1978,7 @@
 <sentence id="213" status="">
 <alignment>
 0 <==> 4 // NOALI // 0 // -not aligned- <==> statement 
-3 4 <==> 2 3 // EQUI // 4 // to speak <==> to deliver 
+3 4 <==> 2 3 // EQUI // 5 // to speak <==> to deliver 
 5 6 <==> 5 6 // EQUI // 5 // on Syria <==> on Syria 
 2 <==> 0 // NOALI // 0 // set <==> -not aligned- 
 7 8 9 <==> 7 8 9 // EQUI // 5 // from White House <==> at White House 
@@ -2011,7 +2011,7 @@
 <sentence id="217" status="">
 <alignment>
 0 <==> 7 8 9 // NOALI // 0 // -not aligned- <==> with fuel truck 
-3 4 5 6 <==> 6 // EQUI // 5 // in Indonesia train accident <==> collides 
+3 4 5 6 <==> 6 // EQUI // 4 // in Indonesia train accident <==> collides 
 0 <==> 3 4 5 // NOALI // 0 // -not aligned- <==> as Indonesia train 
 1 2 <==> 1 2 // EQUI // 5 // Four dead <==> Five dead 
 </alignment>
@@ -2028,7 +2028,7 @@
 1 <==> 1 2 // EQUI // 5 // Austrian <==> Austrian man 
 2 <==> 3 // EQUI // 5 // found <==> charged 
 7 8 9 <==> 10 11 12 // EQUI // 5 // in home museum <==> at his home 
-3 <==> 8 9 // EQUI // 5 // hoarding <==> are found 
+3 <==> 8 9 // EQUI // 4 // hoarding <==> are found 
 4 5 6 <==> 4 5 6 7 // EQUI // 5 // 56 stolen skulls <==> after 56 human skulls 
 </alignment>
 </sentence>
@@ -2044,13 +2044,13 @@
 <alignment>
 0 <==> 6 // NOALI // 0 // -not aligned- <==> operation 
 8 <==> 5 // EQUI // 5 // Opens <==> begins 
-2 3 4 5 6 7 <==> 1 2 3 4 // EQUI // 5 // 's 1st Pilot Free Trade Zone <==> Shanghai Free Trade Zone 
+2 3 4 5 6 7 <==> 1 2 3 4 // EQUI // 4 // 's 1st Pilot Free Trade Zone <==> Shanghai Free Trade Zone 
 1 <==> 0 // NOALI // 0 // China <==> -not aligned- 
 </alignment>
 </sentence>
 <sentence id="222" status="">
 <alignment>
-8 <==> 5 // EQUI // 5 // kills <==> Hits 
+8 <==> 5 // EQUI // 4 // kills <==> Hits 
 9 <==> 0 // NOALI // 0 // 17 <==> -not aligned- 
 1 2 3 <==> 1 2 3 4 // EQUI // 5 // Gas cylinder blast <==> Deadly Gas Cylinder Blast 
 4 5 6 7 <==> 6 7 8 // EQUI // 5 // on Pakistan school bus <==> Pakistan School Bus 
@@ -2060,8 +2060,8 @@
 <alignment>
 1 <==> 1 // EQUI // 5 // Protests <==> Protests 
 4 5 <==> 5 6 // EQUI // 5 // despite concession <==> despite concessions 
-3 <==> 3 4 // EQUI // 5 // Brazil <==> across Brazil 
-2 <==> 2 // EQUI // 5 // sweep <==> planned 
+3 <==> 3 4 // EQUI // 4 // Brazil <==> across Brazil 
+2 <==> 2 // EQUI // 4 // sweep <==> planned 
 </alignment>
 </sentence>
 <sentence id="224" status="">
@@ -2093,12 +2093,12 @@
 <alignment>
 0 <==> 7 8 // NOALI // 0 // -not aligned- <==> after clashes 
 3 4 5 6 7 <==> 3 4 5 6 // EQUI // 5 // in Central African Republic fighting <==> in Central African Republic 
-1 2 <==> 1 2 // EQUI // 5 // Dozens dead <==> 98 dead 
+1 2 <==> 1 2 // EQUI // 3 // Dozens dead <==> 98 dead 
 </alignment>
 </sentence>
 <sentence id="228" status="">
 <alignment>
-4 <==> 1 2 // EQUI // 4 // Fitch <==> Moody 's 
+4 <==> 1 2 // EQUI // 3 // Fitch <==> Moody 's 
 6 7 8 <==> 4 5 6 // EQUI // 5 // Greek credit rating <==> Greek credit rating 
 2 <==> 0 // NOALI // 0 // Ticker <==> -not aligned- 
 1 <==> 0 // NOALI // 0 // -LRB- <==> -not aligned- 
@@ -2126,7 +2126,7 @@
 <alignment>
 0 <==> 1 // NOALI // 0 // -not aligned- <==> Kenya 
 0 <==> 2 // NOALI // 0 // -not aligned- <==> : 
-4 5 6 7 8 <==> 3 // EQUI // 5 // key Al-Shabaab recruiter , financier <==> Pair 
+4 5 6 7 8 <==> 3 // EQUI // 4 // key Al-Shabaab recruiter , financier <==> Pair 
 3 <==> 4 // EQUI // 5 // arrest <==> Arrested 
 1 2 <==> 5 6 7 // EQUI // 5 // Kenyan police <==> By Anti-Terror Police 
 </alignment>
@@ -2156,7 +2156,7 @@
 <alignment>
 2 <==> 2 // EQUI // 5 // killed <==> killed 
 0 <==> 5 // NOALI // 0 // -not aligned- <==> â 
-1 <==> 1 // EQUI // 5 // 7 <==> 6 
+1 <==> 1 // EQUI // 4 // 7 <==> 6 
 0 <==> 3 4 // NOALI // 0 // -not aligned- <==> in Mexico 
 3 4 5 6 <==> 0 // NOALI // 0 // in monster truck crash <==> -not aligned- 
 </alignment>
@@ -2174,7 +2174,7 @@
 <sentence id="236" status="">
 <alignment>
 9 10 11 <==> 7 8 9 // EQUI // 5 // for banned substance <==> for banned substance 
-1 2 3 4 5 6 <==> 1 2 3 4 // EQUI // 5 // Sprinters Tyson Gay and Asafa Powell <==> US sprinter Tyson Gay 
+1 2 3 4 5 6 <==> 1 2 3 4 // EQUI // 3 // Sprinters Tyson Gay and Asafa Powell <==> US sprinter Tyson Gay 
 7 <==> 5 // EQUI // 5 // test <==> tests 
 8 <==> 6 // EQUI // 5 // positive <==> positive 
 </alignment>
@@ -2197,7 +2197,7 @@
 <sentence id="239" status="">
 <alignment>
 8 9 10 <==> 9 10 11 // EQUI // 5 // since Rowhani election <==> since Rohani election 
-1 2 3 4 <==> 1 2 3 // EQUI // 5 // Iran , atomic agency <==> IAEA , Iran 
+1 2 3 4 <==> 1 2 3 // EQUI // 3 // Iran , atomic agency <==> IAEA , Iran 
 0 <==> 4 5 // NOALI // 0 // -not aligned- <==> to hold 
 5 6 7 <==> 6 7 8 // EQUI // 5 // in first talks <==> first nuclear talks 
 </alignment>
@@ -2217,7 +2217,7 @@
 <alignment>
 9 10 <==> 11 12 13 // EQUI // 5 // for rape <==> for gang rape 
 3 4 <==> 1 // EQUI // 5 // 's son <==> Son 
-1 2 <==> 2 3 4 5 // EQUI // 5 // Chinese general <==> of Chinese army singers 
+1 2 <==> 2 3 4 5 // EQUI // 3 // Chinese general <==> of Chinese army singers 
 5 <==> 6 // EQUI // 5 // gets <==> gets 
 0 <==> 9 10 // NOALI // 0 // -not aligned- <==> ' jail 
 6 7 8 <==> 7 8 // EQUI // 5 // 10 years jail <==> 10 years 
@@ -2271,8 +2271,8 @@
 <sentence id="247" status="">
 <alignment>
 4 5 <==> 0 // NOALI // 0 // after string <==> -not aligned- 
-3 <==> 3 // EQUI // 5 // rally <==> up 
-6 7 8 <==> 4 5 6 7 8 // EQUI // 5 // of upbeat data <==> on Strong US Jobs Data 
+3 <==> 3 // EQUI // 4 // rally <==> up 
+6 7 8 <==> 4 5 6 7 8 // EQUI // 4 // of upbeat data <==> on Strong US Jobs Data 
 1 2 <==> 1 2 // EQUI // 5 // Asian shares <==> Asian Markets 
 </alignment>
 </sentence>
@@ -2287,7 +2287,7 @@
 <sentence id="249" status="">
 <alignment>
 6 <==> 6 // EQUI // 5 // kills <==> kills 
-7 8 <==> 7 8 9 // EQUI // 5 // 47 people <==> at least 75 
+7 8 <==> 7 8 9 // EQUI // 3 // 47 people <==> at least 75 
 1 2 <==> 1 2 // EQUI // 5 // Strong earthquake <==> Strong earthquake 
 3 4 5 <==> 3 4 5 // EQUI // 5 // in western China <==> in western China 
 </alignment>
@@ -2303,7 +2303,7 @@
 </sentence>
 <sentence id="251" status="">
 <alignment>
-3 <==> 3 // EQUI // 5 // take <==> seize 
+3 <==> 3 // EQUI // 4 // take <==> seize 
 1 2 <==> 1 2 // EQUI // 5 // French forces <==> French forces 
 4 5 6 <==> 4 5 // EQUI // 5 // key Mali town <==> key town 
 </alignment>
@@ -2312,7 +2312,7 @@
 <alignment>
 4 <==> 2 // EQUI // 5 // leaves <==> leaves 
 1 <==> 0 // NOALI // 0 // Pakistan <==> -not aligned- 
-5 <==> 3 4 // EQUI // 5 // hospital <==> British hospital 
+5 <==> 3 4 // EQUI // 4 // hospital <==> British hospital 
 8 <==> 0 // NOALI // 0 // surgery <==> -not aligned- 
 2 3 <==> 1 // EQUI // 5 // 's Malala <==> Malala 
 6 7 <==> 0 // NOALI // 0 // to await <==> -not aligned- 
@@ -2321,10 +2321,10 @@
 <sentence id="253" status="">
 <alignment>
 7 8 9 <==> 0 // NOALI // 0 // at essex hotel <==> -not aligned- 
-1 <==> 1 2 3 // EQUI // 5 // two <==> Man and woman 
+1 <==> 1 2 3 // EQUI // 4 // two <==> Man and woman 
 2 <==> 4 // EQUI // 5 // found <==> found 
 3 <==> 5 // EQUI // 5 // dead <==> dead 
-4 5 6 <==> 6 7 8 9 10 // EQUI // 5 // in swimming pool <==> in Essex hotel swimming pool 
+4 5 6 <==> 6 7 8 9 10 // EQUI // 4 // in swimming pool <==> in Essex hotel swimming pool 
 </alignment>
 </sentence>
 <sentence id="254" status="">
@@ -2332,7 +2332,7 @@
 3 4 5 <==> 3 4 5 // EQUI // 5 // US drone strike <==> US drone strike 
 1 <==> 1 // EQUI // 5 // Pakistan <==> Pakistan 
 2 <==> 2 // EQUI // 5 // condemns <==> condemns 
-6 7 8 <==> 6 7 // EQUI // 5 // in Shawal Area <==> in Miranshah 
+6 7 8 <==> 6 7 // EQUI // 3 // in Shawal Area <==> in Miranshah 
 </alignment>
 </sentence>
 <sentence id="255" status="">
@@ -2348,7 +2348,7 @@
 <sentence id="256" status="">
 <alignment>
 0 <==> 5 // NOALI // 0 // -not aligned- <==> , 
-5 <==> 4 // EQUI // 5 // up <==> higher 
+5 <==> 4 // EQUI // 4 // up <==> higher 
 6 <==> 0 // NOALI // 0 // ahead <==> -not aligned- 
 7 8 9 <==> 0 // NOALI // 0 // of jobs report <==> -not aligned- 
 1 2 3 <==> 1 2 // EQUI // 5 // US stock futures <==> Stock futures 
@@ -2359,7 +2359,7 @@
 </sentence>
 <sentence id="257" status="">
 <alignment>
-3 <==> 3 4 // EQUI // 5 // sanctions <==> diamond sanctions 
+3 <==> 3 4 // EQUI // 3 // sanctions <==> diamond sanctions 
 1 <==> 1 // EQUI // 5 // EU <==> EU 
 4 5 <==> 5 6 // EQUI // 5 // against Zimbabwe <==> against Zimbabwe 
 2 <==> 2 // EQUI // 5 // renews <==> lifts 
@@ -2368,7 +2368,7 @@
 <sentence id="258" status="">
 <alignment>
 2 3 <==> 2 3 // EQUI // 5 // reach agreement <==> reach agreement 
-4 5 <==> 4 5 6 // EQUI // 5 // on Syria <==> on Syria weapons 
+4 5 <==> 4 5 6 // EQUI // 4 // on Syria <==> on Syria weapons 
 1 <==> 1 // EQUI // 5 // US-Russia <==> US-Russia 
 </alignment>
 </sentence>
@@ -2387,7 +2387,7 @@
 4 5 <==> 6 7 // EQUI // 5 // legal action <==> legal action 
 3 <==> 5 // EQUI // 5 // threatens <==> threatens 
 7 8 9 <==> 8 9 10 // EQUI // 5 // after affair allegations <==> over affair claims 
-1 <==> 1 2 3 4 // EQUI // 4 // Hollande <==> FranÃ § ois Hollande 
+1 <==> 1 2 3 4 // EQUI // 5 // Hollande <==> FranÃ § ois Hollande 
 </alignment>
 </sentence>
 <sentence id="261" status="">
@@ -2403,7 +2403,7 @@
 <alignment>
 3 <==> 2 // EQUI // 5 // prays <==> prays 
 4 5 <==> 3 4 // EQUI // 5 // for metro <==> for metro 
-1 2 <==> 1 // EQUI // 5 // Indonesian capital <==> Jakarta 
+1 2 <==> 1 // EQUI // 4 // Indonesian capital <==> Jakarta 
 6 7 <==> 5 6 // EQUI // 5 // to ease <==> to ease 
 8 9 <==> 7 8 // EQUI // 5 // traffic chaos <==> traffic chaos 
 </alignment>
@@ -2431,13 +2431,13 @@
 <alignment>
 2 <==> 2 // EQUI // 5 // releases <==> releases 
 1 <==> 1 // EQUI // 5 // Pakistan <==> Pakistan 
-3 4 5 6 <==> 3 4 5 6 // EQUI // 5 // top Afghan Taliban prisoner <==> seven Afghan Taliban fighters 
+3 4 5 6 <==> 3 4 5 6 // EQUI // 4 // top Afghan Taliban prisoner <==> seven Afghan Taliban fighters 
 </alignment>
 </sentence>
 <sentence id="266" status="">
 <alignment>
 0 <==> 5 6 7 // NOALI // 0 // -not aligned- <==> at US embassy 
-4 <==> 4 // EQUI // 5 // 9 <==> guard 
+4 <==> 4 // EQUI // 3 // 9 <==> guard 
 3 <==> 3 // EQUI // 5 // kills <==> kills 
 5 6 7 8 <==> 0 // NOALI // 0 // at Pakistan political rally <==> -not aligned- 
 0 <==> 8 9 // NOALI // 0 // -not aligned- <==> in Turkey 
@@ -2460,12 +2460,12 @@
 5 <==> 5 // EQUI // 5 // higher <==> higher 
 1 <==> 1 // EQUI // 5 // Stocks <==> Stocks 
 2 <==> 2 // EQUI // 5 // close <==> close 
-3 4 <==> 3 4 // EQUI // 4 // 0.39 % <==> 2.47 % 
+3 4 <==> 3 4 // EQUI // 3 // 0.39 % <==> 2.47 % 
 </alignment>
 </sentence>
 <sentence id="269" status="">
 <alignment>
-3 4 <==> 3 4 5 // EQUI // 5 // one soldier <==> 6 polio workers 
+3 4 <==> 3 4 5 // EQUI // 3 // one soldier <==> 6 polio workers 
 6 <==> 0 // NOALI // 0 // injure <==> -not aligned- 
 2 <==> 2 // EQUI // 5 // kill <==> kill 
 5 <==> 0 // NOALI // 0 // , <==> -not aligned- 
@@ -2489,10 +2489,10 @@
 2 <==> 0 // NOALI // 0 // coming <==> -not aligned- 
 4 5 <==> 0 // NOALI // 0 // to listen <==> -not aligned- 
 3 <==> 0 // NOALI // 0 // ` <==> -not aligned- 
-1 <==> 1 // EQUI // 5 // Obama <==> Kerry 
+1 <==> 1 // EQUI // 2 // Obama <==> Kerry 
 6 <==> 0 // NOALI // 0 // ' <==> -not aligned- 
 0 <==> 3 4 // NOALI // 0 // -not aligned- <==> Arab Plan 
-7 8 9 10 <==> 5 6 7 // EQUI // 4 // to Israel , Palestinians <==> for Israeli-Palestinian Talks 
+7 8 9 10 <==> 5 6 7 // EQUI // 5 // to Israel , Palestinians <==> for Israeli-Palestinian Talks 
 0 <==> 2 // NOALI // 0 // -not aligned- <==> Welcomes 
 </alignment>
 </sentence>
@@ -2511,7 +2511,7 @@
 </sentence>
 <sentence id="273" status="">
 <alignment>
-1 2 3 4 5 <==> 2 3 4 5 // EQUI // 5 // Italian Prime Minister Mario Monti <==> Palestinian Prime Minister Fayyad 
+1 2 3 4 5 <==> 2 3 4 5 // EQUI // 4 // Italian Prime Minister Mario Monti <==> Palestinian Prime Minister Fayyad 
 6 <==> 6 // EQUI // 5 // Resigns <==> resigns 
 0 <==> 7 // NOALI // 0 // -not aligned- <==> ' 
 0 <==> 1 // NOALI // 0 // -not aligned- <==> ` 
@@ -2532,15 +2532,15 @@
 <sentence id="275" status="">
 <alignment>
 1 2 <==> 1 2 // EQUI // 5 // Israeli soldier <==> Israeli soldiers 
-6 7 <==> 6 7 8 // EQUI // 5 // in Hebron <==> in West Bank 
+6 7 <==> 6 7 8 // EQUI // 4 // in Hebron <==> in West Bank 
 3 <==> 3 // EQUI // 5 // hits <==> kill 
-4 5 <==> 4 5 // EQUI // 5 // Palestinian child <==> Palestinian woman 
+4 5 <==> 4 5 // EQUI // 3 // Palestinian child <==> Palestinian woman 
 </alignment>
 </sentence>
 <sentence id="276" status="">
 <alignment>
 0 <==> 8 // NOALI // 0 // -not aligned- <==> Hundreds 
-3 <==> 12 13 // EQUI // 5 // attack <==> drive back 
+3 <==> 12 13 // EQUI // 4 // attack <==> drive back 
 0 <==> 1 2 // NOALI // 0 // -not aligned- <==> A battle 
 1 2 <==> 9 10 11 // EQUI // 5 // French forces <==> of French troops 
 4 <==> 14 15 // EQUI // 5 // al-Qaeda <==> al-Qaida-linked rebels 
@@ -2555,7 +2555,7 @@
 2 <==> 2 // EQUI // 5 // Mounts <==> mulls 
 1 <==> 1 // EQUI // 5 // Algeria <==> Algeria 
 5 6 <==> 0 // NOALI // 0 // to Rescue <==> -not aligned- 
-3 4 <==> 3 4 // EQUI // 5 // Military Operation <==> international force 
+3 4 <==> 3 4 // EQUI // 4 // Military Operation <==> international force 
 7 8 9 <==> 5 6 // EQUI // 5 // Al Qaeda Hostages <==> for hostages 
 </alignment>
 </sentence>
@@ -2576,7 +2576,7 @@
 0 <==> 2 // NOALI // 0 // -not aligned- <==> urges 
 4 5 6 <==> 6 7 8 // EQUI // 5 // over prisoner release <==> Palestinian prisoners release 
 0 <==> 4 5 // NOALI // 0 // -not aligned- <==> to approve 
-3 <==> 1 // EQUI // 5 // Netanyahu <==> Yacimovich 
+3 <==> 1 // EQUI // 3 // Netanyahu <==> Yacimovich 
 1 <==> 0 // NOALI // 0 // Almagor <==> -not aligned- 
 </alignment>
 </sentence>
@@ -2593,14 +2593,14 @@
 </sentence>
 <sentence id="281" status="">
 <alignment>
-1 2 3 <==> 1 2 3 // EQUI // 5 // 4 NATO Troops <==> Eight NATO Troops 
+1 2 3 <==> 1 2 3 // EQUI // 3 // 4 NATO Troops <==> Eight NATO Troops 
 5 6 <==> 5 6 // EQUI // 5 // in Afghanistan <==> In Afghanistan 
 4 <==> 4 // EQUI // 5 // Killed <==> Killed 
 </alignment>
 </sentence>
 <sentence id="282" status="">
 <alignment>
-1 2 3 <==> 1 2 3 // EQUI // 5 // At least 45 <==> At least 13 
+1 2 3 <==> 1 2 3 // EQUI // 3 // At least 45 <==> At least 13 
 5 6 7 8 <==> 0 // NOALI // 0 // in Spain train crash <==> -not aligned- 
 0 <==> 11 12 // NOALI // 0 // -not aligned- <==> 's Diyala 
 0 <==> 5 6 7 8 // NOALI // 0 // -not aligned- <==> in triple car bombings 
@@ -2614,7 +2614,7 @@
 5 6 7 8 <==> 4 5 6 7 // EQUI // 5 // in Venezuela prison riot <==> in Venezuela prison riot 
 2 <==> 0 // NOALI // 0 // : <==> -not aligned- 
 4 <==> 3 // EQUI // 5 // killed <==> killed 
-3 <==> 1 // EQUI // 5 // 61 <==> Dozens 
+3 <==> 1 // EQUI // 3 // 61 <==> Dozens 
 0 <==> 2 // NOALI // 0 // -not aligned- <==> reported 
 </alignment>
 </sentence>
@@ -2624,7 +2624,7 @@
 6 7 8 <==> 0 // NOALI // 0 // as Its Leader <==> -not aligned- 
 4 5 <==> 0 // NOALI // 0 // as Beleaguered <==> -not aligned- 
 1 <==> 1 // EQUI // 5 // Egypt <==> Egypt 
-2 3 <==> 2 3 4 // EQUI // 5 // 's Brotherhood <==> 's Muslim Brotherhood 
+2 3 <==> 2 3 4 // EQUI // 4 // 's Brotherhood <==> 's Muslim Brotherhood 
 0 <==> 5 // NOALI // 0 // -not aligned- <==> Set 
 </alignment>
 </sentence>
@@ -2648,7 +2648,7 @@
 <sentence id="287" status="">
 <alignment>
 0 <==> 5 // NOALI // 0 // -not aligned- <==> 14 
-6 <==> 7 // EQUI // 5 // 25 <==> dozens 
+6 <==> 7 // EQUI // 3 // 25 <==> dozens 
 1 2 <==> 1 2 3 // EQUI // 5 // Building collapses <==> India building collapse 
 0 <==> 6 // NOALI // 0 // -not aligned- <==> ; 
 7 8 <==> 8 // EQUI // 5 // feared trapped <==> trapped 
@@ -2664,7 +2664,7 @@
 5 <==> 0 // NOALI // 0 // erupt <==> -not aligned- 
 9 10 <==> 10 11 // EQUI // 5 // in Cairo <==> in Egypt 
 2 <==> 0 // NOALI // 0 // die <==> -not aligned- 
-1 <==> 1 2 3 4 // EQUI // 5 // Dozens <==> More than 70 dead 
+1 <==> 1 2 3 4 // EQUI // 4 // Dozens <==> More than 70 dead 
 </alignment>
 </sentence>
 <sentence id="289" status="">
@@ -2679,7 +2679,7 @@
 4 5 6 7 8 9 <==> 5 6 // EQUI // 5 // in Afghan ` insider attack ' <==> in Afghan 
 3 <==> 3 // EQUI // 5 // killed <==> shot 
 0 <==> 7 // NOALI // 0 // -not aligned- <==> â 
-1 2 <==> 1 2 // EQUI // 5 // ISAF soldier <==> British soldier 
+1 2 <==> 1 2 // EQUI // 3 // ISAF soldier <==> British soldier 
 0 <==> 4 // NOALI // 0 // -not aligned- <==> dead 
 </alignment>
 </sentence>
@@ -2697,7 +2697,7 @@
 0 <==> 3 // NOALI // 0 // -not aligned- <==> rejects 
 1 2 <==> 4 // EQUI // 5 // No plan <==> proposal 
 5 6 <==> 7 8 // EQUI // 5 // petrol pumps <==> petrol pumps 
-9 <==> 1 2 // EQUI // 5 // Moily <==> India govt 
+9 <==> 1 2 // EQUI // 3 // Moily <==> India govt 
 </alignment>
 </sentence>
 <sentence id="293" status="">
@@ -2748,7 +2748,7 @@
 <sentence id="298" status="">
 <alignment>
 6 7 <==> 7 8 // EQUI // 5 // against USD <==> against USD 
-4 5 <==> 4 5 6 // EQUI // 4 // to 6.2689 <==> to new high 
+4 5 <==> 4 5 6 // EQUI // 3 // to 6.2689 <==> to new high 
 3 <==> 3 // EQUI // 5 // strengthens <==> strengthens 
 1 2 <==> 1 2 // EQUI // 5 // China yuan <==> China yuan 
 </alignment>
@@ -2756,7 +2756,7 @@
 <sentence id="299" status="">
 <alignment>
 1 <==> 1 // EQUI // 5 // Protests <==> Protests 
-3 4 5 6 <==> 3 4 // EQUI // 5 // in tense Ukraine capital <==> in Brazil 
+3 4 5 6 <==> 3 4 // EQUI // 2 // in tense Ukraine capital <==> in Brazil 
 2 <==> 2 // EQUI // 5 // continue <==> continue 
 </alignment>
 </sentence>
@@ -2764,20 +2764,20 @@
 <alignment>
 2 <==> 2 // EQUI // 5 // arrests <==> bans 
 1 <==> 1 // EQUI // 5 // Egypt <==> Egypt 
-3 4 5 6 <==> 3 4 5 // EQUI // 5 // Muslim Brotherhood Supreme Guide <==> Muslim Brotherhood group 
+3 4 5 6 <==> 3 4 5 // EQUI // 4 // Muslim Brotherhood Supreme Guide <==> Muslim Brotherhood group 
 </alignment>
 </sentence>
 <sentence id="301" status="">
 <alignment>
 2 <==> 2 // EQUI // 5 // kill <==> kill 
 1 <==> 1 // EQUI // 5 // Gunmen <==> Gunmen 
-5 6 7 <==> 5 6 // EQUI // 5 // in northwest Pakistan <==> in Iraq 
-3 4 <==> 3 4 // EQUI // 5 // nine people <==> 3 policemen 
+5 6 7 <==> 5 6 // EQUI // 2 // in northwest Pakistan <==> in Iraq 
+3 4 <==> 3 4 // EQUI // 3 // nine people <==> 3 policemen 
 </alignment>
 </sentence>
 <sentence id="302" status="">
 <alignment>
-4 5 6 <==> 4 5 6 // EQUI // 5 // 6 March 2013 <==> 12 March 2013 
+4 5 6 <==> 4 5 6 // EQUI // 2 // 6 March 2013 <==> 12 March 2013 
 1 2 3 <==> 1 2 3 // EQUI // 5 // Forex & Gold <==> Forex & Gold 
 </alignment>
 </sentence>
@@ -2803,7 +2803,7 @@
 </sentence>
 <sentence id="305" status="">
 <alignment>
-4 5 6 7 <==> 4 5 6 // EQUI // 5 // for National Unity Government <==> for political change 
+4 5 6 7 <==> 4 5 6 // EQUI // 4 // for National Unity Government <==> for political change 
 1 2 <==> 1 2 // EQUI // 5 // Syria envoy <==> Syria envoy 
 0 <==> 9 // NOALI // 0 // -not aligned- <==> conflict 
 3 <==> 3 // EQUI // 5 // calls <==> calls 
@@ -2839,7 +2839,7 @@
 0 <==> 6 // NOALI // 0 // -not aligned- <==> , 
 1 <==> 0 // NOALI // 0 // Goa <==> -not aligned- 
 4 5 6 <==> 0 // NOALI // 0 // in Modis march <==> -not aligned- 
-7 8 <==> 11 12 // EQUI // 4 // to Delhi <==> in Russia 
+7 8 <==> 11 12 // EQUI // 2 // to Delhi <==> in Russia 
 2 3 <==> 0 // NOALI // 0 // first step <==> -not aligned- 
 0 <==> 10 // NOALI // 0 // -not aligned- <==> engineering 
 0 <==> 8 9 // NOALI // 0 // -not aligned- <==> to teach 
@@ -2848,7 +2848,7 @@
 </sentence>
 <sentence id="309" status="">
 <alignment>
-4 5 6 7 8 <==> 4 5 6 7 // EQUI // 5 // of 1,004 Muslim Brotherhood supporters <==> of Brotherhood chief Badie 
+4 5 6 7 8 <==> 4 5 6 7 // EQUI // 4 // of 1,004 Muslim Brotherhood supporters <==> of Brotherhood chief Badie 
 1 <==> 1 // EQUI // 5 // Egypt <==> Egypt 
 2 <==> 2 // EQUI // 5 // announces <==> orders 
 3 <==> 3 // EQUI // 5 // arrest <==> arrest 
@@ -2869,7 +2869,7 @@
 </sentence>
 <sentence id="311" status="">
 <alignment>
-2 <==> 4 // EQUI // 5 // Israeli <==> 2 
+2 <==> 4 // EQUI // 4 // Israeli <==> 2 
 0 <==> 1 2 // NOALI // 0 // -not aligned- <==> Israeli forces 
 4 <==> 3 // EQUI // 5 // arrested <==> detain 
 3 <==> 0 // NOALI // 0 // ' <==> -not aligned- 
@@ -2885,13 +2885,13 @@
 0 <==> 5 6 // NOALI // 0 // -not aligned- <==> swears in 
 2 3 4 <==> 2 3 4 // EQUI // 5 // 's interim president <==> 's interim president 
 5 <==> 0 // NOALI // 0 // appoints <==> -not aligned- 
-6 7 <==> 7 8 // EQUI // 5 // 2 advisors <==> new Cabinet 
+6 7 <==> 7 8 // EQUI // 4 // 2 advisors <==> new Cabinet 
 </alignment>
 </sentence>
 <sentence id="313" status="">
 <alignment>
 2 <==> 0 // NOALI // 0 // launches <==> -not aligned- 
-1 <==> 1 2 // EQUI // 5 // China <==> China court 
+1 <==> 1 2 // EQUI // 4 // China <==> China court 
 0 <==> 4 5 // NOALI // 0 // -not aligned- <==> Bo Xilai 
 3 4 5 <==> 0 // NOALI // 0 // first air-to-air missile <==> -not aligned- 
 0 <==> 3 // NOALI // 0 // -not aligned- <==> sentences 
@@ -2911,7 +2911,7 @@
 <alignment>
 1 2 <==> 1 2 // EQUI // 5 // Car bombing <==> Suicide bomber 
 3 <==> 3 // EQUI // 5 // kills <==> kills 
-4 <==> 4 // EQUI // 5 // 17 <==> 10 
+4 <==> 4 // EQUI // 4 // 17 <==> 10 
 5 6 <==> 5 6 // EQUI // 5 // in Pakistan <==> in Pakistan 
 </alignment>
 </sentence>
@@ -2920,7 +2920,7 @@
 0 <==> 5 6 // NOALI // 0 // -not aligned- <==> stir up 
 6 7 <==> 7 8 // EQUI // 5 // in Krasnoyarsk <==> anti-Putin protests 
 5 <==> 0 // NOALI // 0 // Reunited <==> -not aligned- 
-1 2 3 4 <==> 1 2 3 4 // EQUI // 5 // 2 Pussy Riot Members <==> Freed Pussy Riot pair 
+1 2 3 4 <==> 1 2 3 4 // EQUI // 4 // 2 Pussy Riot Members <==> Freed Pussy Riot pair 
 </alignment>
 </sentence>
 <sentence id="317" status="">
@@ -2928,7 +2928,7 @@
 1 <==> 1 2 // EQUI // 5 // Stocks <==> Singapore stocks 
 3 4 <==> 4 5 // EQUI // 4 // 0.39 % <==> 0.31 pct 
 2 <==> 3 // EQUI // 5 // close <==> close 
-5 <==> 6 // EQUI // 5 // higher <==> lower 
+5 <==> 6 // EQUI // 3 // higher <==> lower 
 </alignment>
 </sentence>
 <sentence id="318" status="">
@@ -2941,7 +2941,7 @@
 3 <==> 0 // NOALI // 0 // alone <==> -not aligned- 
 2 <==> 0 // NOALI // 0 // ` <==> -not aligned- 
 5 6 <==> 0 // NOALI // 0 // in blaming <==> -not aligned- 
-9 10 11 <==> 8 9 10 11 // EQUI // 5 // for chemical attack <==> of Syria chemical arms 
+9 10 11 <==> 8 9 10 11 // EQUI // 4 // for chemical attack <==> of Syria chemical arms 
 0 <==> 6 7 // NOALI // 0 // -not aligned- <==> its inquiry 
 0 <==> 4 5 // NOALI // 0 // -not aligned- <==> to consider 
 0 <==> 2 // NOALI // 0 // -not aligned- <==> asks 
@@ -2951,7 +2951,7 @@
 </sentence>
 <sentence id="319" status="">
 <alignment>
-3 4 <==> 4 5 // EQUI // 5 // six dead <==> 18 dead 
+3 4 <==> 4 5 // EQUI // 3 // six dead <==> 18 dead 
 2 <==> 3 // EQUI // 5 // leave <==> leave 
 1 <==> 1 2 // EQUI // 5 // Floods <==> Heavy rains 
 5 6 <==> 6 7 // EQUI // 5 // in Philippines <==> in Philippines 
@@ -2961,7 +2961,7 @@
 <alignment>
 8 9 <==> 8 9 // EQUI // 5 // after collapsing <==> after collapse 
 10 11 <==> 0 // NOALI // 0 // at game <==> -not aligned- 
-7 <==> 5 6 7 // EQUI // 5 // hospitalized <==> in stable condition 
+7 <==> 5 6 7 // EQUI // 4 // hospitalized <==> in stable condition 
 1 2 3 4 5 6 <==> 1 2 3 4 // EQUI // 5 // Houston Texans head coach Gary Kubiak <==> Texans coach Gary Kubiak 
 </alignment>
 </sentence>
@@ -3001,8 +3001,8 @@
 </sentence>
 <sentence id="324" status="">
 <alignment>
-5 6 <==> 5 6 // EQUI // 5 // in Belfast <==> in Tunisia 
-1 2 <==> 2 // EQUI // 5 // Brief clashes <==> clash 
+5 6 <==> 5 6 // EQUI // 3 // in Belfast <==> in Tunisia 
+1 2 <==> 2 // EQUI // 4 // Brief clashes <==> clash 
 0 <==> 1 // NOALI // 0 // -not aligned- <==> Mourners 
 3 4 <==> 3 4 // EQUI // 5 // with police <==> with police 
 </alignment>
@@ -3029,7 +3029,7 @@
 </sentence>
 <sentence id="327" status="">
 <alignment>
-6 7 8 <==> 1 2 3 // EQUI // 5 // military modernization drive <==> Chinese vice premier 
+6 7 8 <==> 1 2 3 // EQUI // 4 // military modernization drive <==> Chinese vice premier 
 0 <==> 5 6 // NOALI // 0 // -not aligned- <==> Australian Governor-General 
 5 <==> 0 // NOALI // 0 // extends <==> -not aligned- 
 0 <==> 4 // NOALI // 0 // -not aligned- <==> meets 
@@ -3046,16 +3046,16 @@
 11 <==> 0 // NOALI // 0 // Report <==> -not aligned- 
 0 <==> 6 // NOALI // 0 // -not aligned- <==> linked 
 10 <==> 0 // NOALI // 0 // : <==> -not aligned- 
-7 8 9 <==> 7 8 9 10 // EQUI // 5 // Pacific trade pact <==> to regional trade pact 
-1 2 3 <==> 1 2 3 // EQUI // 5 // New Japan govt <==> Japan , US 
+7 8 9 <==> 7 8 9 10 // EQUI // 4 // Pacific trade pact <==> to regional trade pact 
+1 2 3 <==> 1 2 3 // EQUI // 2 // New Japan govt <==> Japan , US 
 </alignment>
 </sentence>
 <sentence id="329" status="">
 <alignment>
 0 <==> 1 2 3 // NOALI // 0 // -not aligned- <==> Suspected US drone 
-4 <==> 4 // EQUI // 5 // dies <==> kills 
+4 <==> 4 // EQUI // 4 // dies <==> kills 
 0 <==> 7 8 // NOALI // 0 // -not aligned- <==> in Yemen 
-1 2 3 <==> 5 6 // EQUI // 5 // Suspected Saudi militant <==> 6 militants 
+1 2 3 <==> 5 6 // EQUI // 3 // Suspected Saudi militant <==> 6 militants 
 5 6 7 <==> 0 // NOALI // 0 // in Lebanese custody <==> -not aligned- 
 </alignment>
 </sentence>
@@ -3066,7 +3066,7 @@
 8 <==> 0 // NOALI // 0 // : <==> -not aligned- 
 0 <==> 3 // NOALI // 0 // -not aligned- <==> : 
 1 2 <==> 1 2 // EQUI // 5 // India Ink <==> India Ink 
-9 10 <==> 9 10 // EQUI // 5 // January 27 <==> March 20 
+9 10 <==> 9 10 // EQUI // 2 // January 27 <==> March 20 
 4 <==> 4 // EQUI // 5 // Image <==> Image 
 0 <==> 8 // NOALI // 0 // -not aligned- <==> : 
 </alignment>
@@ -3082,7 +3082,7 @@
 </sentence>
 <sentence id="332" status="">
 <alignment>
-5 6 7 <==> 5 6 // EQUI // 5 // missile repair trade <==> Cuba missiles 
+5 6 7 <==> 5 6 // EQUI // 3 // missile repair trade <==> Cuba missiles 
 0 <==> 4 // NOALI // 0 // -not aligned- <==> carrying 
 8 9 <==> 0 // NOALI // 0 // with Cuba <==> -not aligned- 
 1 2 3 <==> 1 2 3 // EQUI // 5 // North Korean cargo <==> N Korean ship 
@@ -3106,7 +3106,7 @@
 <alignment>
 8 <==> 0 // NOALI // 0 // goes <==> -not aligned- 
 9 10 <==> 0 // NOALI // 0 // on holiday <==> -not aligned- 
-6 7 <==> 1 2 // EQUI // 5 // as Obama <==> John Boehner 
+6 7 <==> 1 2 // EQUI // 4 // as Obama <==> John Boehner 
 1 2 <==> 0 // NOALI // 0 // No deal <==> -not aligned- 
 0 <==> 3 // NOALI // 0 // -not aligned- <==> : 
 0 <==> 12 13 // NOALI // 0 // -not aligned- <==> his undoing 
@@ -3167,7 +3167,7 @@
 <alignment>
 8 9 10 <==> 5 6 7 8 // EQUI // 5 // at Boston Marathon <==> in Boston Marathon attack 
 6 <==> 0 // NOALI // 0 // wound <==> -not aligned- 
-1 <==> 1 2 3 // EQUI // 5 // Bombs <==> Only two bombs 
+1 <==> 1 2 3 // EQUI // 4 // Bombs <==> Only two bombs 
 7 <==> 0 // NOALI // 0 // dozens <==> -not aligned- 
 2 <==> 0 // NOALI // 0 // kill <==> -not aligned- 
 5 <==> 0 // NOALI // 0 // , <==> -not aligned- 
@@ -3188,8 +3188,8 @@
 <sentence id="341" status="">
 <alignment>
 0 <==> 3 4 5 // NOALI // 0 // -not aligned- <==> after heavy rains 
-6 7 8 <==> 6 7 // EQUI // 5 // off Florida coast <==> on island 
-1 2 <==> 1 2 // EQUI // 5 // 4 dead <==> 8 dead 
+6 7 8 <==> 6 7 // EQUI // 4 // off Florida coast <==> on island 
+1 2 <==> 1 2 // EQUI // 3 // 4 dead <==> 8 dead 
 5 <==> 0 // NOALI // 0 // capsizes <==> -not aligned- 
 0 <==> 8 9 10 // NOALI // 0 // -not aligned- <==> of St Vincent 
 3 4 <==> 0 // NOALI // 0 // after boat <==> -not aligned- 
@@ -3198,10 +3198,10 @@
 <sentence id="342" status="">
 <alignment>
 7 <==> 0 // NOALI // 0 // : <==> -not aligned- 
-4 5 6 <==> 5 6 7 // EQUI // 5 // Honshu , Japan <==> Santa Cruz Islands 
+4 5 6 <==> 5 6 7 // EQUI // 2 // Honshu , Japan <==> Santa Cruz Islands 
 0 <==> 8 // NOALI // 0 // -not aligned- <==> : 
 8 <==> 9 // EQUI // 5 // CENC <==> CENC 
-1 2 <==> 1 2 3 // EQUI // 5 // 6.3-magnitude quake <==> Magnitude-6 .0 quake 
+1 2 <==> 1 2 3 // EQUI // 4 // 6.3-magnitude quake <==> Magnitude-6 .0 quake 
 3 <==> 4 // EQUI // 5 // hits <==> jolts 
 </alignment>
 </sentence>
@@ -3221,10 +3221,10 @@
 <sentence id="344" status="">
 <alignment>
 3 <==> 0 // NOALI // 0 // , <==> -not aligned- 
-4 <==> 4 // EQUI // 5 // five <==> 39 
+4 <==> 4 // EQUI // 2 // five <==> 39 
 0 <==> 3 // NOALI // 0 // -not aligned- <==> , 
 5 <==> 5 // EQUI // 5 // injured <==> injured 
-1 2 <==> 1 2 // EQUI // 5 // 10 dead <==> 1 dead 
+1 2 <==> 1 2 // EQUI // 4 // 10 dead <==> 1 dead 
 6 7 8 9 10 <==> 6 7 8 9 10 // EQUI // 5 // in SW China road accident <==> in E China road accident 
 </alignment>
 </sentence>
@@ -3248,7 +3248,7 @@
 4 5 <==> 2 3 4 // EQUI // 5 // presidential elections <==> 's interim president 
 0 <==> 5 6 // NOALI // 0 // -not aligned- <==> swears in 
 1 <==> 1 // EQUI // 5 // Egypt <==> Egypt 
-6 7 8 <==> 7 8 // EQUI // 5 // before parliamentary polls <==> new Cabinet 
+6 7 8 <==> 7 8 // EQUI // 4 // before parliamentary polls <==> new Cabinet 
 2 3 <==> 0 // NOALI // 0 // to hold <==> -not aligned- 
 </alignment>
 </sentence>
@@ -3262,7 +3262,7 @@
 <sentence id="349" status="">
 <alignment>
 0 <==> 3 // NOALI // 0 // -not aligned- <==> holds 
-6 <==> 4 5 // EQUI // 4 // Buried <==> state funeral 
+6 <==> 4 5 // EQUI // 5 // Buried <==> state funeral 
 1 2 <==> 1 2 // EQUI // 5 // South Africans <==> South Africa 
 3 <==> 0 // NOALI // 0 // Mourn <==> -not aligned- 
 4 5 <==> 6 7 // EQUI // 5 // as Mandela <==> for Mandela 
@@ -3274,7 +3274,7 @@
 4 5 6 <==> 0 // NOALI // 0 // to be tried <==> -not aligned- 
 0 <==> 6 7 8 // NOALI // 0 // -not aligned- <==> one year later 
 0 <==> 4 // NOALI // 0 // -not aligned- <==> detail 
-7 8 <==> 5 // EQUI // 5 // for manslaughter <==> experience 
+7 8 <==> 5 // EQUI // 4 // for manslaughter <==> experience 
 </alignment>
 </sentence>
 <sentence id="351" status="">
@@ -3290,12 +3290,12 @@
 </sentence>
 <sentence id="352" status="">
 <alignment>
-1 <==> 1 // EQUI // 5 // 17 <==> 15 
+1 <==> 1 // EQUI // 4 // 17 <==> 15 
 6 7 8 <==> 6 7 8 // EQUI // 5 // in bomb attacks <==> in fresh attacks 
 3 <==> 0 // NOALI // 0 // , <==> -not aligned- 
 2 <==> 2 // EQUI // 5 // killed <==> killed 
-4 <==> 4 // EQUI // 5 // 133 <==> 90 
-9 10 11 <==> 9 10 // EQUI // 5 // in northern Iraq <==> in Iraq 
+4 <==> 4 // EQUI // 1 // 133 <==> 90 
+9 10 11 <==> 9 10 // EQUI // 4 // in northern Iraq <==> in Iraq 
 0 <==> 3 // NOALI // 0 // -not aligned- <==> , 
 5 <==> 5 // EQUI // 5 // wounded <==> wounded 
 </alignment>
@@ -3317,14 +3317,14 @@
 2 3 <==> 0 // NOALI // 0 // shuts down <==> -not aligned- 
 1 <==> 1 // EQUI // 5 // Egypt <==> Egypt 
 0 <==> 2 // NOALI // 0 // -not aligned- <==> : 
-4 5 6 <==> 3 4 5 6 // EQUI // 5 // Muslim Brotherhood newspaper <==> Muslim Brotherhood deputy head 
+4 5 6 <==> 3 4 5 6 // EQUI // 4 // Muslim Brotherhood newspaper <==> Muslim Brotherhood deputy head 
 </alignment>
 </sentence>
 <sentence id="355" status="">
 <alignment>
 9 10 11 <==> 10 11 12 // EQUI // 5 // towards Oklahoma City <==> Oklahoma City area 
 0 <==> 6 // NOALI // 0 // -not aligned- <==> killed 
-8 <==> 9 // EQUI // 5 // heads <==> rake 
+8 <==> 9 // EQUI // 4 // heads <==> rake 
 1 2 3 4 5 6 7 <==> 7 8 // EQUI // 4 // ` Large and extremely dangerous ' tornado <==> as tornadoes 
 0 <==> 1 2 3 // NOALI // 0 // -not aligned- <==> Mom and baby 
 0 <==> 4 5 // NOALI // 0 // -not aligned- <==> among five 
@@ -3356,13 +3356,13 @@
 1 2 <==> 1 2 // EQUI // 5 // Singapore stocks <==> Singapore stocks 
 4 5 <==> 4 5 // EQUI // 4 // 0.44 pct <==> 0.5 pct 
 3 <==> 3 // EQUI // 5 // close <==> close 
-6 <==> 6 // EQUI // 5 // lower <==> higher 
+6 <==> 6 // EQUI // 3 // lower <==> higher 
 </alignment>
 </sentence>
 <sentence id="359" status="">
 <alignment>
 3 <==> 3 // EQUI // 5 // close <==> close 
-5 6 <==> 5 6 // EQUI // 4 // on Wednesday <==> on Friday 
+5 6 <==> 5 6 // EQUI // 3 // on Wednesday <==> on Friday 
 1 2 <==> 1 2 // EQUI // 5 // Chinese shares <==> China stocks 
 4 <==> 4 // EQUI // 5 // lower <==> lower 
 </alignment>
@@ -3389,7 +3389,7 @@
 </sentence>
 <sentence id="362" status="">
 <alignment>
-4 5 <==> 6 7 8 // EQUI // 4 // Mubarak release <==> 's release request 
+4 5 <==> 6 7 8 // EQUI // 5 // Mubarak release <==> 's release request 
 1 2 <==> 1 2 // EQUI // 5 // Egypt court <==> Egypt court 
 0 <==> 5 // NOALI // 0 // -not aligned- <==> Mubarak 
 3 <==> 0 // NOALI // 0 // orders <==> -not aligned- 
@@ -3399,9 +3399,9 @@
 <sentence id="363" status="">
 <alignment>
 1 2 <==> 0 // NOALI // 0 // Bomb blast <==> -not aligned- 
-5 6 7 <==> 5 6 // EQUI // 5 // in southwest Pakistan <==> in Pakistan 
+5 6 7 <==> 5 6 // EQUI // 4 // in southwest Pakistan <==> in Pakistan 
 0 <==> 1 2 // NOALI // 0 // -not aligned- <==> Major quake 
-4 <==> 4 // EQUI // 5 // 10 <==> 39 
+4 <==> 4 // EQUI // 2 // 10 <==> 39 
 3 <==> 3 // EQUI // 5 // kills <==> kills 
 </alignment>
 </sentence>
@@ -3421,14 +3421,14 @@
 3 <==> 2 // EQUI // 5 // clash <==> clash 
 4 5 6 <==> 3 4 5 // EQUI // 5 // with riot police <==> with riot police 
 1 2 <==> 1 // EQUI // 5 // Morsi supporters <==> Protesters 
-7 8 <==> 6 7 // EQUI // 5 // in Cairo <==> in Kiev 
+7 8 <==> 6 7 // EQUI // 4 // in Cairo <==> in Kiev 
 </alignment>
 </sentence>
 <sentence id="366" status="">
 <alignment>
 4 5 <==> 5 6 7 // EQUI // 5 // Philippine stores <==> in S. Philippines 
 0 <==> 4 // NOALI // 0 // -not aligned- <==> 15 
-1 2 <==> 1 2 // EQUI // 5 // Typhoon survivors <==> Typhoon Bopha 
+1 2 <==> 1 2 // EQUI // 4 // Typhoon survivors <==> Typhoon Bopha 
 0 <==> 3 // NOALI // 0 // -not aligned- <==> kills 
 3 <==> 0 // NOALI // 0 // raid <==> -not aligned- 
 </alignment>
@@ -3436,9 +3436,9 @@
 <sentence id="367" status="">
 <alignment>
 0 <==> 3 // NOALI // 0 // -not aligned- <==> , 
-1 2 <==> 1 2 // EQUI // 5 // Five dead <==> 8 dead 
+1 2 <==> 1 2 // EQUI // 3 // Five dead <==> 8 dead 
 3 <==> 0 // NOALI // 0 // , <==> -not aligned- 
-4 5 <==> 4 5 // EQUI // 5 // 40 missing <==> 11 missing 
+4 5 <==> 4 5 // EQUI // 3 // 40 missing <==> 11 missing 
 0 <==> 6 7 8 9 // NOALI // 0 // -not aligned- <==> in SW China landslide 
 6 7 8 9 <==> 0 // NOALI // 0 // in Canada train disaster <==> -not aligned- 
 </alignment>
@@ -3447,7 +3447,7 @@
 <alignment>
 5 6 7 <==> 5 6 7 // EQUI // 5 // in Bomb Blasts <==> In Baquba Blasts 
 8 9 <==> 0 // NOALI // 0 // in Iraq <==> -not aligned- 
-1 2 3 <==> 1 2 3 // EQUI // 5 // At Least 66 <==> At Least 47 
+1 2 3 <==> 1 2 3 // EQUI // 4 // At Least 66 <==> At Least 47 
 4 <==> 4 // EQUI // 5 // Killed <==> Killed 
 </alignment>
 </sentence>
@@ -3487,8 +3487,8 @@
 </sentence>
 <sentence id="372" status="">
 <alignment>
-3 4 <==> 2 // EQUI // 4 // to release <==> releases 
-5 6 <==> 3 4 5 6 // EQUI // 5 // Palestinian prisoners <==> 26 more Palestinian prisoners 
+3 4 <==> 2 // EQUI // 5 // to release <==> releases 
+5 6 <==> 3 4 5 6 // EQUI // 4 // Palestinian prisoners <==> 26 more Palestinian prisoners 
 2 <==> 0 // NOALI // 0 // agrees <==> -not aligned- 
 1 <==> 1 // EQUI // 5 // Israel <==> Israel 
 </alignment>
@@ -3509,13 +3509,13 @@
 1 2 3 <==> 0 // NOALI // 0 // US Senator McCain <==> -not aligned- 
 0 <==> 1 2 // NOALI // 0 // -not aligned- <==> SFG meeting 
 4 <==> 0 // NOALI // 0 // meets <==> -not aligned- 
-7 8 <==> 5 6 // EQUI // 5 // in Ukraine <==> in Mali 
+7 8 <==> 5 6 // EQUI // 2 // in Ukraine <==> in Mali 
 0 <==> 3 // NOALI // 0 // -not aligned- <==> reviews 
 </alignment>
 </sentence>
 <sentence id="375" status="">
 <alignment>
-7 8 <==> 9 10 // EQUI // 5 // in Kyiv <==> in Bhutan 
+7 8 <==> 9 10 // EQUI // 3 // in Kyiv <==> in Bhutan 
 1 <==> 1 // EQUI // 5 // Tens <==> Tens 
 0 <==> 8 // NOALI // 0 // -not aligned- <==> votes 
 0 <==> 6 7 // NOALI // 0 // -not aligned- <==> to cast 
@@ -3529,7 +3529,7 @@
 <alignment>
 2 <==> 0 // NOALI // 0 // pledges <==> -not aligned- 
 1 <==> 1 // EQUI // 5 // Obama <==> Obama 
-3 4 <==> 5 6 // EQUI // 5 // to reignite <==> to act 
+3 4 <==> 5 6 // EQUI // 3 // to reignite <==> to act 
 0 <==> 4 // NOALI // 0 // -not aligned- <==> Congress 
 5 <==> 7 8 // EQUI // 5 // economy <==> on economy 
 0 <==> 2 3 // NOALI // 0 // -not aligned- <==> to press 
@@ -3539,16 +3539,16 @@
 <alignment>
 5 6 <==> 0 // NOALI // 0 // gear up <==> -not aligned- 
 7 8 <==> 6 7 // EQUI // 5 // for elections <==> for elections 
-1 2 <==> 1 2 // EQUI // 5 // Pak missions <==> Islamist parties 
+1 2 <==> 1 2 // EQUI // 3 // Pak missions <==> Islamist parties 
 0 <==> 5 // NOALI // 0 // -not aligned- <==> unite 
-3 4 <==> 3 4 // EQUI // 5 // in UAE <==> in Egypt 
+3 4 <==> 3 4 // EQUI // 2 // in UAE <==> in Egypt 
 </alignment>
 </sentence>
 <sentence id="378" status="">
 <alignment>
-4 5 6 7 8 <==> 4 5 6 7 8 // EQUI // 5 // in deadly LA boardwalk crash <==> in deadly LA driving attack 
+4 5 6 7 8 <==> 4 5 6 7 8 // EQUI // 4 // in deadly LA boardwalk crash <==> in deadly LA driving attack 
 1 <==> 1 // EQUI // 5 // Police <==> Police 
-2 <==> 2 // EQUI // 5 // question <==> arrest 
+2 <==> 2 // EQUI // 4 // question <==> arrest 
 3 <==> 3 // EQUI // 5 // man <==> suspect 
 </alignment>
 </sentence>

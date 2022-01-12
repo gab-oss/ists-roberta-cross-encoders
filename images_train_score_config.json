@@ -1,0 +1,9 @@
+{
+    "training_data": "data/train/tsv/train_images.tsv",
+    "data_name": "images",
+    "number_of_epochs": 24,
+    "model_save_path": "data/train/models/images/score/",
+    "batch_size": 16,
+    "warmup": 0.1,
+    "evaluation_steps": 5000
+}

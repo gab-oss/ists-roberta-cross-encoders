@@ -1,0 +1,6 @@
+{
+    "test_data": "data/test/tsv/test_images.tsv",
+    "data_name": "images",
+    "model_save_path": "data/train/models/images/score/",
+    "results": "data/test/results/images/score/"
+}
